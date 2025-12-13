@@ -1,0 +1,117 @@
+======================================================================
+RESUMEN CONSOLIDADO - ANÁLISIS EXPLORATORIO DE DATOS
+Gobierno Inteligente de TI - DIAN
+======================================================================
+
+Fecha de análisis: 2025-12-10 15:42:41
+
+TOTAL DE REGISTROS ANALIZADOS: 28,070
+NÚMERO DE DATASETS: 10
+
+RESUMEN POR DATASET:
+----------------------------------------------------------------------
+
+COBIT 1: Cumplimiento del Plan de Gobierno de TI:
+  - Registros: 1,031
+  - Columnas: 10
+  - Período: 2020-01-05 a 2024-12-29
+  - Insights principales:
+    • año: promedio = 2022.02
+    • semana: promedio = 26.23
+    • objetivos_planificados: promedio = 9.42
+
+COBIT 2: Índice de Riesgo de TI:
+  - Registros: 1,305
+  - Columnas: 9
+  - Período: 2020-01-05 a 2024-12-29
+  - Insights principales:
+    • año: promedio = 2022.00
+    • semana: promedio = 26.60
+    • riesgos_criticos_identificados: promedio = 4.53
+
+ITIL 1: Tiempo de Resolución de Incidentes:
+  - Registros: 2,088
+  - Columnas: 9
+  - Período: 2020-01-05 a 2024-12-29
+  - Insights principales:
+    • año: promedio = 2022.00
+    • semana: promedio = 26.60
+    • numero_incidentes: promedio = 29.19
+
+ITIL 2: Disponibilidad de Servicios Críticos:
+  - Registros: 14,616
+  - Columnas: 6
+  - Período: 2020-01-01 a 2024-12-31
+  - Insights principales:
+    • disponibilidad_porcentaje: promedio = 99.01
+    • tiempo_operativo_horas: promedio = 23.76
+    • tiempo_indisponible_horas: promedio = 0.24
+
+CMMI 1: Procesos Documentados:
+  - Registros: 2,610
+  - Columnas: 10
+  - Período: 2020-01-05 a 2024-12-29
+  - Insights principales:
+    • año: promedio = 2022.00
+    • semana: promedio = 26.60
+    • procesos_totales: promedio = 9.53
+
+CMMI 2: Mejoras Implementadas:
+  - Registros: 1,305
+  - Columnas: 10
+  - Período: 2020-01-05 a 2024-12-29
+  - Insights principales:
+    • año: promedio = 2022.00
+    • semana: promedio = 26.60
+    • mejoras_planificadas: promedio = 4.51
+
+CRISP-DM 1: Cobertura de Datos Analizados:
+  - Registros: 1,200
+  - Columnas: 8
+  - Período: 2020-01-05 a 2024-08-06
+  - Insights principales:
+    • año: promedio = 2021.83
+    • registros_totales_disponibles: promedio = 257080.22
+    • registros_analizados: promedio = 213312.67
+
+CRISP-DM 2: Tiempo de Respuesta en Análisis:
+  - Registros: 1,305
+  - Columnas: 9
+  - Período: 2020-01-05 a 2024-12-29
+  - Insights principales:
+    • año: promedio = 2022.00
+    • semana: promedio = 26.60
+    • numero_informes_generados: promedio = 5.51
+
+SCRUM 1: Velocidad del Equipo:
+  - Registros: 1,305
+  - Columnas: 8
+  - Período: 2020-01-05 a 2024-12-29
+  - Insights principales:
+    • año: promedio = 2022.00
+    • semana: promedio = 26.60
+    • velocidad_puntos_historia: promedio = 43.42
+
+SCRUM 2: Cumplimiento de Retrospectivas:
+  - Registros: 1,305
+  - Columnas: 9
+  - Período: 2020-01-05 a 2024-12-29
+  - Insights principales:
+    • año: promedio = 2022.00
+    • semana: promedio = 26.60
+    • retrospectivas_planificadas: promedio = 1.00
+
+======================================================================
+GRÁFICOS GENERADOS
+======================================================================
+Todos los gráficos se encuentran en: eda_resultados/graficos/
+- cobit_1_analisis.png
+- cobit_2_analisis.png
+- itil_1_analisis.png
+- itil_2_analisis.png
+- cmmi_1_analisis.png
+- cmmi_2_analisis.png
+- crisp_dm_1_analisis.png
+- crisp_dm_2_analisis.png
+- scrum_1_analisis.png
+- scrum_2_analisis.png

@@ -1,0 +1,1306 @@
+fecha,categoria_riesgo,estado,estado_predicho,probabilidad,indice_mitigacion_porcentaje,kpi
+2020-01-05,Seguridad,Aceptable,Aceptable,0.9562401960784314,70.37,Índice Riesgo TI
+2020-01-05,Disponibilidad,Aceptable,Aceptable,1.0,72.68,Índice Riesgo TI
+2020-01-05,Cumplimiento,Riesgo Alto,Riesgo Alto,0.96,60.79,Índice Riesgo TI
+2020-01-05,Operacional,Aceptable,Aceptable,0.9512401960784314,71.91,Índice Riesgo TI
+2020-01-05,Tecnológico,Aceptable,Aceptable,0.9966666666666666,71.92,Índice Riesgo TI
+2020-01-12,Seguridad,Riesgo Alto,Riesgo Alto,0.9663333333333333,60.0,Índice Riesgo TI
+2020-01-12,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9913333333333333,60.0,Índice Riesgo TI
+2020-01-12,Cumplimiento,Riesgo Alto,Riesgo Alto,0.96,60.0,Índice Riesgo TI
+2020-01-12,Operacional,Aceptable,Aceptable,0.9698235294117648,72.35,Índice Riesgo TI
+2020-01-12,Tecnológico,Riesgo Alto,Riesgo Alto,0.8413333333333333,69.8,Índice Riesgo TI
+2020-01-19,Seguridad,Riesgo Alto,Riesgo Alto,0.9664178082191781,66.74,Índice Riesgo TI
+2020-01-19,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9945,66.38,Índice Riesgo TI
+2020-01-19,Cumplimiento,Riesgo Alto,Riesgo Alto,0.99,66.03,Índice Riesgo TI
+2020-01-19,Operacional,Riesgo Alto,Riesgo Alto,0.9945,65.89,Índice Riesgo TI
+2020-01-19,Tecnológico,Riesgo Alto,Riesgo Alto,0.92,60.43,Índice Riesgo TI
+2020-01-26,Seguridad,Riesgo Alto,Riesgo Alto,0.9618376623376623,64.26,Índice Riesgo TI
+2020-01-26,Disponibilidad,Riesgo Alto,Riesgo Alto,1.0,60.06,Índice Riesgo TI
+2020-01-26,Cumplimiento,Riesgo Alto,Riesgo Alto,0.99,62.52,Índice Riesgo TI
+2020-01-26,Operacional,Aceptable,Aceptable,0.9630610602449936,70.52,Índice Riesgo TI
+2020-01-26,Tecnológico,Riesgo Alto,Riesgo Alto,0.990409090909091,60.0,Índice Riesgo TI
+2020-02-02,Seguridad,Riesgo Alto,Riesgo Alto,0.9728376623376623,64.76,Índice Riesgo TI
+2020-02-02,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9661666666666666,67.58,Índice Riesgo TI
+2020-02-02,Cumplimiento,Riesgo Alto,Riesgo Alto,0.97,60.0,Índice Riesgo TI
+2020-02-02,Operacional,Riesgo Alto,Riesgo Alto,0.97125,69.6,Índice Riesgo TI
+2020-02-02,Tecnológico,Aceptable,Aceptable,0.9714999999999999,71.49,Índice Riesgo TI
+2020-02-09,Seguridad,Riesgo Alto,Riesgo Alto,0.9784090909090909,64.75,Índice Riesgo TI
+2020-02-09,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9715803814713897,65.43,Índice Riesgo TI
+2020-02-09,Cumplimiento,Riesgo Alto,Riesgo Alto,0.99,66.52,Índice Riesgo TI
+2020-02-09,Operacional,Riesgo Alto,Riesgo Alto,0.941845238095238,66.83,Índice Riesgo TI
+2020-02-09,Tecnológico,Riesgo Alto,Riesgo Alto,0.8591666666666665,69.84,Índice Riesgo TI
+2020-02-16,Seguridad,Riesgo Alto,Riesgo Alto,0.9474180438090519,66.56,Índice Riesgo TI
+2020-02-16,Disponibilidad,Riesgo Alto,Riesgo Alto,0.950459349725358,62.09,Índice Riesgo TI
+2020-02-16,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9365803814713897,64.32,Índice Riesgo TI
+2020-02-16,Operacional,Riesgo Alto,Riesgo Alto,0.9415803814713897,60.0,Índice Riesgo TI
+2020-02-16,Tecnológico,Riesgo Alto,Riesgo Alto,0.9664180438090519,67.16,Índice Riesgo TI
+2020-02-23,Seguridad,Riesgo Alto,Riesgo Alto,0.9835034583944665,69.07,Índice Riesgo TI
+2020-02-23,Disponibilidad,Riesgo Alto,Riesgo Alto,0.995,61.86,Índice Riesgo TI
+2020-02-23,Cumplimiento,Riesgo Alto,Riesgo Alto,0.99,62.07,Índice Riesgo TI
+2020-02-23,Operacional,Riesgo Alto,Riesgo Alto,0.99125,63.31,Índice Riesgo TI
+2020-02-23,Tecnológico,Riesgo Alto,Riesgo Alto,0.973918043809052,60.0,Índice Riesgo TI
+2020-03-01,Seguridad,Riesgo Alto,Riesgo Alto,0.9798367917277999,64.62,Índice Riesgo TI
+2020-03-01,Disponibilidad,Aceptable,Aceptable,0.995,72.04,Índice Riesgo TI
+2020-03-01,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9634593497253578,60.29,Índice Riesgo TI
+2020-03-01,Operacional,Riesgo Alto,Riesgo Alto,0.953008952899961,60.0,Índice Riesgo TI
+2020-03-01,Tecnológico,Riesgo Alto,Riesgo Alto,0.985909090909091,60.54,Índice Riesgo TI
+2020-03-08,Seguridad,Riesgo Alto,Riesgo Alto,0.9005882352941177,66.72,Índice Riesgo TI
+2020-03-08,Disponibilidad,Riesgo Alto,Riesgo Alto,0.975,68.9,Índice Riesgo TI
+2020-03-08,Cumplimiento,Aceptable,Aceptable,1.0,73.99,Índice Riesgo TI
+2020-03-08,Operacional,Aceptable,Aceptable,0.9951136363636363,74.04,Índice Riesgo TI
+2020-03-08,Tecnológico,Riesgo Alto,Riesgo Alto,0.9634981896905677,66.23,Índice Riesgo TI
+2020-03-15,Seguridad,Aceptable,Aceptable,0.978680023546478,73.91,Índice Riesgo TI
+2020-03-15,Disponibilidad,Riesgo Alto,Riesgo Alto,0.995,63.9,Índice Riesgo TI
+2020-03-15,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9662470481380565,67.52,Índice Riesgo TI
+2020-03-15,Operacional,Riesgo Alto,Riesgo Alto,0.9448863636363637,68.48,Índice Riesgo TI
+2020-03-15,Tecnológico,Aceptable,Aceptable,0.9882352941176471,70.56,Índice Riesgo TI
+2020-03-22,Seguridad,Riesgo Alto,Riesgo Alto,0.9769796488706571,64.97,Índice Riesgo TI
+2020-03-22,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9625612427154089,68.29,Índice Riesgo TI
+2020-03-22,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9561676830586912,66.4,Índice Riesgo TI
+2020-03-22,Operacional,Riesgo Alto,Riesgo Alto,0.95125,60.0,Índice Riesgo TI
+2020-03-22,Tecnológico,Riesgo Alto,Riesgo Alto,0.9669796488706571,62.86,Índice Riesgo TI
+2020-03-29,Seguridad,Riesgo Alto,Riesgo Alto,0.9769796488706571,67.41,Índice Riesgo TI
+2020-03-29,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9724350823260904,68.16,Índice Riesgo TI
+2020-03-29,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9845803814713896,62.57,Índice Riesgo TI
+2020-03-29,Operacional,Aceptable,Aceptable,0.9912132693222613,72.75,Índice Riesgo TI
+2020-03-29,Tecnológico,Riesgo Alto,Riesgo Alto,0.9846323295233377,61.63,Índice Riesgo TI
+2020-04-05,Seguridad,Aceptable,Aceptable,0.9602038330702876,71.13,Índice Riesgo TI
+2020-04-05,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9684400305941966,68.27,Índice Riesgo TI
+2020-04-05,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9599350823260905,60.28,Índice Riesgo TI
+2020-04-05,Operacional,Riesgo Alto,Riesgo Alto,0.9715803814713897,63.24,Índice Riesgo TI
+2020-04-05,Tecnológico,Riesgo Alto,Riesgo Alto,0.9614981896905677,69.41,Índice Riesgo TI
+2020-04-12,Seguridad,Riesgo Alto,Riesgo Alto,0.9816883116883117,60.91,Índice Riesgo TI
+2020-04-12,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9640248259158342,69.57,Índice Riesgo TI
+2020-04-12,Cumplimiento,Aceptable,Aceptable,0.9808314863765248,73.85,Índice Riesgo TI
+2020-04-12,Operacional,Riesgo Alto,Riesgo Alto,0.9231676830586912,69.67,Índice Riesgo TI
+2020-04-12,Tecnológico,Riesgo Alto,Riesgo Alto,0.9796323295233377,60.0,Índice Riesgo TI
+2020-04-19,Seguridad,Riesgo Alto,Riesgo Alto,0.9712989961900044,63.28,Índice Riesgo TI
+2020-04-19,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9631676830586912,60.0,Índice Riesgo TI
+2020-04-19,Cumplimiento,Riesgo Alto,Riesgo Alto,0.7675803814713896,69.95,Índice Riesgo TI
+2020-04-19,Operacional,Riesgo Alto,Riesgo Alto,0.9831676830586912,68.87,Índice Riesgo TI
+2020-04-19,Tecnológico,Riesgo Alto,Riesgo Alto,0.9750854912778693,69.3,Índice Riesgo TI
+2020-04-26,Seguridad,Riesgo Alto,Riesgo Alto,0.9363674560733385,69.39,Índice Riesgo TI
+2020-04-26,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9790151515151514,68.68,Índice Riesgo TI
+2020-04-26,Cumplimiento,Aceptable,Aceptable,0.9742569920302913,70.21,Índice Riesgo TI
+2020-04-26,Operacional,Aceptable,Aceptable,0.9826211689162072,70.73,Índice Riesgo TI
+2020-04-26,Tecnológico,Riesgo Alto,Riesgo Alto,0.9555912129463817,61.92,Índice Riesgo TI
+2020-05-03,Seguridad,Aceptable,Aceptable,0.985684820304174,73.97,Índice Riesgo TI
+2020-05-03,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9750387148047228,66.55,Índice Riesgo TI
+2020-05-03,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9750387148047228,69.07,Índice Riesgo TI
+2020-05-03,Operacional,Riesgo Alto,Riesgo Alto,0.9737616063709881,63.24,Índice Riesgo TI
+2020-05-03,Tecnológico,Riesgo Alto,Riesgo Alto,0.941927567444282,66.83,Índice Riesgo TI
+2020-05-10,Seguridad,Riesgo Alto,Riesgo Alto,0.95777243784598,66.05,Índice Riesgo TI
+2020-05-10,Disponibilidad,Aceptable,Aceptable,0.9804765363748358,70.81,Índice Riesgo TI
+2020-05-10,Cumplimiento,Riesgo Alto,Riesgo Alto,0.96,63.96,Índice Riesgo TI
+2020-05-10,Operacional,Aceptable,Aceptable,0.9880232773499422,74.67,Índice Riesgo TI
+2020-05-10,Tecnológico,Aceptable,Aceptable,0.9885624506212741,72.12,Índice Riesgo TI
+2020-05-17,Seguridad,Riesgo Alto,Riesgo Alto,0.9231339779501545,68.57,Índice Riesgo TI
+2020-05-17,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9827626811594201,60.0,Índice Riesgo TI
+2020-05-17,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9827626811594201,60.45,Índice Riesgo TI
+2020-05-17,Operacional,Aceptable,Aceptable,1.0,72.78,Índice Riesgo TI
+2020-05-17,Tecnológico,Aceptable,Aceptable,0.9975,72.15,Índice Riesgo TI
+2020-05-24,Seguridad,Riesgo Alto,Riesgo Alto,0.95777243784598,65.97,Índice Riesgo TI
+2020-05-24,Disponibilidad,Aceptable,Aceptable,0.977408906882591,70.9,Índice Riesgo TI
+2020-05-24,Cumplimiento,Aceptable,Aceptable,0.975465462177715,71.09,Índice Riesgo TI
+2020-05-24,Operacional,Aceptable,Aceptable,0.9959505735492578,73.87,Índice Riesgo TI
+2020-05-24,Tecnológico,Riesgo Alto,Riesgo Alto,0.9655912129463817,64.39,Índice Riesgo TI
+2020-05-31,Seguridad,Aceptable,Aceptable,0.9781562881562881,70.46,Índice Riesgo TI
+2020-05-31,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9427342276252358,68.88,Índice Riesgo TI
+2020-05-31,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9813043478260869,63.93,Índice Riesgo TI
+2020-05-31,Operacional,Aceptable,Aceptable,0.9695423637816664,74.37,Índice Riesgo TI
+2020-05-31,Tecnológico,Riesgo Alto,Riesgo Alto,0.9286691086691089,69.72,Índice Riesgo TI
+2020-06-07,Seguridad,Riesgo Alto,Riesgo Alto,0.99,66.78,Índice Riesgo TI
+2020-06-07,Disponibilidad,Aceptable,Aceptable,0.987408906882591,71.36,Índice Riesgo TI
+2020-06-07,Cumplimiento,Aceptable,Aceptable,0.9735862851952771,70.34,Índice Riesgo TI
+2020-06-07,Operacional,Riesgo Alto,Riesgo Alto,1.0,61.74,Índice Riesgo TI
+2020-06-07,Tecnológico,Riesgo Alto,Riesgo Alto,0.98,61.85,Índice Riesgo TI
+2020-06-14,Seguridad,Aceptable,Aceptable,0.9836100451911336,74.61,Índice Riesgo TI
+2020-06-14,Disponibilidad,Aceptable,Aceptable,1.0,74.51,Índice Riesgo TI
+2020-06-14,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9827342276252358,64.91,Índice Riesgo TI
+2020-06-14,Operacional,Riesgo Alto,Riesgo Alto,0.9823032730376547,66.25,Índice Riesgo TI
+2020-06-14,Tecnológico,Riesgo Alto,Riesgo Alto,0.9805964816502805,64.6,Índice Riesgo TI
+2020-06-21,Seguridad,Riesgo Alto,Riesgo Alto,0.9613193732165456,60.0,Índice Riesgo TI
+2020-06-21,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9627342276252358,65.64,Índice Riesgo TI
+2020-06-21,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9827342276252358,62.31,Índice Riesgo TI
+2020-06-21,Operacional,Riesgo Alto,Riesgo Alto,1.0,68.58,Índice Riesgo TI
+2020-06-21,Tecnológico,Aceptable,Aceptable,0.9913308913308913,75.26,Índice Riesgo TI
+2020-06-28,Seguridad,Aceptable,Aceptable,0.9786806267834544,74.44,Índice Riesgo TI
+2020-06-28,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9942105263157894,61.42,Índice Riesgo TI
+2020-06-28,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9735803814713896,66.2,Índice Riesgo TI
+2020-06-28,Operacional,Riesgo Alto,Riesgo Alto,0.9323032730376548,69.77,Índice Riesgo TI
+2020-06-28,Tecnológico,Riesgo Alto,Riesgo Alto,0.9657160988751609,63.67,Índice Riesgo TI
+2020-07-05,Seguridad,Riesgo Alto,Riesgo Alto,0.9066419733651057,65.22,Índice Riesgo TI
+2020-07-05,Disponibilidad,Aceptable,Aceptable,0.9898050363894381,73.45,Índice Riesgo TI
+2020-07-05,Cumplimiento,Riesgo Alto,Riesgo Alto,1.0,67.28,Índice Riesgo TI
+2020-07-05,Operacional,Riesgo Alto,Riesgo Alto,0.9858771929824561,61.58,Índice Riesgo TI
+2020-07-05,Tecnológico,Aceptable,Aceptable,0.9743948226975456,74.44,Índice Riesgo TI
+2020-07-12,Seguridad,Aceptable,Aceptable,0.9883527579309954,73.29,Índice Riesgo TI
+2020-07-12,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9630620964776948,67.92,Índice Riesgo TI
+2020-07-12,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9739082503238485,66.74,Índice Riesgo TI
+2020-07-12,Operacional,Aceptable,Aceptable,0.9984615384615384,74.05,Índice Riesgo TI
+2020-07-12,Tecnológico,Aceptable,Aceptable,0.9888850038850039,71.41,Índice Riesgo TI
+2020-07-19,Seguridad,Aceptable,Aceptable,0.9922063269900439,70.53,Índice Riesgo TI
+2020-07-19,Disponibilidad,Aceptable,Aceptable,0.9898050363894381,71.08,Índice Riesgo TI
+2020-07-19,Cumplimiento,Aceptable,Aceptable,0.984255712259441,71.51,Índice Riesgo TI
+2020-07-19,Operacional,Riesgo Alto,Riesgo Alto,0.9858771929824561,64.52,Índice Riesgo TI
+2020-07-19,Tecnológico,Riesgo Alto,Riesgo Alto,0.9496391757982379,67.23,Índice Riesgo TI
+2020-07-26,Seguridad,Aceptable,Aceptable,0.9904457811868095,72.22,Índice Riesgo TI
+2020-07-26,Disponibilidad,Aceptable,Aceptable,0.9991666666666668,73.02,Índice Riesgo TI
+2020-07-26,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9658771929824561,60.94,Índice Riesgo TI
+2020-07-26,Operacional,Riesgo Alto,Riesgo Alto,1.0,65.45,Índice Riesgo TI
+2020-07-26,Tecnológico,Aceptable,Aceptable,0.9805982905982905,73.28,Índice Riesgo TI
+2020-08-02,Seguridad,Riesgo Alto,Riesgo Alto,0.9606311418901137,63.79,Índice Riesgo TI
+2020-08-02,Disponibilidad,Riesgo Alto,Riesgo Alto,0.948611420607692,69.47,Índice Riesgo TI
+2020-08-02,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9430620964776948,62.38,Índice Riesgo TI
+2020-08-02,Operacional,Riesgo Alto,Riesgo Alto,0.9226311418901137,65.42,Índice Riesgo TI
+2020-08-02,Tecnológico,Riesgo Alto,Riesgo Alto,0.959957264957265,69.31,Índice Riesgo TI
+2020-08-09,Seguridad,Aceptable,Aceptable,0.9921839064495246,71.2,Índice Riesgo TI
+2020-08-09,Disponibilidad,Aceptable,Aceptable,0.9683353394197411,70.14,Índice Riesgo TI
+2020-08-09,Cumplimiento,Riesgo Alto,Riesgo Alto,0.99,61.54,Índice Riesgo TI
+2020-08-09,Operacional,Aceptable,Aceptable,0.9973688581098863,73.89,Índice Riesgo TI
+2020-08-09,Tecnológico,Riesgo Alto,Riesgo Alto,1.0,69.14,Índice Riesgo TI
+2020-08-16,Seguridad,Aceptable,Aceptable,0.9793688581098863,71.92,Índice Riesgo TI
+2020-08-16,Disponibilidad,Aceptable,Aceptable,0.97,70.47,Índice Riesgo TI
+2020-08-16,Cumplimiento,Aceptable,Aceptable,0.9946010089354107,70.71,Índice Riesgo TI
+2020-08-16,Operacional,Aceptable,Aceptable,0.9966281173691455,76.52,Índice Riesgo TI
+2020-08-16,Tecnológico,Riesgo Alto,Riesgo Alto,0.9815803814713897,63.06,Índice Riesgo TI
+2020-08-23,Seguridad,Aceptable,Aceptable,0.9937086317242501,75.53,Índice Riesgo TI
+2020-08-23,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9520556561966644,64.05,Índice Riesgo TI
+2020-08-23,Cumplimiento,Aceptable,Aceptable,0.9860139108483126,73.34,Índice Riesgo TI
+2020-08-23,Operacional,Riesgo Alto,Riesgo Alto,0.95629136827575,66.75,Índice Riesgo TI
+2020-08-23,Tecnológico,Riesgo Alto,Riesgo Alto,0.9563461538461538,69.48,Índice Riesgo TI
+2020-08-30,Seguridad,Riesgo Alto,Riesgo Alto,0.9938461538461538,66.18,Índice Riesgo TI
+2020-08-30,Disponibilidad,Aceptable,Aceptable,0.9926074492164412,76.73,Índice Riesgo TI
+2020-08-30,Cumplimiento,Aceptable,Aceptable,0.9984235294117647,72.36,Índice Riesgo TI
+2020-08-30,Operacional,Aceptable,Aceptable,0.9946345576501759,76.59,Índice Riesgo TI
+2020-08-30,Tecnológico,Riesgo Alto,Riesgo Alto,0.9674265353175434,67.46,Índice Riesgo TI
+2020-09-06,Seguridad,Aceptable,Aceptable,0.970460763056597,72.06,Índice Riesgo TI
+2020-09-06,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9545639104994392,67.84,Índice Riesgo TI
+2020-09-06,Cumplimiento,Aceptable,Aceptable,0.86,70.05,Índice Riesgo TI
+2020-09-06,Operacional,Riesgo Alto,Riesgo Alto,1.0,63.17,Índice Riesgo TI
+2020-09-06,Tecnológico,Aceptable,Aceptable,0.9943821916280255,70.52,Índice Riesgo TI
+2020-09-13,Seguridad,Riesgo Alto,Riesgo Alto,0.9288725702767363,67.41,Índice Riesgo TI
+2020-09-13,Disponibilidad,Riesgo Alto,Riesgo Alto,1.0,68.83,Índice Riesgo TI
+2020-09-13,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9062305771661059,69.46,Índice Riesgo TI
+2020-09-13,Operacional,Riesgo Alto,Riesgo Alto,1.0,62.34,Índice Riesgo TI
+2020-09-13,Tecnológico,Aceptable,Aceptable,0.9843821916280255,77.33,Índice Riesgo TI
+2020-09-20,Seguridad,Riesgo Alto,Riesgo Alto,1.0,67.16,Índice Riesgo TI
+2020-09-20,Disponibilidad,Aceptable,Aceptable,0.9940642857142856,75.45,Índice Riesgo TI
+2020-09-20,Cumplimiento,Aceptable,Aceptable,1.0,75.62,Índice Riesgo TI
+2020-09-20,Operacional,Riesgo Alto,Riesgo Alto,0.9737305771661059,61.49,Índice Riesgo TI
+2020-09-20,Tecnológico,Aceptable,Aceptable,0.9835488582946923,72.04,Índice Riesgo TI
+2020-09-27,Seguridad,Aceptable,Aceptable,0.99,71.98,Índice Riesgo TI
+2020-09-27,Disponibilidad,Riesgo Alto,Riesgo Alto,1.0,68.89,Índice Riesgo TI
+2020-09-27,Cumplimiento,Aceptable,Aceptable,0.985692499756971,76.65,Índice Riesgo TI
+2020-09-27,Operacional,Riesgo Alto,Riesgo Alto,1.0,63.77,Índice Riesgo TI
+2020-09-27,Tecnológico,Riesgo Alto,Riesgo Alto,0.9465511417053079,64.03,Índice Riesgo TI
+2020-10-04,Seguridad,Riesgo Alto,Riesgo Alto,0.925539236943403,65.92,Índice Riesgo TI
+2020-10-04,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9953333333333333,63.5,Índice Riesgo TI
+2020-10-04,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9615639104994392,67.13,Índice Riesgo TI
+2020-10-04,Operacional,Riesgo Alto,Riesgo Alto,0.9662305771661057,64.32,Índice Riesgo TI
+2020-10-04,Tecnológico,Riesgo Alto,Riesgo Alto,0.9368844750386409,64.32,Índice Riesgo TI
+2020-10-11,Seguridad,Aceptable,Aceptable,0.9804607630565969,71.76,Índice Riesgo TI
+2020-10-11,Disponibilidad,Riesgo Alto,Riesgo Alto,1.0,62.78,Índice Riesgo TI
+2020-10-11,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9362305771661059,62.51,Índice Riesgo TI
+2020-10-11,Operacional,Aceptable,Aceptable,0.9777259445730246,75.79,Índice Riesgo TI
+2020-10-11,Tecnológico,Riesgo Alto,Riesgo Alto,0.944384475038641,63.7,Índice Riesgo TI
+2020-10-18,Seguridad,Riesgo Alto,Riesgo Alto,0.953039236943403,66.69,Índice Riesgo TI
+2020-10-18,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9662305771661059,63.23,Índice Riesgo TI
+2020-10-18,Cumplimiento,Aceptable,Aceptable,0.9937694228338941,71.44,Índice Riesgo TI
+2020-10-18,Operacional,Riesgo Alto,Riesgo Alto,0.9695639104994391,68.3,Índice Riesgo TI
+2020-10-18,Tecnológico,Aceptable,Aceptable,0.9927155249613588,76.02,Índice Riesgo TI
+2020-10-25,Seguridad,Riesgo Alto,Riesgo Alto,0.953039236943403,64.5,Índice Riesgo TI
+2020-10-25,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9562305771661059,68.02,Índice Riesgo TI
+2020-10-25,Cumplimiento,Riesgo Alto,Riesgo Alto,1.0,63.37,Índice Riesgo TI
+2020-10-25,Operacional,Aceptable,Aceptable,1.0,74.16,Índice Riesgo TI
+2020-10-25,Tecnológico,Aceptable,Aceptable,0.9927821916280254,75.33,Índice Riesgo TI
+2020-11-01,Seguridad,Riesgo Alto,Riesgo Alto,0.98,67.24,Índice Riesgo TI
+2020-11-01,Disponibilidad,Aceptable,Aceptable,0.9900473731444532,72.28,Índice Riesgo TI
+2020-11-01,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9866666666666666,67.95,Índice Riesgo TI
+2020-11-01,Operacional,Riesgo Alto,Riesgo Alto,0.9639091485946772,66.63,Índice Riesgo TI
+2020-11-01,Tecnológico,Riesgo Alto,Riesgo Alto,0.9785714285714286,64.19,Índice Riesgo TI
+2020-11-08,Seguridad,Aceptable,Aceptable,0.9958085074174993,78.12,Índice Riesgo TI
+2020-11-08,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9547424819280106,65.15,Índice Riesgo TI
+2020-11-08,Cumplimiento,Aceptable,Aceptable,0.99,71.97,Índice Riesgo TI
+2020-11-08,Operacional,Riesgo Alto,Riesgo Alto,0.9475,69.83,Índice Riesgo TI
+2020-11-08,Tecnológico,Aceptable,Aceptable,0.9848085074174994,71.61,Índice Riesgo TI
+2020-11-15,Seguridad,Riesgo Alto,Riesgo Alto,0.9823809523809524,62.6,Índice Riesgo TI
+2020-11-15,Disponibilidad,Aceptable,Aceptable,0.9692378493349294,70.14,Índice Riesgo TI
+2020-11-15,Cumplimiento,Aceptable,Aceptable,0.9891238095238095,75.01,Índice Riesgo TI
+2020-11-15,Operacional,Riesgo Alto,Riesgo Alto,0.9975,62.79,Índice Riesgo TI
+2020-11-15,Tecnológico,Aceptable,Aceptable,0.9973085074174992,76.42,Índice Riesgo TI
+2020-11-22,Seguridad,Aceptable,Aceptable,0.9799275550365469,75.58,Índice Riesgo TI
+2020-11-22,Disponibilidad,Aceptable,Aceptable,0.9830139283283996,71.62,Índice Riesgo TI
+2020-11-22,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9504761904761904,69.59,Índice Riesgo TI
+2020-11-22,Operacional,Riesgo Alto,Riesgo Alto,0.9746234343089631,62.94,Índice Riesgo TI
+2020-11-22,Tecnológico,Riesgo Alto,Riesgo Alto,0.9470724449634531,63.43,Índice Riesgo TI
+2020-11-29,Seguridad,Riesgo Alto,Riesgo Alto,0.9624206349206349,65.7,Índice Riesgo TI
+2020-11-29,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9686382909328114,68.8,Índice Riesgo TI
+2020-11-29,Cumplimiento,Aceptable,Aceptable,0.9861904761904762,77.16,Índice Riesgo TI
+2020-11-29,Operacional,Riesgo Alto,Riesgo Alto,0.9830430528375734,63.45,Índice Riesgo TI
+2020-11-29,Tecnológico,Riesgo Alto,Riesgo Alto,0.864920634920635,69.73,Índice Riesgo TI
+2020-12-06,Seguridad,Aceptable,Aceptable,0.9929166666666666,72.2,Índice Riesgo TI
+2020-12-06,Disponibilidad,Aceptable,Aceptable,0.9803518855573651,70.85,Índice Riesgo TI
+2020-12-06,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9,66.28,Índice Riesgo TI
+2020-12-06,Operacional,Aceptable,Aceptable,0.97,70.25,Índice Riesgo TI
+2020-12-06,Tecnológico,Riesgo Alto,Riesgo Alto,0.9353535353535354,63.03,Índice Riesgo TI
+2020-12-13,Seguridad,Aceptable,Aceptable,0.9822222222222221,78.24,Índice Riesgo TI
+2020-12-13,Disponibilidad,Riesgo Alto,Riesgo Alto,0.97,65.55,Índice Riesgo TI
+2020-12-13,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9439954337899544,63.14,Índice Riesgo TI
+2020-12-13,Operacional,Aceptable,Aceptable,0.9914629966684761,72.06,Índice Riesgo TI
+2020-12-13,Tecnológico,Aceptable,Aceptable,0.97,76.02,Índice Riesgo TI
+2020-12-20,Seguridad,Aceptable,Aceptable,0.9675,72.7,Índice Riesgo TI
+2020-12-20,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9373287671232876,67.56,Índice Riesgo TI
+2020-12-20,Cumplimiento,Riesgo Alto,Riesgo Alto,0.910662100456621,66.66,Índice Riesgo TI
+2020-12-20,Operacional,Riesgo Alto,Riesgo Alto,0.9723287671232876,64.31,Índice Riesgo TI
+2020-12-20,Tecnológico,Riesgo Alto,Riesgo Alto,0.94,63.23,Índice Riesgo TI
+2020-12-27,Seguridad,Riesgo Alto,Riesgo Alto,0.9355555555555556,66.1,Índice Riesgo TI
+2020-12-27,Disponibilidad,Riesgo Alto,Riesgo Alto,0.96,67.06,Índice Riesgo TI
+2020-12-27,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9533333333333335,63.97,Índice Riesgo TI
+2020-12-27,Operacional,Aceptable,Aceptable,0.97,71.34,Índice Riesgo TI
+2020-12-27,Tecnológico,Aceptable,Aceptable,0.9266666666666667,77.29,Índice Riesgo TI
+2021-01-03,Seguridad,Riesgo Alto,Riesgo Alto,0.94,65.58,Índice Riesgo TI
+2021-01-03,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9506666666666667,63.37,Índice Riesgo TI
+2021-01-03,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9866666666666666,64.39,Índice Riesgo TI
+2021-01-03,Operacional,Aceptable,Aceptable,0.89875,79.16,Índice Riesgo TI
+2021-01-03,Tecnológico,Aceptable,Aceptable,0.9327619047619048,72.18,Índice Riesgo TI
+2021-01-10,Seguridad,Riesgo Alto,Riesgo Alto,0.87,65.19,Índice Riesgo TI
+2021-01-10,Disponibilidad,Aceptable,Aceptable,1.0,76.53,Índice Riesgo TI
+2021-01-10,Cumplimiento,Aceptable,Aceptable,1.0,72.03,Índice Riesgo TI
+2021-01-10,Operacional,Aceptable,Aceptable,0.975,70.59,Índice Riesgo TI
+2021-01-10,Tecnológico,Aceptable,Aceptable,0.9966666666666666,78.51,Índice Riesgo TI
+2021-01-17,Seguridad,Aceptable,Aceptable,0.925,70.76,Índice Riesgo TI
+2021-01-17,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9913333333333333,64.72,Índice Riesgo TI
+2021-01-17,Cumplimiento,Aceptable,Aceptable,0.9409803921568627,79.23,Índice Riesgo TI
+2021-01-17,Operacional,Riesgo Alto,Riesgo Alto,0.9513333333333333,65.46,Índice Riesgo TI
+2021-01-17,Tecnológico,Riesgo Alto,Riesgo Alto,0.88,67.42,Índice Riesgo TI
+2021-01-24,Seguridad,Riesgo Alto,Riesgo Alto,0.9435051098064797,64.55,Índice Riesgo TI
+2021-01-24,Disponibilidad,Aceptable,Aceptable,0.99,74.56,Índice Riesgo TI
+2021-01-24,Cumplimiento,Riesgo Alto,Riesgo Alto,0.98,64.36,Índice Riesgo TI
+2021-01-24,Operacional,Riesgo Alto,Riesgo Alto,0.96125,69.72,Índice Riesgo TI
+2021-01-24,Tecnológico,Riesgo Alto,Riesgo Alto,0.92,68.18,Índice Riesgo TI
+2021-01-31,Seguridad,Riesgo Alto,Riesgo Alto,0.986423076923077,63.79,Índice Riesgo TI
+2021-01-31,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9882539682539683,64.61,Índice Riesgo TI
+2021-01-31,Cumplimiento,Aceptable,Aceptable,0.997928007023705,75.98,Índice Riesgo TI
+2021-01-31,Operacional,Aceptable,Aceptable,0.9961269841269842,70.37,Índice Riesgo TI
+2021-01-31,Tecnológico,Aceptable,Aceptable,0.9819570113527094,73.0,Índice Riesgo TI
+2021-02-07,Seguridad,Riesgo Alto,Riesgo Alto,0.9728376623376623,66.68,Índice Riesgo TI
+2021-02-07,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9445,64.51,Índice Riesgo TI
+2021-02-07,Cumplimiento,Aceptable,Aceptable,0.9538559396002444,73.44,Índice Riesgo TI
+2021-02-07,Operacional,Aceptable,Aceptable,0.99,71.69,Índice Riesgo TI
+2021-02-07,Tecnológico,Riesgo Alto,Riesgo Alto,0.990409090909091,65.4,Índice Riesgo TI
+2021-02-14,Seguridad,Aceptable,Aceptable,0.996,73.84,Índice Riesgo TI
+2021-02-14,Disponibilidad,Aceptable,Aceptable,0.9909422247955213,74.81,Índice Riesgo TI
+2021-02-14,Cumplimiento,Aceptable,Aceptable,0.9783333333333333,71.57,Índice Riesgo TI
+2021-02-14,Operacional,Riesgo Alto,Riesgo Alto,0.9469375243285324,65.13,Índice Riesgo TI
+2021-02-14,Tecnológico,Aceptable,Aceptable,0.9906119956839297,74.01,Índice Riesgo TI
+2021-02-21,Seguridad,Aceptable,Aceptable,0.9812237298401844,77.58,Índice Riesgo TI
+2021-02-21,Disponibilidad,Aceptable,Aceptable,0.981,75.08,Índice Riesgo TI
+2021-02-21,Cumplimiento,Aceptable,Aceptable,1.0,77.37,Índice Riesgo TI
+2021-02-21,Operacional,Aceptable,Aceptable,0.9851669532834078,71.92,Índice Riesgo TI
+2021-02-21,Tecnológico,Aceptable,Aceptable,0.9914678355323068,70.64,Índice Riesgo TI
+2021-02-28,Seguridad,Riesgo Alto,Riesgo Alto,0.9505882352941177,67.1,Índice Riesgo TI
+2021-02-28,Disponibilidad,Riesgo Alto,Riesgo Alto,1.0,67.32,Índice Riesgo TI
+2021-02-28,Cumplimiento,Aceptable,Aceptable,0.9918574294738839,75.9,Índice Riesgo TI
+2021-02-28,Operacional,Aceptable,Aceptable,0.9876669532834077,75.91,Índice Riesgo TI
+2021-02-28,Tecnológico,Aceptable,Aceptable,0.9914678355323068,77.52,Índice Riesgo TI
+2021-03-07,Seguridad,Riesgo Alto,Riesgo Alto,0.9798367917277999,65.41,Índice Riesgo TI
+2021-03-07,Disponibilidad,Riesgo Alto,Riesgo Alto,0.995,65.27,Índice Riesgo TI
+2021-03-07,Cumplimiento,Aceptable,Aceptable,0.9904119217652183,78.56,Índice Riesgo TI
+2021-03-07,Operacional,Aceptable,Aceptable,0.9848574294738839,71.68,Índice Riesgo TI
+2021-03-07,Tecnológico,Aceptable,Aceptable,0.924235294117647,70.76,Índice Riesgo TI
+2021-03-14,Seguridad,Aceptable,Aceptable,0.9863186274509804,80.38,Índice Riesgo TI
+2021-03-14,Disponibilidad,Aceptable,Aceptable,0.9830240961405505,75.25,Índice Riesgo TI
+2021-03-14,Cumplimiento,Aceptable,Aceptable,0.9993333333333334,80.35,Índice Riesgo TI
+2021-03-14,Operacional,Aceptable,Aceptable,0.9940955247119792,76.12,Índice Riesgo TI
+2021-03-14,Tecnológico,Aceptable,Aceptable,1.0,78.51,Índice Riesgo TI
+2021-03-21,Seguridad,Aceptable,Aceptable,0.9945989304812833,80.42,Índice Riesgo TI
+2021-03-21,Disponibilidad,Aceptable,Aceptable,0.9737132693222612,70.23,Índice Riesgo TI
+2021-03-21,Cumplimiento,Aceptable,Aceptable,0.9855240961405505,75.27,Índice Riesgo TI
+2021-03-21,Operacional,Aceptable,Aceptable,0.9927621913786457,75.77,Índice Riesgo TI
+2021-03-21,Tecnológico,Aceptable,Aceptable,1.0,79.58,Índice Riesgo TI
+2021-03-28,Seguridad,Aceptable,Aceptable,0.9910629526217286,73.89,Índice Riesgo TI
+2021-03-28,Disponibilidad,Aceptable,Aceptable,0.9849632693222613,75.17,Índice Riesgo TI
+2021-03-28,Cumplimiento,Aceptable,Aceptable,0.9828574294738839,73.8,Índice Riesgo TI
+2021-03-28,Operacional,Riesgo Alto,Riesgo Alto,0.9715803814713897,65.78,Índice Riesgo TI
+2021-03-28,Tecnológico,Aceptable,Aceptable,0.955618418484873,70.36,Índice Riesgo TI
+2021-04-04,Seguridad,Riesgo Alto,Riesgo Alto,0.9834981896905677,65.49,Índice Riesgo TI
+2021-04-04,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9673581592491675,68.98,Índice Riesgo TI
+2021-04-04,Cumplimiento,Aceptable,Aceptable,0.9602013645603564,76.71,Índice Riesgo TI
+2021-04-04,Operacional,Aceptable,Aceptable,0.9897846978936897,77.54,Índice Riesgo TI
+2021-04-04,Tecnológico,Aceptable,Aceptable,0.989410696982631,73.01,Índice Riesgo TI
+2021-04-11,Seguridad,Aceptable,Aceptable,0.9924560733384262,72.73,Índice Riesgo TI
+2021-04-11,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9657684156594237,69.1,Índice Riesgo TI
+2021-04-11,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9852777777777777,65.89,Índice Riesgo TI
+2021-04-11,Operacional,Aceptable,Aceptable,0.9901468067632613,73.13,Índice Riesgo TI
+2021-04-11,Tecnológico,Aceptable,Aceptable,0.8181345021989734,70.02,Índice Riesgo TI
+2021-04-18,Seguridad,Aceptable,Aceptable,0.9914193859199039,72.97,Índice Riesgo TI
+2021-04-18,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9531676830586912,68.92,Índice Riesgo TI
+2021-04-18,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9870454545454546,65.42,Índice Riesgo TI
+2021-04-18,Operacional,Riesgo Alto,Riesgo Alto,0.98,66.71,Índice Riesgo TI
+2021-04-18,Tecnológico,Riesgo Alto,Riesgo Alto,0.9669796488706571,67.83,Índice Riesgo TI
+2021-04-25,Seguridad,Riesgo Alto,Riesgo Alto,0.9719796488706571,66.13,Índice Riesgo TI
+2021-04-25,Disponibilidad,Aceptable,Aceptable,0.9819991508016518,75.16,Índice Riesgo TI
+2021-04-25,Cumplimiento,Aceptable,Aceptable,0.9808314863765248,70.94,Índice Riesgo TI
+2021-04-25,Operacional,Riesgo Alto,Riesgo Alto,0.9536363636363637,69.21,Índice Riesgo TI
+2021-04-25,Tecnológico,Riesgo Alto,Riesgo Alto,0.9750854912778693,68.29,Índice Riesgo TI
+2021-05-02,Seguridad,Aceptable,Aceptable,0.988215228399052,73.18,Índice Riesgo TI
+2021-05-02,Disponibilidad,Aceptable,Aceptable,1.0,74.51,Índice Riesgo TI
+2021-05-02,Cumplimiento,Aceptable,Aceptable,0.992162835582874,70.33,Índice Riesgo TI
+2021-05-02,Operacional,Aceptable,Aceptable,0.9985416666666667,78.23,Índice Riesgo TI
+2021-05-02,Tecnológico,Aceptable,Aceptable,0.9715820705079242,75.06,Índice Riesgo TI
+2021-05-09,Seguridad,Aceptable,Aceptable,0.9966666666666667,80.0,Índice Riesgo TI
+2021-05-09,Disponibilidad,Aceptable,Aceptable,0.9759961689162074,70.63,Índice Riesgo TI
+2021-05-09,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9450387148047228,69.69,Índice Riesgo TI
+2021-05-09,Operacional,Aceptable,Aceptable,0.9841767217316475,78.04,Índice Riesgo TI
+2021-05-09,Tecnológico,Aceptable,Aceptable,0.9576815919758408,70.29,Índice Riesgo TI
+2021-05-16,Seguridad,Aceptable,Aceptable,0.988215228399052,75.01,Índice Riesgo TI
+2021-05-16,Disponibilidad,Aceptable,Aceptable,0.9961698717948718,72.33,Índice Riesgo TI
+2021-05-16,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9750387148047228,66.82,Índice Riesgo TI
+2021-05-16,Operacional,Aceptable,Aceptable,0.9815763076529727,77.87,Índice Riesgo TI
+2021-05-16,Tecnológico,Riesgo Alto,Riesgo Alto,0.9655912129463817,68.93,Índice Riesgo TI
+2021-05-23,Seguridad,Riesgo Alto,Riesgo Alto,0.9291087923438802,65.86,Índice Riesgo TI
+2021-05-23,Disponibilidad,Aceptable,Aceptable,0.9851172402159244,78.62,Índice Riesgo TI
+2021-05-23,Cumplimiento,Aceptable,Aceptable,0.9619051078034072,76.02,Índice Riesgo TI
+2021-05-23,Operacional,Aceptable,Aceptable,0.9833566106832755,70.57,Índice Riesgo TI
+2021-05-23,Tecnológico,Aceptable,Aceptable,0.981824449118698,80.55,Índice Riesgo TI
+2021-05-30,Seguridad,Aceptable,Aceptable,0.978627055354883,74.67,Índice Riesgo TI
+2021-05-30,Disponibilidad,Aceptable,Aceptable,0.9951172402159244,73.08,Índice Riesgo TI
+2021-05-30,Cumplimiento,Aceptable,Aceptable,0.975465462177715,78.67,Índice Riesgo TI
+2021-05-30,Operacional,Aceptable,Aceptable,0.9894173637816666,78.81,Índice Riesgo TI
+2021-05-30,Tecnológico,Aceptable,Aceptable,0.9829521537893631,81.7,Índice Riesgo TI
+2021-06-06,Seguridad,Riesgo Alto,Riesgo Alto,0.9410760092745515,69.2,Índice Riesgo TI
+2021-06-06,Disponibilidad,Aceptable,Aceptable,0.9935862851952771,79.94,Índice Riesgo TI
+2021-06-06,Cumplimiento,Riesgo Alto,Riesgo Alto,0.98,66.78,Índice Riesgo TI
+2021-06-06,Operacional,Riesgo Alto,Riesgo Alto,0.75,69.97,Índice Riesgo TI
+2021-06-06,Tecnológico,Aceptable,Aceptable,0.984941024322008,80.32,Índice Riesgo TI
+2021-06-13,Seguridad,Aceptable,Aceptable,0.9623225556308627,79.73,Índice Riesgo TI
+2021-06-13,Disponibilidad,Aceptable,Aceptable,0.9965755735492577,76.78,Índice Riesgo TI
+2021-06-13,Cumplimiento,Aceptable,Aceptable,0.9890217941307858,80.57,Índice Riesgo TI
+2021-06-13,Operacional,Aceptable,Aceptable,0.9956133936290119,78.15,Índice Riesgo TI
+2021-06-13,Tecnológico,Aceptable,Aceptable,0.9744486563068587,76.87,Índice Riesgo TI
+2021-06-20,Seguridad,Riesgo Alto,Riesgo Alto,0.9535328119517235,69.46,Índice Riesgo TI
+2021-06-20,Disponibilidad,Aceptable,Aceptable,0.9965755735492577,81.06,Índice Riesgo TI
+2021-06-20,Cumplimiento,Aceptable,Aceptable,1.0,72.09,Índice Riesgo TI
+2021-06-20,Operacional,Aceptable,Aceptable,0.997408906882591,78.36,Índice Riesgo TI
+2021-06-20,Tecnológico,Riesgo Alto,Riesgo Alto,0.9655912129463817,68.53,Índice Riesgo TI
+2021-06-27,Seguridad,Aceptable,Aceptable,0.9836100451911336,72.52,Índice Riesgo TI
+2021-06-27,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9835803814713896,69.14,Índice Riesgo TI
+2021-06-27,Cumplimiento,Aceptable,Aceptable,0.9783688938909293,77.89,Índice Riesgo TI
+2021-06-27,Operacional,Riesgo Alto,Riesgo Alto,0.9736076208637416,69.53,Índice Riesgo TI
+2021-06-27,Tecnológico,Aceptable,Aceptable,1.0,72.09,Índice Riesgo TI
+2021-07-04,Seguridad,Aceptable,Aceptable,0.9883527579309954,73.18,Índice Riesgo TI
+2021-07-04,Disponibilidad,Aceptable,Aceptable,0.9884615384615384,71.35,Índice Riesgo TI
+2021-07-04,Cumplimiento,Aceptable,Aceptable,0.9176282051282051,70.06,Índice Riesgo TI
+2021-07-04,Operacional,Riesgo Alto,Riesgo Alto,0.9726311418901138,66.45,Índice Riesgo TI
+2021-07-04,Tecnológico,Riesgo Alto,Riesgo Alto,1.0,69.52,Índice Riesgo TI
+2021-07-11,Seguridad,Aceptable,Aceptable,0.9922063269900439,72.39,Índice Riesgo TI
+2021-07-11,Disponibilidad,Aceptable,Aceptable,0.9873002842977295,71.64,Índice Riesgo TI
+2021-07-11,Cumplimiento,Aceptable,Aceptable,0.974255712259441,80.0,Índice Riesgo TI
+2021-07-11,Operacional,Aceptable,Aceptable,0.9893273927314644,76.98,Índice Riesgo TI
+2021-07-11,Tecnológico,Aceptable,Aceptable,0.9682475374884754,72.49,Índice Riesgo TI
+2021-07-18,Seguridad,Aceptable,Aceptable,0.9751111261086904,79.19,Índice Riesgo TI
+2021-07-18,Disponibilidad,Riesgo Alto,Riesgo Alto,0.99,68.32,Índice Riesgo TI
+2021-07-18,Cumplimiento,Aceptable,Aceptable,0.9745876450850902,71.65,Índice Riesgo TI
+2021-07-18,Operacional,Aceptable,Aceptable,0.9879558976162527,74.35,Índice Riesgo TI
+2021-07-18,Tecnológico,Aceptable,Aceptable,0.9713891324973347,71.42,Índice Riesgo TI
+2021-07-25,Seguridad,Aceptable,Aceptable,0.9933760683760684,80.64,Índice Riesgo TI
+2021-07-25,Disponibilidad,Aceptable,Aceptable,0.9845876450850902,78.93,Índice Riesgo TI
+2021-07-25,Cumplimiento,Aceptable,Aceptable,0.9673002842977296,81.29,Índice Riesgo TI
+2021-07-25,Operacional,Aceptable,Aceptable,0.9882878304419022,81.82,Índice Riesgo TI
+2021-07-25,Tecnológico,Aceptable,Aceptable,0.986961926961927,71.95,Índice Riesgo TI
+2021-08-01,Seguridad,Aceptable,Aceptable,0.9886281173691455,77.53,Índice Riesgo TI
+2021-08-01,Disponibilidad,Aceptable,Aceptable,0.9936686727530745,74.99,Índice Riesgo TI
+2021-08-01,Cumplimiento,Aceptable,Aceptable,0.9936686727530745,71.71,Índice Riesgo TI
+2021-08-01,Operacional,Aceptable,Aceptable,0.9918195339798891,79.66,Índice Riesgo TI
+2021-08-01,Tecnológico,Riesgo Alto,Riesgo Alto,1.0,66.9,Índice Riesgo TI
+2021-08-08,Seguridad,Aceptable,Aceptable,0.9918195339798891,82.18,Índice Riesgo TI
+2021-08-08,Disponibilidad,Aceptable,Aceptable,0.9988235294117647,77.86,Índice Riesgo TI
+2021-08-08,Cumplimiento,Aceptable,Aceptable,1.0,82.03,Índice Riesgo TI
+2021-08-08,Operacional,Aceptable,Aceptable,0.9818195339798891,82.07,Índice Riesgo TI
+2021-08-08,Tecnológico,Aceptable,Aceptable,1.0,80.67,Índice Riesgo TI
+2021-08-15,Seguridad,Aceptable,Aceptable,0.9886281173691455,82.84,Índice Riesgo TI
+2021-08-15,Disponibilidad,Aceptable,Aceptable,0.9988235294117647,78.93,Índice Riesgo TI
+2021-08-15,Cumplimiento,Aceptable,Aceptable,0.96,71.09,Índice Riesgo TI
+2021-08-15,Operacional,Aceptable,Aceptable,0.9960300602956785,77.27,Índice Riesgo TI
+2021-08-15,Tecnológico,Riesgo Alto,Riesgo Alto,0.9763461538461539,67.91,Índice Riesgo TI
+2021-08-22,Seguridad,Aceptable,Aceptable,0.9960300602956785,82.53,Índice Riesgo TI
+2021-08-22,Disponibilidad,Riesgo Alto,Riesgo Alto,0.98,68.59,Índice Riesgo TI
+2021-08-22,Cumplimiento,Aceptable,Aceptable,0.9946010089354107,80.3,Índice Riesgo TI
+2021-08-22,Operacional,Aceptable,Aceptable,0.9973688581098863,75.96,Índice Riesgo TI
+2021-08-22,Tecnológico,Aceptable,Aceptable,0.9844775895431032,73.6,Índice Riesgo TI
+2021-08-29,Seguridad,Aceptable,Aceptable,0.9949773755656107,75.47,Índice Riesgo TI
+2021-08-29,Disponibilidad,Aceptable,Aceptable,0.9922795803639822,74.67,Índice Riesgo TI
+2021-08-29,Cumplimiento,Aceptable,Aceptable,0.9984235294117647,82.99,Índice Riesgo TI
+2021-08-29,Operacional,Aceptable,Aceptable,0.9937086317242501,78.64,Índice Riesgo TI
+2021-08-29,Tecnológico,Aceptable,Aceptable,1.0,73.73,Índice Riesgo TI
+2021-09-05,Seguridad,Aceptable,Aceptable,0.99,78.15,Índice Riesgo TI
+2021-09-05,Disponibilidad,Aceptable,Aceptable,0.9941378151260504,82.17,Índice Riesgo TI
+2021-09-05,Cumplimiento,Aceptable,Aceptable,0.9937694228338941,72.28,Índice Riesgo TI
+2021-09-05,Operacional,Riesgo Alto,Riesgo Alto,0.9662305771661059,69.21,Índice Riesgo TI
+2021-09-05,Tecnológico,Aceptable,Aceptable,0.9967821916280255,72.31,Índice Riesgo TI
+2021-09-12,Seguridad,Riesgo Alto,Riesgo Alto,0.9318725702767362,68.29,Índice Riesgo TI
+2021-09-12,Disponibilidad,Aceptable,Aceptable,1.0,73.13,Índice Riesgo TI
+2021-09-12,Cumplimiento,Aceptable,Aceptable,0.9803926112396912,77.63,Índice Riesgo TI
+2021-09-12,Operacional,Aceptable,Aceptable,0.9887694228338941,77.61,Índice Riesgo TI
+2021-09-12,Tecnológico,Aceptable,Aceptable,0.9994736842105263,72.3,Índice Riesgo TI
+2021-09-19,Seguridad,Riesgo Alto,Riesgo Alto,0.8505263157894737,69.88,Índice Riesgo TI
+2021-09-19,Disponibilidad,Aceptable,Aceptable,1.0,82.23,Índice Riesgo TI
+2021-09-19,Cumplimiento,Aceptable,Aceptable,0.9940642857142856,83.26,Índice Riesgo TI
+2021-09-19,Operacional,Aceptable,Aceptable,1.0,71.74,Índice Riesgo TI
+2021-09-19,Tecnológico,Aceptable,Aceptable,1.0,73.16,Índice Riesgo TI
+2021-09-26,Seguridad,Aceptable,Aceptable,0.977460763056597,70.45,Índice Riesgo TI
+2021-09-26,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9559357142857143,68.3,Índice Riesgo TI
+2021-09-26,Cumplimiento,Aceptable,Aceptable,0.9940642857142856,74.42,Índice Riesgo TI
+2021-09-26,Operacional,Aceptable,Aceptable,1.0,83.49,Índice Riesgo TI
+2021-09-26,Tecnológico,Aceptable,Aceptable,1.0,75.35,Índice Riesgo TI
+2021-10-03,Seguridad,Aceptable,Aceptable,0.9994736842105263,78.5,Índice Riesgo TI
+2021-10-03,Disponibilidad,Aceptable,Aceptable,1.0,74.53,Índice Riesgo TI
+2021-10-03,Cumplimiento,Aceptable,Aceptable,0.9996,74.46,Índice Riesgo TI
+2021-10-03,Operacional,Aceptable,Aceptable,0.97,71.02,Índice Riesgo TI
+2021-10-03,Tecnológico,Aceptable,Aceptable,0.9921155249613589,78.27,Índice Riesgo TI
+2021-10-10,Seguridad,Aceptable,Aceptable,0.970460763056597,70.2,Índice Riesgo TI
+2021-10-10,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9645639104994391,68.74,Índice Riesgo TI
+2021-10-10,Cumplimiento,Aceptable,Aceptable,0.9884360895005608,76.21,Índice Riesgo TI
+2021-10-10,Operacional,Aceptable,Aceptable,0.9777259445730246,79.95,Índice Riesgo TI
+2021-10-10,Tecnológico,Aceptable,Aceptable,0.9627821916280255,83.94,Índice Riesgo TI
+2021-10-17,Seguridad,Aceptable,Aceptable,0.9994736842105263,72.28,Índice Riesgo TI
+2021-10-17,Disponibilidad,Riesgo Alto,Riesgo Alto,0.9562305771661059,69.0,Índice Riesgo TI
+2021-10-17,Cumplimiento,Aceptable,Aceptable,0.975692499756971,74.83,Índice Riesgo TI
+2021-10-17,Operacional,Riesgo Alto,Riesgo Alto,0.9062305771661058,69.81,Índice Riesgo TI
+2021-10-17,Tecnológico,Aceptable,Aceptable,0.9927155249613588,82.77,Índice Riesgo TI
+2021-10-24,Seguridad,Aceptable,Aceptable,1.0,80.12,Índice Riesgo TI
+2021-10-24,Disponibilidad,Aceptable,Aceptable,0.9696000000000001,70.17,Índice Riesgo TI
+2021-10-24,Cumplimiento,Aceptable,Aceptable,1.0,82.26,Índice Riesgo TI
+2021-10-24,Operacional,Aceptable,Aceptable,0.976692499756971,71.95,Índice Riesgo TI
+2021-10-24,Tecnológico,Aceptable,Aceptable,0.9827821916280254,70.15,Índice Riesgo TI
+2021-10-31,Seguridad,Aceptable,Aceptable,0.989460763056597,72.24,Índice Riesgo TI
+2021-10-31,Disponibilidad,Aceptable,Aceptable,0.9937694228338941,74.36,Índice Riesgo TI
+2021-10-31,Cumplimiento,Aceptable,Aceptable,0.975692499756971,79.86,Índice Riesgo TI
+2021-10-31,Operacional,Aceptable,Aceptable,0.976692499756971,80.35,Índice Riesgo TI
+2021-10-31,Tecnológico,Aceptable,Aceptable,0.9894736842105263,84.27,Índice Riesgo TI
+2021-11-07,Seguridad,Riesgo Alto,Riesgo Alto,0.8826914925825008,69.34,Índice Riesgo TI
+2021-11-07,Disponibilidad,Aceptable,Aceptable,0.9900473731444532,72.87,Índice Riesgo TI
+2021-11-07,Cumplimiento,Aceptable,Aceptable,0.9830139283283996,74.75,Índice Riesgo TI
+2021-11-07,Operacional,Aceptable,Aceptable,0.9900473731444532,75.72,Índice Riesgo TI
+2021-11-07,Tecnológico,Aceptable,Aceptable,0.9973085074174992,75.59,Índice Riesgo TI
+2021-11-14,Seguridad,Aceptable,Aceptable,0.9991666666666668,76.74,Índice Riesgo TI
+2021-11-14,Disponibilidad,Aceptable,Aceptable,0.9822140398111199,82.46,Índice Riesgo TI
+2021-11-14,Cumplimiento,Riesgo Alto,Riesgo Alto,0.9647424819280106,69.11,Índice Riesgo TI
+2021-11-14,Operacional,Aceptable,Aceptable,0.9922140398111199,75.97,Índice Riesgo TI
+2021-11-14,Tecnológico,Aceptable,Aceptable,0.9924085074174992,81.53,Índice Riesgo TI
+2021-11-21,Seguridad,Aceptable,Aceptable,0.9928323169413088,84.51,Índice Riesgo TI
+2021-11-21,Disponibilidad,Aceptable,Aceptable,1.0,72.7,Índice Riesgo TI
+2021-11-21,Cumplimiento,Aceptable,Aceptable,0.9930139283283996,82.9,Índice Riesgo TI
+2021-11-21,Operacional,Aceptable,Aceptable,0.9930139283283996,82.44,Índice Riesgo TI
+2021-11-21,Tecnológico,Aceptable,Aceptable,0.9819323169413088,72.99,Índice Riesgo TI
+2021-11-28,Seguridad,Aceptable,Aceptable,0.9928323169413088,74.37,Índice Riesgo TI
+2021-11-28,Disponibilidad,Aceptable,Aceptable,0.986251915831093,74.05,Índice Riesgo TI
+2021-11-28,Cumplimiento,Aceptable,Aceptable,0.9832084375702235,72.6,Índice Riesgo TI
+2021-11-28,Operacional,Riesgo Alto,Riesgo Alto,0.9677186724042011,69.13,Índice Riesgo TI
+2021-11-28,Tecnológico,Aceptable,Aceptable,0.9661904761904762,82.08,Índice Riesgo TI
+2021-12-05,Seguridad,Aceptable,Aceptable,1.0,84.83,Índice Riesgo TI
+2021-12-05,Disponibilidad,Aceptable,Aceptable,1.0,72.82,Índice Riesgo TI
+2021-12-05,Cumplimiento,Aceptable,Aceptable,0.9478322973024826,75.81,Índice Riesgo TI
+2021-12-05,Operacional,Aceptable,Aceptable,0.9745943097997893,73.62,Índice Riesgo TI
+2021-12-05,Tecnológico,Aceptable,Aceptable,0.9550793650793651,74.77,Índice Riesgo TI
+2021-12-12,Seguridad,Aceptable,Aceptable,0.99,83.09,Índice Riesgo TI
+2021-12-12,Disponibilidad,Aceptable,Aceptable,0.9864705882352942,82.0,Índice Riesgo TI
+2021-12-12,Cumplimiento,Aceptable,Aceptable,0.9916418211120065,74.36,Índice Riesgo TI
+2021-12-12,Operacional,Aceptable,Aceptable,0.9781555323936206,82.52,Índice Riesgo TI
+2021-12-12,Tecnológico,Aceptable,Aceptable,0.9,70.04,Índice Riesgo TI
+2021-12-19,Seguridad,Aceptable,Aceptable,0.9828055555555555,73.97,Índice Riesgo TI
+2021-12-19,Disponibilidad,Aceptable,Aceptable,0.99,79.98,Índice Riesgo TI
+2021-12-19,Cumplimiento,Aceptable,Aceptable,0.99,83.85,Índice Riesgo TI
+2021-12-19,Operacional,Aceptable,Aceptable,0.9829490106544901,79.35,Índice Riesgo TI
+2021-12-19,Tecnológico,Aceptable,Aceptable,0.9844444444444445,74.42,Índice Riesgo TI
+2021-12-26,Seguridad,Aceptable,Aceptable,0.9240555555555555,83.87,Índice Riesgo TI
+2021-12-26,Disponibilidad,Riesgo Alto,Riesgo Alto,0.6825,70.0,Índice Riesgo TI
+2021-12-26,Cumplimiento,Aceptable,Aceptable,0.9741666666666666,78.03,Índice Riesgo TI
+2021-12-26,Operacional,Aceptable,Aceptable,0.9675,72.07,Índice Riesgo TI
+2021-12-26,Tecnológico,Aceptable,Aceptable,0.977979797979798,73.27,Índice Riesgo TI
+2022-01-02,Seguridad,Aceptable,Aceptable,0.9782352941176471,71.66,Índice Riesgo TI
+2022-01-02,Disponibilidad,Aceptable,Aceptable,0.9774285714285714,83.1,Índice Riesgo TI
+2022-01-02,Cumplimiento,Aceptable,Aceptable,0.9484285714285714,77.62,Índice Riesgo TI
+2022-01-02,Operacional,Aceptable,Aceptable,0.9877619047619048,82.82,Índice Riesgo TI
+2022-01-02,Tecnológico,Riesgo Alto,Riesgo Alto,0.9415,69.66,Índice Riesgo TI
+2022-01-09,Seguridad,Aceptable,Aceptable,0.969156862745098,83.76,Índice Riesgo TI
+2022-01-09,Disponibilidad,Aceptable,Aceptable,0.9858970588235293,79.25,Índice Riesgo TI
+2022-01-09,Cumplimiento,Aceptable,Aceptable,0.9897303921568628,74.18,Índice Riesgo TI
+2022-01-09,Operacional,Aceptable,Aceptable,1.0,84.79,Índice Riesgo TI
+2022-01-09,Tecnológico,Aceptable,Aceptable,1.0,78.27,Índice Riesgo TI
+2022-01-16,Seguridad,Aceptable,Aceptable,0.9677401960784314,80.89,Índice Riesgo TI
+2022-01-16,Disponibilidad,Aceptable,Aceptable,0.9676013071895424,74.64,Índice Riesgo TI
+2022-01-16,Cumplimiento,Aceptable,Aceptable,0.98,82.95,Índice Riesgo TI
+2022-01-16,Operacional,Aceptable,Aceptable,1.0,81.5,Índice Riesgo TI
+2022-01-16,Tecnológico,Aceptable,Aceptable,0.9918568627450981,80.29,Índice Riesgo TI
+2022-01-23,Seguridad,Aceptable,Aceptable,0.9605,76.21,Índice Riesgo TI
+2022-01-23,Disponibilidad,Aceptable,Aceptable,0.9895946736903717,75.83,Índice Riesgo TI
+2022-01-23,Cumplimiento,Aceptable,Aceptable,0.99,72.77,Índice Riesgo TI
+2022-01-23,Operacional,Aceptable,Aceptable,0.9920946736903717,73.15,Índice Riesgo TI
+2022-01-23,Tecnológico,Aceptable,Aceptable,0.957356862745098,85.3,Índice Riesgo TI
+2022-01-30,Seguridad,Aceptable,Aceptable,0.9937982170036964,70.6,Índice Riesgo TI
+2022-01-30,Disponibilidad,Aceptable,Aceptable,0.97,83.56,Índice Riesgo TI
+2022-01-30,Cumplimiento,Aceptable,Aceptable,0.997928007023705,85.07,Índice Riesgo TI
+2022-01-30,Operacional,Aceptable,Aceptable,0.9778214285714286,77.97,Índice Riesgo TI
+2022-01-30,Tecnológico,Aceptable,Aceptable,0.9901923771553193,71.65,Índice Riesgo TI
+2022-02-06,Seguridad,Aceptable,Aceptable,0.986,76.13,Índice Riesgo TI
+2022-02-06,Disponibilidad,Aceptable,Aceptable,0.99,77.68,Índice Riesgo TI
+2022-02-06,Cumplimiento,Aceptable,Aceptable,0.9834378109452736,80.07,Índice Riesgo TI
+2022-02-06,Operacional,Aceptable,Aceptable,0.9728214285714286,72.36,Índice Riesgo TI
+2022-02-06,Tecnológico,Aceptable,Aceptable,0.9930482170036964,78.53,Índice Riesgo TI
+2022-02-13,Seguridad,Aceptable,Aceptable,0.9812237298401844,83.36,Índice Riesgo TI
+2022-02-13,Disponibilidad,Aceptable,Aceptable,0.9909422247955213,84.93,Índice Riesgo TI
+2022-02-13,Cumplimiento,Aceptable,Aceptable,0.9762966026555945,75.5,Índice Riesgo TI
+2022-02-13,Operacional,Aceptable,Aceptable,1.0,80.89,Índice Riesgo TI
+2022-02-13,Tecnológico,Aceptable,Aceptable,0.996,75.84,Índice Riesgo TI
+2022-02-20,Seguridad,Aceptable,Aceptable,0.989585679894456,79.81,Índice Riesgo TI
+2022-02-20,Disponibilidad,Aceptable,Aceptable,0.9855240961405505,79.1,Índice Riesgo TI
+2022-02-20,Cumplimiento,Aceptable,Aceptable,0.9918574294738839,72.38,Índice Riesgo TI
+2022-02-20,Operacional,Aceptable,Aceptable,0.9931644470177435,85.75,Índice Riesgo TI
+2022-02-20,Tecnológico,Aceptable,Aceptable,0.9906119956839297,79.3,Índice Riesgo TI
+2022-02-27,Seguridad,Aceptable,Aceptable,0.9691519607843136,80.0,Índice Riesgo TI
+2022-02-27,Disponibilidad,Aceptable,Aceptable,0.9849632693222613,78.8,Índice Riesgo TI
+2022-02-27,Cumplimiento,Aceptable,Aceptable,0.98,83.57,Índice Riesgo TI
+2022-02-27,Operacional,Aceptable,Aceptable,0.9945466026555946,73.48,Índice Riesgo TI
+2022-02-27,Tecnológico,Aceptable,Aceptable,0.9829237298401844,83.2,Índice Riesgo TI
+2022-03-06,Seguridad,Aceptable,Aceptable,0.9907220435308196,76.56,Índice Riesgo TI
+2022-03-06,Disponibilidad,Aceptable,Aceptable,0.9920785884318849,84.64,Índice Riesgo TI
+2022-03-06,Cumplimiento,Aceptable,Aceptable,0.9799632693222613,81.45,Índice Riesgo TI
+2022-03-06,Operacional,Aceptable,Aceptable,0.99,71.66,Índice Riesgo TI
+2022-03-06,Tecnológico,Aceptable,Aceptable,0.9917483593202933,75.56,Índice Riesgo TI
+2022-03-13,Seguridad,Aceptable,Aceptable,0.9910629526217286,82.23,Índice Riesgo TI
+2022-03-13,Disponibilidad,Aceptable,Aceptable,0.9627740961405507,72.02,Índice Riesgo TI
+2022-03-13,Cumplimiento,Aceptable,Aceptable,0.9799632693222613,71.91,Índice Riesgo TI
+2022-03-13,Operacional,Aceptable,Aceptable,1.0,75.39,Índice Riesgo TI
+2022-03-13,Tecnológico,Aceptable,Aceptable,0.9681345021989735,74.33,Índice Riesgo TI
+2022-03-20,Seguridad,Aceptable,Aceptable,0.9888845021989736,70.84,Índice Riesgo TI
+2022-03-20,Disponibilidad,Aceptable,Aceptable,0.9837132693222612,74.67,Índice Riesgo TI
+2022-03-20,Cumplimiento,Aceptable,Aceptable,0.9870466026555945,76.23,Índice Riesgo TI
+2022-03-20,Operacional,Aceptable,Aceptable,0.9912132693222613,73.33,Índice Riesgo TI
+2022-03-20,Tecnológico,Aceptable,Aceptable,1.0,74.03,Índice Riesgo TI
+2022-03-27,Seguridad,Aceptable,Aceptable,0.966368418484873,74.7,Índice Riesgo TI
+2022-03-27,Disponibilidad,Aceptable,Aceptable,0.9880508106541072,85.01,Índice Riesgo TI
+2022-03-27,Cumplimiento,Aceptable,Aceptable,0.9926341439874407,79.41,Índice Riesgo TI
+2022-03-27,Operacional,Aceptable,Aceptable,0.9943008106541071,82.52,Índice Riesgo TI
+2022-03-27,Tecnológico,Aceptable,Aceptable,0.9821257703081233,85.52,Índice Riesgo TI
+2022-04-03,Seguridad,Aceptable,Aceptable,0.9896343811931572,74.2,Índice Riesgo TI
+2022-04-03,Disponibilidad,Aceptable,Aceptable,0.985,83.14,Índice Riesgo TI
+2022-04-03,Cumplimiento,Aceptable,Aceptable,0.9891724941724941,86.21,Índice Riesgo TI
+2022-04-03,Operacional,Aceptable,Aceptable,0.9892179487179488,80.31,Índice Riesgo TI
+2022-04-03,Tecnológico,Aceptable,Aceptable,0.9741898470563015,71.85,Índice Riesgo TI
+2022-04-10,Seguridad,Aceptable,Aceptable,0.9924560733384262,75.21,Índice Riesgo TI
+2022-04-10,Disponibilidad,Aceptable,Aceptable,0.9673690289854835,74.73,Índice Riesgo TI
+2022-04-10,Cumplimiento,Aceptable,Aceptable,0.9836510802675348,72.49,Índice Riesgo TI
+2022-04-10,Operacional,Aceptable,Aceptable,0.991235875589172,77.88,Índice Riesgo TI
+2022-04-10,Tecnológico,Aceptable,Aceptable,0.9777743333462674,75.29,Índice Riesgo TI
+2022-04-17,Seguridad,Aceptable,Aceptable,0.9914193859199039,78.34,Índice Riesgo TI
+2022-04-17,Disponibilidad,Aceptable,Aceptable,0.9818181818181819,74.26,Índice Riesgo TI
+2022-04-17,Cumplimiento,Aceptable,Aceptable,0.9808314863765248,85.77,Índice Riesgo TI
+2022-04-17,Operacional,Aceptable,Aceptable,0.9937481530431914,76.01,Índice Riesgo TI
+2022-04-17,Tecnológico,Aceptable,Aceptable,0.9871257703081233,84.21,Índice Riesgo TI
+2022-04-24,Seguridad,Aceptable,Aceptable,0.9711276611801621,78.28,Índice Riesgo TI
+2022-04-24,Disponibilidad,Aceptable,Aceptable,0.9727256465281475,77.15,Índice Riesgo TI
+2022-04-24,Cumplimiento,Aceptable,Aceptable,0.9908391608391608,84.0,Índice Riesgo TI
+2022-04-24,Operacional,Aceptable,Aceptable,0.9975,81.31,Índice Riesgo TI
+2022-04-24,Tecnológico,Aceptable,Aceptable,0.99,80.05,Índice Riesgo TI
+2022-05-01,Seguridad,Aceptable,Aceptable,0.9852083333333335,83.37,Índice Riesgo TI
+2022-05-01,Disponibilidad,Aceptable,Aceptable,0.993412835582874,72.28,Índice Riesgo TI
+2022-05-01,Cumplimiento,Aceptable,Aceptable,0.9920730919931303,72.46,Índice Riesgo TI
+2022-05-01,Operacional,Aceptable,Aceptable,0.9957732773499423,80.79,Índice Riesgo TI
+2022-05-01,Tecnológico,Aceptable,Aceptable,0.98166942736546,81.36,Índice Riesgo TI
+2022-05-08,Seguridad,Aceptable,Aceptable,0.9677475199484785,74.56,Índice Riesgo TI
+2022-05-08,Disponibilidad,Aceptable,Aceptable,0.9859961689162074,75.08,Índice Riesgo TI
+2022-05-08,Cumplimiento,Aceptable,Aceptable,0.9828761222961607,74.84,Índice Riesgo TI
+2022-05-08,Operacional,Aceptable,Aceptable,0.9880232773499422,83.55,Índice Riesgo TI
+2022-05-08,Tecnológico,Aceptable,Aceptable,0.9885624506212741,77.66,Índice Riesgo TI
+2022-05-15,Seguridad,Aceptable,Aceptable,0.9696309698319283,87.17,Índice Riesgo TI
+2022-05-15,Disponibilidad,Aceptable,Aceptable,0.9961698717948718,78.03,Índice Riesgo TI
+2022-05-15,Cumplimiento,Aceptable,Aceptable,0.9828761222961607,78.53,Índice Riesgo TI
+2022-05-15,Operacional,Aceptable,Aceptable,1.0,76.49,Índice Riesgo TI
+2022-05-15,Tecnológico,Aceptable,Aceptable,0.9743482586425075,80.09,Índice Riesgo TI
+2022-05-22,Seguridad,Aceptable,Aceptable,0.9825803077641314,81.7,Índice Riesgo TI
+2022-05-22,Disponibilidad,Aceptable,Aceptable,1.0,78.96,Índice Riesgo TI
+2022-05-22,Cumplimiento,Aceptable,Aceptable,0.983209455629494,79.99,Índice Riesgo TI
+2022-05-22,Operacional,Aceptable,Aceptable,0.9795526615812716,72.67,Índice Riesgo TI
+2022-05-22,Tecnológico,Aceptable,Aceptable,0.981824449118698,87.45,Índice Riesgo TI
+2022-05-29,Seguridad,Aceptable,Aceptable,0.9866979548229549,82.54,Índice Riesgo TI
+2022-05-29,Disponibilidad,Aceptable,Aceptable,1.0,74.14,Índice Riesgo TI
+2022-05-29,Cumplimiento,Aceptable,Aceptable,0.9867698100038019,74.38,Índice Riesgo TI
+2022-05-29,Operacional,Aceptable,Aceptable,0.9767796826222459,86.95,Índice Riesgo TI
+2022-05-29,Tecnológico,Aceptable,Aceptable,0.9829521537893631,83.14,Índice Riesgo TI
+2022-06-05,Seguridad,Aceptable,Aceptable,0.9836100451911336,78.74,Índice Riesgo TI
+2022-06-05,Disponibilidad,Aceptable,Aceptable,0.9877759258368627,77.52,Índice Riesgo TI
+2022-06-05,Cumplimiento,Aceptable,Aceptable,0.9976282051282052,80.3,Índice Riesgo TI
+2022-06-05,Operacional,Aceptable,Aceptable,0.9966666666666666,86.41,Índice Riesgo TI
+2022-06-05,Tecnológico,Aceptable,Aceptable,0.9975,73.78,Índice Riesgo TI
+2022-06-12,Seguridad,Aceptable,Aceptable,0.9903489791861884,85.22,Índice Riesgo TI
+2022-06-12,Disponibilidad,Aceptable,Aceptable,1.0,77.38,Índice Riesgo TI
+2022-06-12,Cumplimiento,Aceptable,Aceptable,0.9888285574158101,77.61,Índice Riesgo TI
+2022-06-12,Operacional,Aceptable,Aceptable,0.9914761111936747,85.79,Índice Riesgo TI
+2022-06-12,Tecnológico,Aceptable,Aceptable,0.99,84.6,Índice Riesgo TI
+2022-06-19,Seguridad,Aceptable,Aceptable,0.9868268284079168,83.17,Índice Riesgo TI
+2022-06-19,Disponibilidad,Aceptable,Aceptable,0.9890802736629497,74.94,Índice Riesgo TI
+2022-06-19,Cumplimiento,Aceptable,Aceptable,0.9976282051282052,80.85,Índice Riesgo TI
+2022-06-19,Operacional,Aceptable,Aceptable,0.9914761111936747,75.43,Índice Riesgo TI
+2022-06-19,Tecnológico,Aceptable,Aceptable,0.9806391324973347,80.58,Índice Riesgo TI
+2022-06-26,Seguridad,Aceptable,Aceptable,1.0,85.79,Índice Riesgo TI
+2022-06-26,Disponibilidad,Aceptable,Aceptable,0.97,86.13,Índice Riesgo TI
+2022-06-26,Cumplimiento,Aceptable,Aceptable,0.9976282051282052,79.37,Índice Riesgo TI
+2022-06-26,Operacional,Aceptable,Aceptable,1.0,76.65,Índice Riesgo TI
+2022-06-26,Tecnológico,Aceptable,Aceptable,0.9744486563068587,87.29,Índice Riesgo TI
+2022-07-03,Seguridad,Aceptable,Aceptable,0.9818943428919072,74.01,Índice Riesgo TI
+2022-07-03,Disponibilidad,Aceptable,Aceptable,0.9745876450850902,73.37,Índice Riesgo TI
+2022-07-03,Cumplimiento,Aceptable,Aceptable,0.9845876450850902,74.15,Índice Riesgo TI
+2022-07-03,Operacional,Aceptable,Aceptable,0.9779558976162527,77.37,Índice Riesgo TI
+2022-07-03,Tecnológico,Aceptable,Aceptable,0.9724919886894483,80.24,Índice Riesgo TI
+2022-07-10,Seguridad,Aceptable,Aceptable,0.9818943428919072,75.44,Índice Riesgo TI
+2022-07-10,Disponibilidad,Aceptable,Aceptable,0.9845876450850902,78.72,Índice Riesgo TI
+2022-07-10,Cumplimiento,Aceptable,Aceptable,0.9733333333333334,87.02,Índice Riesgo TI
+2022-07-10,Operacional,Aceptable,Aceptable,0.9882878304419022,84.29,Índice Riesgo TI
+2022-07-10,Tecnológico,Aceptable,Aceptable,0.9780557991640015,74.59,Índice Riesgo TI
+2022-07-17,Seguridad,Aceptable,Aceptable,0.9848518296355465,82.23,Índice Riesgo TI
+2022-07-17,Disponibilidad,Aceptable,Aceptable,1.0,83.43,Índice Riesgo TI
+2022-07-17,Cumplimiento,Aceptable,Aceptable,0.9873002842977295,82.4,Índice Riesgo TI
+2022-07-17,Operacional,Aceptable,Aceptable,0.9893273927314644,79.29,Índice Riesgo TI
+2022-07-17,Tecnológico,Aceptable,Aceptable,0.9780557991640015,78.11,Índice Riesgo TI
+2022-07-24,Seguridad,Aceptable,Aceptable,1.0,84.53,Índice Riesgo TI
+2022-07-24,Disponibilidad,Aceptable,Aceptable,1.0,85.76,Índice Riesgo TI
+2022-07-24,Cumplimiento,Aceptable,Aceptable,0.984255712259441,74.24,Índice Riesgo TI
+2022-07-24,Operacional,Aceptable,Aceptable,0.9984615384615384,80.99,Índice Riesgo TI
+2022-07-24,Tecnológico,Aceptable,Aceptable,0.9963636363636365,84.88,Índice Riesgo TI
+2022-07-31,Seguridad,Aceptable,Aceptable,1.0,81.93,Índice Riesgo TI
+2022-07-31,Disponibilidad,Aceptable,Aceptable,0.9884512814487266,74.12,Índice Riesgo TI
+2022-07-31,Cumplimiento,Aceptable,Aceptable,0.9991666666666668,87.76,Índice Riesgo TI
+2022-07-31,Operacional,Aceptable,Aceptable,0.9914107260647976,78.25,Índice Riesgo TI
+2022-07-31,Tecnológico,Aceptable,Aceptable,1.0,86.38,Índice Riesgo TI
+2022-08-07,Seguridad,Aceptable,Aceptable,0.9949773755656107,80.72,Índice Riesgo TI
+2022-08-07,Disponibilidad,Aceptable,Aceptable,0.9988235294117647,86.76,Índice Riesgo TI
+2022-08-07,Cumplimiento,Aceptable,Aceptable,1.0,73.31,Índice Riesgo TI
+2022-08-07,Operacional,Aceptable,Aceptable,0.9966281173691455,83.1,Índice Riesgo TI
+2022-08-07,Tecnológico,Aceptable,Aceptable,1.0,80.88,Índice Riesgo TI
+2022-08-14,Seguridad,Aceptable,Aceptable,0.9812736200146484,84.0,Índice Riesgo TI
+2022-08-14,Disponibilidad,Aceptable,Aceptable,0.9988235294117647,81.53,Índice Riesgo TI
+2022-08-14,Cumplimiento,Aceptable,Aceptable,0.9988235294117647,77.74,Índice Riesgo TI
+2022-08-14,Operacional,Aceptable,Aceptable,0.9966281173691455,80.11,Índice Riesgo TI
+2022-08-14,Tecnológico,Aceptable,Aceptable,0.9721734646824565,74.94,Índice Riesgo TI
+2022-08-21,Seguridad,Aceptable,Aceptable,0.9921839064495246,77.19,Índice Riesgo TI
+2022-08-21,Disponibilidad,Aceptable,Aceptable,0.9869965416055334,77.44,Índice Riesgo TI
+2022-08-21,Cumplimiento,Aceptable,Aceptable,0.9946010089354107,85.66,Índice Riesgo TI
+2022-08-21,Operacional,Aceptable,Aceptable,0.9973688581098863,82.59,Índice Riesgo TI
+2022-08-21,Tecnológico,Aceptable,Aceptable,0.9834109228764365,86.03,Índice Riesgo TI
+2022-08-28,Seguridad,Aceptable,Aceptable,0.986306688797717,74.32,Índice Riesgo TI
+2022-08-28,Disponibilidad,Aceptable,Aceptable,1.0,79.6,Índice Riesgo TI
+2022-08-28,Cumplimiento,Aceptable,Aceptable,0.9922795803639822,86.98,Índice Riesgo TI
+2022-08-28,Operacional,Aceptable,Aceptable,0.9950474295384578,75.09,Índice Riesgo TI
+2022-08-28,Tecnológico,Aceptable,Aceptable,0.9736538461538461,74.12,Índice Riesgo TI
+2022-09-04,Seguridad,Aceptable,Aceptable,0.989460763056597,87.37,Índice Riesgo TI
+2022-09-04,Disponibilidad,Aceptable,Aceptable,0.9941378151260504,82.73,Índice Riesgo TI
+2022-09-04,Cumplimiento,Aceptable,Aceptable,1.0,79.2,Índice Riesgo TI
+2022-09-04,Operacional,Aceptable,Aceptable,1.0,87.75,Índice Riesgo TI
+2022-09-04,Tecnológico,Aceptable,Aceptable,0.9944736842105263,75.19,Índice Riesgo TI
+2022-09-11,Seguridad,Aceptable,Aceptable,0.9944736842105263,89.61,Índice Riesgo TI
+2022-09-11,Disponibilidad,Aceptable,Aceptable,0.9723926112396913,89.24,Índice Riesgo TI
+2022-09-11,Cumplimiento,Aceptable,Aceptable,0.9953142857142856,81.98,Índice Riesgo TI
+2022-09-11,Operacional,Aceptable,Aceptable,0.99,84.93,Índice Riesgo TI
+2022-09-11,Tecnológico,Aceptable,Aceptable,0.9994736842105263,87.29,Índice Riesgo TI
+2022-09-18,Seguridad,Aceptable,Aceptable,0.9681274297232637,81.12,Índice Riesgo TI
+2022-09-18,Disponibilidad,Aceptable,Aceptable,0.9834360895005608,77.06,Índice Riesgo TI
+2022-09-18,Cumplimiento,Aceptable,Aceptable,0.9884360895005608,78.34,Índice Riesgo TI
+2022-09-18,Operacional,Aceptable,Aceptable,0.966692499756971,75.36,Índice Riesgo TI
+2022-09-18,Tecnológico,Aceptable,Aceptable,0.9837821916280255,74.73,Índice Riesgo TI
+2022-09-25,Seguridad,Aceptable,Aceptable,0.987460763056597,88.56,Índice Riesgo TI
+2022-09-25,Disponibilidad,Aceptable,Aceptable,0.9940642857142856,76.59,Índice Riesgo TI
+2022-09-25,Cumplimiento,Aceptable,Aceptable,1.0,77.95,Índice Riesgo TI
+2022-09-25,Operacional,Aceptable,Aceptable,0.9957142857142857,77.48,Índice Riesgo TI
+2022-09-25,Tecnológico,Aceptable,Aceptable,0.9910488582946922,75.59,Índice Riesgo TI
+2022-10-02,Seguridad,Aceptable,Aceptable,0.9944736842105263,88.57,Índice Riesgo TI
+2022-10-02,Disponibilidad,Aceptable,Aceptable,0.9946,89.49,Índice Riesgo TI
+2022-10-02,Cumplimiento,Aceptable,Aceptable,0.9996,87.84,Índice Riesgo TI
+2022-10-02,Operacional,Aceptable,Aceptable,0.9887694228338941,75.35,Índice Riesgo TI
+2022-10-02,Tecnológico,Aceptable,Aceptable,0.9994736842105263,80.38,Índice Riesgo TI
+2022-10-09,Seguridad,Aceptable,Aceptable,0.9907940963899303,83.4,Índice Riesgo TI
+2022-10-09,Disponibilidad,Aceptable,Aceptable,0.96,86.45,Índice Riesgo TI
+2022-10-09,Cumplimiento,Aceptable,Aceptable,0.9996,82.79,Índice Riesgo TI
+2022-10-09,Operacional,Aceptable,Aceptable,0.9887694228338941,88.58,Índice Riesgo TI
+2022-10-09,Tecnológico,Aceptable,Aceptable,0.9994736842105263,78.53,Índice Riesgo TI
+2022-10-16,Seguridad,Aceptable,Aceptable,1.0,79.26,Índice Riesgo TI
+2022-10-16,Disponibilidad,Aceptable,Aceptable,0.9777259445730246,81.93,Índice Riesgo TI
+2022-10-16,Cumplimiento,Aceptable,Aceptable,0.9996,85.13,Índice Riesgo TI
+2022-10-16,Operacional,Aceptable,Aceptable,0.995,86.41,Índice Riesgo TI
+2022-10-16,Tecnológico,Aceptable,Aceptable,0.9727821916280255,77.65,Índice Riesgo TI
+2022-10-23,Seguridad,Aceptable,Aceptable,0.9944736842105263,84.29,Índice Riesgo TI
+2022-10-23,Disponibilidad,Excelente,Excelente,0.91,90.36,Índice Riesgo TI
+2022-10-23,Cumplimiento,Aceptable,Aceptable,0.9996,81.92,Índice Riesgo TI
+2022-10-23,Operacional,Aceptable,Aceptable,1.0,81.51,Índice Riesgo TI
+2022-10-23,Tecnológico,Aceptable,Aceptable,0.9894736842105263,76.51,Índice Riesgo TI
+2022-10-30,Seguridad,Aceptable,Aceptable,0.97,86.85,Índice Riesgo TI
+2022-10-30,Disponibilidad,Aceptable,Aceptable,0.9946,87.96,Índice Riesgo TI
+2022-10-30,Cumplimiento,Aceptable,Aceptable,0.9996,79.63,Índice Riesgo TI
+2022-10-30,Operacional,Aceptable,Aceptable,0.995,81.68,Índice Riesgo TI
+2022-10-30,Tecnológico,Aceptable,Aceptable,0.9894736842105263,79.38,Índice Riesgo TI
+2022-11-06,Seguridad,Aceptable,Aceptable,0.9973085074174992,76.05,Índice Riesgo TI
+2022-11-06,Disponibilidad,Aceptable,Aceptable,0.9719333333333333,81.11,Índice Riesgo TI
+2022-11-06,Cumplimiento,Aceptable,Aceptable,0.9769333333333333,80.87,Índice Riesgo TI
+2022-11-06,Operacional,Aceptable,Aceptable,0.9910908514053227,76.8,Índice Riesgo TI
+2022-11-06,Tecnológico,Aceptable,Aceptable,1.0,77.66,Índice Riesgo TI
+2022-11-13,Seguridad,Aceptable,Aceptable,0.9958085074174993,82.59,Índice Riesgo TI
+2022-11-13,Disponibilidad,Aceptable,Aceptable,0.9822140398111199,80.6,Índice Riesgo TI
+2022-11-13,Cumplimiento,Aceptable,Aceptable,0.9822140398111199,81.64,Índice Riesgo TI
+2022-11-13,Operacional,Aceptable,Aceptable,0.9916666666666667,80.1,Índice Riesgo TI
+2022-11-13,Tecnológico,Aceptable,Aceptable,0.9873085074174992,87.03,Índice Riesgo TI
+2022-11-20,Seguridad,Aceptable,Aceptable,0.9884989836079754,78.18,Índice Riesgo TI
+2022-11-20,Disponibilidad,Aceptable,Aceptable,0.9930139283283996,78.67,Índice Riesgo TI
+2022-11-20,Cumplimiento,Aceptable,Aceptable,0.9891238095238095,81.29,Índice Riesgo TI
+2022-11-20,Operacional,Aceptable,Aceptable,1.0,79.43,Índice Riesgo TI
+2022-11-20,Tecnológico,Excelente,Excelente,0.99,90.18,Índice Riesgo TI
+2022-11-27,Seguridad,Aceptable,Aceptable,0.9928323169413088,75.77,Índice Riesgo TI
+2022-11-27,Disponibilidad,Excelente,Excelente,0.9885294117647058,90.65,Índice Riesgo TI
+2022-11-27,Cumplimiento,Aceptable,Aceptable,0.9718471539263311,78.85,Índice Riesgo TI
+2022-11-27,Operacional,Aceptable,Aceptable,0.9686904761904762,81.97,Índice Riesgo TI
+2022-11-27,Tecnológico,Aceptable,Aceptable,0.98,88.63,Índice Riesgo TI
+2022-12-04,Seguridad,Excelente,Excelente,0.99,90.3,Índice Riesgo TI
+2022-12-04,Disponibilidad,Aceptable,Aceptable,0.9945943097997894,80.36,Índice Riesgo TI
+2022-12-04,Cumplimiento,Aceptable,Aceptable,0.9845943097997893,84.63,Índice Riesgo TI
+2022-12-04,Operacional,Aceptable,Aceptable,0.97,84.87,Índice Riesgo TI
+2022-12-04,Tecnológico,Aceptable,Aceptable,0.9761904761904762,79.02,Índice Riesgo TI
+2022-12-11,Seguridad,Aceptable,Aceptable,0.9903174603174603,78.91,Índice Riesgo TI
+2022-12-11,Disponibilidad,Aceptable,Aceptable,0.9772370592072446,78.95,Índice Riesgo TI
+2022-12-11,Cumplimiento,Aceptable,Aceptable,0.9805983428511369,82.85,Índice Riesgo TI
+2022-12-11,Operacional,Aceptable,Aceptable,0.9781555323936206,77.15,Índice Riesgo TI
+2022-12-11,Tecnológico,Aceptable,Aceptable,0.9888888888888888,76.18,Índice Riesgo TI
+2022-12-18,Seguridad,Aceptable,Aceptable,0.9822222222222221,84.61,Índice Riesgo TI
+2022-12-18,Disponibilidad,Aceptable,Aceptable,0.99,77.81,Índice Riesgo TI
+2022-12-18,Cumplimiento,Aceptable,Aceptable,0.9845943097997893,80.8,Índice Riesgo TI
+2022-12-18,Operacional,Aceptable,Aceptable,1.0,76.62,Índice Riesgo TI
+2022-12-18,Tecnológico,Aceptable,Aceptable,0.9844444444444445,81.95,Índice Riesgo TI
+2022-12-25,Seguridad,Excelente,Excelente,0.9101111111111111,90.44,Índice Riesgo TI
+2022-12-25,Disponibilidad,Aceptable,Aceptable,0.98,76.11,Índice Riesgo TI
+2022-12-25,Cumplimiento,Aceptable,Aceptable,0.9333084877786731,83.73,Índice Riesgo TI
+2022-12-25,Operacional,Aceptable,Aceptable,0.9836852188906984,86.97,Índice Riesgo TI
+2022-12-25,Tecnológico,Aceptable,Aceptable,0.987979797979798,88.26,Índice Riesgo TI
+2023-01-01,Seguridad,Aceptable,Aceptable,0.9565952380952382,82.93,Índice Riesgo TI
+2023-01-01,Disponibilidad,Aceptable,Aceptable,1.0,81.79,Índice Riesgo TI
+2023-01-01,Cumplimiento,Aceptable,Aceptable,0.9688235294117646,87.73,Índice Riesgo TI
+2023-01-01,Operacional,Aceptable,Aceptable,0.9977619047619047,76.95,Índice Riesgo TI
+2023-01-01,Tecnológico,Excelente,Excelente,0.9172380952380952,91.57,Índice Riesgo TI
+2023-01-08,Seguridad,Aceptable,Aceptable,0.9829803921568627,76.84,Índice Riesgo TI
+2023-01-08,Disponibilidad,Aceptable,Aceptable,0.99,82.41,Índice Riesgo TI
+2023-01-08,Cumplimiento,Aceptable,Aceptable,0.9897303921568628,79.0,Índice Riesgo TI
+2023-01-08,Operacional,Aceptable,Aceptable,1.0,84.66,Índice Riesgo TI
+2023-01-08,Tecnológico,Aceptable,Aceptable,0.9918568627450981,80.72,Índice Riesgo TI
+2023-01-15,Seguridad,Aceptable,Aceptable,0.995,80.51,Índice Riesgo TI
+2023-01-15,Disponibilidad,Aceptable,Aceptable,0.9376013071895425,89.29,Índice Riesgo TI
+2023-01-15,Cumplimiento,Aceptable,Aceptable,0.9171568627450979,80.73,Índice Riesgo TI
+2023-01-15,Operacional,Aceptable,Aceptable,0.9798235294117648,78.67,Índice Riesgo TI
+2023-01-15,Tecnológico,Aceptable,Aceptable,0.9918568627450981,80.62,Índice Riesgo TI
+2023-01-22,Seguridad,Excelente,Excelente,0.9252696078431373,91.55,Índice Riesgo TI
+2023-01-22,Disponibilidad,Aceptable,Aceptable,0.9884182031021364,79.61,Índice Riesgo TI
+2023-01-22,Cumplimiento,Aceptable,Aceptable,0.9967515364354697,77.18,Índice Riesgo TI
+2023-01-22,Operacional,Excelente,Excelente,0.8684053263096283,91.01,Índice Riesgo TI
+2023-01-22,Tecnológico,Aceptable,Aceptable,0.9655,76.09,Índice Riesgo TI
+2023-01-29,Seguridad,Aceptable,Aceptable,0.989765906567084,81.36,Índice Riesgo TI
+2023-01-29,Disponibilidad,Aceptable,Aceptable,0.9655,83.3,Índice Riesgo TI
+2023-01-29,Cumplimiento,Aceptable,Aceptable,0.9232057848014827,87.45,Índice Riesgo TI
+2023-01-29,Operacional,Aceptable,Aceptable,0.9713018207282913,87.38,Índice Riesgo TI
+2023-01-29,Tecnológico,Aceptable,Aceptable,0.9814999999999999,77.64,Índice Riesgo TI
+2023-02-05,Seguridad,Excelente,Excelente,0.9299166666666668,91.59,Índice Riesgo TI
+2023-02-05,Disponibilidad,Aceptable,Aceptable,0.99,79.16,Índice Riesgo TI
+2023-02-05,Cumplimiento,Aceptable,Aceptable,0.995,77.48,Índice Riesgo TI
+2023-02-05,Operacional,Aceptable,Aceptable,0.9861269841269842,88.6,Índice Riesgo TI
+2023-02-05,Tecnológico,Aceptable,Aceptable,0.9930482170036964,79.23,Índice Riesgo TI
+2023-02-12,Seguridad,Aceptable,Aceptable,0.9674166666666666,86.02,Índice Riesgo TI
+2023-02-12,Disponibilidad,Aceptable,Aceptable,1.0,83.64,Índice Riesgo TI
+2023-02-12,Cumplimiento,Aceptable,Aceptable,0.9968574294738839,88.87,Índice Riesgo TI
+2023-02-12,Operacional,Aceptable,Aceptable,0.9945466026555946,78.12,Índice Riesgo TI
+2023-02-12,Tecnológico,Aceptable,Aceptable,0.9914678355323068,85.43,Índice Riesgo TI
+2023-02-19,Seguridad,Aceptable,Aceptable,0.9812237298401844,85.02,Índice Riesgo TI
+2023-02-19,Disponibilidad,Aceptable,Aceptable,0.9909422247955213,80.46,Índice Riesgo TI
+2023-02-19,Cumplimiento,Excelente,Excelente,0.97,90.99,Índice Riesgo TI
+2023-02-19,Operacional,Aceptable,Aceptable,0.9931644470177435,84.25,Índice Riesgo TI
+2023-02-19,Tecnológico,Excelente,Excelente,0.9561333333333334,91.28,Índice Riesgo TI
+2023-02-26,Seguridad,Aceptable,Aceptable,0.986,84.71,Índice Riesgo TI
+2023-02-26,Disponibilidad,Aceptable,Aceptable,0.9886666666666667,85.33,Índice Riesgo TI
+2023-02-26,Cumplimiento,Excelente,Excelente,0.8532440476190477,91.91,Índice Riesgo TI
+2023-02-26,Operacional,Aceptable,Aceptable,0.99,85.85,Índice Riesgo TI
+2023-02-26,Tecnológico,Excelente,Excelente,0.95,91.8,Índice Riesgo TI
+2023-03-05,Seguridad,Aceptable,Aceptable,0.977390396506851,83.17,Índice Riesgo TI
+2023-03-05,Disponibilidad,Aceptable,Aceptable,0.981629935988928,86.09,Índice Riesgo TI
+2023-03-05,Cumplimiento,Aceptable,Aceptable,0.9904119217652183,85.94,Índice Riesgo TI
+2023-03-05,Operacional,Aceptable,Aceptable,0.9912132693222613,83.85,Índice Riesgo TI
+2023-03-05,Tecnológico,Aceptable,Aceptable,0.9781345021989735,83.72,Índice Riesgo TI
+2023-03-12,Seguridad,Aceptable,Aceptable,1.0,77.83,Índice Riesgo TI
+2023-03-12,Disponibilidad,Aceptable,Aceptable,0.9951666666666666,81.87,Índice Riesgo TI
+2023-03-12,Cumplimiento,Excelente,Excelente,0.97,90.72,Índice Riesgo TI
+2023-03-12,Operacional,Aceptable,Aceptable,1.0,82.16,Índice Riesgo TI
+2023-03-12,Tecnológico,Aceptable,Aceptable,0.9982352941176471,82.36,Índice Riesgo TI
+2023-03-19,Seguridad,Aceptable,Aceptable,0.9888845021989736,77.02,Índice Riesgo TI
+2023-03-19,Disponibilidad,Excelente,Excelente,0.969387946630484,91.93,Índice Riesgo TI
+2023-03-19,Cumplimiento,Aceptable,Aceptable,0.995,79.51,Índice Riesgo TI
+2023-03-19,Operacional,Excelente,Excelente,0.943137946630484,92.0,Índice Riesgo TI
+2023-03-19,Tecnológico,Aceptable,Aceptable,0.9781345021989735,77.15,Índice Riesgo TI
+2023-03-26,Seguridad,Aceptable,Aceptable,0.9910629526217286,84.24,Índice Riesgo TI
+2023-03-26,Disponibilidad,Aceptable,Aceptable,0.9834999999999999,89.02,Índice Riesgo TI
+2023-03-26,Cumplimiento,Excelente,Excelente,1.0,92.97,Índice Riesgo TI
+2023-03-26,Operacional,Excelente,Excelente,1.0,92.34,Índice Riesgo TI
+2023-03-26,Tecnológico,Excelente,Excelente,0.9367800065231572,91.17,Índice Riesgo TI
+2023-04-02,Seguridad,Aceptable,Aceptable,0.9924560733384262,78.05,Índice Riesgo TI
+2023-04-02,Disponibilidad,Excelente,Excelente,0.9237142857142857,90.82,Índice Riesgo TI
+2023-04-02,Cumplimiento,Excelente,Excelente,0.9232051282051283,90.68,Índice Riesgo TI
+2023-04-02,Operacional,Aceptable,Aceptable,0.9963636363636362,80.8,Índice Riesgo TI
+2023-04-02,Tecnológico,Aceptable,Aceptable,0.9794475393639936,78.82,Índice Riesgo TI
+2023-04-09,Seguridad,Aceptable,Aceptable,0.99,85.52,Índice Riesgo TI
+2023-04-09,Disponibilidad,Aceptable,Aceptable,0.9797846978936897,87.97,Índice Riesgo TI
+2023-04-09,Cumplimiento,Aceptable,Aceptable,0.9895692089225055,83.22,Índice Riesgo TI
+2023-04-09,Operacional,Aceptable,Aceptable,0.9888134734299279,80.01,Índice Riesgo TI
+2023-04-09,Tecnológico,Excelente,Excelente,0.9082085779517287,91.61,Índice Riesgo TI
+2023-04-16,Seguridad,Aceptable,Aceptable,0.97784243697479,81.23,Índice Riesgo TI
+2023-04-16,Disponibilidad,Aceptable,Aceptable,0.9866724941724943,85.15,Índice Riesgo TI
+2023-04-16,Cumplimiento,Aceptable,Aceptable,0.9725,85.62,Índice Riesgo TI
+2023-04-16,Operacional,Aceptable,Aceptable,0.9897769285794296,82.87,Índice Riesgo TI
+2023-04-16,Tecnológico,Aceptable,Aceptable,0.9571257703081233,88.69,Índice Riesgo TI
+2023-04-23,Seguridad,Aceptable,Aceptable,0.9924560733384262,81.11,Índice Riesgo TI
+2023-04-23,Disponibilidad,Aceptable,Aceptable,0.9937481530431914,81.3,Índice Riesgo TI
+2023-04-23,Cumplimiento,Aceptable,Aceptable,0.9833324841349851,77.66,Índice Riesgo TI
+2023-04-23,Operacional,Aceptable,Aceptable,0.9975,80.43,Índice Riesgo TI
+2023-04-23,Tecnológico,Aceptable,Aceptable,0.99,84.65,Índice Riesgo TI
+2023-04-30,Seguridad,Aceptable,Aceptable,0.98,78.91,Índice Riesgo TI
+2023-04-30,Disponibilidad,Excelente,Excelente,0.9615384615384616,91.45,Índice Riesgo TI
+2023-04-30,Cumplimiento,Aceptable,Aceptable,0.9963711689162074,86.75,Índice Riesgo TI
+2023-04-30,Operacional,Aceptable,Aceptable,0.9608846153846153,84.84,Índice Riesgo TI
+2023-04-30,Tecnológico,Aceptable,Aceptable,0.96,88.2,Índice Riesgo TI
+2023-05-07,Seguridad,Aceptable,Aceptable,0.9677475199484785,79.24,Índice Riesgo TI
+2023-05-07,Disponibilidad,Aceptable,Aceptable,1.0,81.96,Índice Riesgo TI
+2023-05-07,Cumplimiento,Excelente,Excelente,0.8856317829457364,91.63,Índice Riesgo TI
+2023-05-07,Operacional,Aceptable,Aceptable,1.0,79.75,Índice Riesgo TI
+2023-05-07,Tecnológico,Excelente,Excelente,0.9494177679751996,93.09,Índice Riesgo TI
+2023-05-14,Seguridad,Aceptable,Aceptable,0.9952083333333335,86.1,Índice Riesgo TI
+2023-05-14,Disponibilidad,Excelente,Excelente,0.98,92.21,Índice Riesgo TI
+2023-05-14,Cumplimiento,Aceptable,Aceptable,0.9961698717948718,83.04,Índice Riesgo TI
+2023-05-14,Operacional,Aceptable,Aceptable,0.9900032051282053,83.01,Índice Riesgo TI
+2023-05-14,Tecnológico,Aceptable,Aceptable,0.9651534990793529,80.64,Índice Riesgo TI
+2023-05-21,Seguridad,Aceptable,Aceptable,0.9747372845083173,81.68,Índice Riesgo TI
+2023-05-21,Disponibilidad,Excelente,Excelente,0.962591093117409,91.14,Índice Riesgo TI
+2023-05-21,Cumplimiento,Aceptable,Aceptable,0.979662835582874,83.65,Índice Riesgo TI
+2023-05-21,Operacional,Aceptable,Aceptable,0.9933566106832755,78.76,Índice Riesgo TI
+2023-05-21,Tecnológico,Aceptable,Aceptable,0.981824449118698,83.13,Índice Riesgo TI
+2023-05-28,Seguridad,Aceptable,Aceptable,0.97138370281701,78.22,Índice Riesgo TI
+2023-05-28,Disponibilidad,Excelente,Excelente,0.962591093117409,93.71,Índice Riesgo TI
+2023-05-28,Cumplimiento,Excelente,Excelente,0.9690376290376289,90.58,Índice Riesgo TI
+2023-05-28,Operacional,Aceptable,Aceptable,0.99,88.37,Índice Riesgo TI
+2023-05-28,Tecnológico,Aceptable,Aceptable,0.9684010372592396,81.98,Índice Riesgo TI
+2023-06-04,Seguridad,Aceptable,Aceptable,1.0,78.28,Índice Riesgo TI
+2023-06-04,Disponibilidad,Aceptable,Aceptable,0.9877759258368627,87.95,Índice Riesgo TI
+2023-06-04,Cumplimiento,Aceptable,Aceptable,0.9890217941307858,79.26,Índice Riesgo TI
+2023-06-04,Operacional,Excelente,Excelente,0.99,94.02,Índice Riesgo TI
+2023-06-04,Tecnológico,Aceptable,Aceptable,0.984941024322008,81.61,Índice Riesgo TI
+2023-06-11,Seguridad,Aceptable,Aceptable,0.9903489791861884,89.35,Índice Riesgo TI
+2023-06-11,Disponibilidad,Excelente,Excelente,1.0,91.85,Índice Riesgo TI
+2023-06-11,Cumplimiento,Aceptable,Aceptable,0.9890217941307858,83.31,Índice Riesgo TI
+2023-06-11,Operacional,Aceptable,Aceptable,0.9914761111936747,80.49,Índice Riesgo TI
+2023-06-11,Tecnológico,Aceptable,Aceptable,0.9744486563068587,80.26,Índice Riesgo TI
+2023-06-18,Seguridad,Aceptable,Aceptable,0.9924420024420024,81.66,Índice Riesgo TI
+2023-06-18,Disponibilidad,Aceptable,Aceptable,0.9902529518619438,88.39,Índice Riesgo TI
+2023-06-18,Cumplimiento,Aceptable,Aceptable,0.9867995719085637,80.48,Índice Riesgo TI
+2023-06-18,Operacional,Aceptable,Aceptable,0.9922800602956786,82.81,Índice Riesgo TI
+2023-06-18,Tecnológico,Aceptable,Aceptable,0.984941024322008,85.05,Índice Riesgo TI
+2023-06-25,Seguridad,Aceptable,Aceptable,0.9723225556308627,78.71,Índice Riesgo TI
+2023-06-25,Disponibilidad,Aceptable,Aceptable,0.9966666666666666,84.46,Índice Riesgo TI
+2023-06-25,Cumplimiento,Excelente,Excelente,0.9866666666666666,94.21,Índice Riesgo TI
+2023-06-25,Operacional,Aceptable,Aceptable,0.9814761111936747,85.28,Índice Riesgo TI
+2023-06-25,Tecnológico,Aceptable,Aceptable,0.9892378680750773,82.46,Índice Riesgo TI
+2023-07-02,Seguridad,Aceptable,Aceptable,1.0,84.45,Índice Riesgo TI
+2023-07-02,Disponibilidad,Aceptable,Aceptable,0.9976282051282052,85.62,Índice Riesgo TI
+2023-07-02,Cumplimiento,Excelente,Excelente,0.99,92.44,Índice Riesgo TI
+2023-07-02,Operacional,Aceptable,Aceptable,1.0,78.91,Índice Riesgo TI
+2023-07-02,Tecnológico,Aceptable,Aceptable,0.97,89.7,Índice Riesgo TI
+2023-07-09,Seguridad,Aceptable,Aceptable,0.9922063269900439,79.8,Índice Riesgo TI
+2023-07-09,Disponibilidad,Excelente,Excelente,0.9387914653784218,94.71,Índice Riesgo TI
+2023-07-09,Cumplimiento,Aceptable,Aceptable,0.99,85.37,Índice Riesgo TI
+2023-07-09,Operacional,Aceptable,Aceptable,0.9984615384615384,81.64,Índice Riesgo TI
+2023-07-09,Tecnológico,Excelente,Excelente,0.9776240802675585,91.09,Índice Riesgo TI
+2023-07-16,Seguridad,Excelente,Excelente,0.9846153846153846,91.93,Índice Riesgo TI
+2023-07-16,Disponibilidad,Excelente,Excelente,0.9871328671328672,92.0,Índice Riesgo TI
+2023-07-16,Cumplimiento,Excelente,Excelente,0.9815384615384616,90.58,Índice Riesgo TI
+2023-07-16,Operacional,Excelente,Excelente,0.9815384615384616,92.57,Índice Riesgo TI
+2023-07-16,Tecnológico,Aceptable,Aceptable,0.9888850038850039,82.55,Índice Riesgo TI
+2023-07-23,Seguridad,Aceptable,Aceptable,1.0,88.17,Índice Riesgo TI
+2023-07-23,Disponibilidad,Excelente,Excelente,0.99,93.71,Índice Riesgo TI
+2023-07-23,Cumplimiento,Aceptable,Aceptable,0.9673002842977296,85.41,Índice Riesgo TI
+2023-07-23,Operacional,Aceptable,Aceptable,0.99,88.16,Índice Riesgo TI
+2023-07-23,Tecnológico,Aceptable,Aceptable,0.986961926961927,79.1,Índice Riesgo TI
+2023-07-30,Seguridad,Aceptable,Aceptable,1.0,87.48,Índice Riesgo TI
+2023-07-30,Disponibilidad,Excelente,Excelente,0.99,93.41,Índice Riesgo TI
+2023-07-30,Cumplimiento,Aceptable,Aceptable,0.9884512814487266,89.29,Índice Riesgo TI
+2023-07-30,Operacional,Aceptable,Aceptable,0.9921514668055385,86.3,Índice Riesgo TI
+2023-07-30,Tecnológico,Aceptable,Aceptable,0.9745850119452624,86.37,Índice Riesgo TI
+2023-08-06,Seguridad,Aceptable,Aceptable,1.0,84.27,Índice Riesgo TI
+2023-08-06,Disponibilidad,Aceptable,Aceptable,0.9946010089354107,81.3,Índice Riesgo TI
+2023-08-06,Cumplimiento,Aceptable,Aceptable,0.9988235294117647,84.47,Índice Riesgo TI
+2023-08-06,Operacional,Aceptable,Aceptable,0.9973688581098863,86.44,Índice Riesgo TI
+2023-08-06,Tecnológico,Aceptable,Aceptable,0.980042735042735,81.44,Índice Riesgo TI
+2023-08-13,Seguridad,Aceptable,Aceptable,0.9886281173691455,86.7,Índice Riesgo TI
+2023-08-13,Disponibilidad,Excelente,Excelente,1.0,90.74,Índice Riesgo TI
+2023-08-13,Cumplimiento,Aceptable,Aceptable,0.9869965416055334,89.36,Índice Riesgo TI
+2023-08-13,Operacional,Excelente,Excelente,0.99,92.35,Índice Riesgo TI
+2023-08-13,Tecnológico,Aceptable,Aceptable,0.99,89.48,Índice Riesgo TI
+2023-08-20,Seguridad,Aceptable,Aceptable,0.9949773755656107,80.16,Índice Riesgo TI
+2023-08-20,Disponibilidad,Excelente,Excelente,1.0,91.78,Índice Riesgo TI
+2023-08-20,Cumplimiento,Aceptable,Aceptable,0.9946010089354107,86.87,Índice Riesgo TI
+2023-08-20,Operacional,Aceptable,Aceptable,0.9988235294117647,80.09,Índice Riesgo TI
+2023-08-20,Tecnológico,Aceptable,Aceptable,1.0,80.91,Índice Riesgo TI
+2023-08-27,Seguridad,Aceptable,Aceptable,1.0,86.62,Índice Riesgo TI
+2023-08-27,Disponibilidad,Aceptable,Aceptable,0.9860139108483126,83.9,Índice Riesgo TI
+2023-08-27,Cumplimiento,Excelente,Excelente,0.9832692307692308,90.73,Índice Riesgo TI
+2023-08-27,Operacional,Aceptable,Aceptable,0.9950474295384578,83.18,Índice Riesgo TI
+2023-08-27,Tecnológico,Aceptable,Aceptable,0.99,89.02,Índice Riesgo TI
+2023-09-03,Seguridad,Excelente,Excelente,0.95,93.81,Índice Riesgo TI
+2023-09-03,Disponibilidad,Excelente,Excelente,0.95,90.45,Índice Riesgo TI
+2023-09-03,Cumplimiento,Excelente,Excelente,1.0,94.35,Índice Riesgo TI
+2023-09-03,Operacional,Excelente,Excelente,0.9861764705882353,93.67,Índice Riesgo TI
+2023-09-03,Tecnológico,Excelente,Excelente,1.0,91.66,Índice Riesgo TI
+2023-09-10,Seguridad,Aceptable,Aceptable,0.9994736842105263,81.1,Índice Riesgo TI
+2023-09-10,Disponibilidad,Aceptable,Aceptable,0.9723926112396913,89.84,Índice Riesgo TI
+2023-09-10,Cumplimiento,Aceptable,Aceptable,0.9803926112396912,84.02,Índice Riesgo TI
+2023-09-10,Operacional,Excelente,Excelente,0.9730434782608696,94.29,Índice Riesgo TI
+2023-09-10,Tecnológico,Aceptable,Aceptable,0.9943821916280255,86.06,Índice Riesgo TI
+2023-09-17,Seguridad,Aceptable,Aceptable,0.9744736842105263,89.78,Índice Riesgo TI
+2023-09-17,Disponibilidad,Aceptable,Aceptable,0.9623926112396913,88.13,Índice Riesgo TI
+2023-09-17,Cumplimiento,Excelente,Excelente,1.0,91.79,Índice Riesgo TI
+2023-09-17,Operacional,Excelente,Excelente,1.0,93.75,Índice Riesgo TI
+2023-09-17,Tecnológico,Aceptable,Aceptable,0.9837821916280255,85.47,Índice Riesgo TI
+2023-09-24,Seguridad,Aceptable,Aceptable,0.991140350877193,87.56,Índice Riesgo TI
+2023-09-24,Disponibilidad,Excelente,Excelente,1.0,95.03,Índice Riesgo TI
+2023-09-24,Cumplimiento,Excelente,Excelente,0.9680769230769231,96.11,Índice Riesgo TI
+2023-09-24,Operacional,Excelente,Excelente,0.995,91.74,Índice Riesgo TI
+2023-09-24,Tecnológico,Aceptable,Aceptable,0.96,86.66,Índice Riesgo TI
+2023-10-01,Seguridad,Excelente,Excelente,0.99,95.86,Índice Riesgo TI
+2023-10-01,Disponibilidad,Aceptable,Aceptable,0.9834360895005608,81.72,Índice Riesgo TI
+2023-10-01,Cumplimiento,Excelente,Excelente,0.9880434782608696,94.32,Índice Riesgo TI
+2023-10-01,Operacional,Aceptable,Aceptable,0.9887694228338941,88.88,Índice Riesgo TI
+2023-10-01,Tecnológico,Excelente,Excelente,0.97,95.97,Índice Riesgo TI
+2023-10-08,Seguridad,Excelente,Excelente,0.9540000000000001,92.4,Índice Riesgo TI
+2023-10-08,Disponibilidad,Aceptable,Aceptable,0.9946,81.01,Índice Riesgo TI
+2023-10-08,Cumplimiento,Aceptable,Aceptable,0.9884360895005608,81.93,Índice Riesgo TI
+2023-10-08,Operacional,Excelente,Excelente,0.99,91.6,Índice Riesgo TI
+2023-10-08,Tecnológico,Aceptable,Aceptable,0.9921155249613589,81.25,Índice Riesgo TI
+2023-10-15,Seguridad,Aceptable,Aceptable,0.9907940963899303,87.91,Índice Riesgo TI
+2023-10-15,Disponibilidad,Excelente,Excelente,1.0,95.35,Índice Riesgo TI
+2023-10-15,Cumplimiento,Aceptable,Aceptable,0.9857259445730245,84.89,Índice Riesgo TI
+2023-10-15,Operacional,Aceptable,Aceptable,0.995,88.9,Índice Riesgo TI
+2023-10-15,Tecnológico,Aceptable,Aceptable,0.9727821916280255,85.9,Índice Riesgo TI
+2023-10-22,Seguridad,Excelente,Excelente,0.9506666666666667,96.31,Índice Riesgo TI
+2023-10-22,Disponibilidad,Aceptable,Aceptable,0.9896,86.3,Índice Riesgo TI
+2023-10-22,Cumplimiento,Excelente,Excelente,0.99,92.6,Índice Riesgo TI
+2023-10-22,Operacional,Excelente,Excelente,0.9830434782608696,92.06,Índice Riesgo TI
+2023-10-22,Tecnológico,Aceptable,Aceptable,0.9894736842105263,81.52,Índice Riesgo TI
+2023-10-29,Seguridad,Aceptable,Aceptable,0.9994736842105263,82.73,Índice Riesgo TI
+2023-10-29,Disponibilidad,Aceptable,Aceptable,0.9887694228338941,82.37,Índice Riesgo TI
+2023-10-29,Cumplimiento,Aceptable,Aceptable,0.9996,82.96,Índice Riesgo TI
+2023-10-29,Operacional,Aceptable,Aceptable,0.99,87.91,Índice Riesgo TI
+2023-10-29,Tecnológico,Aceptable,Aceptable,0.9927155249613588,81.96,Índice Riesgo TI
+2023-11-05,Seguridad,Excelente,Excelente,0.96,92.64,Índice Riesgo TI
+2023-11-05,Disponibilidad,Aceptable,Aceptable,0.9900473731444532,84.76,Índice Riesgo TI
+2023-11-05,Cumplimiento,Aceptable,Aceptable,0.9960908514053227,83.04,Índice Riesgo TI
+2023-11-05,Operacional,Excelente,Excelente,0.9830769230769231,94.88,Índice Riesgo TI
+2023-11-05,Tecnológico,Aceptable,Aceptable,0.9873085074174992,89.66,Índice Riesgo TI
+2023-11-12,Seguridad,Aceptable,Aceptable,0.99,82.6,Índice Riesgo TI
+2023-11-12,Disponibilidad,Excelente,Excelente,0.985,91.06,Índice Riesgo TI
+2023-11-12,Cumplimiento,Excelente,Excelente,1.0,93.13,Índice Riesgo TI
+2023-11-12,Operacional,Aceptable,Aceptable,0.9766666666666667,89.19,Índice Riesgo TI
+2023-11-12,Tecnológico,Aceptable,Aceptable,0.95,87.98,Índice Riesgo TI
+2023-11-19,Seguridad,Aceptable,Aceptable,0.9873085074174992,89.52,Índice Riesgo TI
+2023-11-19,Disponibilidad,Aceptable,Aceptable,0.9930139283283996,82.55,Índice Riesgo TI
+2023-11-19,Cumplimiento,Excelente,Excelente,0.9930434782608696,93.14,Índice Riesgo TI
+2023-11-19,Operacional,Aceptable,Aceptable,1.0,84.07,Índice Riesgo TI
+2023-11-19,Tecnológico,Aceptable,Aceptable,0.9761904761904762,84.12,Índice Riesgo TI
+2023-11-26,Seguridad,Aceptable,Aceptable,0.9861904761904762,82.12,Índice Riesgo TI
+2023-11-26,Disponibilidad,Excelente,Excelente,0.9830769230769231,94.65,Índice Riesgo TI
+2023-11-26,Cumplimiento,Aceptable,Aceptable,0.98,81.99,Índice Riesgo TI
+2023-11-26,Operacional,Aceptable,Aceptable,0.99,84.45,Índice Riesgo TI
+2023-11-26,Tecnológico,Aceptable,Aceptable,0.98,86.43,Índice Riesgo TI
+2023-12-03,Seguridad,Aceptable,Aceptable,0.9688888888888889,85.87,Índice Riesgo TI
+2023-12-03,Disponibilidad,Aceptable,Aceptable,0.9478322973024826,85.71,Índice Riesgo TI
+2023-12-03,Cumplimiento,Aceptable,Aceptable,0.9747888190416131,88.38,Índice Riesgo TI
+2023-12-03,Operacional,Excelente,Excelente,0.9730769230769231,91.33,Índice Riesgo TI
+2023-12-03,Tecnológico,Excelente,Excelente,0.97,92.77,Índice Riesgo TI
+2023-12-10,Seguridad,Excelente,Excelente,1.0,92.25,Índice Riesgo TI
+2023-12-10,Disponibilidad,Aceptable,Aceptable,0.970598342851137,87.08,Índice Riesgo TI
+2023-12-10,Cumplimiento,Excelente,Excelente,0.9735294117647058,92.55,Índice Riesgo TI
+2023-12-10,Operacional,Excelente,Excelente,0.9670157004830916,92.26,Índice Riesgo TI
+2023-12-10,Tecnológico,Excelente,Excelente,0.98,91.36,Índice Riesgo TI
+2023-12-17,Seguridad,Aceptable,Aceptable,0.9150277777777778,89.77,Índice Riesgo TI
+2023-12-17,Disponibilidad,Aceptable,Aceptable,0.9936852188906984,83.25,Índice Riesgo TI
+2023-12-17,Cumplimiento,Excelente,Excelente,0.9535294117647058,91.2,Índice Riesgo TI
+2023-12-17,Operacional,Excelente,Excelente,0.9670157004830916,91.45,Índice Riesgo TI
+2023-12-17,Tecnológico,Aceptable,Aceptable,0.9444444444444444,82.69,Índice Riesgo TI
+2023-12-24,Seguridad,Excelente,Excelente,0.960111111111111,95.03,Índice Riesgo TI
+2023-12-24,Disponibilidad,Excelente,Excelente,0.9660294117647058,92.45,Índice Riesgo TI
+2023-12-24,Cumplimiento,Excelente,Excelente,0.9660294117647058,95.29,Índice Riesgo TI
+2023-12-24,Operacional,Excelente,Excelente,0.9825,91.93,Índice Riesgo TI
+2023-12-24,Tecnológico,Aceptable,Aceptable,0.987979797979798,88.59,Índice Riesgo TI
+2023-12-31,Seguridad,Aceptable,Aceptable,0.93,82.33,Índice Riesgo TI
+2023-12-31,Disponibilidad,Aceptable,Aceptable,0.99,85.16,Índice Riesgo TI
+2023-12-31,Cumplimiento,Excelente,Excelente,0.95,93.2,Índice Riesgo TI
+2023-12-31,Operacional,Aceptable,Aceptable,0.9066666666666667,85.28,Índice Riesgo TI
+2023-12-31,Tecnológico,Aceptable,Aceptable,0.85,82.57,Índice Riesgo TI
+2024-01-07,Seguridad,Aceptable,Aceptable,1.0,85.31,Índice Riesgo TI
+2024-01-07,Disponibilidad,Excelente,Excelente,0.9309820261437909,94.06,Índice Riesgo TI
+2024-01-07,Cumplimiento,Aceptable,Aceptable,0.9976470588235294,85.48,Índice Riesgo TI
+2024-01-07,Operacional,Excelente,Excelente,0.9137598039215686,92.25,Índice Riesgo TI
+2024-01-07,Tecnológico,Excelente,Excelente,0.93,96.24,Índice Riesgo TI
+2024-01-14,Seguridad,Aceptable,Aceptable,0.961,87.65,Índice Riesgo TI
+2024-01-14,Disponibilidad,Excelente,Excelente,0.9176666666666666,94.12,Índice Riesgo TI
+2024-01-14,Cumplimiento,Excelente,Excelente,0.9228431372549021,96.62,Índice Riesgo TI
+2024-01-14,Operacional,Aceptable,Aceptable,1.0,88.53,Índice Riesgo TI
+2024-01-14,Tecnológico,Aceptable,Aceptable,0.9952500000000001,82.07,Índice Riesgo TI
+2024-01-21,Seguridad,Aceptable,Aceptable,0.979765906567084,86.87,Índice Riesgo TI
+2024-01-21,Disponibilidad,Aceptable,Aceptable,0.9598724514681494,83.04,Índice Riesgo TI
+2024-01-21,Cumplimiento,Aceptable,Aceptable,0.987928007023705,89.48,Índice Riesgo TI
+2024-01-21,Operacional,Aceptable,Aceptable,0.9627303921568626,86.41,Índice Riesgo TI
+2024-01-21,Tecnológico,Aceptable,Aceptable,0.9801923771553193,85.3,Índice Riesgo TI
+2024-01-28,Seguridad,Excelente,Excelente,0.8638162852137379,96.79,Índice Riesgo TI
+2024-01-28,Disponibilidad,Excelente,Excelente,0.9165196078431372,91.01,Índice Riesgo TI
+2024-01-28,Cumplimiento,Excelente,Excelente,0.84,97.41,Índice Riesgo TI
+2024-01-28,Operacional,Excelente,Excelente,0.8815196078431373,90.61,Índice Riesgo TI
+2024-01-28,Tecnológico,Aceptable,Aceptable,0.9833568627450979,85.29,Índice Riesgo TI
+2024-02-04,Seguridad,Aceptable,Aceptable,0.986,83.88,Índice Riesgo TI
+2024-02-04,Disponibilidad,Excelente,Excelente,0.883952380952381,91.59,Índice Riesgo TI
+2024-02-04,Cumplimiento,Excelente,Excelente,0.9456177446102819,90.61,Índice Riesgo TI
+2024-02-04,Operacional,Aceptable,Aceptable,1.0,84.66,Índice Riesgo TI
+2024-02-04,Tecnológico,Aceptable,Aceptable,0.91,89.63,Índice Riesgo TI
+2024-02-11,Seguridad,Aceptable,Aceptable,0.996,85.67,Índice Riesgo TI
+2024-02-11,Disponibilidad,Excelente,Excelente,0.96,91.23,Índice Riesgo TI
+2024-02-11,Cumplimiento,Excelente,Excelente,0.9406666666666668,97.29,Índice Riesgo TI
+2024-02-11,Operacional,Aceptable,Aceptable,0.98,85.15,Índice Riesgo TI
+2024-02-11,Tecnológico,Aceptable,Aceptable,0.9814678355323068,88.37,Índice Riesgo TI
+2024-02-18,Seguridad,Excelente,Excelente,0.9263898146255026,93.47,Índice Riesgo TI
+2024-02-18,Disponibilidad,Excelente,Excelente,0.9213333333333332,92.69,Índice Riesgo TI
+2024-02-18,Cumplimiento,Aceptable,Aceptable,0.996,83.26,Índice Riesgo TI
+2024-02-18,Operacional,Aceptable,Aceptable,0.96,89.53,Índice Riesgo TI
+2024-02-18,Tecnológico,Excelente,Excelente,0.9561333333333334,91.74,Índice Riesgo TI
+2024-02-25,Seguridad,Aceptable,Aceptable,0.9909678355323069,89.55,Índice Riesgo TI
+2024-02-25,Disponibilidad,Aceptable,Aceptable,0.9849632693222613,85.37,Índice Riesgo TI
+2024-02-25,Cumplimiento,Aceptable,Aceptable,0.9953333333333333,82.86,Índice Riesgo TI
+2024-02-25,Operacional,Excelente,Excelente,0.98,98.0,Índice Riesgo TI
+2024-02-25,Tecnológico,Aceptable,Aceptable,0.9829237298401844,86.37,Índice Riesgo TI
+2024-03-03,Seguridad,Aceptable,Aceptable,0.9907220435308196,86.77,Índice Riesgo TI
+2024-03-03,Disponibilidad,Aceptable,Aceptable,0.9951666666666666,87.27,Índice Riesgo TI
+2024-03-03,Cumplimiento,Excelente,Excelente,0.906577380952381,95.36,Índice Riesgo TI
+2024-03-03,Operacional,Excelente,Excelente,0.99,95.94,Índice Riesgo TI
+2024-03-03,Tecnológico,Excelente,Excelente,0.9541431372549022,92.96,Índice Riesgo TI
+2024-03-10,Seguridad,Aceptable,Aceptable,0.86,89.99,Índice Riesgo TI
+2024-03-10,Disponibilidad,Excelente,Excelente,0.9616455223880598,92.16,Índice Riesgo TI
+2024-03-10,Cumplimiento,Excelente,Excelente,0.9618046132971506,97.97,Índice Riesgo TI
+2024-03-10,Operacional,Excelente,Excelente,0.943137946630484,98.0,Índice Riesgo TI
+2024-03-10,Tecnológico,Excelente,Excelente,1.0,96.98,Índice Riesgo TI
+2024-03-17,Seguridad,Excelente,Excelente,0.9260300065231571,93.09,Índice Riesgo TI
+2024-03-17,Disponibilidad,Aceptable,Aceptable,0.9951666666666666,84.18,Índice Riesgo TI
+2024-03-17,Cumplimiento,Aceptable,Aceptable,0.9870466026555945,87.45,Índice Riesgo TI
+2024-03-17,Operacional,Excelente,Excelente,1.0,93.24,Índice Riesgo TI
+2024-03-17,Tecnológico,Aceptable,Aceptable,0.98,88.7,Índice Riesgo TI
+2024-03-24,Seguridad,Excelente,Excelente,0.99,94.74,Índice Riesgo TI
+2024-03-24,Disponibilidad,Excelente,Excelente,1.0,94.12,Índice Riesgo TI
+2024-03-24,Cumplimiento,Excelente,Excelente,0.9423333333333334,93.25,Índice Riesgo TI
+2024-03-24,Operacional,Aceptable,Aceptable,0.9912132693222613,84.76,Índice Riesgo TI
+2024-03-24,Tecnológico,Excelente,Excelente,0.9540673172598546,93.66,Índice Riesgo TI
+2024-03-31,Seguridad,Excelente,Excelente,0.9516839839265212,97.24,Índice Riesgo TI
+2024-03-31,Disponibilidad,Aceptable,Aceptable,0.9880508106541072,85.06,Índice Riesgo TI
+2024-03-31,Cumplimiento,Excelente,Excelente,1.0,92.62,Índice Riesgo TI
+2024-03-31,Operacional,Aceptable,Aceptable,0.9843008106541071,87.66,Índice Riesgo TI
+2024-03-31,Tecnológico,Aceptable,Aceptable,0.9908392684112023,83.46,Índice Riesgo TI
+2024-04-07,Seguridad,Aceptable,Aceptable,0.9674559307704022,86.85,Índice Riesgo TI
+2024-04-07,Disponibilidad,Excelente,Excelente,0.7473717948717947,90.08,Índice Riesgo TI
+2024-04-07,Cumplimiento,Excelente,Excelente,0.9436309523809524,98.0,Índice Riesgo TI
+2024-04-07,Operacional,Aceptable,Aceptable,0.99,84.81,Índice Riesgo TI
+2024-04-07,Tecnológico,Excelente,Excelente,0.910727476963165,96.19,Índice Riesgo TI
+2024-04-14,Seguridad,Excelente,Excelente,0.99,98.0,Índice Riesgo TI
+2024-04-14,Disponibilidad,Excelente,Excelente,0.97,98.0,Índice Riesgo TI
+2024-04-14,Cumplimiento,Aceptable,Aceptable,0.9808314863765248,88.37,Índice Riesgo TI
+2024-04-14,Operacional,Aceptable,Aceptable,0.98,86.99,Índice Riesgo TI
+2024-04-14,Tecnológico,Excelente,Excelente,0.98,96.64,Índice Riesgo TI
+2024-04-21,Seguridad,Aceptable,Aceptable,0.9614193859199038,87.87,Índice Riesgo TI
+2024-04-21,Disponibilidad,Aceptable,Aceptable,0.9837481530431914,89.18,Índice Riesgo TI
+2024-04-21,Cumplimiento,Excelente,Excelente,0.93,90.41,Índice Riesgo TI
+2024-04-21,Operacional,Excelente,Excelente,0.9402051282051282,90.36,Índice Riesgo TI
+2024-04-21,Tecnológico,Excelente,Excelente,0.97,98.0,Índice Riesgo TI
+2024-04-28,Seguridad,Excelente,Excelente,0.939920244484198,96.95,Índice Riesgo TI
+2024-04-28,Disponibilidad,Aceptable,Aceptable,0.9976211689162073,84.12,Índice Riesgo TI
+2024-04-28,Cumplimiento,Aceptable,Aceptable,0.98,84.73,Índice Riesgo TI
+2024-04-28,Operacional,Excelente,Excelente,0.9660384615384615,96.41,Índice Riesgo TI
+2024-04-28,Tecnológico,Aceptable,Aceptable,0.9788736209613481,88.72,Índice Riesgo TI
+2024-05-05,Seguridad,Excelente,Excelente,0.9833333333333333,91.07,Índice Riesgo TI
+2024-05-05,Disponibilidad,Excelente,Excelente,0.985,93.72,Índice Riesgo TI
+2024-05-05,Cumplimiento,Aceptable,Aceptable,0.9741432030415024,89.71,Índice Riesgo TI
+2024-05-05,Operacional,Excelente,Excelente,0.9646620859760394,94.14,Índice Riesgo TI
+2024-05-05,Tecnológico,Excelente,Excelente,0.9558333333333333,93.26,Índice Riesgo TI
+2024-05-12,Seguridad,Excelente,Excelente,0.9577590723230258,98.0,Índice Riesgo TI
+2024-05-12,Disponibilidad,Excelente,Excelente,0.9479313167452702,94.22,Índice Riesgo TI
+2024-05-12,Cumplimiento,Aceptable,Aceptable,0.9785416666666668,89.58,Índice Riesgo TI
+2024-05-12,Operacional,Excelente,Excelente,0.9785384615384615,93.59,Índice Riesgo TI
+2024-05-12,Tecnológico,Excelente,Excelente,0.9200605284111107,97.08,Índice Riesgo TI
+2024-05-19,Seguridad,Excelente,Excelente,0.9700357142857143,93.85,Índice Riesgo TI
+2024-05-19,Disponibilidad,Excelente,Excelente,0.9436506149908843,90.86,Índice Riesgo TI
+2024-05-19,Cumplimiento,Excelente,Excelente,0.99,94.21,Índice Riesgo TI
+2024-05-19,Operacional,Aceptable,Aceptable,0.9939505735492579,84.44,Índice Riesgo TI
+2024-05-19,Tecnológico,Aceptable,Aceptable,0.9841666666666667,88.61,Índice Riesgo TI
+2024-05-26,Seguridad,Aceptable,Aceptable,1.0,87.68,Índice Riesgo TI
+2024-05-26,Disponibilidad,Aceptable,Aceptable,0.9852083333333332,89.42,Índice Riesgo TI
+2024-05-26,Cumplimiento,Aceptable,Aceptable,0.9867698100038019,86.9,Índice Riesgo TI
+2024-05-26,Operacional,Aceptable,Aceptable,0.9919169650575834,87.37,Índice Riesgo TI
+2024-05-26,Tecnológico,Excelente,Excelente,0.9260077497943787,94.93,Índice Riesgo TI
+2024-06-02,Seguridad,Excelente,Excelente,0.9874725274725275,96.61,Índice Riesgo TI
+2024-06-02,Disponibilidad,Aceptable,Aceptable,0.9877759258368627,84.55,Índice Riesgo TI
+2024-06-02,Cumplimiento,Excelente,Excelente,0.9782439782439784,91.38,Índice Riesgo TI
+2024-06-02,Operacional,Excelente,Excelente,0.9849162679425837,92.7,Índice Riesgo TI
+2024-06-02,Tecnológico,Excelente,Excelente,0.9566267974134263,96.42,Índice Riesgo TI
+2024-06-09,Seguridad,Excelente,Excelente,0.9928571428571428,96.02,Índice Riesgo TI
+2024-06-09,Disponibilidad,Excelente,Excelente,0.9781854987118145,98.0,Índice Riesgo TI
+2024-06-09,Cumplimiento,Aceptable,Aceptable,0.9935862851952771,88.26,Índice Riesgo TI
+2024-06-09,Operacional,Aceptable,Aceptable,0.9816693479086505,87.38,Índice Riesgo TI
+2024-06-09,Tecnológico,Excelente,Excelente,0.97,91.58,Índice Riesgo TI
+2024-06-16,Seguridad,Excelente,Excelente,0.96,97.93,Índice Riesgo TI
+2024-06-16,Disponibilidad,Excelente,Excelente,0.9715188320451478,94.22,Índice Riesgo TI
+2024-06-16,Cumplimiento,Aceptable,Aceptable,0.9866666666666666,85.12,Índice Riesgo TI
+2024-06-16,Operacional,Excelente,Excelente,0.9749162679425837,91.82,Índice Riesgo TI
+2024-06-16,Tecnológico,Excelente,Excelente,0.9600812231247013,95.87,Índice Riesgo TI
+2024-06-23,Seguridad,Excelente,Excelente,0.95,94.8,Índice Riesgo TI
+2024-06-23,Disponibilidad,Excelente,Excelente,0.9633333333333334,98.0,Índice Riesgo TI
+2024-06-23,Cumplimiento,Excelente,Excelente,0.972350258437215,91.84,Índice Riesgo TI
+2024-06-23,Operacional,Excelente,Excelente,0.9673007246376812,93.83,Índice Riesgo TI
+2024-06-23,Tecnológico,Excelente,Excelente,0.9437696545562835,98.0,Índice Riesgo TI
+2024-06-30,Seguridad,Excelente,Excelente,0.9704109589041096,92.11,Índice Riesgo TI
+2024-06-30,Disponibilidad,Excelente,Excelente,0.972350258437215,94.27,Índice Riesgo TI
+2024-06-30,Cumplimiento,Aceptable,Aceptable,0.9876282051282051,87.97,Índice Riesgo TI
+2024-06-30,Operacional,Aceptable,Aceptable,0.97,88.82,Índice Riesgo TI
+2024-06-30,Tecnológico,Excelente,Excelente,0.9933333333333333,98.0,Índice Riesgo TI
+2024-07-07,Seguridad,Excelente,Excelente,0.99,98.0,Índice Riesgo TI
+2024-07-07,Disponibilidad,Excelente,Excelente,0.9815384615384616,95.12,Índice Riesgo TI
+2024-07-07,Cumplimiento,Excelente,Excelente,0.9866666666666666,98.0,Índice Riesgo TI
+2024-07-07,Operacional,Excelente,Excelente,0.9790810276679841,98.0,Índice Riesgo TI
+2024-07-07,Tecnológico,Excelente,Excelente,0.9836363636363636,92.16,Índice Riesgo TI
+2024-07-14,Seguridad,Aceptable,Aceptable,0.93,89.97,Índice Riesgo TI
+2024-07-14,Disponibilidad,Aceptable,Aceptable,0.9873002842977295,87.76,Índice Riesgo TI
+2024-07-14,Cumplimiento,Excelente,Excelente,0.982350258437215,98.0,Índice Riesgo TI
+2024-07-14,Operacional,Excelente,Excelente,0.9790810276679841,96.5,Índice Riesgo TI
+2024-07-14,Tecnológico,Aceptable,Aceptable,0.9780557991640015,87.13,Índice Riesgo TI
+2024-07-21,Seguridad,Aceptable,Aceptable,0.9851111261086904,86.6,Índice Riesgo TI
+2024-07-21,Disponibilidad,Excelente,Excelente,0.9871328671328672,95.91,Índice Riesgo TI
+2024-07-21,Cumplimiento,Excelente,Excelente,0.9687914653784219,96.69,Índice Riesgo TI
+2024-07-21,Operacional,Excelente,Excelente,0.9790810276679841,98.0,Índice Riesgo TI
+2024-07-21,Tecnológico,Excelente,Excelente,0.9753030303030301,98.0,Índice Riesgo TI
+2024-07-28,Seguridad,Aceptable,Aceptable,0.9872041493645044,89.29,Índice Riesgo TI
+2024-07-28,Disponibilidad,Excelente,Excelente,0.99,93.04,Índice Riesgo TI
+2024-07-28,Cumplimiento,Excelente,Excelente,0.9767081320450886,96.14,Índice Riesgo TI
+2024-07-28,Operacional,Excelente,Excelente,0.99,98.0,Índice Riesgo TI
+2024-07-28,Tecnológico,Excelente,Excelente,0.99,93.51,Índice Riesgo TI
+2024-08-04,Seguridad,Aceptable,Aceptable,1.0,89.46,Índice Riesgo TI
+2024-08-04,Disponibilidad,Excelente,Excelente,0.9932692307692308,94.02,Índice Riesgo TI
+2024-08-04,Cumplimiento,Excelente,Excelente,0.9932692307692308,96.44,Índice Riesgo TI
+2024-08-04,Operacional,Excelente,Excelente,0.98,98.0,Índice Riesgo TI
+2024-08-04,Tecnológico,Aceptable,Aceptable,1.0,86.15,Índice Riesgo TI
+2024-08-11,Seguridad,Excelente,Excelente,0.96,98.0,Índice Riesgo TI
+2024-08-11,Disponibilidad,Aceptable,Aceptable,0.988335339419741,87.26,Índice Riesgo TI
+2024-08-11,Cumplimiento,Excelente,Excelente,0.9832692307692308,91.02,Índice Riesgo TI
+2024-08-11,Operacional,Excelente,Excelente,1.0,96.49,Índice Riesgo TI
+2024-08-11,Tecnológico,Excelente,Excelente,0.963008695652174,92.13,Índice Riesgo TI
+2024-08-18,Seguridad,Aceptable,Aceptable,1.0,88.28,Índice Riesgo TI
+2024-08-18,Disponibilidad,Excelente,Excelente,1.0,97.6,Índice Riesgo TI
+2024-08-18,Cumplimiento,Aceptable,Aceptable,0.9946010089354107,87.67,Índice Riesgo TI
+2024-08-18,Operacional,Excelente,Excelente,1.0,90.67,Índice Riesgo TI
+2024-08-18,Tecnológico,Excelente,Excelente,0.9526086956521739,95.7,Índice Riesgo TI
+2024-08-25,Seguridad,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-08-25,Disponibilidad,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-08-25,Cumplimiento,Excelente,Excelente,0.9932692307692308,92.35,Índice Riesgo TI
+2024-08-25,Operacional,Excelente,Excelente,0.9911764705882353,93.58,Índice Riesgo TI
+2024-08-25,Tecnológico,Excelente,Excelente,0.98,96.6,Índice Riesgo TI
+2024-09-01,Seguridad,Aceptable,Aceptable,0.989460763056597,87.36,Índice Riesgo TI
+2024-09-01,Disponibilidad,Aceptable,Aceptable,0.9891378151260504,89.41,Índice Riesgo TI
+2024-09-01,Cumplimiento,Aceptable,Aceptable,0.9941378151260504,89.44,Índice Riesgo TI
+2024-09-01,Operacional,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-09-01,Tecnológico,Aceptable,Aceptable,1.0,88.33,Índice Riesgo TI
+2024-09-08,Seguridad,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-09-08,Disponibilidad,Excelente,Excelente,0.995,95.16,Índice Riesgo TI
+2024-09-08,Cumplimiento,Excelente,Excelente,0.9780434782608696,94.68,Índice Riesgo TI
+2024-09-08,Operacional,Excelente,Excelente,0.9437435897435897,90.46,Índice Riesgo TI
+2024-09-08,Tecnológico,Aceptable,Aceptable,1.0,86.35,Índice Riesgo TI
+2024-09-15,Seguridad,Excelente,Excelente,0.975,94.78,Índice Riesgo TI
+2024-09-15,Disponibilidad,Aceptable,Aceptable,0.9834360895005608,88.49,Índice Riesgo TI
+2024-09-15,Cumplimiento,Excelente,Excelente,0.9880434782608696,97.42,Índice Riesgo TI
+2024-09-15,Operacional,Excelente,Excelente,0.995,98.0,Índice Riesgo TI
+2024-09-15,Tecnológico,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-09-22,Seguridad,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-09-22,Disponibilidad,Excelente,Excelente,1.0,93.67,Índice Riesgo TI
+2024-09-22,Cumplimiento,Aceptable,Aceptable,0.9983500000000001,87.47,Índice Riesgo TI
+2024-09-22,Operacional,Aceptable,Aceptable,0.9777259445730246,88.33,Índice Riesgo TI
+2024-09-22,Tecnológico,Excelente,Excelente,0.9540000000000001,98.0,Índice Riesgo TI
+2024-09-29,Seguridad,Excelente,Excelente,0.99,91.61,Índice Riesgo TI
+2024-09-29,Disponibilidad,Excelente,Excelente,0.995,96.81,Índice Riesgo TI
+2024-09-29,Cumplimiento,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-09-29,Operacional,Excelente,Excelente,0.995,96.25,Índice Riesgo TI
+2024-09-29,Tecnológico,Aceptable,Aceptable,0.9594488582946922,87.78,Índice Riesgo TI
+2024-10-06,Seguridad,Excelente,Excelente,0.995,94.85,Índice Riesgo TI
+2024-10-06,Disponibilidad,Excelente,Excelente,1.0,95.92,Índice Riesgo TI
+2024-10-06,Cumplimiento,Aceptable,Aceptable,0.9996,87.06,Índice Riesgo TI
+2024-10-06,Operacional,Excelente,Excelente,0.99,98.0,Índice Riesgo TI
+2024-10-06,Tecnológico,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-10-13,Seguridad,Excelente,Excelente,1.0,93.95,Índice Riesgo TI
+2024-10-13,Disponibilidad,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-10-13,Cumplimiento,Excelente,Excelente,0.9880434782608696,97.38,Índice Riesgo TI
+2024-10-13,Operacional,Excelente,Excelente,0.9730434782608696,90.85,Índice Riesgo TI
+2024-10-13,Tecnológico,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-10-20,Seguridad,Aceptable,Aceptable,0.9904607630565969,88.38,Índice Riesgo TI
+2024-10-20,Disponibilidad,Excelente,Excelente,0.98,91.0,Índice Riesgo TI
+2024-10-20,Cumplimiento,Aceptable,Aceptable,0.9996,88.86,Índice Riesgo TI
+2024-10-20,Operacional,Aceptable,Aceptable,0.9777259445730246,87.05,Índice Riesgo TI
+2024-10-20,Tecnológico,Excelente,Excelente,0.95,96.76,Índice Riesgo TI
+2024-10-27,Seguridad,Excelente,Excelente,0.995,98.0,Índice Riesgo TI
+2024-10-27,Disponibilidad,Aceptable,Aceptable,0.9946,88.46,Índice Riesgo TI
+2024-10-27,Cumplimiento,Excelente,Excelente,0.99,90.68,Índice Riesgo TI
+2024-10-27,Operacional,Excelente,Excelente,0.9537435897435897,98.0,Índice Riesgo TI
+2024-10-27,Tecnológico,Aceptable,Aceptable,0.9821155249613589,88.94,Índice Riesgo TI
+2024-11-03,Seguridad,Excelente,Excelente,0.995,96.53,Índice Riesgo TI
+2024-11-03,Disponibilidad,Excelente,Excelente,0.981,91.66,Índice Riesgo TI
+2024-11-03,Cumplimiento,Aceptable,Aceptable,0.9960908514053227,89.61,Índice Riesgo TI
+2024-11-03,Operacional,Excelente,Excelente,0.9860434782608695,94.28,Índice Riesgo TI
+2024-11-03,Tecnológico,Aceptable,Aceptable,0.96,88.72,Índice Riesgo TI
+2024-11-10,Seguridad,Aceptable,Aceptable,0.9873085074174992,88.41,Índice Riesgo TI
+2024-11-10,Disponibilidad,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-11-10,Cumplimiento,Excelente,Excelente,0.9730769230769231,92.93,Índice Riesgo TI
+2024-11-10,Operacional,Excelente,Excelente,0.9930434782608696,95.72,Índice Riesgo TI
+2024-11-10,Tecnológico,Excelente,Excelente,1.0,96.5,Índice Riesgo TI
+2024-11-17,Seguridad,Excelente,Excelente,1.0,95.16,Índice Riesgo TI
+2024-11-17,Disponibilidad,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-11-17,Cumplimiento,Excelente,Excelente,0.98,98.0,Índice Riesgo TI
+2024-11-17,Operacional,Excelente,Excelente,0.9930434782608696,96.68,Índice Riesgo TI
+2024-11-17,Tecnológico,Excelente,Excelente,0.98,98.0,Índice Riesgo TI
+2024-11-24,Seguridad,Excelente,Excelente,0.975,91.2,Índice Riesgo TI
+2024-11-24,Disponibilidad,Excelente,Excelente,0.9785294117647058,97.06,Índice Riesgo TI
+2024-11-24,Cumplimiento,Excelente,Excelente,0.9865728900255754,92.73,Índice Riesgo TI
+2024-11-24,Operacional,Excelente,Excelente,0.995,98.0,Índice Riesgo TI
+2024-11-24,Tecnológico,Aceptable,Aceptable,0.98,89.09,Índice Riesgo TI
+2024-12-01,Seguridad,Excelente,Excelente,0.9344166666666667,90.24,Índice Riesgo TI
+2024-12-01,Disponibilidad,Excelente,Excelente,0.98,92.42,Índice Riesgo TI
+2024-12-01,Cumplimiento,Excelente,Excelente,0.9835294117647058,96.21,Índice Riesgo TI
+2024-12-01,Operacional,Excelente,Excelente,0.98,93.21,Índice Riesgo TI
+2024-12-01,Tecnológico,Excelente,Excelente,0.98,98.0,Índice Riesgo TI
+2024-12-08,Seguridad,Excelente,Excelente,0.98,93.66,Índice Riesgo TI
+2024-12-08,Disponibilidad,Excelente,Excelente,0.9930769230769231,90.58,Índice Riesgo TI
+2024-12-08,Cumplimiento,Excelente,Excelente,0.98,94.95,Índice Riesgo TI
+2024-12-08,Operacional,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-12-08,Tecnológico,Excelente,Excelente,0.96,98.0,Índice Riesgo TI
+2024-12-15,Seguridad,Excelente,Excelente,1.0,91.55,Índice Riesgo TI
+2024-12-15,Disponibilidad,Excelente,Excelente,0.9835294117647058,98.0,Índice Riesgo TI
+2024-12-15,Cumplimiento,Excelente,Excelente,0.963076923076923,98.0,Índice Riesgo TI
+2024-12-15,Operacional,Excelente,Excelente,0.99,91.02,Índice Riesgo TI
+2024-12-15,Tecnológico,Excelente,Excelente,0.9644444444444444,97.08,Índice Riesgo TI
+2024-12-22,Seguridad,Excelente,Excelente,1.0,98.0,Índice Riesgo TI
+2024-12-22,Disponibilidad,Excelente,Excelente,0.98,98.0,Índice Riesgo TI
+2024-12-22,Cumplimiento,Excelente,Excelente,0.99,98.0,Índice Riesgo TI
+2024-12-22,Operacional,Excelente,Excelente,0.9725,98.0,Índice Riesgo TI
+2024-12-22,Tecnológico,Excelente,Excelente,0.9444444444444444,92.14,Índice Riesgo TI
+2024-12-29,Seguridad,Excelente,Excelente,0.98,95.87,Índice Riesgo TI
+2024-12-29,Disponibilidad,Excelente,Excelente,0.9630434782608696,91.12,Índice Riesgo TI
+2024-12-29,Cumplimiento,Excelente,Excelente,0.96,97.32,Índice Riesgo TI
+2024-12-29,Operacional,Excelente,Excelente,0.97,94.0,Índice Riesgo TI
+2024-12-29,Tecnológico,Excelente,Excelente,0.98,96.7,Índice Riesgo TI

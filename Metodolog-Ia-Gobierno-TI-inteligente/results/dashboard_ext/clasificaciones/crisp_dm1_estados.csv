@@ -1,0 +1,1201 @@
+fecha,tipo_proyecto,estado,estado_predicho,probabilidad,cobertura_porcentaje,kpi
+2020-01-08,NLP,Alta representatividad,Alta representatividad,0.92,90.89787296334003,Cobertura Datos
+2020-01-08,NLP,Aceptable,Aceptable,1.0,80.53725241078953,Cobertura Datos
+2020-01-06,Clasificación,Aceptable,Aceptable,1.0,82.63020680001944,Cobertura Datos
+2020-01-05,Clasificación,Aceptable,Aceptable,1.0,70.7195384265455,Cobertura Datos
+2020-01-10,Visión,Aceptable,Aceptable,0.976,80.43431182992967,Cobertura Datos
+2020-01-13,Regresión,Aceptable,Aceptable,1.0,74.35143260456215,Cobertura Datos
+2020-01-17,NLP,Aceptable,Aceptable,1.0,77.17972610770333,Cobertura Datos
+2020-01-16,Optimización,Aceptable,Aceptable,1.0,76.55562696585521,Cobertura Datos
+2020-01-14,Optimización,Aceptable,Aceptable,1.0,71.19654063708644,Cobertura Datos
+2020-01-14,NLP,Aceptable,Aceptable,0.99,81.97285817643805,Cobertura Datos
+2020-01-22,Optimización,Aceptable,Aceptable,0.99,83.5874027413771,Cobertura Datos
+2020-01-23,Regresión,Aceptable,Aceptable,1.0,84.84762834571423,Cobertura Datos
+2020-01-21,Clustering,Aceptable,Aceptable,1.0,82.01771403280122,Cobertura Datos
+2020-01-21,Visión,Alta representatividad,Alta representatividad,0.9840000000000001,92.6076992444439,Cobertura Datos
+2020-01-23,Visión,Aceptable,Aceptable,1.0,70.9796733728247,Cobertura Datos
+2020-01-30,Clasificación,Aceptable,Aceptable,1.0,85.95902375062477,Cobertura Datos
+2020-01-28,Clasificación,Alta representatividad,Alta representatividad,1.0,92.51942367064736,Cobertura Datos
+2020-01-30,Optimización,Aceptable,Aceptable,1.0,71.06704626372137,Cobertura Datos
+2020-01-26,Detección de Anomalías,Aceptable,Aceptable,1.0,82.90398198503021,Cobertura Datos
+2020-01-30,Análisis Predictivo,Aceptable,Aceptable,1.0,85.31470701492935,Cobertura Datos
+2020-02-03,Análisis Predictivo,Aceptable,Aceptable,1.0,74.96354948899362,Cobertura Datos
+2020-02-03,Optimización,Aceptable,Aceptable,1.0,76.56500282962938,Cobertura Datos
+2020-02-04,Optimización,Alta representatividad,Alta representatividad,1.0,90.42542677612715,Cobertura Datos
+2020-02-04,Clasificación,Aceptable,Aceptable,1.0,84.75234232444753,Cobertura Datos
+2020-02-05,NLP,Aceptable,Aceptable,1.0,78.21024612829363,Cobertura Datos
+2020-02-13,Clasificación,Aceptable,Aceptable,0.98,89.88363577920903,Cobertura Datos
+2020-02-10,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,89.41460492931039,Cobertura Datos
+2020-02-12,Clasificación,Aceptable,Aceptable,1.0,78.98044641801812,Cobertura Datos
+2020-02-11,Análisis Predictivo,Aceptable,Aceptable,1.0,82.70483839168112,Cobertura Datos
+2020-02-14,NLP,Aceptable,Aceptable,1.0,87.27749227197752,Cobertura Datos
+2020-02-21,Análisis Predictivo,Aceptable,Aceptable,1.0,78.9244796649324,Cobertura Datos
+2020-02-16,Clasificación,Aceptable,Aceptable,0.99,86.3542446860306,Cobertura Datos
+2020-02-20,Análisis Predictivo,Aceptable,Aceptable,1.0,76.52791699902609,Cobertura Datos
+2020-02-19,Clustering,Aceptable,Aceptable,0.99,77.59254151469473,Cobertura Datos
+2020-02-16,Análisis Predictivo,Aceptable,Aceptable,1.0,78.07748872773553,Cobertura Datos
+2020-02-28,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,94.33742403080336,Cobertura Datos
+2020-02-25,Visión,Alta representatividad,Alta representatividad,1.0,91.67547569479888,Cobertura Datos
+2020-02-24,Análisis Predictivo,Aceptable,Aceptable,1.0,84.69431536531836,Cobertura Datos
+2020-02-26,Regresión,Aceptable,Aceptable,1.0,84.66067744470001,Cobertura Datos
+2020-02-26,Optimización,Aceptable,Aceptable,1.0,71.4598095734337,Cobertura Datos
+2020-03-03,NLP,Aceptable,Aceptable,1.0,86.8872096450333,Cobertura Datos
+2020-03-03,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,78.53111629053446,Cobertura Datos
+2020-03-02,Regresión,Aceptable,Aceptable,1.0,85.91978341538207,Cobertura Datos
+2020-03-02,NLP,Alta representatividad,Alta representatividad,0.99,91.84607744205216,Cobertura Datos
+2020-03-02,Detección de Anomalías,Aceptable,Aceptable,1.0,71.1829559523596,Cobertura Datos
+2020-03-08,Regresión,Aceptable,Aceptable,0.99,85.7836510886842,Cobertura Datos
+2020-03-08,Visión,Aceptable,Aceptable,1.0,84.66921597873583,Cobertura Datos
+2020-03-10,Regresión,Aceptable,Aceptable,1.0,75.37593043596527,Cobertura Datos
+2020-03-11,Detección de Anomalías,Aceptable,Aceptable,1.0,86.80725667308164,Cobertura Datos
+2020-03-08,Optimización,Aceptable,Aceptable,1.0,84.42571608257757,Cobertura Datos
+2020-03-17,NLP,Aceptable,Aceptable,1.0,89.95032322458026,Cobertura Datos
+2020-03-20,Clasificación,Aceptable,Aceptable,1.0,72.87608277188308,Cobertura Datos
+2020-03-20,Regresión,Aceptable,Aceptable,1.0,81.53379119630453,Cobertura Datos
+2020-03-15,NLP,Alta representatividad,Alta representatividad,1.0,95.94625627797248,Cobertura Datos
+2020-03-16,NLP,Aceptable,Aceptable,1.0,87.92130205331623,Cobertura Datos
+2020-03-27,Optimización,Aceptable,Aceptable,1.0,87.7917537885487,Cobertura Datos
+2020-03-24,Clasificación,Aceptable,Aceptable,1.0,78.26464860916091,Cobertura Datos
+2020-03-27,NLP,Aceptable,Aceptable,1.0,72.44109070975075,Cobertura Datos
+2020-03-23,Detección de Anomalías,Alta representatividad,Alta representatividad,0.994074074074074,94.68685375613651,Cobertura Datos
+2020-03-26,Regresión,Aceptable,Aceptable,1.0,72.74225647718343,Cobertura Datos
+2020-04-03,Clasificación,Alta representatividad,Alta representatividad,0.94,95.8103640757126,Cobertura Datos
+2020-04-01,Optimización,Aceptable,Aceptable,1.0,73.27030528297033,Cobertura Datos
+2020-03-30,NLP,Aceptable,Aceptable,1.0,74.44359106167411,Cobertura Datos
+2020-04-01,Visión,Aceptable,Aceptable,1.0,78.01754083130083,Cobertura Datos
+2020-03-31,Clasificación,Aceptable,Aceptable,1.0,83.32175503072799,Cobertura Datos
+2020-04-09,Visión,Alta representatividad,Alta representatividad,1.0,90.55044295487993,Cobertura Datos
+2020-04-08,Visión,Alta representatividad,Alta representatividad,0.99,95.2462158503058,Cobertura Datos
+2020-04-10,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,79.32944690489325,Cobertura Datos
+2020-04-05,Clasificación,Aceptable,Aceptable,1.0,70.53074042385413,Cobertura Datos
+2020-04-10,Análisis Predictivo,Aceptable,Aceptable,1.0,86.03366759789088,Cobertura Datos
+2020-04-17,Regresión,Aceptable,Aceptable,1.0,88.48053639246801,Cobertura Datos
+2020-04-14,Optimización,Aceptable,Aceptable,1.0,80.33354960392732,Cobertura Datos
+2020-04-16,Clustering,Aceptable,Aceptable,1.0,74.770377273387,Cobertura Datos
+2020-04-12,Visión,Aceptable,Aceptable,1.0,77.95640546318896,Cobertura Datos
+2020-04-12,Optimización,Aceptable,Aceptable,1.0,87.05079244231774,Cobertura Datos
+2020-04-24,Visión,Aceptable,Aceptable,1.0,82.84875461396717,Cobertura Datos
+2020-04-23,Regresión,Aceptable,Aceptable,1.0,89.3290247449586,Cobertura Datos
+2020-04-20,Regresión,Aceptable,Aceptable,1.0,75.67242635760617,Cobertura Datos
+2020-04-23,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,91.8916260758966,Cobertura Datos
+2020-04-23,Análisis Predictivo,Aceptable,Aceptable,1.0,74.05300787311482,Cobertura Datos
+2020-04-30,Optimización,Aceptable,Aceptable,1.0,78.57780115172353,Cobertura Datos
+2020-04-29,Clustering,Aceptable,Aceptable,1.0,85.37139837623575,Cobertura Datos
+2020-04-27,Clasificación,Aceptable,Aceptable,1.0,89.1584429829642,Cobertura Datos
+2020-04-28,Clustering,Aceptable,Aceptable,1.0,76.92071825130459,Cobertura Datos
+2020-04-26,Regresión,Alta representatividad,Alta representatividad,1.0,94.65111312252786,Cobertura Datos
+2020-05-08,Análisis Predictivo,Aceptable,Aceptable,1.0,88.35889336312005,Cobertura Datos
+2020-05-06,Visión,Aceptable,Aceptable,1.0,75.65955082573171,Cobertura Datos
+2020-05-04,Análisis Predictivo,Aceptable,Aceptable,1.0,88.86990392634281,Cobertura Datos
+2020-05-07,Análisis Predictivo,Aceptable,Aceptable,1.0,88.10467606266516,Cobertura Datos
+2020-05-08,Visión,Aceptable,Aceptable,1.0,89.56978586710052,Cobertura Datos
+2020-05-15,Clasificación,Alta representatividad,Alta representatividad,1.0,93.81289884288732,Cobertura Datos
+2020-05-13,NLP,Aceptable,Aceptable,0.93,88.50464681985918,Cobertura Datos
+2020-05-13,Optimización,Aceptable,Aceptable,1.0,79.14966761498678,Cobertura Datos
+2020-05-10,Clustering,Alta representatividad,Alta representatividad,1.0,90.55345442141432,Cobertura Datos
+2020-05-12,Visión,Aceptable,Aceptable,1.0,88.0924057028596,Cobertura Datos
+2020-05-18,NLP,Aceptable,Aceptable,1.0,84.93073883232302,Cobertura Datos
+2020-05-22,Optimización,Aceptable,Aceptable,1.0,79.19965522658586,Cobertura Datos
+2020-05-22,Análisis Predictivo,Alta representatividad,Alta representatividad,0.99,93.94727858661524,Cobertura Datos
+2020-05-18,Clasificación,Aceptable,Aceptable,1.0,83.33162331156356,Cobertura Datos
+2020-05-18,Clasificación,Aceptable,Aceptable,1.0,86.33068780296811,Cobertura Datos
+2020-05-28,Optimización,Aceptable,Aceptable,1.0,80.79944028870914,Cobertura Datos
+2020-05-28,Regresión,Alta representatividad,Alta representatividad,0.99,90.30119802918443,Cobertura Datos
+2020-05-27,Análisis Predictivo,Aceptable,Aceptable,1.0,78.86702716606474,Cobertura Datos
+2020-05-29,Clasificación,Alta representatividad,Alta representatividad,1.0,91.07649417923272,Cobertura Datos
+2020-05-26,Visión,Aceptable,Aceptable,0.996,72.80647714546109,Cobertura Datos
+2020-05-31,Regresión,Aceptable,Aceptable,1.0,88.4330092472393,Cobertura Datos
+2020-06-05,Visión,Aceptable,Aceptable,0.996,82.39893588000791,Cobertura Datos
+2020-05-31,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,88.16759263596961,Cobertura Datos
+2020-06-02,Clustering,Aceptable,Aceptable,1.0,83.81628671921337,Cobertura Datos
+2020-06-01,Análisis Predictivo,Aceptable,Aceptable,1.0,73.49196452029365,Cobertura Datos
+2020-06-09,Clustering,Aceptable,Aceptable,1.0,82.40178010631105,Cobertura Datos
+2020-06-07,Detección de Anomalías,Alta representatividad,Alta representatividad,0.994074074074074,95.0785332372819,Cobertura Datos
+2020-06-11,Visión,Aceptable,Aceptable,0.99,89.62585563215649,Cobertura Datos
+2020-06-09,Optimización,Aceptable,Aceptable,1.0,77.80492133255763,Cobertura Datos
+2020-06-10,Optimización,Alta representatividad,Alta representatividad,1.0,94.54696784557798,Cobertura Datos
+2020-06-18,Visión,Alta representatividad,Alta representatividad,0.91,90.2526032069168,Cobertura Datos
+2020-06-17,Clustering,Aceptable,Aceptable,1.0,79.47562514803212,Cobertura Datos
+2020-06-17,Optimización,Aceptable,Aceptable,1.0,85.69292311018081,Cobertura Datos
+2020-06-16,NLP,Aceptable,Aceptable,1.0,81.09382570494613,Cobertura Datos
+2020-06-17,Clustering,Aceptable,Aceptable,1.0,72.51395024119105,Cobertura Datos
+2020-06-26,Clasificación,Alta representatividad,Alta representatividad,1.0,90.95676456540744,Cobertura Datos
+2020-06-22,Clasificación,Aceptable,Aceptable,1.0,74.96803125331556,Cobertura Datos
+2020-06-23,Visión,Aceptable,Aceptable,0.99,81.90899570013516,Cobertura Datos
+2020-06-21,Regresión,Aceptable,Aceptable,0.99,88.26859114310302,Cobertura Datos
+2020-06-22,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,94.23755590949852,Cobertura Datos
+2020-07-02,Optimización,Aceptable,Aceptable,1.0,71.63087835162362,Cobertura Datos
+2020-06-30,Optimización,Aceptable,Aceptable,1.0,80.22407247638498,Cobertura Datos
+2020-06-28,Visión,Aceptable,Aceptable,1.0,85.98084084704524,Cobertura Datos
+2020-06-28,Clasificación,Alta representatividad,Alta representatividad,0.99,90.26204194175055,Cobertura Datos
+2020-06-30,Clasificación,Alta representatividad,Alta representatividad,0.99,93.94421057861302,Cobertura Datos
+2020-07-06,Clasificación,Aceptable,Aceptable,1.0,70.0129301913812,Cobertura Datos
+2020-07-10,Análisis Predictivo,Aceptable,Aceptable,1.0,86.3218479501682,Cobertura Datos
+2020-07-05,Detección de Anomalías,Aceptable,Aceptable,0.99,70.18036005506124,Cobertura Datos
+2020-07-07,Detección de Anomalías,Alta representatividad,Alta representatividad,0.97,90.4686374760607,Cobertura Datos
+2020-07-07,Análisis Predictivo,Aceptable,Aceptable,1.0,73.89133152237365,Cobertura Datos
+2020-07-17,Optimización,Alta representatividad,Alta representatividad,1.0,93.26013662295767,Cobertura Datos
+2020-07-15,Clustering,Aceptable,Aceptable,1.0,74.033230129397,Cobertura Datos
+2020-07-14,NLP,Aceptable,Aceptable,1.0,89.87255352972707,Cobertura Datos
+2020-07-12,NLP,Aceptable,Aceptable,1.0,77.52190212316273,Cobertura Datos
+2020-07-15,Clustering,Aceptable,Aceptable,1.0,84.4886009275866,Cobertura Datos
+2020-07-19,Regresión,Aceptable,Aceptable,1.0,85.81929011272044,Cobertura Datos
+2020-07-20,Regresión,Aceptable,Aceptable,1.0,75.37577686482555,Cobertura Datos
+2020-07-20,Optimización,Aceptable,Aceptable,1.0,77.76611897167743,Cobertura Datos
+2020-07-19,Regresión,Aceptable,Aceptable,1.0,72.79520234336697,Cobertura Datos
+2020-07-23,Clasificación,Aceptable,Aceptable,1.0,70.13751413980414,Cobertura Datos
+2020-07-30,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,76.22616900141763,Cobertura Datos
+2020-07-30,Clustering,Aceptable,Aceptable,1.0,83.41606125181497,Cobertura Datos
+2020-07-26,Visión,Aceptable,Aceptable,0.99,88.55352874504952,Cobertura Datos
+2020-07-28,Clasificación,Alta representatividad,Alta representatividad,0.99,90.63255025239022,Cobertura Datos
+2020-07-29,Regresión,Aceptable,Aceptable,1.0,71.8139149791527,Cobertura Datos
+2020-08-04,Regresión,Aceptable,Aceptable,1.0,77.08273505027117,Cobertura Datos
+2020-08-07,Detección de Anomalías,Alta representatividad,Alta representatividad,0.83,90.02582344728327,Cobertura Datos
+2020-08-02,NLP,Aceptable,Aceptable,1.0,82.50259074786564,Cobertura Datos
+2020-08-07,Clustering,Aceptable,Aceptable,1.0,74.73686167049034,Cobertura Datos
+2020-08-07,NLP,Aceptable,Aceptable,1.0,80.19756420530877,Cobertura Datos
+2020-08-11,Clasificación,Aceptable,Aceptable,1.0,77.02088896339885,Cobertura Datos
+2020-08-14,Detección de Anomalías,Aceptable,Aceptable,1.0,71.31699113660974,Cobertura Datos
+2020-08-10,Visión,Aceptable,Aceptable,0.996,89.85430578554977,Cobertura Datos
+2020-08-12,Visión,Aceptable,Aceptable,1.0,77.58403518392413,Cobertura Datos
+2020-08-09,Clustering,Alta representatividad,Alta representatividad,1.0,94.57341452625954,Cobertura Datos
+2020-08-19,Regresión,Alta representatividad,Alta representatividad,1.0,93.09125105159649,Cobertura Datos
+2020-08-20,NLP,Aceptable,Aceptable,1.0,88.6232144860764,Cobertura Datos
+2020-08-20,Clustering,Aceptable,Aceptable,1.0,78.49249406788402,Cobertura Datos
+2020-08-17,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,77.27801236970731,Cobertura Datos
+2020-08-16,Visión,Aceptable,Aceptable,1.0,82.35705848411843,Cobertura Datos
+2020-08-27,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,79.21966500851866,Cobertura Datos
+2020-08-26,Regresión,Alta representatividad,Alta representatividad,0.99,93.43011642466196,Cobertura Datos
+2020-08-26,NLP,Aceptable,Aceptable,1.0,73.21087362131209,Cobertura Datos
+2020-08-24,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,88.8361569659911,Cobertura Datos
+2020-08-28,Clasificación,Aceptable,Aceptable,0.99,85.8833166524723,Cobertura Datos
+2020-09-03,NLP,Alta representatividad,Alta representatividad,1.0,90.96383097474556,Cobertura Datos
+2020-09-01,Regresión,Aceptable,Aceptable,0.996,84.10467049550536,Cobertura Datos
+2020-09-03,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,86.3680576180024,Cobertura Datos
+2020-08-31,Visión,Alta representatividad,Alta representatividad,0.9940000000000001,95.03125643112836,Cobertura Datos
+2020-09-03,Optimización,Aceptable,Aceptable,1.0,72.39100037017819,Cobertura Datos
+2020-09-06,Clasificación,Aceptable,Aceptable,1.0,72.72650712924364,Cobertura Datos
+2020-09-07,Clasificación,Aceptable,Aceptable,1.0,80.23379980292533,Cobertura Datos
+2020-09-08,Clasificación,Aceptable,Aceptable,1.0,82.2910526284258,Cobertura Datos
+2020-09-09,Clustering,Aceptable,Aceptable,1.0,75.19667309362923,Cobertura Datos
+2020-09-10,Análisis Predictivo,Aceptable,Aceptable,1.0,72.14936272155458,Cobertura Datos
+2020-09-18,Visión,Aceptable,Aceptable,1.0,70.57658267066815,Cobertura Datos
+2020-09-16,Visión,Aceptable,Aceptable,0.99,89.8793985115918,Cobertura Datos
+2020-09-14,Regresión,Aceptable,Aceptable,1.0,82.61149223525945,Cobertura Datos
+2020-09-16,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,91.9284891756624,Cobertura Datos
+2020-09-18,Detección de Anomalías,Aceptable,Aceptable,1.0,79.38176811100284,Cobertura Datos
+2020-09-25,Regresión,Aceptable,Aceptable,1.0,88.28959938072735,Cobertura Datos
+2020-09-25,Clustering,Aceptable,Aceptable,1.0,82.70153358144216,Cobertura Datos
+2020-09-25,Clasificación,Aceptable,Aceptable,1.0,85.91381996394296,Cobertura Datos
+2020-09-20,Clasificación,Aceptable,Aceptable,1.0,79.625117869149,Cobertura Datos
+2020-09-25,Clustering,Aceptable,Aceptable,1.0,72.11041403163085,Cobertura Datos
+2020-09-28,NLP,Alta representatividad,Alta representatividad,0.91,94.63171313749837,Cobertura Datos
+2020-09-28,Clasificación,Alta representatividad,Alta representatividad,0.98,91.73833617588396,Cobertura Datos
+2020-10-01,Clasificación,Aceptable,Aceptable,1.0,78.10918610202931,Cobertura Datos
+2020-09-28,Detección de Anomalías,Alta representatividad,Alta representatividad,0.994074074074074,94.92627632414252,Cobertura Datos
+2020-09-27,NLP,Aceptable,Aceptable,1.0,77.81270701679301,Cobertura Datos
+2020-10-08,NLP,Aceptable,Aceptable,1.0,81.51774052563863,Cobertura Datos
+2020-10-04,Optimización,Aceptable,Aceptable,0.98,89.63352717791079,Cobertura Datos
+2020-10-06,Clustering,Aceptable,Aceptable,1.0,78.03411045664188,Cobertura Datos
+2020-10-08,Regresión,Aceptable,Aceptable,1.0,78.437207444529,Cobertura Datos
+2020-10-05,NLP,Aceptable,Aceptable,1.0,80.66213612808933,Cobertura Datos
+2020-10-12,Optimización,Aceptable,Aceptable,1.0,82.17812334966926,Cobertura Datos
+2020-10-12,Clustering,Aceptable,Aceptable,1.0,73.21402228714912,Cobertura Datos
+2020-10-13,Regresión,Aceptable,Aceptable,1.0,70.45478310850422,Cobertura Datos
+2020-10-11,Clustering,Alta representatividad,Alta representatividad,1.0,93.8980870142314,Cobertura Datos
+2020-10-12,Clasificación,Aceptable,Aceptable,1.0,79.18290443259781,Cobertura Datos
+2020-10-23,Clustering,Aceptable,Aceptable,1.0,72.64390364033997,Cobertura Datos
+2020-10-21,NLP,Aceptable,Aceptable,0.99,89.73845645564114,Cobertura Datos
+2020-10-23,Análisis Predictivo,Aceptable,Aceptable,1.0,77.67157744594516,Cobertura Datos
+2020-10-19,NLP,Aceptable,Aceptable,1.0,74.72326592923761,Cobertura Datos
+2020-10-22,Detección de Anomalías,Alta representatividad,Alta representatividad,0.994074074074074,95.02788685437731,Cobertura Datos
+2020-10-29,Regresión,Alta representatividad,Alta representatividad,1.0,93.93411517780685,Cobertura Datos
+2020-10-28,Clasificación,Aceptable,Aceptable,1.0,72.74939230636174,Cobertura Datos
+2020-10-27,Análisis Predictivo,Alta representatividad,Alta representatividad,0.99,93.3814154553604,Cobertura Datos
+2020-10-29,Visión,Alta representatividad,Alta representatividad,0.91,93.16255567608516,Cobertura Datos
+2020-10-27,Clasificación,Aceptable,Aceptable,0.99,86.49373837588038,Cobertura Datos
+2020-11-03,NLP,Aceptable,Aceptable,1.0,83.77318802314471,Cobertura Datos
+2020-11-04,Detección de Anomalías,Aceptable,Aceptable,0.99,75.65340146283401,Cobertura Datos
+2020-11-05,NLP,Aceptable,Aceptable,1.0,73.15599116055259,Cobertura Datos
+2020-11-06,NLP,Aceptable,Aceptable,1.0,85.76559532496081,Cobertura Datos
+2020-11-02,Análisis Predictivo,Alta representatividad,Alta representatividad,0.99,91.3708886747952,Cobertura Datos
+2020-11-13,Clustering,Aceptable,Aceptable,0.94,87.90474021810641,Cobertura Datos
+2020-11-13,Regresión,Aceptable,Aceptable,0.996,74.70081101535125,Cobertura Datos
+2020-11-13,Clustering,Aceptable,Aceptable,1.0,77.54048464654446,Cobertura Datos
+2020-11-10,Regresión,Aceptable,Aceptable,1.0,84.2068572669275,Cobertura Datos
+2020-11-10,NLP,Aceptable,Aceptable,1.0,86.24980545613002,Cobertura Datos
+2020-11-19,Clustering,Aceptable,Aceptable,1.0,71.87856792519123,Cobertura Datos
+2020-11-19,Regresión,Aceptable,Aceptable,1.0,85.96534259436164,Cobertura Datos
+2020-11-20,Regresión,Aceptable,Aceptable,0.996,89.14430426645418,Cobertura Datos
+2020-11-18,Visión,Aceptable,Aceptable,1.0,74.71530406380347,Cobertura Datos
+2020-11-15,Análisis Predictivo,Aceptable,Aceptable,1.0,76.40168659137963,Cobertura Datos
+2020-11-27,Detección de Anomalías,Aceptable,Aceptable,1.0,76.73131134464657,Cobertura Datos
+2020-11-27,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,94.4350665669722,Cobertura Datos
+2020-11-22,Regresión,Aceptable,Aceptable,1.0,80.58241914048773,Cobertura Datos
+2020-11-22,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,83.79485786599872,Cobertura Datos
+2020-11-24,Optimización,Aceptable,Aceptable,1.0,88.83217309264262,Cobertura Datos
+2020-12-02,Optimización,Aceptable,Aceptable,1.0,79.6579668480612,Cobertura Datos
+2020-11-29,NLP,Aceptable,Aceptable,1.0,72.74444422055323,Cobertura Datos
+2020-12-04,Clustering,Aceptable,Aceptable,1.0,87.01236863868674,Cobertura Datos
+2020-12-03,Visión,Aceptable,Aceptable,1.0,87.34910233091686,Cobertura Datos
+2020-12-04,Análisis Predictivo,Aceptable,Aceptable,1.0,76.77424319003157,Cobertura Datos
+2020-12-08,Regresión,Aceptable,Aceptable,1.0,70.91595165611876,Cobertura Datos
+2020-12-08,Clustering,Aceptable,Aceptable,1.0,87.29918201037978,Cobertura Datos
+2020-12-11,Optimización,Aceptable,Aceptable,1.0,88.28906436365376,Cobertura Datos
+2020-12-10,Optimización,Aceptable,Aceptable,1.0,70.67768720689187,Cobertura Datos
+2020-12-09,NLP,Aceptable,Aceptable,0.99,88.02276497986166,Cobertura Datos
+2020-12-16,Clasificación,Alta representatividad,Alta representatividad,0.93,94.41214279571788,Cobertura Datos
+2020-12-13,Clasificación,Aceptable,Aceptable,0.99,74.64841735836673,Cobertura Datos
+2020-12-17,Clustering,Aceptable,Aceptable,1.0,83.5544176196506,Cobertura Datos
+2020-12-14,NLP,Aceptable,Aceptable,1.0,88.11618782241756,Cobertura Datos
+2020-12-16,Clustering,Aceptable,Aceptable,1.0,75.98206445502555,Cobertura Datos
+2020-12-20,Detección de Anomalías,Aceptable,Aceptable,0.99,89.54027118322621,Cobertura Datos
+2020-12-22,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,92.5702991705902,Cobertura Datos
+2020-12-23,Regresión,Alta representatividad,Alta representatividad,0.9740000000000001,91.17832498001565,Cobertura Datos
+2020-12-21,Optimización,Aceptable,Aceptable,1.0,76.73137180545314,Cobertura Datos
+2020-12-22,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,90.90962746171228,Cobertura Datos
+2020-12-29,Análisis Predictivo,Aceptable,Aceptable,1.0,80.74692435446197,Cobertura Datos
+2020-12-31,Clasificación,Aceptable,Aceptable,1.0,76.92804904537839,Cobertura Datos
+2020-12-31,NLP,Aceptable,Aceptable,1.0,74.3672581465481,Cobertura Datos
+2021-01-01,NLP,Alta representatividad,Alta representatividad,1.0,93.63351750517386,Cobertura Datos
+2020-12-30,NLP,Aceptable,Aceptable,0.99,81.09933607943232,Cobertura Datos
+2021-01-04,Detección de Anomalías,Alta representatividad,Alta representatividad,0.994074074074074,92.50901085895296,Cobertura Datos
+2021-01-07,Regresión,Aceptable,Aceptable,1.0,74.14816971217462,Cobertura Datos
+2021-01-03,NLP,Aceptable,Aceptable,1.0,89.94183011998108,Cobertura Datos
+2021-01-05,Clasificación,Aceptable,Aceptable,1.0,72.86034704253713,Cobertura Datos
+2021-01-03,Clasificación,Aceptable,Aceptable,1.0,70.45668859807851,Cobertura Datos
+2021-01-12,Regresión,Alta representatividad,Alta representatividad,1.0,95.87128200088672,Cobertura Datos
+2021-01-10,Regresión,Aceptable,Aceptable,0.99,71.91197066468176,Cobertura Datos
+2021-01-12,Clustering,Aceptable,Aceptable,1.0,82.0000517536337,Cobertura Datos
+2021-01-14,Optimización,Alta representatividad,Alta representatividad,1.0,92.8380199561834,Cobertura Datos
+2021-01-10,NLP,Alta representatividad,Alta representatividad,0.99,91.30386824970968,Cobertura Datos
+2021-01-20,Regresión,Aceptable,Aceptable,1.0,82.2505685368458,Cobertura Datos
+2021-01-20,Regresión,Aceptable,Aceptable,1.0,85.88206117350967,Cobertura Datos
+2021-01-18,Visión,Aceptable,Aceptable,1.0,86.3723599432333,Cobertura Datos
+2021-01-18,Clasificación,Aceptable,Aceptable,1.0,72.85544955827704,Cobertura Datos
+2021-01-22,Clasificación,Aceptable,Aceptable,1.0,77.4075064528308,Cobertura Datos
+2021-01-25,Análisis Predictivo,Aceptable,Aceptable,1.0,77.82556219070851,Cobertura Datos
+2021-01-24,Clustering,Aceptable,Aceptable,1.0,79.83133191390138,Cobertura Datos
+2021-01-26,Análisis Predictivo,Aceptable,Aceptable,1.0,77.12185591379529,Cobertura Datos
+2021-01-29,Análisis Predictivo,Aceptable,Aceptable,1.0,76.53895999799438,Cobertura Datos
+2021-01-25,Regresión,Aceptable,Aceptable,1.0,79.22442333068011,Cobertura Datos
+2021-02-04,Optimización,Aceptable,Aceptable,1.0,79.85988920548273,Cobertura Datos
+2021-02-03,Clasificación,Aceptable,Aceptable,1.0,82.66782547572518,Cobertura Datos
+2021-02-03,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,74.51192045585553,Cobertura Datos
+2021-02-04,NLP,Alta representatividad,Alta representatividad,1.0,90.49675325149322,Cobertura Datos
+2021-02-03,NLP,Alta representatividad,Alta representatividad,1.0,92.37736020963663,Cobertura Datos
+2021-02-07,Optimización,Aceptable,Aceptable,1.0,76.45228697075513,Cobertura Datos
+2021-02-11,Clustering,Aceptable,Aceptable,1.0,73.20581890506578,Cobertura Datos
+2021-02-07,NLP,Aceptable,Aceptable,0.98,88.78011151284957,Cobertura Datos
+2021-02-12,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,94.0303731907963,Cobertura Datos
+2021-02-10,Clustering,Aceptable,Aceptable,1.0,70.91385681849698,Cobertura Datos
+2021-02-18,NLP,Aceptable,Aceptable,1.0,70.37533545489232,Cobertura Datos
+2021-02-18,Regresión,Aceptable,Aceptable,1.0,74.76906199599274,Cobertura Datos
+2021-02-19,Visión,Aceptable,Aceptable,1.0,87.80460461800635,Cobertura Datos
+2021-02-19,Clustering,Alta representatividad,Alta representatividad,1.0,95.0843062036032,Cobertura Datos
+2021-02-19,Visión,Aceptable,Aceptable,0.96,89.50990483414247,Cobertura Datos
+2021-02-25,NLP,Aceptable,Aceptable,0.99,84.8988476094968,Cobertura Datos
+2021-02-24,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,88.21428421476423,Cobertura Datos
+2021-02-24,Clustering,Aceptable,Aceptable,1.0,75.99815609359692,Cobertura Datos
+2021-02-24,Clustering,Aceptable,Aceptable,1.0,87.90235064969313,Cobertura Datos
+2021-02-22,Análisis Predictivo,Aceptable,Aceptable,1.0,78.3575687904447,Cobertura Datos
+2021-03-01,Clustering,Aceptable,Aceptable,1.0,75.78297545364964,Cobertura Datos
+2021-03-02,Clasificación,Aceptable,Aceptable,1.0,76.15045596131984,Cobertura Datos
+2021-03-04,Optimización,Aceptable,Aceptable,1.0,87.3624815482598,Cobertura Datos
+2021-03-03,Análisis Predictivo,Aceptable,Aceptable,0.97,89.94786877720759,Cobertura Datos
+2021-03-04,Clasificación,Aceptable,Aceptable,1.0,85.12685487452222,Cobertura Datos
+2021-03-12,NLP,Aceptable,Aceptable,1.0,71.66023679620652,Cobertura Datos
+2021-03-07,Clustering,Aceptable,Aceptable,1.0,70.98824267634201,Cobertura Datos
+2021-03-07,NLP,Aceptable,Aceptable,1.0,75.64633810203243,Cobertura Datos
+2021-03-10,Análisis Predictivo,Aceptable,Aceptable,1.0,77.44818626302362,Cobertura Datos
+2021-03-08,Optimización,Aceptable,Aceptable,1.0,80.52531721387079,Cobertura Datos
+2021-03-16,Regresión,Aceptable,Aceptable,1.0,71.97673001160449,Cobertura Datos
+2021-03-15,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,88.85412791450045,Cobertura Datos
+2021-03-18,Visión,Aceptable,Aceptable,1.0,88.49895212655078,Cobertura Datos
+2021-03-15,Regresión,Aceptable,Aceptable,1.0,79.01361743509862,Cobertura Datos
+2021-03-17,Clustering,Aceptable,Aceptable,1.0,84.63806563357866,Cobertura Datos
+2021-03-26,Clustering,Aceptable,Aceptable,1.0,72.62381455359122,Cobertura Datos
+2021-03-26,NLP,Aceptable,Aceptable,1.0,80.79568471280275,Cobertura Datos
+2021-03-22,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,92.29668369448144,Cobertura Datos
+2021-03-21,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,87.17618404116153,Cobertura Datos
+2021-03-24,NLP,Aceptable,Aceptable,1.0,72.70253816752088,Cobertura Datos
+2021-03-31,Clustering,Alta representatividad,Alta representatividad,0.99,92.03702881165124,Cobertura Datos
+2021-03-31,Optimización,Aceptable,Aceptable,1.0,87.69810196489529,Cobertura Datos
+2021-03-29,Optimización,Aceptable,Aceptable,1.0,81.779463646234,Cobertura Datos
+2021-03-28,Regresión,Aceptable,Aceptable,1.0,87.99436701434182,Cobertura Datos
+2021-03-29,Clasificación,Aceptable,Aceptable,1.0,74.49332664118829,Cobertura Datos
+2021-04-08,Visión,Aceptable,Aceptable,1.0,84.31264822708626,Cobertura Datos
+2021-04-09,Clasificación,Aceptable,Aceptable,1.0,86.06610209270372,Cobertura Datos
+2021-04-06,Regresión,Alta representatividad,Alta representatividad,0.99,94.12136539652096,Cobertura Datos
+2021-04-06,NLP,Aceptable,Aceptable,1.0,71.73918448084267,Cobertura Datos
+2021-04-09,Detección de Anomalías,Aceptable,Aceptable,1.0,79.74435057078206,Cobertura Datos
+2021-04-13,NLP,Alta representatividad,Alta representatividad,1.0,94.35718245820426,Cobertura Datos
+2021-04-16,Optimización,Aceptable,Aceptable,1.0,75.64774743334341,Cobertura Datos
+2021-04-15,Regresión,Alta representatividad,Alta representatividad,0.98,91.14320853638924,Cobertura Datos
+2021-04-15,Clasificación,Aceptable,Aceptable,1.0,70.04174390894688,Cobertura Datos
+2021-04-15,Detección de Anomalías,Aceptable,Aceptable,0.99,70.67298581603461,Cobertura Datos
+2021-04-18,Clasificación,Aceptable,Aceptable,1.0,78.51819501658103,Cobertura Datos
+2021-04-21,Detección de Anomalías,Aceptable,Aceptable,0.965925925925926,89.98109648158709,Cobertura Datos
+2021-04-23,Clasificación,Aceptable,Aceptable,1.0,72.70773020011283,Cobertura Datos
+2021-04-22,Clustering,Aceptable,Aceptable,1.0,79.95419473433107,Cobertura Datos
+2021-04-20,Análisis Predictivo,Aceptable,Aceptable,1.0,73.41817238696687,Cobertura Datos
+2021-04-30,Detección de Anomalías,Aceptable,Aceptable,0.99,75.81343280547661,Cobertura Datos
+2021-04-27,Detección de Anomalías,Aceptable,Aceptable,1.0,83.07784899534354,Cobertura Datos
+2021-04-30,NLP,Aceptable,Aceptable,0.99,78.2976072909395,Cobertura Datos
+2021-04-30,Detección de Anomalías,Aceptable,Aceptable,1.0,75.50972879548215,Cobertura Datos
+2021-04-26,Análisis Predictivo,Aceptable,Aceptable,1.0,80.23092150826011,Cobertura Datos
+2021-05-05,Análisis Predictivo,Aceptable,Aceptable,1.0,88.2274290711144,Cobertura Datos
+2021-05-06,NLP,Aceptable,Aceptable,1.0,73.1048707716257,Cobertura Datos
+2021-05-05,Clasificación,Aceptable,Aceptable,1.0,82.4694555793797,Cobertura Datos
+2021-05-06,Optimización,Aceptable,Aceptable,1.0,77.14271242396242,Cobertura Datos
+2021-05-04,NLP,Aceptable,Aceptable,1.0,79.84414271203887,Cobertura Datos
+2021-05-12,Clustering,Alta representatividad,Alta representatividad,0.98,91.360434651613,Cobertura Datos
+2021-05-12,Clasificación,Alta representatividad,Alta representatividad,1.0,94.17297947231512,Cobertura Datos
+2021-05-13,Detección de Anomalías,Aceptable,Aceptable,0.99,76.31742553314494,Cobertura Datos
+2021-05-13,Detección de Anomalías,Aceptable,Aceptable,0.95,86.37924487756675,Cobertura Datos
+2021-05-12,Clustering,Aceptable,Aceptable,1.0,87.59360927654647,Cobertura Datos
+2021-05-21,NLP,Alta representatividad,Alta representatividad,1.0,91.90463597354324,Cobertura Datos
+2021-05-20,Clasificación,Alta representatividad,Alta representatividad,0.98,93.3751041810311,Cobertura Datos
+2021-05-19,Regresión,Aceptable,Aceptable,1.0,82.16778673588468,Cobertura Datos
+2021-05-17,Optimización,Alta representatividad,Alta representatividad,1.0,95.546966776461,Cobertura Datos
+2021-05-19,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,95.24155331352362,Cobertura Datos
+2021-05-23,Optimización,Aceptable,Aceptable,1.0,83.16816724180018,Cobertura Datos
+2021-05-26,Regresión,Aceptable,Aceptable,1.0,84.09283513681899,Cobertura Datos
+2021-05-28,Clasificación,Aceptable,Aceptable,1.0,87.36149582832337,Cobertura Datos
+2021-05-24,Visión,Aceptable,Aceptable,1.0,79.71921974971463,Cobertura Datos
+2021-05-24,NLP,Aceptable,Aceptable,1.0,87.21314176166808,Cobertura Datos
+2021-06-04,Clasificación,Aceptable,Aceptable,1.0,83.37142023502241,Cobertura Datos
+2021-06-01,Visión,Aceptable,Aceptable,1.0,70.92135591020822,Cobertura Datos
+2021-06-04,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,92.17095235359552,Cobertura Datos
+2021-06-01,Clustering,Alta representatividad,Alta representatividad,1.0,94.45159083008222,Cobertura Datos
+2021-05-30,Visión,Aceptable,Aceptable,1.0,70.68195604222188,Cobertura Datos
+2021-06-10,Clasificación,Alta representatividad,Alta representatividad,0.99,90.52080728898942,Cobertura Datos
+2021-06-10,Regresión,Aceptable,Aceptable,1.0,80.0311447844667,Cobertura Datos
+2021-06-07,Clasificación,Aceptable,Aceptable,0.94,85.22642680075204,Cobertura Datos
+2021-06-07,NLP,Aceptable,Aceptable,1.0,82.9998686209786,Cobertura Datos
+2021-06-08,Clasificación,Aceptable,Aceptable,1.0,84.33407692165922,Cobertura Datos
+2021-06-14,Regresión,Aceptable,Aceptable,1.0,82.8748439237102,Cobertura Datos
+2021-06-16,Visión,Alta representatividad,Alta representatividad,0.98,92.18775965868475,Cobertura Datos
+2021-06-16,Análisis Predictivo,Aceptable,Aceptable,1.0,87.77117380207808,Cobertura Datos
+2021-06-13,Visión,Aceptable,Aceptable,1.0,80.72856864419151,Cobertura Datos
+2021-06-16,Optimización,Aceptable,Aceptable,1.0,87.90278310991427,Cobertura Datos
+2021-06-20,NLP,Alta representatividad,Alta representatividad,0.99,95.09124329618092,Cobertura Datos
+2021-06-22,Clasificación,Aceptable,Aceptable,1.0,72.08801481338925,Cobertura Datos
+2021-06-23,Optimización,Aceptable,Aceptable,1.0,80.09033926050948,Cobertura Datos
+2021-06-20,Optimización,Alta representatividad,Alta representatividad,1.0,92.63180484041868,Cobertura Datos
+2021-06-24,Detección de Anomalías,Aceptable,Aceptable,0.99,89.2154328810983,Cobertura Datos
+2021-06-27,Análisis Predictivo,Alta representatividad,Alta representatividad,0.99,94.30815112565712,Cobertura Datos
+2021-07-02,Optimización,Aceptable,Aceptable,1.0,71.0350570782042,Cobertura Datos
+2021-06-30,Detección de Anomalías,Alta representatividad,Alta representatividad,0.994074074074074,92.43216583953246,Cobertura Datos
+2021-06-27,Visión,Alta representatividad,Alta representatividad,0.97,90.58676801882667,Cobertura Datos
+2021-07-02,Regresión,Alta representatividad,Alta representatividad,0.99,91.19101441814168,Cobertura Datos
+2021-07-06,Regresión,Aceptable,Aceptable,1.0,85.52883093091592,Cobertura Datos
+2021-07-05,Regresión,Aceptable,Aceptable,1.0,71.34984291313575,Cobertura Datos
+2021-07-08,Clustering,Aceptable,Aceptable,1.0,84.01737815272175,Cobertura Datos
+2021-07-06,Clustering,Aceptable,Aceptable,1.0,80.60152956173654,Cobertura Datos
+2021-07-08,NLP,Aceptable,Aceptable,1.0,83.70308556894797,Cobertura Datos
+2021-07-15,Regresión,Aceptable,Aceptable,0.99,89.24769531415488,Cobertura Datos
+2021-07-16,Regresión,Aceptable,Aceptable,1.0,85.49497649730577,Cobertura Datos
+2021-07-11,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,77.60663513634154,Cobertura Datos
+2021-07-12,Visión,Aceptable,Aceptable,1.0,85.58719091983096,Cobertura Datos
+2021-07-11,Análisis Predictivo,Aceptable,Aceptable,1.0,72.16159952010663,Cobertura Datos
+2021-07-18,Análisis Predictivo,Aceptable,Aceptable,1.0,70.13951577165031,Cobertura Datos
+2021-07-21,Detección de Anomalías,Aceptable,Aceptable,0.99,80.43972870960626,Cobertura Datos
+2021-07-18,Detección de Anomalías,Aceptable,Aceptable,0.93,89.68684538835912,Cobertura Datos
+2021-07-19,Clustering,Alta representatividad,Alta representatividad,1.0,91.3884900057098,Cobertura Datos
+2021-07-20,Clasificación,Aceptable,Aceptable,1.0,84.29582214599488,Cobertura Datos
+2021-07-30,Optimización,Alta representatividad,Alta representatividad,1.0,92.56817904315272,Cobertura Datos
+2021-07-25,Clustering,Aceptable,Aceptable,1.0,73.27378611463222,Cobertura Datos
+2021-07-26,NLP,Alta representatividad,Alta representatividad,1.0,95.06675223784524,Cobertura Datos
+2021-07-25,Clustering,Alta representatividad,Alta representatividad,1.0,93.96576874920328,Cobertura Datos
+2021-07-30,Visión,Aceptable,Aceptable,1.0,85.58016851294218,Cobertura Datos
+2021-08-05,Regresión,Aceptable,Aceptable,1.0,71.52677522489186,Cobertura Datos
+2021-08-06,Clustering,Aceptable,Aceptable,1.0,81.80927443302896,Cobertura Datos
+2021-08-01,Clustering,Aceptable,Aceptable,1.0,74.66109698918464,Cobertura Datos
+2021-08-04,Optimización,Aceptable,Aceptable,1.0,86.33905697867755,Cobertura Datos
+2021-08-05,Visión,Aceptable,Aceptable,1.0,74.93909506194724,Cobertura Datos
+2021-08-09,Clasificación,Aceptable,Aceptable,1.0,82.52673917102742,Cobertura Datos
+2021-08-13,Visión,Aceptable,Aceptable,1.0,75.34630009836494,Cobertura Datos
+2021-08-08,NLP,Aceptable,Aceptable,1.0,74.72797338855447,Cobertura Datos
+2021-08-12,Análisis Predictivo,Aceptable,Aceptable,1.0,76.4460129744931,Cobertura Datos
+2021-08-12,NLP,Aceptable,Aceptable,1.0,70.75910784341582,Cobertura Datos
+2021-08-17,Regresión,Aceptable,Aceptable,1.0,88.6189881118765,Cobertura Datos
+2021-08-19,Clustering,Aceptable,Aceptable,1.0,77.9748857851018,Cobertura Datos
+2021-08-20,Visión,Aceptable,Aceptable,1.0,88.15080940239788,Cobertura Datos
+2021-08-16,Visión,Aceptable,Aceptable,1.0,86.99043367929302,Cobertura Datos
+2021-08-15,Visión,Aceptable,Aceptable,1.0,71.71892912420284,Cobertura Datos
+2021-08-27,Clustering,Aceptable,Aceptable,1.0,78.11290371120668,Cobertura Datos
+2021-08-26,Análisis Predictivo,Aceptable,Aceptable,1.0,84.73837386601132,Cobertura Datos
+2021-08-23,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,93.87843104372982,Cobertura Datos
+2021-08-24,NLP,Aceptable,Aceptable,1.0,80.43431247166104,Cobertura Datos
+2021-08-22,Optimización,Aceptable,Aceptable,1.0,83.12458017560077,Cobertura Datos
+2021-09-01,Análisis Predictivo,Aceptable,Aceptable,1.0,89.50412889100912,Cobertura Datos
+2021-09-02,Clasificación,Alta representatividad,Alta representatividad,1.0,90.88568231919945,Cobertura Datos
+2021-09-02,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,94.0068530958558,Cobertura Datos
+2021-08-31,Regresión,Aceptable,Aceptable,1.0,82.9269253709589,Cobertura Datos
+2021-08-30,Visión,Aceptable,Aceptable,1.0,75.03978616704849,Cobertura Datos
+2021-09-07,Regresión,Aceptable,Aceptable,1.0,89.87495197482757,Cobertura Datos
+2021-09-06,Optimización,Aceptable,Aceptable,1.0,73.26495687973961,Cobertura Datos
+2021-09-05,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,80.87690011648787,Cobertura Datos
+2021-09-09,Clustering,Aceptable,Aceptable,1.0,86.33353929615244,Cobertura Datos
+2021-09-08,Regresión,Aceptable,Aceptable,1.0,87.98826084736392,Cobertura Datos
+2021-09-14,Clasificación,Aceptable,Aceptable,1.0,89.0587206476141,Cobertura Datos
+2021-09-17,NLP,Aceptable,Aceptable,1.0,75.03184218005089,Cobertura Datos
+2021-09-15,Optimización,Alta representatividad,Alta representatividad,1.0,95.52287923567332,Cobertura Datos
+2021-09-15,Regresión,Aceptable,Aceptable,1.0,74.63888299209296,Cobertura Datos
+2021-09-16,Clasificación,Aceptable,Aceptable,1.0,72.49790853666163,Cobertura Datos
+2021-09-23,Clustering,Aceptable,Aceptable,1.0,87.2653104501505,Cobertura Datos
+2021-09-24,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,93.65999999627124,Cobertura Datos
+2021-09-22,Visión,Aceptable,Aceptable,1.0,84.54397662898343,Cobertura Datos
+2021-09-19,Clustering,Aceptable,Aceptable,1.0,85.48254329738322,Cobertura Datos
+2021-09-24,Clasificación,Aceptable,Aceptable,1.0,84.00060344629229,Cobertura Datos
+2021-09-29,Clustering,Aceptable,Aceptable,1.0,71.11145304641512,Cobertura Datos
+2021-09-27,Optimización,Aceptable,Aceptable,1.0,87.71410088482742,Cobertura Datos
+2021-10-01,Regresión,Aceptable,Aceptable,1.0,79.3131771341303,Cobertura Datos
+2021-09-27,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,94.32751867814976,Cobertura Datos
+2021-09-27,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,74.85654123626395,Cobertura Datos
+2021-10-04,Visión,Aceptable,Aceptable,1.0,77.8550103246233,Cobertura Datos
+2021-10-05,Clasificación,Aceptable,Aceptable,1.0,83.12622347093323,Cobertura Datos
+2021-10-03,Clasificación,Aceptable,Aceptable,1.0,82.41123113409424,Cobertura Datos
+2021-10-05,Visión,Aceptable,Aceptable,1.0,80.40792328366581,Cobertura Datos
+2021-10-05,Clasificación,Aceptable,Aceptable,1.0,78.17447637986949,Cobertura Datos
+2021-10-11,Regresión,Aceptable,Aceptable,1.0,73.82680315157877,Cobertura Datos
+2021-10-10,Visión,Alta representatividad,Alta representatividad,0.99,91.34396869471374,Cobertura Datos
+2021-10-10,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,81.6680144690768,Cobertura Datos
+2021-10-13,Detección de Anomalías,Aceptable,Aceptable,0.99,84.89687053657552,Cobertura Datos
+2021-10-15,Optimización,Aceptable,Aceptable,1.0,84.21037445452995,Cobertura Datos
+2021-10-19,Optimización,Aceptable,Aceptable,1.0,84.9627126128533,Cobertura Datos
+2021-10-22,Análisis Predictivo,Aceptable,Aceptable,1.0,88.32584966796176,Cobertura Datos
+2021-10-22,Regresión,Aceptable,Aceptable,0.99,86.36390587104617,Cobertura Datos
+2021-10-17,Clasificación,Aceptable,Aceptable,1.0,77.12147585236268,Cobertura Datos
+2021-10-21,Optimización,Aceptable,Aceptable,1.0,84.39645807684786,Cobertura Datos
+2021-10-29,Análisis Predictivo,Aceptable,Aceptable,1.0,76.3573355440646,Cobertura Datos
+2021-10-26,Análisis Predictivo,Aceptable,Aceptable,1.0,85.3097479576115,Cobertura Datos
+2021-10-29,Detección de Anomalías,Aceptable,Aceptable,1.0,81.23030012526321,Cobertura Datos
+2021-10-24,Regresión,Aceptable,Aceptable,1.0,71.02487783571135,Cobertura Datos
+2021-10-28,Regresión,Aceptable,Aceptable,1.0,89.08362787157581,Cobertura Datos
+2021-11-05,Clustering,Aceptable,Aceptable,1.0,77.14132686116186,Cobertura Datos
+2021-11-04,Clasificación,Alta representatividad,Alta representatividad,1.0,93.92505323347925,Cobertura Datos
+2021-11-04,Visión,Aceptable,Aceptable,1.0,77.29448828320776,Cobertura Datos
+2021-11-01,Regresión,Alta representatividad,Alta representatividad,1.0,95.91219132151446,Cobertura Datos
+2021-11-03,Clustering,Aceptable,Aceptable,1.0,82.03673036298518,Cobertura Datos
+2021-11-12,Visión,Aceptable,Aceptable,1.0,70.68659030931538,Cobertura Datos
+2021-11-12,Clasificación,Aceptable,Aceptable,1.0,71.98299352774931,Cobertura Datos
+2021-11-10,Regresión,Aceptable,Aceptable,1.0,72.13428840899479,Cobertura Datos
+2021-11-07,Visión,Aceptable,Aceptable,1.0,71.46157494617665,Cobertura Datos
+2021-11-07,Visión,Aceptable,Aceptable,1.0,76.96252439143507,Cobertura Datos
+2021-11-19,Detección de Anomalías,Aceptable,Aceptable,1.0,78.43930955789958,Cobertura Datos
+2021-11-19,Clustering,Aceptable,Aceptable,1.0,72.89343246661328,Cobertura Datos
+2021-11-17,Análisis Predictivo,Aceptable,Aceptable,1.0,81.39141860483605,Cobertura Datos
+2021-11-18,Regresión,Aceptable,Aceptable,1.0,79.49912136379062,Cobertura Datos
+2021-11-14,NLP,Aceptable,Aceptable,1.0,86.54442389132775,Cobertura Datos
+2021-11-26,Regresión,Aceptable,Aceptable,1.0,75.09247854704715,Cobertura Datos
+2021-11-22,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,93.76362274565084,Cobertura Datos
+2021-11-22,Optimización,Aceptable,Aceptable,0.99,83.41576024900183,Cobertura Datos
+2021-11-24,Clasificación,Aceptable,Aceptable,1.0,86.21705902655324,Cobertura Datos
+2021-11-21,Visión,Aceptable,Aceptable,1.0,71.027528798411,Cobertura Datos
+2021-11-28,Optimización,Aceptable,Aceptable,1.0,84.53630617055114,Cobertura Datos
+2021-12-03,Análisis Predictivo,Aceptable,Aceptable,1.0,79.5706053173029,Cobertura Datos
+2021-12-03,Optimización,Alta representatividad,Alta representatividad,1.0,94.02847326919851,Cobertura Datos
+2021-12-02,Visión,Alta representatividad,Alta representatividad,1.0,93.02672620424428,Cobertura Datos
+2021-11-28,NLP,Aceptable,Aceptable,1.0,86.57886620056465,Cobertura Datos
+2021-12-08,NLP,Aceptable,Aceptable,0.98,89.96413512094928,Cobertura Datos
+2021-12-05,Análisis Predictivo,Aceptable,Aceptable,1.0,86.7594220850145,Cobertura Datos
+2021-12-10,Clasificación,Aceptable,Aceptable,1.0,70.44117090179336,Cobertura Datos
+2021-12-05,Detección de Anomalías,Aceptable,Aceptable,0.99,88.28129016150235,Cobertura Datos
+2021-12-06,NLP,Aceptable,Aceptable,1.0,74.60435985993605,Cobertura Datos
+2021-12-15,NLP,Aceptable,Aceptable,1.0,87.74684482922571,Cobertura Datos
+2021-12-14,Análisis Predictivo,Aceptable,Aceptable,1.0,70.27317638998444,Cobertura Datos
+2021-12-15,Clasificación,Aceptable,Aceptable,1.0,78.0835770182026,Cobertura Datos
+2021-12-15,Clustering,Aceptable,Aceptable,1.0,83.44012745592873,Cobertura Datos
+2021-12-17,Detección de Anomalías,Aceptable,Aceptable,0.995925925925926,78.66243560938024,Cobertura Datos
+2021-12-21,Optimización,Aceptable,Aceptable,1.0,88.04366855278168,Cobertura Datos
+2021-12-24,Optimización,Aceptable,Aceptable,1.0,83.59044800751158,Cobertura Datos
+2021-12-21,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,94.9513519050038,Cobertura Datos
+2021-12-20,Regresión,Aceptable,Aceptable,1.0,79.30312301128349,Cobertura Datos
+2021-12-23,Clustering,Aceptable,Aceptable,0.99,88.76834262032037,Cobertura Datos
+2021-12-29,Regresión,Alta representatividad,Alta representatividad,1.0,91.7318832749718,Cobertura Datos
+2021-12-29,Clustering,Aceptable,Aceptable,1.0,76.59406246484636,Cobertura Datos
+2021-12-29,Detección de Anomalías,Aceptable,Aceptable,0.99,89.60741837066793,Cobertura Datos
+2021-12-29,Visión,Aceptable,Aceptable,1.0,80.22616399955787,Cobertura Datos
+2021-12-27,Optimización,Aceptable,Aceptable,1.0,73.3469059424644,Cobertura Datos
+2022-01-05,Clasificación,Aceptable,Aceptable,1.0,70.09482401324534,Cobertura Datos
+2022-01-04,Clustering,Aceptable,Aceptable,1.0,89.33769636856525,Cobertura Datos
+2022-01-04,Detección de Anomalías,Aceptable,Aceptable,1.0,74.84234605083938,Cobertura Datos
+2022-01-02,Análisis Predictivo,Aceptable,Aceptable,1.0,71.33103448946846,Cobertura Datos
+2022-01-03,Clustering,Aceptable,Aceptable,1.0,82.92743627603066,Cobertura Datos
+2022-01-09,Análisis Predictivo,Aceptable,Aceptable,1.0,79.01414890036482,Cobertura Datos
+2022-01-12,Detección de Anomalías,Aceptable,Aceptable,1.0,87.98697431639462,Cobertura Datos
+2022-01-10,Clasificación,Aceptable,Aceptable,1.0,72.79147168016276,Cobertura Datos
+2022-01-10,Optimización,Aceptable,Aceptable,1.0,73.44898241038513,Cobertura Datos
+2022-01-13,Optimización,Aceptable,Aceptable,1.0,80.50680041581563,Cobertura Datos
+2022-01-20,Clasificación,Aceptable,Aceptable,1.0,83.53061246079189,Cobertura Datos
+2022-01-16,Optimización,Alta representatividad,Alta representatividad,0.97,91.4290418867622,Cobertura Datos
+2022-01-16,Clustering,Aceptable,Aceptable,1.0,85.22625496430842,Cobertura Datos
+2022-01-18,Visión,Alta representatividad,Alta representatividad,0.99,93.46753357379552,Cobertura Datos
+2022-01-18,Regresión,Aceptable,Aceptable,1.0,75.66196373959733,Cobertura Datos
+2022-01-28,Regresión,Aceptable,Aceptable,1.0,85.50170741595798,Cobertura Datos
+2022-01-28,Clasificación,Aceptable,Aceptable,1.0,87.03619865460755,Cobertura Datos
+2022-01-28,NLP,Aceptable,Aceptable,1.0,88.87093134459833,Cobertura Datos
+2022-01-25,Visión,Alta representatividad,Alta representatividad,0.99,95.7049181539452,Cobertura Datos
+2022-01-24,Visión,Aceptable,Aceptable,0.97,82.16887938271444,Cobertura Datos
+2022-02-02,Regresión,Aceptable,Aceptable,1.0,79.60230907643525,Cobertura Datos
+2022-01-30,Clustering,Alta representatividad,Alta representatividad,1.0,92.15737355399952,Cobertura Datos
+2022-02-01,Detección de Anomalías,Aceptable,Aceptable,1.0,74.5965635322182,Cobertura Datos
+2022-01-31,Optimización,Aceptable,Aceptable,1.0,70.96273052927408,Cobertura Datos
+2022-02-03,Clustering,Aceptable,Aceptable,1.0,81.53331539181465,Cobertura Datos
+2022-02-09,Detección de Anomalías,Aceptable,Aceptable,1.0,76.42735221795165,Cobertura Datos
+2022-02-10,Clasificación,Aceptable,Aceptable,1.0,80.30966043263236,Cobertura Datos
+2022-02-11,Visión,Alta representatividad,Alta representatividad,0.99,95.63816609760434,Cobertura Datos
+2022-02-10,Clustering,Aceptable,Aceptable,1.0,79.06069398570055,Cobertura Datos
+2022-02-09,Clustering,Aceptable,Aceptable,1.0,88.40710841822789,Cobertura Datos
+2022-02-14,NLP,Aceptable,Aceptable,1.0,76.51045225351209,Cobertura Datos
+2022-02-17,Regresión,Aceptable,Aceptable,1.0,77.88899653792056,Cobertura Datos
+2022-02-14,Detección de Anomalías,Aceptable,Aceptable,1.0,76.3220350299667,Cobertura Datos
+2022-02-17,Detección de Anomalías,Aceptable,Aceptable,1.0,84.87618262586952,Cobertura Datos
+2022-02-15,NLP,Aceptable,Aceptable,1.0,75.87882324110727,Cobertura Datos
+2022-02-25,Análisis Predictivo,Aceptable,Aceptable,1.0,88.6774666692059,Cobertura Datos
+2022-02-23,Visión,Aceptable,Aceptable,1.0,87.68712916192986,Cobertura Datos
+2022-02-20,Detección de Anomalías,Aceptable,Aceptable,1.0,80.95301157572447,Cobertura Datos
+2022-02-23,Regresión,Aceptable,Aceptable,1.0,70.66500254698293,Cobertura Datos
+2022-02-24,Optimización,Aceptable,Aceptable,1.0,70.58892943788557,Cobertura Datos
+2022-03-03,NLP,Aceptable,Aceptable,1.0,83.85297724483226,Cobertura Datos
+2022-03-04,Optimización,Alta representatividad,Alta representatividad,1.0,91.81916954247394,Cobertura Datos
+2022-03-01,Optimización,Aceptable,Aceptable,1.0,85.57071545577573,Cobertura Datos
+2022-03-01,Regresión,Aceptable,Aceptable,1.0,81.32691200121192,Cobertura Datos
+2022-03-02,Optimización,Alta representatividad,Alta representatividad,1.0,92.9350896705448,Cobertura Datos
+2022-03-06,Clustering,Aceptable,Aceptable,1.0,75.12188167469623,Cobertura Datos
+2022-03-11,NLP,Aceptable,Aceptable,1.0,79.3450351622239,Cobertura Datos
+2022-03-09,Clustering,Aceptable,Aceptable,1.0,84.69804574863595,Cobertura Datos
+2022-03-06,NLP,Aceptable,Aceptable,1.0,77.58340619785803,Cobertura Datos
+2022-03-07,Optimización,Alta representatividad,Alta representatividad,1.0,95.9405245283595,Cobertura Datos
+2022-03-17,Clasificación,Aceptable,Aceptable,1.0,81.76034384031637,Cobertura Datos
+2022-03-14,Clasificación,Aceptable,Aceptable,1.0,71.34477780686996,Cobertura Datos
+2022-03-16,Análisis Predictivo,Aceptable,Aceptable,1.0,74.57816888756295,Cobertura Datos
+2022-03-13,Clustering,Aceptable,Aceptable,1.0,83.84450257514177,Cobertura Datos
+2022-03-13,Análisis Predictivo,Aceptable,Aceptable,1.0,84.30146119182584,Cobertura Datos
+2022-03-21,Detección de Anomalías,Alta representatividad,Alta representatividad,0.98,95.58775094706206,Cobertura Datos
+2022-03-22,Detección de Anomalías,Aceptable,Aceptable,1.0,85.59912687908297,Cobertura Datos
+2022-03-22,Clustering,Aceptable,Aceptable,0.99,87.33231032933966,Cobertura Datos
+2022-03-25,Clustering,Aceptable,Aceptable,1.0,75.55679201828924,Cobertura Datos
+2022-03-21,Visión,Aceptable,Aceptable,0.99,72.77848692251116,Cobertura Datos
+2022-03-29,NLP,Aceptable,Aceptable,1.0,85.65226021185028,Cobertura Datos
+2022-03-27,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,92.48687939168067,Cobertura Datos
+2022-03-30,NLP,Aceptable,Aceptable,0.99,85.27169674654567,Cobertura Datos
+2022-03-29,Análisis Predictivo,Aceptable,Aceptable,1.0,81.51236367280012,Cobertura Datos
+2022-04-01,Optimización,Aceptable,Aceptable,1.0,85.03337267436235,Cobertura Datos
+2022-04-03,NLP,Aceptable,Aceptable,1.0,82.18806104062874,Cobertura Datos
+2022-04-08,Detección de Anomalías,Aceptable,Aceptable,1.0,73.68892097639824,Cobertura Datos
+2022-04-06,Optimización,Aceptable,Aceptable,1.0,89.27079505657544,Cobertura Datos
+2022-04-03,Optimización,Aceptable,Aceptable,1.0,83.85899225008147,Cobertura Datos
+2022-04-07,Análisis Predictivo,Aceptable,Aceptable,1.0,80.38239477751205,Cobertura Datos
+2022-04-13,Visión,Aceptable,Aceptable,1.0,84.55060105309215,Cobertura Datos
+2022-04-14,NLP,Aceptable,Aceptable,1.0,76.2719008157867,Cobertura Datos
+2022-04-12,Clasificación,Aceptable,Aceptable,1.0,81.12690060223123,Cobertura Datos
+2022-04-15,Clustering,Aceptable,Aceptable,1.0,86.18357522609693,Cobertura Datos
+2022-04-12,Clasificación,Aceptable,Aceptable,1.0,75.88103291534803,Cobertura Datos
+2022-04-17,Regresión,Aceptable,Aceptable,1.0,89.47387220127868,Cobertura Datos
+2022-04-18,Clasificación,Aceptable,Aceptable,1.0,83.54628370827125,Cobertura Datos
+2022-04-17,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,92.4043744708814,Cobertura Datos
+2022-04-22,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,92.0281510201069,Cobertura Datos
+2022-04-22,Optimización,Aceptable,Aceptable,1.0,82.85744313670362,Cobertura Datos
+2022-04-29,Análisis Predictivo,Aceptable,Aceptable,1.0,75.08210587643683,Cobertura Datos
+2022-04-28,NLP,Aceptable,Aceptable,1.0,89.15268645186241,Cobertura Datos
+2022-04-29,Clustering,Aceptable,Aceptable,1.0,80.8856315277657,Cobertura Datos
+2022-04-27,Visión,Aceptable,Aceptable,1.0,85.46031456976492,Cobertura Datos
+2022-04-25,NLP,Aceptable,Aceptable,1.0,72.7888975445224,Cobertura Datos
+2022-05-01,Regresión,Aceptable,Aceptable,1.0,86.4211837274158,Cobertura Datos
+2022-05-05,Regresión,Aceptable,Aceptable,1.0,79.71231271257324,Cobertura Datos
+2022-05-05,Regresión,Aceptable,Aceptable,1.0,78.68893349268086,Cobertura Datos
+2022-05-03,Optimización,Alta representatividad,Alta representatividad,1.0,95.47780504822283,Cobertura Datos
+2022-05-01,Regresión,Aceptable,Aceptable,1.0,81.24319671176642,Cobertura Datos
+2022-05-08,Clustering,Aceptable,Aceptable,1.0,87.62899783100909,Cobertura Datos
+2022-05-13,Regresión,Aceptable,Aceptable,1.0,86.32091592491986,Cobertura Datos
+2022-05-13,Regresión,Aceptable,Aceptable,1.0,72.7118923230141,Cobertura Datos
+2022-05-12,Clustering,Aceptable,Aceptable,0.99,89.44611596367221,Cobertura Datos
+2022-05-08,Clustering,Aceptable,Aceptable,1.0,78.40213928927298,Cobertura Datos
+2022-05-20,Optimización,Alta representatividad,Alta representatividad,0.99,90.7724282791151,Cobertura Datos
+2022-05-17,NLP,Aceptable,Aceptable,1.0,85.79866034799994,Cobertura Datos
+2022-05-16,Visión,Aceptable,Aceptable,0.99,78.24437873879072,Cobertura Datos
+2022-05-19,Regresión,Aceptable,Aceptable,1.0,79.26361696860783,Cobertura Datos
+2022-05-17,Detección de Anomalías,Aceptable,Aceptable,1.0,89.01919161132538,Cobertura Datos
+2022-05-24,Visión,Aceptable,Aceptable,1.0,84.30154219319492,Cobertura Datos
+2022-05-25,Análisis Predictivo,Aceptable,Aceptable,1.0,87.3771270574542,Cobertura Datos
+2022-05-23,Regresión,Aceptable,Aceptable,1.0,74.1162763479549,Cobertura Datos
+2022-05-24,Regresión,Alta representatividad,Alta representatividad,1.0,90.46139347793888,Cobertura Datos
+2022-05-25,Visión,Aceptable,Aceptable,0.99,78.3301742917909,Cobertura Datos
+2022-06-01,Análisis Predictivo,Aceptable,Aceptable,1.0,86.11639294609951,Cobertura Datos
+2022-05-29,NLP,Aceptable,Aceptable,1.0,72.98167545629222,Cobertura Datos
+2022-06-03,Regresión,Aceptable,Aceptable,1.0,78.35692627008115,Cobertura Datos
+2022-05-31,NLP,Aceptable,Aceptable,1.0,86.87054961973269,Cobertura Datos
+2022-06-02,Clustering,Aceptable,Aceptable,1.0,77.1293594395465,Cobertura Datos
+2022-06-05,Visión,Alta representatividad,Alta representatividad,1.0,92.88811711549523,Cobertura Datos
+2022-06-06,NLP,Aceptable,Aceptable,1.0,87.19193838552893,Cobertura Datos
+2022-06-10,Regresión,Alta representatividad,Alta representatividad,0.97,92.62723822571668,Cobertura Datos
+2022-06-09,Detección de Anomalías,Aceptable,Aceptable,1.0,80.28015825852913,Cobertura Datos
+2022-06-09,NLP,Aceptable,Aceptable,1.0,70.88361370824154,Cobertura Datos
+2022-06-15,Clustering,Aceptable,Aceptable,1.0,84.97963904723267,Cobertura Datos
+2022-06-14,Clasificación,Aceptable,Aceptable,0.99,78.81903107085968,Cobertura Datos
+2022-06-15,Optimización,Aceptable,Aceptable,1.0,81.65289777398118,Cobertura Datos
+2022-06-15,Visión,Aceptable,Aceptable,1.0,87.70886556199147,Cobertura Datos
+2022-06-14,Optimización,Aceptable,Aceptable,1.0,88.21728134384266,Cobertura Datos
+2022-06-21,Visión,Aceptable,Aceptable,1.0,70.7164667865112,Cobertura Datos
+2022-06-21,Análisis Predictivo,Alta representatividad,Alta representatividad,0.81,90.00186949382994,Cobertura Datos
+2022-06-22,Detección de Anomalías,Aceptable,Aceptable,1.0,82.83149178885805,Cobertura Datos
+2022-06-24,NLP,Aceptable,Aceptable,1.0,84.4741681064383,Cobertura Datos
+2022-06-21,Optimización,Aceptable,Aceptable,1.0,77.74784881493616,Cobertura Datos
+2022-06-28,Análisis Predictivo,Aceptable,Aceptable,1.0,80.9416784360151,Cobertura Datos
+2022-06-30,Análisis Predictivo,Aceptable,Aceptable,0.99,88.46975348346263,Cobertura Datos
+2022-06-29,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,90.19455887655072,Cobertura Datos
+2022-06-28,Optimización,Aceptable,Aceptable,1.0,80.06476071036742,Cobertura Datos
+2022-06-29,Clasificación,Aceptable,Aceptable,1.0,87.96905584893457,Cobertura Datos
+2022-07-04,Análisis Predictivo,Aceptable,Aceptable,1.0,76.70913104389938,Cobertura Datos
+2022-07-03,Regresión,Alta representatividad,Alta representatividad,0.97,91.6325892946154,Cobertura Datos
+2022-07-07,Clasificación,Aceptable,Aceptable,1.0,85.85517021159148,Cobertura Datos
+2022-07-07,Clasificación,Alta representatividad,Alta representatividad,0.98,90.15484941773929,Cobertura Datos
+2022-07-06,Regresión,Aceptable,Aceptable,1.0,82.40602616026402,Cobertura Datos
+2022-07-12,Optimización,Aceptable,Aceptable,1.0,75.95684140953082,Cobertura Datos
+2022-07-13,Optimización,Aceptable,Aceptable,1.0,81.16000894615473,Cobertura Datos
+2022-07-15,NLP,Aceptable,Aceptable,1.0,79.91862025643634,Cobertura Datos
+2022-07-10,Detección de Anomalías,Aceptable,Aceptable,1.0,78.65063012944414,Cobertura Datos
+2022-07-14,NLP,Aceptable,Aceptable,1.0,75.51651744127842,Cobertura Datos
+2022-07-21,Optimización,Aceptable,Aceptable,0.99,89.73834568887496,Cobertura Datos
+2022-07-17,Detección de Anomalías,Aceptable,Aceptable,1.0,72.24514319433457,Cobertura Datos
+2022-07-20,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,93.07658417703168,Cobertura Datos
+2022-07-21,Optimización,Aceptable,Aceptable,1.0,74.55064279534159,Cobertura Datos
+2022-07-19,Optimización,Alta representatividad,Alta representatividad,1.0,95.47671494814008,Cobertura Datos
+2022-07-27,NLP,Alta representatividad,Alta representatividad,0.99,95.70016925026394,Cobertura Datos
+2022-07-26,Regresión,Aceptable,Aceptable,1.0,80.35806307226994,Cobertura Datos
+2022-07-29,Análisis Predictivo,Alta representatividad,Alta representatividad,0.99,95.68334788843885,Cobertura Datos
+2022-07-29,Clustering,Alta representatividad,Alta representatividad,1.0,92.59578144929888,Cobertura Datos
+2022-07-29,Clustering,Aceptable,Aceptable,1.0,72.1431872006133,Cobertura Datos
+2022-08-01,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,94.63054265434408,Cobertura Datos
+2022-07-31,Análisis Predictivo,Aceptable,Aceptable,1.0,71.10537403351944,Cobertura Datos
+2022-08-05,Clustering,Aceptable,Aceptable,1.0,74.72977163721679,Cobertura Datos
+2022-08-04,Clasificación,Aceptable,Aceptable,1.0,85.19948406201352,Cobertura Datos
+2022-07-31,Regresión,Aceptable,Aceptable,1.0,72.09916663840035,Cobertura Datos
+2022-08-07,Clasificación,Aceptable,Aceptable,1.0,74.20492168172359,Cobertura Datos
+2022-08-09,Clustering,Alta representatividad,Alta representatividad,0.97,94.7907864649182,Cobertura Datos
+2022-08-11,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,95.8618850070778,Cobertura Datos
+2022-08-08,Optimización,Alta representatividad,Alta representatividad,1.0,90.75155008628772,Cobertura Datos
+2022-08-07,Optimización,Aceptable,Aceptable,1.0,83.39544417808227,Cobertura Datos
+2022-08-16,Visión,Alta representatividad,Alta representatividad,1.0,93.40782432798356,Cobertura Datos
+2022-08-19,Optimización,Aceptable,Aceptable,1.0,72.90936804297277,Cobertura Datos
+2022-08-16,Detección de Anomalías,Alta representatividad,Alta representatividad,0.98,94.51518860037022,Cobertura Datos
+2022-08-19,Clasificación,Aceptable,Aceptable,1.0,79.14037611384124,Cobertura Datos
+2022-08-18,Visión,Alta representatividad,Alta representatividad,0.99,92.39872417206304,Cobertura Datos
+2022-08-24,Detección de Anomalías,Aceptable,Aceptable,0.96,87.37770855562016,Cobertura Datos
+2022-08-24,Visión,Alta representatividad,Alta representatividad,0.99,94.96713190544877,Cobertura Datos
+2022-08-22,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,92.48162664269128,Cobertura Datos
+2022-08-26,Clasificación,Alta representatividad,Alta representatividad,0.99,93.08534315232356,Cobertura Datos
+2022-08-23,Clustering,Aceptable,Aceptable,1.0,86.4256132591208,Cobertura Datos
+2022-08-31,Optimización,Alta representatividad,Alta representatividad,1.0,91.66212180538317,Cobertura Datos
+2022-08-28,Regresión,Aceptable,Aceptable,1.0,89.68540991979481,Cobertura Datos
+2022-08-29,Visión,Aceptable,Aceptable,1.0,74.20220140350106,Cobertura Datos
+2022-09-02,Detección de Anomalías,Aceptable,Aceptable,1.0,86.86351917518431,Cobertura Datos
+2022-08-28,Detección de Anomalías,Aceptable,Aceptable,1.0,73.85256420952412,Cobertura Datos
+2022-09-07,Clasificación,Alta representatividad,Alta representatividad,1.0,92.60585916902376,Cobertura Datos
+2022-09-06,Clustering,Aceptable,Aceptable,1.0,71.71469478283917,Cobertura Datos
+2022-09-07,NLP,Alta representatividad,Alta representatividad,1.0,95.66321342502516,Cobertura Datos
+2022-09-05,Regresión,Aceptable,Aceptable,1.0,80.41629331958049,Cobertura Datos
+2022-09-09,NLP,Aceptable,Aceptable,1.0,74.43636319623732,Cobertura Datos
+2022-09-12,Detección de Anomalías,Alta representatividad,Alta representatividad,0.99,94.3275495751918,Cobertura Datos
+2022-09-11,NLP,Aceptable,Aceptable,1.0,71.18107564197604,Cobertura Datos
+2022-09-11,Análisis Predictivo,Aceptable,Aceptable,1.0,82.22274649723357,Cobertura Datos
+2022-09-12,Regresión,Alta representatividad,Alta representatividad,0.6,90.02590532603708,Cobertura Datos
+2022-09-11,Detección de Anomalías,Aceptable,Aceptable,1.0,78.23551236122422,Cobertura Datos
+2022-09-22,Regresión,Aceptable,Aceptable,1.0,83.74970141747282,Cobertura Datos
+2022-09-23,Clustering,Aceptable,Aceptable,1.0,88.21073842415885,Cobertura Datos
+2022-09-19,NLP,Alta representatividad,Alta representatividad,0.99,94.75138694603434,Cobertura Datos
+2022-09-23,Análisis Predictivo,Aceptable,Aceptable,1.0,72.67026862104677,Cobertura Datos
+2022-09-18,Análisis Predictivo,Aceptable,Aceptable,1.0,74.0878942965879,Cobertura Datos
+2022-09-30,Regresión,Aceptable,Aceptable,1.0,83.23064327504574,Cobertura Datos
+2022-09-28,Optimización,Aceptable,Aceptable,1.0,80.88034898990122,Cobertura Datos
+2022-09-27,Regresión,Aceptable,Aceptable,1.0,80.68070017777532,Cobertura Datos
+2022-09-29,Clasificación,Aceptable,Aceptable,1.0,77.72099907633998,Cobertura Datos
+2022-09-29,Visión,Aceptable,Aceptable,1.0,84.57780476123285,Cobertura Datos
+2022-10-04,Optimización,Alta representatividad,Alta representatividad,1.0,92.96549674030862,Cobertura Datos
+2022-10-04,Clustering,Aceptable,Aceptable,1.0,74.18403285398446,Cobertura Datos
+2022-10-07,Análisis Predictivo,Aceptable,Aceptable,0.99,75.59744456688969,Cobertura Datos
+2022-10-07,Optimización,Aceptable,Aceptable,0.99,87.44141094278922,Cobertura Datos
+2022-10-05,Análisis Predictivo,Aceptable,Aceptable,1.0,71.4611390114699,Cobertura Datos
+2022-10-14,Análisis Predictivo,Aceptable,Aceptable,1.0,87.51786918863816,Cobertura Datos
+2022-10-11,Análisis Predictivo,Aceptable,Aceptable,1.0,78.17585992244676,Cobertura Datos
+2022-10-13,Clasificación,Aceptable,Aceptable,1.0,79.30420221640038,Cobertura Datos
+2022-10-12,Clasificación,Aceptable,Aceptable,1.0,80.54428371939541,Cobertura Datos
+2022-10-11,Detección de Anomalías,Aceptable,Aceptable,1.0,79.08927659878458,Cobertura Datos
+2022-10-19,Clustering,Alta representatividad,Alta representatividad,0.95,91.87145015326784,Cobertura Datos
+2022-10-19,Clasificación,Alta representatividad,Alta representatividad,0.97,94.59777989240804,Cobertura Datos
+2022-10-21,Clustering,Aceptable,Aceptable,1.0,84.2482983582209,Cobertura Datos
+2022-10-21,Análisis Predictivo,Aceptable,Aceptable,1.0,85.12884096970842,Cobertura Datos
+2022-10-16,Clustering,Aceptable,Aceptable,1.0,71.83256080834931,Cobertura Datos
+2022-10-25,Regresión,Aceptable,Aceptable,1.0,88.54299013738601,Cobertura Datos
+2022-10-28,Clustering,Aceptable,Aceptable,1.0,85.18657069706617,Cobertura Datos
+2022-10-23,Visión,Aceptable,Aceptable,1.0,71.31025761899761,Cobertura Datos
+2022-10-28,Optimización,Aceptable,Aceptable,1.0,75.15906734386428,Cobertura Datos
+2022-10-27,Regresión,Aceptable,Aceptable,1.0,75.25052893020663,Cobertura Datos
+2022-11-02,Visión,Aceptable,Aceptable,1.0,74.44516675052733,Cobertura Datos
+2022-11-03,Análisis Predictivo,Aceptable,Aceptable,1.0,87.1247948201922,Cobertura Datos
+2022-11-02,Regresión,Alta representatividad,Alta representatividad,1.0,94.13942999924998,Cobertura Datos
+2022-11-01,Visión,Aceptable,Aceptable,0.98,89.83735845931734,Cobertura Datos
+2022-10-31,Optimización,Aceptable,Aceptable,1.0,82.41171061556174,Cobertura Datos
+2022-11-08,Detección de Anomalías,Aceptable,Aceptable,1.0,80.50533374759652,Cobertura Datos
+2022-11-09,Detección de Anomalías,Aceptable,Aceptable,1.0,80.04791073803979,Cobertura Datos
+2022-11-07,Clustering,Aceptable,Aceptable,1.0,85.63242090009145,Cobertura Datos
+2022-11-07,Clustering,Aceptable,Aceptable,0.99,79.33973713255794,Cobertura Datos
+2022-11-08,Clasificación,Aceptable,Aceptable,1.0,75.87917125090664,Cobertura Datos
+2022-11-17,Regresión,Aceptable,Aceptable,1.0,85.67391557096515,Cobertura Datos
+2022-11-15,Clasificación,Aceptable,Aceptable,1.0,80.1583407491169,Cobertura Datos
+2022-11-16,Clasificación,Aceptable,Aceptable,1.0,70.36724555773968,Cobertura Datos
+2022-11-17,Regresión,Aceptable,Aceptable,1.0,70.57800895273614,Cobertura Datos
+2022-11-16,Regresión,Aceptable,Aceptable,1.0,77.12755189001487,Cobertura Datos
+2022-11-25,Optimización,Aceptable,Aceptable,1.0,83.32297718717845,Cobertura Datos
+2022-11-25,Regresión,Aceptable,Aceptable,1.0,79.2102271993677,Cobertura Datos
+2022-11-24,Regresión,Aceptable,Aceptable,1.0,70.62543396207634,Cobertura Datos
+2022-11-20,Clustering,Aceptable,Aceptable,1.0,75.80194585758426,Cobertura Datos
+2022-11-24,Clasificación,Aceptable,Aceptable,1.0,72.50690202554001,Cobertura Datos
+2022-11-27,Detección de Anomalías,Alta representatividad,Alta representatividad,0.99,94.66443203539684,Cobertura Datos
+2022-11-30,Análisis Predictivo,Aceptable,Aceptable,1.0,78.13368596634169,Cobertura Datos
+2022-11-29,Visión,Aceptable,Aceptable,1.0,70.38392566148289,Cobertura Datos
+2022-11-30,Visión,Aceptable,Aceptable,1.0,87.17464455162724,Cobertura Datos
+2022-11-29,Detección de Anomalías,Aceptable,Aceptable,1.0,76.04364645320324,Cobertura Datos
+2022-12-09,Regresión,Aceptable,Aceptable,1.0,84.73514263080611,Cobertura Datos
+2022-12-04,Visión,Aceptable,Aceptable,1.0,73.91938181984668,Cobertura Datos
+2022-12-06,Visión,Alta representatividad,Alta representatividad,0.99,95.58434411318407,Cobertura Datos
+2022-12-07,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,95.22673885069864,Cobertura Datos
+2022-12-07,Regresión,Aceptable,Aceptable,1.0,87.05556714394795,Cobertura Datos
+2022-12-14,Visión,Aceptable,Aceptable,1.0,88.38726816737358,Cobertura Datos
+2022-12-15,Clustering,Aceptable,Aceptable,1.0,81.07285117358293,Cobertura Datos
+2022-12-14,Optimización,Alta representatividad,Alta representatividad,1.0,95.0166629808724,Cobertura Datos
+2022-12-15,Visión,Aceptable,Aceptable,1.0,81.01723012965122,Cobertura Datos
+2022-12-12,Regresión,Aceptable,Aceptable,1.0,76.22616793260956,Cobertura Datos
+2022-12-18,Análisis Predictivo,Aceptable,Aceptable,1.0,72.99984384970149,Cobertura Datos
+2022-12-19,Clustering,Aceptable,Aceptable,1.0,75.41125780817403,Cobertura Datos
+2022-12-19,Optimización,Aceptable,Aceptable,1.0,84.87755110214677,Cobertura Datos
+2022-12-22,NLP,Aceptable,Aceptable,1.0,76.37238466642177,Cobertura Datos
+2022-12-22,Clustering,Aceptable,Aceptable,1.0,87.01048513963616,Cobertura Datos
+2022-12-25,Análisis Predictivo,Aceptable,Aceptable,1.0,79.9367975170112,Cobertura Datos
+2022-12-25,Optimización,Alta representatividad,Alta representatividad,1.0,93.05869554084836,Cobertura Datos
+2022-12-30,Clasificación,Aceptable,Aceptable,1.0,84.52042975410501,Cobertura Datos
+2022-12-25,NLP,Aceptable,Aceptable,1.0,86.18770538063318,Cobertura Datos
+2022-12-28,NLP,Aceptable,Aceptable,0.99,84.4705548778096,Cobertura Datos
+2023-01-04,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,93.02478812896663,Cobertura Datos
+2023-01-01,Clasificación,Aceptable,Aceptable,1.0,71.64890876615897,Cobertura Datos
+2023-01-05,Clustering,Aceptable,Aceptable,1.0,71.75106638435938,Cobertura Datos
+2023-01-02,NLP,Aceptable,Aceptable,1.0,88.24524636804345,Cobertura Datos
+2023-01-01,NLP,Aceptable,Aceptable,0.99,89.96706145325263,Cobertura Datos
+2023-01-13,Visión,Aceptable,Aceptable,1.0,81.27332487533116,Cobertura Datos
+2023-01-08,NLP,Aceptable,Aceptable,1.0,79.15993540941085,Cobertura Datos
+2023-01-09,Clasificación,Aceptable,Aceptable,1.0,77.22657172134075,Cobertura Datos
+2023-01-10,Regresión,Aceptable,Aceptable,1.0,76.09426703167223,Cobertura Datos
+2023-01-08,Detección de Anomalías,Alta representatividad,Alta representatividad,0.98,93.71092333164374,Cobertura Datos
+2023-01-15,Optimización,Aceptable,Aceptable,0.99,77.67362820539047,Cobertura Datos
+2023-01-18,Visión,Aceptable,Aceptable,1.0,86.8500486910911,Cobertura Datos
+2023-01-16,Análisis Predictivo,Alta representatividad,Alta representatividad,0.95,90.46446428997416,Cobertura Datos
+2023-01-20,Clustering,Aceptable,Aceptable,1.0,70.57113103963711,Cobertura Datos
+2023-01-15,Clasificación,Aceptable,Aceptable,1.0,70.88072789696285,Cobertura Datos
+2023-01-27,Clustering,Aceptable,Aceptable,1.0,78.6615725205716,Cobertura Datos
+2023-01-22,NLP,Aceptable,Aceptable,1.0,88.09640935215629,Cobertura Datos
+2023-01-24,Regresión,Aceptable,Aceptable,1.0,76.7807645168211,Cobertura Datos
+2023-01-23,Visión,Aceptable,Aceptable,0.99,70.0385655512385,Cobertura Datos
+2023-01-22,Visión,Aceptable,Aceptable,0.99,77.49184539854184,Cobertura Datos
+2023-01-31,Análisis Predictivo,Aceptable,Aceptable,1.0,72.34340123273132,Cobertura Datos
+2023-01-29,Clustering,Aceptable,Aceptable,1.0,75.7047459506004,Cobertura Datos
+2023-02-02,Regresión,Aceptable,Aceptable,1.0,78.66294001818174,Cobertura Datos
+2023-01-31,Análisis Predictivo,Aceptable,Aceptable,1.0,73.32949123178754,Cobertura Datos
+2023-02-03,Regresión,Aceptable,Aceptable,1.0,88.36548291363916,Cobertura Datos
+2023-02-09,Regresión,Aceptable,Aceptable,1.0,76.6539260321609,Cobertura Datos
+2023-02-05,Detección de Anomalías,Aceptable,Aceptable,0.98,87.18846478192901,Cobertura Datos
+2023-02-07,Clasificación,Aceptable,Aceptable,1.0,85.5748541733504,Cobertura Datos
+2023-02-06,Optimización,Alta representatividad,Alta representatividad,1.0,93.34918268003712,Cobertura Datos
+2023-02-10,Optimización,Aceptable,Aceptable,1.0,72.2862624809614,Cobertura Datos
+2023-02-15,Análisis Predictivo,Aceptable,Aceptable,1.0,75.57981089545528,Cobertura Datos
+2023-02-12,Análisis Predictivo,Alta representatividad,Alta representatividad,0.96,92.49463915514336,Cobertura Datos
+2023-02-14,Clustering,Alta representatividad,Alta representatividad,1.0,91.37541786602802,Cobertura Datos
+2023-02-16,Clustering,Aceptable,Aceptable,1.0,74.99474448673331,Cobertura Datos
+2023-02-14,Detección de Anomalías,Aceptable,Aceptable,1.0,72.80113631059922,Cobertura Datos
+2023-02-20,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,92.26227808012504,Cobertura Datos
+2023-02-21,Optimización,Aceptable,Aceptable,1.0,74.63158947744232,Cobertura Datos
+2023-02-23,Clasificación,Alta representatividad,Alta representatividad,1.0,92.64885235784068,Cobertura Datos
+2023-02-19,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,94.98898218382126,Cobertura Datos
+2023-02-24,NLP,Aceptable,Aceptable,1.0,75.74097260296743,Cobertura Datos
+2023-03-02,Análisis Predictivo,Alta representatividad,Alta representatividad,0.99,91.85007759794482,Cobertura Datos
+2023-03-03,NLP,Aceptable,Aceptable,1.0,81.01960833953883,Cobertura Datos
+2023-03-03,NLP,Alta representatividad,Alta representatividad,0.99,90.50823904359088,Cobertura Datos
+2023-03-02,Visión,Aceptable,Aceptable,1.0,80.59228406544992,Cobertura Datos
+2023-03-02,Detección de Anomalías,Aceptable,Aceptable,1.0,71.83028556707663,Cobertura Datos
+2023-03-08,Visión,Aceptable,Aceptable,1.0,88.53007708795528,Cobertura Datos
+2023-03-10,Detección de Anomalías,Aceptable,Aceptable,1.0,73.91790463749305,Cobertura Datos
+2023-03-05,Detección de Anomalías,Alta representatividad,Alta representatividad,0.99,94.10265232223416,Cobertura Datos
+2023-03-08,Análisis Predictivo,Aceptable,Aceptable,1.0,80.86140335853823,Cobertura Datos
+2023-03-10,Regresión,Aceptable,Aceptable,1.0,72.13200384564907,Cobertura Datos
+2023-03-14,Análisis Predictivo,Aceptable,Aceptable,1.0,75.94048038412386,Cobertura Datos
+2023-03-12,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,92.42545805416006,Cobertura Datos
+2023-03-12,Clustering,Aceptable,Aceptable,1.0,78.34822221022797,Cobertura Datos
+2023-03-17,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,92.26452786947192,Cobertura Datos
+2023-03-14,Análisis Predictivo,Aceptable,Aceptable,1.0,74.47945519819586,Cobertura Datos
+2023-03-21,Análisis Predictivo,Aceptable,Aceptable,1.0,82.17367121300965,Cobertura Datos
+2023-03-23,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,92.83474678645202,Cobertura Datos
+2023-03-24,NLP,Aceptable,Aceptable,1.0,71.25852564040467,Cobertura Datos
+2023-03-24,Detección de Anomalías,Aceptable,Aceptable,1.0,77.91120675227012,Cobertura Datos
+2023-03-19,Análisis Predictivo,Alta representatividad,Alta representatividad,0.97,93.65614132540844,Cobertura Datos
+2023-03-27,Visión,Aceptable,Aceptable,1.0,85.50968452040911,Cobertura Datos
+2023-03-31,Clustering,Aceptable,Aceptable,0.98,88.62203540657549,Cobertura Datos
+2023-03-30,Clasificación,Alta representatividad,Alta representatividad,0.99,91.8953394034026,Cobertura Datos
+2023-03-26,Visión,Aceptable,Aceptable,1.0,83.61350708299703,Cobertura Datos
+2023-03-28,Visión,Alta representatividad,Alta representatividad,1.0,91.9795134265616,Cobertura Datos
+2023-04-04,Visión,Aceptable,Aceptable,1.0,86.6078788373786,Cobertura Datos
+2023-04-03,Clustering,Aceptable,Aceptable,1.0,87.82691171465106,Cobertura Datos
+2023-04-02,Clasificación,Aceptable,Aceptable,1.0,73.97421583437162,Cobertura Datos
+2023-04-05,Regresión,Alta representatividad,Alta representatividad,0.99,94.4144895601023,Cobertura Datos
+2023-04-06,Clasificación,Alta representatividad,Alta representatividad,1.0,90.6981931113078,Cobertura Datos
+2023-04-09,Optimización,Aceptable,Aceptable,1.0,76.60909589982589,Cobertura Datos
+2023-04-12,Optimización,Aceptable,Aceptable,1.0,85.07986132595937,Cobertura Datos
+2023-04-11,Clasificación,Aceptable,Aceptable,1.0,79.78811352639018,Cobertura Datos
+2023-04-11,Análisis Predictivo,Aceptable,Aceptable,1.0,87.1704519690577,Cobertura Datos
+2023-04-12,Clasificación,Alta representatividad,Alta representatividad,1.0,95.83741792326424,Cobertura Datos
+2023-04-19,NLP,Aceptable,Aceptable,1.0,71.18940632573477,Cobertura Datos
+2023-04-17,Optimización,Alta representatividad,Alta representatividad,1.0,94.76561458705424,Cobertura Datos
+2023-04-16,Clasificación,Aceptable,Aceptable,0.99,71.8821746357349,Cobertura Datos
+2023-04-18,Detección de Anomalías,Aceptable,Aceptable,1.0,81.97988053186023,Cobertura Datos
+2023-04-20,Regresión,Aceptable,Aceptable,1.0,82.53483921542933,Cobertura Datos
+2023-04-25,Detección de Anomalías,Aceptable,Aceptable,1.0,76.98683581959503,Cobertura Datos
+2023-04-23,Clustering,Aceptable,Aceptable,1.0,84.73418143755185,Cobertura Datos
+2023-04-26,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,91.6830678048043,Cobertura Datos
+2023-04-24,NLP,Aceptable,Aceptable,1.0,77.64301671149309,Cobertura Datos
+2023-04-25,NLP,Aceptable,Aceptable,1.0,71.83052837895558,Cobertura Datos
+2023-05-01,Regresión,Aceptable,Aceptable,1.0,86.43937621667281,Cobertura Datos
+2023-05-03,Análisis Predictivo,Aceptable,Aceptable,1.0,89.54537335785454,Cobertura Datos
+2023-05-05,Regresión,Alta representatividad,Alta representatividad,0.99,94.81759825469784,Cobertura Datos
+2023-04-30,Análisis Predictivo,Aceptable,Aceptable,1.0,74.14764081792795,Cobertura Datos
+2023-05-02,Visión,Alta representatividad,Alta representatividad,1.0,93.43535651092492,Cobertura Datos
+2023-05-07,NLP,Aceptable,Aceptable,1.0,82.53521040691692,Cobertura Datos
+2023-05-11,Optimización,Aceptable,Aceptable,1.0,76.12971416262508,Cobertura Datos
+2023-05-07,NLP,Alta representatividad,Alta representatividad,1.0,95.031460225103,Cobertura Datos
+2023-05-12,Clasificación,Aceptable,Aceptable,1.0,76.19916103394439,Cobertura Datos
+2023-05-10,NLP,Aceptable,Aceptable,1.0,89.06954882913422,Cobertura Datos
+2023-05-17,NLP,Alta representatividad,Alta representatividad,0.97,90.40705623850737,Cobertura Datos
+2023-05-18,Optimización,Aceptable,Aceptable,1.0,81.19349536302171,Cobertura Datos
+2023-05-14,Optimización,Aceptable,Aceptable,1.0,87.93960596290057,Cobertura Datos
+2023-05-19,Optimización,Aceptable,Aceptable,0.97,84.88440395076053,Cobertura Datos
+2023-05-17,NLP,Aceptable,Aceptable,1.0,74.99285156326106,Cobertura Datos
+2023-05-24,Clasificación,Aceptable,Aceptable,0.87,89.75708493495199,Cobertura Datos
+2023-05-24,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,94.12841976574728,Cobertura Datos
+2023-05-24,Regresión,Aceptable,Aceptable,1.0,82.70458942269764,Cobertura Datos
+2023-05-22,NLP,Alta representatividad,Alta representatividad,1.0,95.85206660573571,Cobertura Datos
+2023-05-23,Análisis Predictivo,Aceptable,Aceptable,1.0,81.12709815190638,Cobertura Datos
+2023-05-29,Análisis Predictivo,Aceptable,Aceptable,1.0,82.4731509674571,Cobertura Datos
+2023-05-31,NLP,Aceptable,Aceptable,0.99,87.5213353633145,Cobertura Datos
+2023-06-02,Detección de Anomalías,Aceptable,Aceptable,1.0,74.83002374983293,Cobertura Datos
+2023-05-28,Clasificación,Alta representatividad,Alta representatividad,0.98,93.45059625862736,Cobertura Datos
+2023-05-29,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,90.83309272562614,Cobertura Datos
+2023-06-08,NLP,Alta representatividad,Alta representatividad,1.0,92.68284944618628,Cobertura Datos
+2023-06-06,Análisis Predictivo,Aceptable,Aceptable,1.0,85.84852306710627,Cobertura Datos
+2023-06-04,Optimización,Alta representatividad,Alta representatividad,1.0,92.9774469906668,Cobertura Datos
+2023-06-05,Clustering,Aceptable,Aceptable,1.0,87.67928466922943,Cobertura Datos
+2023-06-06,Visión,Aceptable,Aceptable,1.0,83.30058339442975,Cobertura Datos
+2023-06-16,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,94.2265609036026,Cobertura Datos
+2023-06-12,Regresión,Aceptable,Aceptable,0.99,81.43271398935903,Cobertura Datos
+2023-06-15,Clustering,Aceptable,Aceptable,1.0,83.01481624278871,Cobertura Datos
+2023-06-14,Detección de Anomalías,Aceptable,Aceptable,1.0,74.40813700149549,Cobertura Datos
+2023-06-15,Optimización,Alta representatividad,Alta representatividad,1.0,94.63913425633297,Cobertura Datos
+2023-06-21,Optimización,Aceptable,Aceptable,1.0,75.74737302001995,Cobertura Datos
+2023-06-20,NLP,Aceptable,Aceptable,1.0,75.23681402898332,Cobertura Datos
+2023-06-19,Optimización,Aceptable,Aceptable,1.0,72.63105971001043,Cobertura Datos
+2023-06-19,NLP,Aceptable,Aceptable,0.99,81.78734572995118,Cobertura Datos
+2023-06-22,Clasificación,Aceptable,Aceptable,1.0,77.11397829683015,Cobertura Datos
+2023-06-25,NLP,Aceptable,Aceptable,0.97,89.26030601381751,Cobertura Datos
+2023-06-27,Clustering,Aceptable,Aceptable,1.0,77.99556212530538,Cobertura Datos
+2023-06-30,Optimización,Aceptable,Aceptable,1.0,88.74002680483424,Cobertura Datos
+2023-06-28,Análisis Predictivo,Aceptable,Aceptable,1.0,75.09498815218353,Cobertura Datos
+2023-06-27,Clasificación,Aceptable,Aceptable,1.0,75.97911192840215,Cobertura Datos
+2023-07-07,Optimización,Alta representatividad,Alta representatividad,1.0,90.96052817147914,Cobertura Datos
+2023-07-06,Clasificación,Aceptable,Aceptable,1.0,79.64843235004385,Cobertura Datos
+2023-07-07,Análisis Predictivo,Aceptable,Aceptable,1.0,72.90612336572201,Cobertura Datos
+2023-07-03,Visión,Alta representatividad,Alta representatividad,0.98,94.9964989322986,Cobertura Datos
+2023-07-05,NLP,Aceptable,Aceptable,1.0,74.61219606753389,Cobertura Datos
+2023-07-12,Visión,Aceptable,Aceptable,1.0,73.90512508521088,Cobertura Datos
+2023-07-14,Optimización,Aceptable,Aceptable,1.0,79.31793364714211,Cobertura Datos
+2023-07-12,Clustering,Aceptable,Aceptable,1.0,72.48647800001442,Cobertura Datos
+2023-07-12,NLP,Aceptable,Aceptable,1.0,74.04602577473038,Cobertura Datos
+2023-07-11,Optimización,Alta representatividad,Alta representatividad,0.99,92.00755953590868,Cobertura Datos
+2023-07-18,Análisis Predictivo,Aceptable,Aceptable,0.99,74.45917824845138,Cobertura Datos
+2023-07-21,Optimización,Aceptable,Aceptable,1.0,72.89709715522599,Cobertura Datos
+2023-07-20,Análisis Predictivo,Alta representatividad,Alta representatividad,0.98,92.8788959589128,Cobertura Datos
+2023-07-21,Visión,Aceptable,Aceptable,1.0,81.53870921092332,Cobertura Datos
+2023-07-21,Visión,Aceptable,Aceptable,1.0,74.08623647672312,Cobertura Datos
+2023-07-24,Optimización,Aceptable,Aceptable,1.0,85.1194531931175,Cobertura Datos
+2023-07-28,Optimización,Aceptable,Aceptable,1.0,71.07915183677389,Cobertura Datos
+2023-07-28,Detección de Anomalías,Aceptable,Aceptable,1.0,81.11194642036843,Cobertura Datos
+2023-07-24,Clasificación,Aceptable,Aceptable,1.0,85.34815948575893,Cobertura Datos
+2023-07-25,Regresión,Alta representatividad,Alta representatividad,0.99,94.88512078679402,Cobertura Datos
+2023-08-03,Detección de Anomalías,Aceptable,Aceptable,1.0,78.48808385840323,Cobertura Datos
+2023-07-30,Detección de Anomalías,Aceptable,Aceptable,0.99,89.89132850994754,Cobertura Datos
+2023-08-04,Clasificación,Aceptable,Aceptable,1.0,73.45019516153336,Cobertura Datos
+2023-08-04,Detección de Anomalías,Aceptable,Aceptable,1.0,81.27314110088399,Cobertura Datos
+2023-08-04,Análisis Predictivo,Aceptable,Aceptable,1.0,75.80150297689218,Cobertura Datos
+2023-08-09,Detección de Anomalías,Aceptable,Aceptable,1.0,82.80416373278572,Cobertura Datos
+2023-08-11,Regresión,Aceptable,Aceptable,0.98,80.84802833051283,Cobertura Datos
+2023-08-07,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,95.47441129895772,Cobertura Datos
+2023-08-09,Clustering,Alta representatividad,Alta representatividad,1.0,93.85494794593676,Cobertura Datos
+2023-08-07,Clasificación,Aceptable,Aceptable,1.0,85.13735339131698,Cobertura Datos
+2023-08-18,Clasificación,Aceptable,Aceptable,1.0,74.58925422579311,Cobertura Datos
+2023-08-13,Clasificación,Aceptable,Aceptable,1.0,84.48088177696903,Cobertura Datos
+2023-08-18,Visión,Alta representatividad,Alta representatividad,1.0,90.59413923641809,Cobertura Datos
+2023-08-14,Análisis Predictivo,Aceptable,Aceptable,1.0,70.98870491140997,Cobertura Datos
+2023-08-18,Clasificación,Aceptable,Aceptable,1.0,81.2847630650254,Cobertura Datos
+2023-08-20,Clasificación,Aceptable,Aceptable,1.0,71.10881978556581,Cobertura Datos
+2023-08-21,Regresión,Aceptable,Aceptable,1.0,76.342906376246,Cobertura Datos
+2023-08-22,Optimización,Aceptable,Aceptable,0.99,72.39498114962414,Cobertura Datos
+2023-08-23,Visión,Alta representatividad,Alta representatividad,0.98,94.97503533785216,Cobertura Datos
+2023-08-24,NLP,Aceptable,Aceptable,1.0,74.38954497228923,Cobertura Datos
+2023-08-31,Clustering,Aceptable,Aceptable,0.99,73.90270094074255,Cobertura Datos
+2023-08-28,Optimización,Alta representatividad,Alta representatividad,1.0,95.27342912824494,Cobertura Datos
+2023-08-31,Optimización,Aceptable,Aceptable,1.0,83.4151495478799,Cobertura Datos
+2023-09-01,Clasificación,Aceptable,Aceptable,1.0,89.70761081651823,Cobertura Datos
+2023-08-30,Análisis Predictivo,Aceptable,Aceptable,1.0,78.5101809304079,Cobertura Datos
+2023-09-05,Visión,Aceptable,Aceptable,1.0,83.85437835430623,Cobertura Datos
+2023-09-05,Clasificación,Aceptable,Aceptable,1.0,70.1781965140208,Cobertura Datos
+2023-09-03,Optimización,Aceptable,Aceptable,1.0,80.6292802558128,Cobertura Datos
+2023-09-07,Regresión,Aceptable,Aceptable,1.0,84.4323344475428,Cobertura Datos
+2023-09-08,Clasificación,Aceptable,Aceptable,1.0,83.37466425097722,Cobertura Datos
+2023-09-13,Clasificación,Aceptable,Aceptable,1.0,80.55131186763565,Cobertura Datos
+2023-09-14,Clasificación,Alta representatividad,Alta representatividad,0.99,90.4855992573556,Cobertura Datos
+2023-09-13,Visión,Aceptable,Aceptable,1.0,83.0426614929964,Cobertura Datos
+2023-09-10,Análisis Predictivo,Aceptable,Aceptable,1.0,86.53913361479442,Cobertura Datos
+2023-09-15,Regresión,Aceptable,Aceptable,1.0,74.8001494224847,Cobertura Datos
+2023-09-21,Regresión,Alta representatividad,Alta representatividad,0.99,92.3990025066892,Cobertura Datos
+2023-09-19,NLP,Aceptable,Aceptable,1.0,79.4337407291304,Cobertura Datos
+2023-09-17,Regresión,Aceptable,Aceptable,1.0,82.53469446648802,Cobertura Datos
+2023-09-22,Regresión,Aceptable,Aceptable,1.0,79.1570642754408,Cobertura Datos
+2023-09-21,Optimización,Alta representatividad,Alta representatividad,0.99,93.18958657618602,Cobertura Datos
+2023-09-26,Clasificación,Alta representatividad,Alta representatividad,1.0,93.41924382101806,Cobertura Datos
+2023-09-26,Visión,Aceptable,Aceptable,1.0,75.83139295986632,Cobertura Datos
+2023-09-27,Clustering,Aceptable,Aceptable,1.0,89.57057844982067,Cobertura Datos
+2023-09-26,Regresión,Aceptable,Aceptable,1.0,72.67497218841318,Cobertura Datos
+2023-09-25,Visión,Aceptable,Aceptable,1.0,70.77610918600276,Cobertura Datos
+2023-10-05,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,91.75118695100552,Cobertura Datos
+2023-10-05,Detección de Anomalías,Aceptable,Aceptable,1.0,73.41063178351857,Cobertura Datos
+2023-10-04,Clustering,Aceptable,Aceptable,1.0,74.02435066438578,Cobertura Datos
+2023-10-03,NLP,Aceptable,Aceptable,1.0,85.77129474164408,Cobertura Datos
+2023-10-04,Optimización,Alta representatividad,Alta representatividad,0.99,91.23598143014333,Cobertura Datos
+2023-10-09,Detección de Anomalías,Aceptable,Aceptable,1.0,74.92962392106709,Cobertura Datos
+2023-10-11,Detección de Anomalías,Aceptable,Aceptable,1.0,72.96899810251979,Cobertura Datos
+2023-10-12,Detección de Anomalías,Aceptable,Aceptable,1.0,72.01038098302217,Cobertura Datos
+2023-10-13,Optimización,Aceptable,Aceptable,0.99,70.64600670122178,Cobertura Datos
+2023-10-13,Clasificación,Aceptable,Aceptable,1.0,73.02845789630986,Cobertura Datos
+2023-10-18,Optimización,Alta representatividad,Alta representatividad,0.99,94.50998964878534,Cobertura Datos
+2023-10-19,Análisis Predictivo,Aceptable,Aceptable,1.0,72.477345327196,Cobertura Datos
+2023-10-15,Análisis Predictivo,Aceptable,Aceptable,1.0,85.53653332595313,Cobertura Datos
+2023-10-16,Detección de Anomalías,Alta representatividad,Alta representatividad,0.99,93.94512611181676,Cobertura Datos
+2023-10-16,Detección de Anomalías,Aceptable,Aceptable,1.0,86.32332366018048,Cobertura Datos
+2023-10-26,Visión,Aceptable,Aceptable,1.0,70.85138961760703,Cobertura Datos
+2023-10-27,Visión,Aceptable,Aceptable,0.99,85.50675898761502,Cobertura Datos
+2023-10-22,Clasificación,Alta representatividad,Alta representatividad,1.0,93.47969797785495,Cobertura Datos
+2023-10-24,NLP,Aceptable,Aceptable,1.0,78.38653491208328,Cobertura Datos
+2023-10-25,Clustering,Aceptable,Aceptable,1.0,78.15432616884195,Cobertura Datos
+2023-10-31,Detección de Anomalías,Aceptable,Aceptable,1.0,76.47045330622097,Cobertura Datos
+2023-10-29,Análisis Predictivo,Aceptable,Aceptable,1.0,83.14415926060327,Cobertura Datos
+2023-10-30,Detección de Anomalías,Aceptable,Aceptable,1.0,76.18651399884297,Cobertura Datos
+2023-10-31,Clasificación,Aceptable,Aceptable,0.92,88.81850805637477,Cobertura Datos
+2023-10-29,Análisis Predictivo,Aceptable,Aceptable,1.0,86.7664054329099,Cobertura Datos
+2023-11-06,Detección de Anomalías,Aceptable,Aceptable,1.0,80.42011399960936,Cobertura Datos
+2023-11-10,Clasificación,Aceptable,Aceptable,1.0,88.78643150265106,Cobertura Datos
+2023-11-07,NLP,Aceptable,Aceptable,1.0,72.5609039674326,Cobertura Datos
+2023-11-10,NLP,Aceptable,Aceptable,1.0,89.48773848798658,Cobertura Datos
+2023-11-06,Clasificación,Aceptable,Aceptable,1.0,85.67561272117626,Cobertura Datos
+2023-11-16,Análisis Predictivo,Aceptable,Aceptable,1.0,86.38215476785258,Cobertura Datos
+2023-11-13,Análisis Predictivo,Aceptable,Aceptable,0.98,71.68125620578459,Cobertura Datos
+2023-11-13,Clustering,Aceptable,Aceptable,0.98,86.07151030493522,Cobertura Datos
+2023-11-12,Análisis Predictivo,Aceptable,Aceptable,1.0,82.84717261946281,Cobertura Datos
+2023-11-12,NLP,Aceptable,Aceptable,0.99,82.63242506024054,Cobertura Datos
+2023-11-22,Clasificación,Aceptable,Aceptable,1.0,78.36818839457027,Cobertura Datos
+2023-11-19,Análisis Predictivo,Aceptable,Aceptable,1.0,70.19796096684698,Cobertura Datos
+2023-11-23,NLP,Aceptable,Aceptable,1.0,80.98857240120012,Cobertura Datos
+2023-11-23,NLP,Aceptable,Aceptable,1.0,80.4238218298692,Cobertura Datos
+2023-11-24,Análisis Predictivo,Aceptable,Aceptable,1.0,80.99294059028455,Cobertura Datos
+2023-11-27,Clasificación,Aceptable,Aceptable,1.0,85.91184417108111,Cobertura Datos
+2023-11-26,Visión,Aceptable,Aceptable,0.99,77.79756157076396,Cobertura Datos
+2023-11-29,Clustering,Aceptable,Aceptable,1.0,77.0039696800901,Cobertura Datos
+2023-11-26,Clasificación,Aceptable,Aceptable,1.0,82.94231326630528,Cobertura Datos
+2023-11-29,Visión,Aceptable,Aceptable,0.99,85.40025957561623,Cobertura Datos
+2023-12-04,Análisis Predictivo,Aceptable,Aceptable,1.0,84.75053909307422,Cobertura Datos
+2023-12-08,Análisis Predictivo,Alta representatividad,Alta representatividad,0.99,92.92268508742126,Cobertura Datos
+2023-12-08,NLP,Aceptable,Alta representatividad,0.75,89.99774551696534,Cobertura Datos
+2023-12-07,Análisis Predictivo,Aceptable,Aceptable,1.0,71.35693730575025,Cobertura Datos
+2023-12-03,Clustering,Aceptable,Aceptable,1.0,84.65036079385057,Cobertura Datos
+2023-12-10,NLP,Aceptable,Aceptable,1.0,80.86316944673679,Cobertura Datos
+2023-12-14,Clasificación,Aceptable,Aceptable,1.0,79.38733362885128,Cobertura Datos
+2023-12-14,Regresión,Alta representatividad,Alta representatividad,1.0,94.90529355923476,Cobertura Datos
+2023-12-15,Optimización,Aceptable,Aceptable,1.0,81.87669034572936,Cobertura Datos
+2023-12-15,Detección de Anomalías,Aceptable,Aceptable,1.0,88.70530726918977,Cobertura Datos
+2023-12-22,Optimización,Alta representatividad,Alta representatividad,0.99,95.14426121887742,Cobertura Datos
+2023-12-19,Clustering,Aceptable,Aceptable,1.0,73.92600353346268,Cobertura Datos
+2023-12-19,Clasificación,Aceptable,Aceptable,1.0,71.42002281587277,Cobertura Datos
+2023-12-19,NLP,Aceptable,Aceptable,1.0,78.15412596562258,Cobertura Datos
+2023-12-21,Regresión,Aceptable,Aceptable,1.0,71.15555089902993,Cobertura Datos
+2023-12-26,Visión,Aceptable,Aceptable,1.0,73.03587989259064,Cobertura Datos
+2023-12-24,Clustering,Alta representatividad,Alta representatividad,1.0,95.7844553855418,Cobertura Datos
+2023-12-28,NLP,Alta representatividad,Alta representatividad,0.99,94.96465152396192,Cobertura Datos
+2023-12-24,Clasificación,Aceptable,Aceptable,1.0,87.9736091329313,Cobertura Datos
+2023-12-28,Análisis Predictivo,Aceptable,Aceptable,1.0,89.57766198971194,Cobertura Datos
+2024-01-01,Clustering,Aceptable,Aceptable,1.0,73.65279401871867,Cobertura Datos
+2023-12-31,Detección de Anomalías,Aceptable,Aceptable,1.0,85.47612497481289,Cobertura Datos
+2024-01-04,Visión,Aceptable,Aceptable,0.99,74.01473135461222,Cobertura Datos
+2024-01-03,Visión,Aceptable,Aceptable,1.0,79.83804005865726,Cobertura Datos
+2024-01-04,Optimización,Aceptable,Aceptable,1.0,78.97897066013513,Cobertura Datos
+2024-01-08,Clasificación,Aceptable,Aceptable,1.0,85.96297199089855,Cobertura Datos
+2024-01-11,Regresión,Aceptable,Aceptable,1.0,72.07202082818014,Cobertura Datos
+2024-01-08,Análisis Predictivo,Aceptable,Aceptable,1.0,72.69001381796426,Cobertura Datos
+2024-01-09,Regresión,Aceptable,Aceptable,1.0,85.8582300295129,Cobertura Datos
+2024-01-07,Detección de Anomalías,Aceptable,Aceptable,1.0,86.53905908043028,Cobertura Datos
+2024-01-15,Visión,Aceptable,Aceptable,1.0,78.83694305632217,Cobertura Datos
+2024-01-17,Regresión,Aceptable,Aceptable,1.0,73.81864932252662,Cobertura Datos
+2024-01-14,Regresión,Alta representatividad,Alta representatividad,1.0,93.03807781058192,Cobertura Datos
+2024-01-18,NLP,Aceptable,Aceptable,1.0,71.37666874395265,Cobertura Datos
+2024-01-18,Visión,Aceptable,Aceptable,0.98,88.65176345772252,Cobertura Datos
+2024-01-22,Análisis Predictivo,Aceptable,Aceptable,1.0,73.641162671338,Cobertura Datos
+2024-01-24,Regresión,Aceptable,Aceptable,1.0,86.5717216191006,Cobertura Datos
+2024-01-22,Análisis Predictivo,Aceptable,Aceptable,0.99,87.25505202015138,Cobertura Datos
+2024-01-24,Detección de Anomalías,Alta representatividad,Alta representatividad,0.98,90.91075056291965,Cobertura Datos
+2024-01-26,Clasificación,Aceptable,Aceptable,1.0,80.27065213903137,Cobertura Datos
+2024-01-29,Análisis Predictivo,Aceptable,Aceptable,1.0,70.56670817405228,Cobertura Datos
+2024-01-30,Clustering,Alta representatividad,Alta representatividad,0.99,91.0872840351938,Cobertura Datos
+2024-01-30,NLP,Aceptable,Aceptable,1.0,81.54576850384187,Cobertura Datos
+2024-01-30,Clustering,Alta representatividad,Alta representatividad,1.0,92.0243353095371,Cobertura Datos
+2024-01-29,Clasificación,Alta representatividad,Alta representatividad,0.96,90.17560869118462,Cobertura Datos
+2024-02-04,NLP,Aceptable,Aceptable,1.0,82.95597735204929,Cobertura Datos
+2024-02-08,NLP,Alta representatividad,Alta representatividad,1.0,95.98438463380828,Cobertura Datos
+2024-02-04,NLP,Aceptable,Aceptable,1.0,82.01395200293103,Cobertura Datos
+2024-02-08,Visión,Aceptable,Aceptable,1.0,88.10912012122094,Cobertura Datos
+2024-02-07,Optimización,Aceptable,Aceptable,1.0,87.41489931799407,Cobertura Datos
+2024-02-13,Regresión,Aceptable,Aceptable,1.0,83.469734590873,Cobertura Datos
+2024-02-13,Clasificación,Aceptable,Aceptable,1.0,85.21910751411016,Cobertura Datos
+2024-02-15,Regresión,Alta representatividad,Alta representatividad,0.99,90.76382780622886,Cobertura Datos
+2024-02-13,Análisis Predictivo,Aceptable,Aceptable,1.0,84.86194496265435,Cobertura Datos
+2024-02-11,Regresión,Aceptable,Aceptable,1.0,81.703855937393,Cobertura Datos
+2024-02-19,NLP,Aceptable,Aceptable,1.0,87.21414434021297,Cobertura Datos
+2024-02-20,Detección de Anomalías,Aceptable,Aceptable,1.0,70.92323491966471,Cobertura Datos
+2024-02-23,Clustering,Aceptable,Aceptable,1.0,72.83904075011381,Cobertura Datos
+2024-02-20,Clasificación,Aceptable,Aceptable,1.0,73.26108588054039,Cobertura Datos
+2024-02-23,Regresión,Aceptable,Aceptable,1.0,81.06995925224922,Cobertura Datos
+2024-02-28,Visión,Alta representatividad,Alta representatividad,1.0,92.66615623612752,Cobertura Datos
+2024-02-26,Clasificación,Aceptable,Aceptable,1.0,86.72565954193738,Cobertura Datos
+2024-02-29,Clasificación,Alta representatividad,Alta representatividad,1.0,95.28808044872224,Cobertura Datos
+2024-02-26,Detección de Anomalías,Aceptable,Aceptable,1.0,71.03846520407636,Cobertura Datos
+2024-02-26,Análisis Predictivo,Aceptable,Aceptable,1.0,88.77218316632155,Cobertura Datos
+2024-03-07,Regresión,Aceptable,Aceptable,0.99,78.16924049214646,Cobertura Datos
+2024-03-04,Visión,Aceptable,Aceptable,1.0,70.6054213466868,Cobertura Datos
+2024-03-06,Optimización,Alta representatividad,Alta representatividad,1.0,91.47409393829214,Cobertura Datos
+2024-03-08,NLP,Aceptable,Aceptable,1.0,74.23003212916325,Cobertura Datos
+2024-03-03,Clasificación,Aceptable,Aceptable,1.0,75.5659476538224,Cobertura Datos
+2024-03-11,Visión,Aceptable,Aceptable,1.0,78.85211232491365,Cobertura Datos
+2024-03-10,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,90.4972850383826,Cobertura Datos
+2024-03-13,Optimización,Aceptable,Aceptable,0.97,86.23935505845492,Cobertura Datos
+2024-03-13,Clasificación,Aceptable,Aceptable,1.0,76.88638953202171,Cobertura Datos
+2024-03-11,Optimización,Aceptable,Aceptable,1.0,74.38072279646013,Cobertura Datos
+2024-03-19,Regresión,Aceptable,Aceptable,1.0,72.84825416204849,Cobertura Datos
+2024-03-18,Regresión,Aceptable,Aceptable,1.0,73.89523089721376,Cobertura Datos
+2024-03-17,Visión,Alta representatividad,Alta representatividad,1.0,92.57177398002511,Cobertura Datos
+2024-03-20,Clustering,Alta representatividad,Alta representatividad,1.0,93.98976770188315,Cobertura Datos
+2024-03-17,Clasificación,Alta representatividad,Alta representatividad,1.0,95.16690299774486,Cobertura Datos
+2024-03-24,Visión,Alta representatividad,Alta representatividad,1.0,91.70302899643367,Cobertura Datos
+2024-03-28,Visión,Alta representatividad,Alta representatividad,1.0,93.0721484506071,Cobertura Datos
+2024-03-27,Clasificación,Alta representatividad,Alta representatividad,0.98,91.21869101204906,Cobertura Datos
+2024-03-27,Clustering,Alta representatividad,Alta representatividad,0.99,94.90944999519678,Cobertura Datos
+2024-03-24,Visión,Alta representatividad,Alta representatividad,0.99,91.98692448015336,Cobertura Datos
+2024-04-05,Regresión,Aceptable,Aceptable,1.0,82.01206972206633,Cobertura Datos
+2024-04-03,Análisis Predictivo,Aceptable,Aceptable,1.0,78.40461217330676,Cobertura Datos
+2024-04-05,Optimización,Aceptable,Aceptable,1.0,85.18950911014072,Cobertura Datos
+2024-04-05,Clasificación,Aceptable,Aceptable,1.0,85.81276652299906,Cobertura Datos
+2024-04-01,Clasificación,Aceptable,Aceptable,1.0,84.94777801174095,Cobertura Datos
+2024-04-11,Detección de Anomalías,Aceptable,Aceptable,0.97,88.37488491074511,Cobertura Datos
+2024-04-08,Visión,Aceptable,Aceptable,0.99,88.17339105140621,Cobertura Datos
+2024-04-09,Optimización,Aceptable,Aceptable,1.0,72.26705138204682,Cobertura Datos
+2024-04-09,Clustering,Aceptable,Aceptable,1.0,77.42358374543313,Cobertura Datos
+2024-04-12,NLP,Alta representatividad,Alta representatividad,1.0,93.13636487279666,Cobertura Datos
+2024-04-14,Regresión,Aceptable,Aceptable,1.0,85.34091140496153,Cobertura Datos
+2024-04-19,Clustering,Aceptable,Aceptable,1.0,78.54164215297646,Cobertura Datos
+2024-04-16,Clasificación,Alta representatividad,Alta representatividad,0.95,92.11192488915998,Cobertura Datos
+2024-04-15,Clasificación,Aceptable,Aceptable,1.0,76.47509942678411,Cobertura Datos
+2024-04-16,Regresión,Aceptable,Aceptable,1.0,80.639196473782,Cobertura Datos
+2024-04-21,NLP,Aceptable,Aceptable,1.0,77.18262406347375,Cobertura Datos
+2024-04-24,Optimización,Alta representatividad,Alta representatividad,1.0,92.6550980184256,Cobertura Datos
+2024-04-25,Visión,Aceptable,Aceptable,1.0,88.9355058568112,Cobertura Datos
+2024-04-21,Análisis Predictivo,Aceptable,Aceptable,1.0,81.9658667608966,Cobertura Datos
+2024-04-21,Regresión,Alta representatividad,Alta representatividad,1.0,94.23982164427622,Cobertura Datos
+2024-04-28,Análisis Predictivo,Alta representatividad,Alta representatividad,0.99,94.11356429412622,Cobertura Datos
+2024-04-29,Clasificación,Aceptable,Aceptable,1.0,88.49965068022357,Cobertura Datos
+2024-05-01,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,93.19183446448324,Cobertura Datos
+2024-04-28,Análisis Predictivo,Aceptable,Aceptable,0.99,88.70422115689594,Cobertura Datos
+2024-05-01,Regresión,Aceptable,Aceptable,1.0,86.33350855610286,Cobertura Datos
+2024-05-10,Clustering,Aceptable,Aceptable,1.0,80.9403584660892,Cobertura Datos
+2024-05-05,Clasificación,Aceptable,Aceptable,1.0,77.11021381472509,Cobertura Datos
+2024-05-06,Optimización,Aceptable,Aceptable,1.0,71.5666913257779,Cobertura Datos
+2024-05-05,Detección de Anomalías,Alta representatividad,Alta representatividad,0.99,90.82261925917682,Cobertura Datos
+2024-05-10,Análisis Predictivo,Aceptable,Aceptable,1.0,73.17624010169207,Cobertura Datos
+2024-05-14,Clasificación,Aceptable,Aceptable,1.0,80.66908025715497,Cobertura Datos
+2024-05-13,Detección de Anomalías,Aceptable,Aceptable,1.0,76.10048957037851,Cobertura Datos
+2024-05-12,Optimización,Aceptable,Aceptable,1.0,81.82028377582627,Cobertura Datos
+2024-05-12,Detección de Anomalías,Aceptable,Aceptable,1.0,78.1895794621529,Cobertura Datos
+2024-05-12,Optimización,Alta representatividad,Alta representatividad,0.99,91.57204000262796,Cobertura Datos
+2024-05-21,Visión,Alta representatividad,Alta representatividad,1.0,95.43264259223535,Cobertura Datos
+2024-05-21,Clustering,Alta representatividad,Alta representatividad,1.0,94.48042416993908,Cobertura Datos
+2024-05-19,Detección de Anomalías,Aceptable,Aceptable,1.0,86.18161788812154,Cobertura Datos
+2024-05-21,Optimización,Alta representatividad,Alta representatividad,1.0,95.46119023506972,Cobertura Datos
+2024-05-19,Clustering,Aceptable,Aceptable,1.0,80.41878911439396,Cobertura Datos
+2024-05-28,NLP,Aceptable,Aceptable,1.0,83.58467354266753,Cobertura Datos
+2024-05-29,NLP,Aceptable,Aceptable,1.0,76.67809563484049,Cobertura Datos
+2024-05-31,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,93.34754583589026,Cobertura Datos
+2024-05-26,Detección de Anomalías,Aceptable,Aceptable,1.0,74.67243714953497,Cobertura Datos
+2024-05-31,Optimización,Aceptable,Aceptable,1.0,85.87267430639693,Cobertura Datos
+2024-06-02,Visión,Alta representatividad,Alta representatividad,0.96,90.78580708586637,Cobertura Datos
+2024-06-06,Clasificación,Aceptable,Aceptable,1.0,85.48036741749505,Cobertura Datos
+2024-06-06,Regresión,Aceptable,Aceptable,1.0,72.0481556646122,Cobertura Datos
+2024-06-03,Clustering,Aceptable,Aceptable,0.98,85.89761884747776,Cobertura Datos
+2024-06-05,Detección de Anomalías,Aceptable,Aceptable,0.96,89.94406237489878,Cobertura Datos
+2024-06-12,Clustering,Aceptable,Aceptable,1.0,74.8835321301767,Cobertura Datos
+2024-06-10,Detección de Anomalías,Aceptable,Aceptable,1.0,89.16077425483383,Cobertura Datos
+2024-06-13,Detección de Anomalías,Alta representatividad,Alta representatividad,0.99,92.84302040991687,Cobertura Datos
+2024-06-10,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,95.64792086277048,Cobertura Datos
+2024-06-13,Regresión,Aceptable,Aceptable,1.0,80.66154085839129,Cobertura Datos
+2024-06-16,Detección de Anomalías,Aceptable,Aceptable,1.0,70.65422194693525,Cobertura Datos
+2024-06-21,Clustering,Aceptable,Aceptable,1.0,80.89605401097322,Cobertura Datos
+2024-06-17,Análisis Predictivo,Aceptable,Aceptable,1.0,87.16592384421362,Cobertura Datos
+2024-06-18,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,93.17549098539358,Cobertura Datos
+2024-06-21,Clasificación,Alta representatividad,Alta representatividad,1.0,94.39075060040528,Cobertura Datos
+2024-06-27,Regresión,Alta representatividad,Alta representatividad,1.0,93.64897046283384,Cobertura Datos
+2024-06-23,Clustering,Aceptable,Aceptable,1.0,87.10695408549631,Cobertura Datos
+2024-06-25,Visión,Aceptable,Aceptable,0.79,87.74559910708444,Cobertura Datos
+2024-06-25,NLP,Aceptable,Aceptable,1.0,70.06197898621353,Cobertura Datos
+2024-06-26,Clasificación,Aceptable,Aceptable,1.0,79.4570123286333,Cobertura Datos
+2024-07-04,Análisis Predictivo,Alta representatividad,Alta representatividad,1.0,93.57826213902702,Cobertura Datos
+2024-06-30,Detección de Anomalías,Aceptable,Aceptable,1.0,87.93005926957022,Cobertura Datos
+2024-07-04,Detección de Anomalías,Aceptable,Aceptable,1.0,82.16593952794138,Cobertura Datos
+2024-06-30,Optimización,Aceptable,Aceptable,1.0,72.71056278696916,Cobertura Datos
+2024-07-05,Regresión,Aceptable,Aceptable,1.0,76.40423331429143,Cobertura Datos
+2024-07-11,Optimización,Aceptable,Aceptable,1.0,84.42798546325486,Cobertura Datos
+2024-07-12,Regresión,Alta representatividad,Alta representatividad,0.99,93.33503935364516,Cobertura Datos
+2024-07-09,Regresión,Aceptable,Aceptable,1.0,72.49112103878677,Cobertura Datos
+2024-07-10,Detección de Anomalías,Aceptable,Aceptable,1.0,73.99764155376263,Cobertura Datos
+2024-07-12,Detección de Anomalías,Aceptable,Aceptable,1.0,87.03013198559752,Cobertura Datos
+2024-07-15,Clasificación,Aceptable,Aceptable,1.0,77.64789301892372,Cobertura Datos
+2024-07-18,Análisis Predictivo,Aceptable,Aceptable,1.0,74.41229857930185,Cobertura Datos
+2024-07-16,Análisis Predictivo,Aceptable,Aceptable,1.0,74.63933509226683,Cobertura Datos
+2024-07-15,Detección de Anomalías,Aceptable,Aceptable,1.0,82.80794387851093,Cobertura Datos
+2024-07-19,Análisis Predictivo,Aceptable,Aceptable,1.0,85.17735065709614,Cobertura Datos
+2024-07-22,Regresión,Alta representatividad,Alta representatividad,1.0,93.51308613507256,Cobertura Datos
+2024-07-22,Análisis Predictivo,Aceptable,Aceptable,1.0,83.77524691249421,Cobertura Datos
+2024-07-26,Clustering,Aceptable,Aceptable,0.99,87.97311311885527,Cobertura Datos
+2024-07-23,Visión,Aceptable,Aceptable,1.0,74.69783477015581,Cobertura Datos
+2024-07-26,Clasificación,Aceptable,Aceptable,1.0,88.54996745966908,Cobertura Datos
+2024-07-28,Análisis Predictivo,Aceptable,Aceptable,1.0,86.8660333123136,Cobertura Datos
+2024-07-29,Análisis Predictivo,Aceptable,Aceptable,1.0,75.62073362621032,Cobertura Datos
+2024-07-31,NLP,Aceptable,Aceptable,1.0,87.40381409144064,Cobertura Datos
+2024-07-28,Clasificación,Aceptable,Aceptable,1.0,75.4987931524378,Cobertura Datos
+2024-07-30,Clasificación,Aceptable,Aceptable,1.0,85.43302215311859,Cobertura Datos
+2024-08-05,Detección de Anomalías,Aceptable,Aceptable,1.0,87.39009231974042,Cobertura Datos
+2024-08-06,Clasificación,Aceptable,Aceptable,1.0,88.02711415823197,Cobertura Datos
+2024-08-06,Clustering,Alta representatividad,Alta representatividad,1.0,93.64093141117658,Cobertura Datos
+2024-08-05,Detección de Anomalías,Alta representatividad,Alta representatividad,1.0,94.64377122992728,Cobertura Datos
+2024-08-06,Regresión,Alta representatividad,Alta representatividad,1.0,91.0651467624354,Cobertura Datos

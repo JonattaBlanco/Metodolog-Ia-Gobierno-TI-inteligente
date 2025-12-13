@@ -1,0 +1,1306 @@
+fecha,mes,año,semana,tipo_analisis,numero_informes_generados,tiempo_promedio_horas,tiempo_promedio_dias,estado
+2020-01-05,2020-01,2020,1,Descriptivo,3,73.42,3.06,Riesgo de retraso
+2020-01-05,2020-01,2020,1,Predictivo,5,70.12,2.92,Aceptable
+2020-01-05,2020-01,2020,1,Prescriptivo,6,73.18,3.05,Riesgo de retraso
+2020-01-05,2020-01,2020,1,Diagnóstico,8,76.02,3.17,Riesgo de retraso
+2020-01-05,2020-01,2020,1,Exploratorio,5,69.5,2.9,Aceptable
+2020-01-12,2020-01,2020,2,Descriptivo,3,76.39,3.18,Riesgo de retraso
+2020-01-12,2020-01,2020,2,Predictivo,9,68.15,2.84,Aceptable
+2020-01-12,2020-01,2020,2,Prescriptivo,3,68.27,2.84,Aceptable
+2020-01-12,2020-01,2020,2,Diagnóstico,8,75.95,3.16,Riesgo de retraso
+2020-01-12,2020-01,2020,2,Exploratorio,8,68.65,2.86,Aceptable
+2020-01-19,2020-01,2020,3,Descriptivo,9,71.97,3.0,Aceptable
+2020-01-19,2020-01,2020,3,Predictivo,3,73.25,3.05,Riesgo de retraso
+2020-01-19,2020-01,2020,3,Prescriptivo,8,71.66,2.99,Aceptable
+2020-01-19,2020-01,2020,3,Diagnóstico,4,67.43,2.81,Aceptable
+2020-01-19,2020-01,2020,3,Exploratorio,4,73.64,3.07,Riesgo de retraso
+2020-01-26,2020-01,2020,4,Descriptivo,8,71.39,2.97,Aceptable
+2020-01-26,2020-01,2020,4,Predictivo,3,74.61,3.11,Riesgo de retraso
+2020-01-26,2020-01,2020,4,Prescriptivo,9,70.56,2.94,Aceptable
+2020-01-26,2020-01,2020,4,Diagnóstico,6,75.64,3.15,Riesgo de retraso
+2020-01-26,2020-01,2020,4,Exploratorio,4,68.12,2.84,Aceptable
+2020-02-02,2020-02,2020,5,Descriptivo,8,67.97,2.83,Aceptable
+2020-02-02,2020-02,2020,5,Predictivo,4,65.87,2.74,Aceptable
+2020-02-02,2020-02,2020,5,Prescriptivo,8,70.07,2.92,Aceptable
+2020-02-02,2020-02,2020,5,Diagnóstico,7,74.91,3.12,Riesgo de retraso
+2020-02-02,2020-02,2020,5,Exploratorio,9,75.39,3.14,Riesgo de retraso
+2020-02-09,2020-02,2020,6,Descriptivo,8,73.85,3.08,Riesgo de retraso
+2020-02-09,2020-02,2020,6,Predictivo,7,73.03,3.04,Riesgo de retraso
+2020-02-09,2020-02,2020,6,Prescriptivo,4,72.13,3.01,Riesgo de retraso
+2020-02-09,2020-02,2020,6,Diagnóstico,6,71.93,3.0,Aceptable
+2020-02-09,2020-02,2020,6,Exploratorio,8,70.27,2.93,Aceptable
+2020-02-16,2020-02,2020,7,Descriptivo,2,68.55,2.86,Aceptable
+2020-02-16,2020-02,2020,7,Predictivo,6,72.29,3.01,Riesgo de retraso
+2020-02-16,2020-02,2020,7,Prescriptivo,9,66.62,2.78,Aceptable
+2020-02-16,2020-02,2020,7,Diagnóstico,9,70.9,2.95,Aceptable
+2020-02-16,2020-02,2020,7,Exploratorio,8,72.27,3.01,Riesgo de retraso
+2020-02-23,2020-02,2020,8,Descriptivo,6,69.3,2.89,Aceptable
+2020-02-23,2020-02,2020,8,Predictivo,7,72.48,3.02,Riesgo de retraso
+2020-02-23,2020-02,2020,8,Prescriptivo,8,70.17,2.92,Aceptable
+2020-02-23,2020-02,2020,8,Diagnóstico,9,71.46,2.98,Aceptable
+2020-02-23,2020-02,2020,8,Exploratorio,5,68.02,2.83,Aceptable
+2020-03-01,2020-03,2020,9,Descriptivo,9,67.98,2.83,Aceptable
+2020-03-01,2020-03,2020,9,Predictivo,9,72.27,3.01,Riesgo de retraso
+2020-03-01,2020-03,2020,9,Prescriptivo,7,68.32,2.85,Aceptable
+2020-03-01,2020-03,2020,9,Diagnóstico,4,73.12,3.05,Riesgo de retraso
+2020-03-01,2020-03,2020,9,Exploratorio,8,70.87,2.95,Aceptable
+2020-03-08,2020-03,2020,10,Descriptivo,7,71.1,2.96,Aceptable
+2020-03-08,2020-03,2020,10,Predictivo,2,74.31,3.1,Riesgo de retraso
+2020-03-08,2020-03,2020,10,Prescriptivo,6,70.77,2.95,Aceptable
+2020-03-08,2020-03,2020,10,Diagnóstico,3,72.05,3.0,Riesgo de retraso
+2020-03-08,2020-03,2020,10,Exploratorio,9,65.03,2.71,Aceptable
+2020-03-15,2020-03,2020,11,Descriptivo,6,71.73,2.99,Aceptable
+2020-03-15,2020-03,2020,11,Predictivo,6,69.89,2.91,Aceptable
+2020-03-15,2020-03,2020,11,Prescriptivo,9,71.59,2.98,Aceptable
+2020-03-15,2020-03,2020,11,Diagnóstico,7,69.02,2.88,Aceptable
+2020-03-15,2020-03,2020,11,Exploratorio,2,70.02,2.92,Aceptable
+2020-03-22,2020-03,2020,12,Descriptivo,4,71.15,2.96,Aceptable
+2020-03-22,2020-03,2020,12,Predictivo,2,74.0,3.08,Riesgo de retraso
+2020-03-22,2020-03,2020,12,Prescriptivo,2,68.02,2.83,Aceptable
+2020-03-22,2020-03,2020,12,Diagnóstico,6,67.71,2.82,Aceptable
+2020-03-22,2020-03,2020,12,Exploratorio,3,72.67,3.03,Riesgo de retraso
+2020-03-29,2020-03,2020,13,Descriptivo,3,68.52,2.85,Aceptable
+2020-03-29,2020-03,2020,13,Predictivo,5,65.15,2.71,Aceptable
+2020-03-29,2020-03,2020,13,Prescriptivo,8,71.79,2.99,Aceptable
+2020-03-29,2020-03,2020,13,Diagnóstico,7,73.68,3.07,Riesgo de retraso
+2020-03-29,2020-03,2020,13,Exploratorio,8,73.01,3.04,Riesgo de retraso
+2020-04-05,2020-04,2020,14,Descriptivo,9,69.08,2.88,Aceptable
+2020-04-05,2020-04,2020,14,Predictivo,4,71.34,2.97,Aceptable
+2020-04-05,2020-04,2020,14,Prescriptivo,9,67.1,2.8,Aceptable
+2020-04-05,2020-04,2020,14,Diagnóstico,5,64.09,2.67,Aceptable
+2020-04-05,2020-04,2020,14,Exploratorio,3,66.82,2.78,Aceptable
+2020-04-12,2020-04,2020,15,Descriptivo,4,70.25,2.93,Aceptable
+2020-04-12,2020-04,2020,15,Predictivo,3,72.02,3.0,Riesgo de retraso
+2020-04-12,2020-04,2020,15,Prescriptivo,6,71.11,2.96,Aceptable
+2020-04-12,2020-04,2020,15,Diagnóstico,4,71.48,2.98,Aceptable
+2020-04-12,2020-04,2020,15,Exploratorio,6,64.69,2.7,Aceptable
+2020-04-19,2020-04,2020,16,Descriptivo,4,71.5,2.98,Aceptable
+2020-04-19,2020-04,2020,16,Predictivo,2,68.66,2.86,Aceptable
+2020-04-19,2020-04,2020,16,Prescriptivo,5,68.14,2.84,Aceptable
+2020-04-19,2020-04,2020,16,Diagnóstico,2,63.85,2.66,Aceptable
+2020-04-19,2020-04,2020,16,Exploratorio,8,68.58,2.86,Aceptable
+2020-04-26,2020-04,2020,17,Descriptivo,7,72.72,3.03,Riesgo de retraso
+2020-04-26,2020-04,2020,17,Predictivo,4,71.35,2.97,Aceptable
+2020-04-26,2020-04,2020,17,Prescriptivo,7,68.88,2.87,Aceptable
+2020-04-26,2020-04,2020,17,Diagnóstico,8,71.81,2.99,Aceptable
+2020-04-26,2020-04,2020,17,Exploratorio,9,64.08,2.67,Aceptable
+2020-05-03,2020-05,2020,18,Descriptivo,9,66.86,2.79,Aceptable
+2020-05-03,2020-05,2020,18,Predictivo,2,67.38,2.81,Aceptable
+2020-05-03,2020-05,2020,18,Prescriptivo,8,67.97,2.83,Aceptable
+2020-05-03,2020-05,2020,18,Diagnóstico,4,72.54,3.02,Riesgo de retraso
+2020-05-03,2020-05,2020,18,Exploratorio,6,68.23,2.84,Aceptable
+2020-05-10,2020-05,2020,19,Descriptivo,9,71.29,2.97,Aceptable
+2020-05-10,2020-05,2020,19,Predictivo,3,68.57,2.86,Aceptable
+2020-05-10,2020-05,2020,19,Prescriptivo,3,66.1,2.75,Aceptable
+2020-05-10,2020-05,2020,19,Diagnóstico,6,72.25,3.01,Riesgo de retraso
+2020-05-10,2020-05,2020,19,Exploratorio,4,63.34,2.64,Aceptable
+2020-05-17,2020-05,2020,20,Descriptivo,6,71.79,2.99,Aceptable
+2020-05-17,2020-05,2020,20,Predictivo,3,64.87,2.7,Aceptable
+2020-05-17,2020-05,2020,20,Prescriptivo,3,63.22,2.63,Aceptable
+2020-05-17,2020-05,2020,20,Diagnóstico,9,62.81,2.62,Aceptable
+2020-05-17,2020-05,2020,20,Exploratorio,3,67.17,2.8,Aceptable
+2020-05-24,2020-05,2020,21,Descriptivo,8,67.79,2.82,Aceptable
+2020-05-24,2020-05,2020,21,Predictivo,6,64.83,2.7,Aceptable
+2020-05-24,2020-05,2020,21,Prescriptivo,8,66.64,2.78,Aceptable
+2020-05-24,2020-05,2020,21,Diagnóstico,6,69.96,2.92,Aceptable
+2020-05-24,2020-05,2020,21,Exploratorio,5,67.9,2.83,Aceptable
+2020-05-31,2020-05,2020,22,Descriptivo,2,62.84,2.62,Aceptable
+2020-05-31,2020-05,2020,22,Predictivo,7,69.35,2.89,Aceptable
+2020-05-31,2020-05,2020,22,Prescriptivo,9,63.17,2.63,Aceptable
+2020-05-31,2020-05,2020,22,Diagnóstico,2,63.86,2.66,Aceptable
+2020-05-31,2020-05,2020,22,Exploratorio,3,62.49,2.6,Aceptable
+2020-06-07,2020-06,2020,23,Descriptivo,2,67.21,2.8,Aceptable
+2020-06-07,2020-06,2020,23,Predictivo,8,62.63,2.61,Aceptable
+2020-06-07,2020-06,2020,23,Prescriptivo,5,65.56,2.73,Aceptable
+2020-06-07,2020-06,2020,23,Diagnóstico,9,65.2,2.72,Aceptable
+2020-06-07,2020-06,2020,23,Exploratorio,2,69.23,2.88,Aceptable
+2020-06-14,2020-06,2020,24,Descriptivo,3,65.23,2.72,Aceptable
+2020-06-14,2020-06,2020,24,Predictivo,3,64.81,2.7,Aceptable
+2020-06-14,2020-06,2020,24,Prescriptivo,9,66.05,2.75,Aceptable
+2020-06-14,2020-06,2020,24,Diagnóstico,2,62.08,2.59,Aceptable
+2020-06-14,2020-06,2020,24,Exploratorio,9,66.78,2.78,Aceptable
+2020-06-21,2020-06,2020,25,Descriptivo,3,62.67,2.61,Aceptable
+2020-06-21,2020-06,2020,25,Predictivo,4,65.59,2.73,Aceptable
+2020-06-21,2020-06,2020,25,Prescriptivo,5,62.16,2.59,Aceptable
+2020-06-21,2020-06,2020,25,Diagnóstico,3,67.2,2.8,Aceptable
+2020-06-21,2020-06,2020,25,Exploratorio,3,62.7,2.61,Aceptable
+2020-06-28,2020-06,2020,26,Descriptivo,9,68.31,2.85,Aceptable
+2020-06-28,2020-06,2020,26,Predictivo,7,64.25,2.68,Aceptable
+2020-06-28,2020-06,2020,26,Prescriptivo,7,64.82,2.7,Aceptable
+2020-06-28,2020-06,2020,26,Diagnóstico,2,68.28,2.85,Aceptable
+2020-06-28,2020-06,2020,26,Exploratorio,7,62.89,2.62,Aceptable
+2020-07-05,2020-07,2020,27,Descriptivo,6,64.76,2.7,Aceptable
+2020-07-05,2020-07,2020,27,Predictivo,9,68.26,2.84,Aceptable
+2020-07-05,2020-07,2020,27,Prescriptivo,9,69.13,2.88,Aceptable
+2020-07-05,2020-07,2020,27,Diagnóstico,9,62.79,2.62,Aceptable
+2020-07-05,2020-07,2020,27,Exploratorio,5,70.33,2.93,Aceptable
+2020-07-12,2020-07,2020,28,Descriptivo,6,62.96,2.62,Aceptable
+2020-07-12,2020-07,2020,28,Predictivo,9,65.25,2.72,Aceptable
+2020-07-12,2020-07,2020,28,Prescriptivo,2,69.18,2.88,Aceptable
+2020-07-12,2020-07,2020,28,Diagnóstico,2,65.1,2.71,Aceptable
+2020-07-12,2020-07,2020,28,Exploratorio,6,66.32,2.76,Aceptable
+2020-07-19,2020-07,2020,29,Descriptivo,4,63.97,2.67,Aceptable
+2020-07-19,2020-07,2020,29,Predictivo,8,63.8,2.66,Aceptable
+2020-07-19,2020-07,2020,29,Prescriptivo,4,67.61,2.82,Aceptable
+2020-07-19,2020-07,2020,29,Diagnóstico,3,68.2,2.84,Aceptable
+2020-07-19,2020-07,2020,29,Exploratorio,5,68.78,2.87,Aceptable
+2020-07-26,2020-07,2020,30,Descriptivo,2,68.93,2.87,Aceptable
+2020-07-26,2020-07,2020,30,Predictivo,7,66.92,2.79,Aceptable
+2020-07-26,2020-07,2020,30,Prescriptivo,2,64.07,2.67,Aceptable
+2020-07-26,2020-07,2020,30,Diagnóstico,6,63.77,2.66,Aceptable
+2020-07-26,2020-07,2020,30,Exploratorio,6,67.27,2.8,Aceptable
+2020-08-02,2020-08,2020,31,Descriptivo,5,65.09,2.71,Aceptable
+2020-08-02,2020-08,2020,31,Predictivo,9,59.94,2.5,Aceptable
+2020-08-02,2020-08,2020,31,Prescriptivo,6,65.39,2.72,Aceptable
+2020-08-02,2020-08,2020,31,Diagnóstico,6,67.91,2.83,Aceptable
+2020-08-02,2020-08,2020,31,Exploratorio,5,63.56,2.65,Aceptable
+2020-08-09,2020-08,2020,32,Descriptivo,3,65.38,2.72,Aceptable
+2020-08-09,2020-08,2020,32,Predictivo,2,66.21,2.76,Aceptable
+2020-08-09,2020-08,2020,32,Prescriptivo,5,68.29,2.85,Aceptable
+2020-08-09,2020-08,2020,32,Diagnóstico,2,59.7,2.49,Aceptable
+2020-08-09,2020-08,2020,32,Exploratorio,7,59.32,2.47,Aceptable
+2020-08-16,2020-08,2020,33,Descriptivo,4,59.41,2.48,Aceptable
+2020-08-16,2020-08,2020,33,Predictivo,5,62.19,2.59,Aceptable
+2020-08-16,2020-08,2020,33,Prescriptivo,6,59.01,2.46,Aceptable
+2020-08-16,2020-08,2020,33,Diagnóstico,6,65.71,2.74,Aceptable
+2020-08-16,2020-08,2020,33,Exploratorio,4,59.78,2.49,Aceptable
+2020-08-23,2020-08,2020,34,Descriptivo,5,59.86,2.49,Aceptable
+2020-08-23,2020-08,2020,34,Predictivo,2,60.24,2.51,Aceptable
+2020-08-23,2020-08,2020,34,Prescriptivo,6,68.22,2.84,Aceptable
+2020-08-23,2020-08,2020,34,Diagnóstico,2,66.08,2.75,Aceptable
+2020-08-23,2020-08,2020,34,Exploratorio,8,67.49,2.81,Aceptable
+2020-08-30,2020-08,2020,35,Descriptivo,4,63.94,2.66,Aceptable
+2020-08-30,2020-08,2020,35,Predictivo,4,60.64,2.53,Aceptable
+2020-08-30,2020-08,2020,35,Prescriptivo,2,60.4,2.52,Aceptable
+2020-08-30,2020-08,2020,35,Diagnóstico,9,65.98,2.75,Aceptable
+2020-08-30,2020-08,2020,35,Exploratorio,3,63.07,2.63,Aceptable
+2020-09-06,2020-09,2020,36,Descriptivo,2,65.02,2.71,Aceptable
+2020-09-06,2020-09,2020,36,Predictivo,6,64.79,2.7,Aceptable
+2020-09-06,2020-09,2020,36,Prescriptivo,2,60.63,2.53,Aceptable
+2020-09-06,2020-09,2020,36,Diagnóstico,6,68.17,2.84,Aceptable
+2020-09-06,2020-09,2020,36,Exploratorio,4,65.83,2.74,Aceptable
+2020-09-13,2020-09,2020,37,Descriptivo,8,65.78,2.74,Aceptable
+2020-09-13,2020-09,2020,37,Predictivo,7,61.56,2.57,Aceptable
+2020-09-13,2020-09,2020,37,Prescriptivo,5,63.23,2.63,Aceptable
+2020-09-13,2020-09,2020,37,Diagnóstico,8,65.4,2.72,Aceptable
+2020-09-13,2020-09,2020,37,Exploratorio,4,65.98,2.75,Aceptable
+2020-09-20,2020-09,2020,38,Descriptivo,9,66.97,2.79,Aceptable
+2020-09-20,2020-09,2020,38,Predictivo,6,60.94,2.54,Aceptable
+2020-09-20,2020-09,2020,38,Prescriptivo,6,67.12,2.8,Aceptable
+2020-09-20,2020-09,2020,38,Diagnóstico,7,65.46,2.73,Aceptable
+2020-09-20,2020-09,2020,38,Exploratorio,4,58.09,2.42,Aceptable
+2020-09-27,2020-09,2020,39,Descriptivo,3,62.87,2.62,Aceptable
+2020-09-27,2020-09,2020,39,Predictivo,4,60.8,2.53,Aceptable
+2020-09-27,2020-09,2020,39,Prescriptivo,9,58.37,2.43,Aceptable
+2020-09-27,2020-09,2020,39,Diagnóstico,8,57.87,2.41,Aceptable
+2020-09-27,2020-09,2020,39,Exploratorio,6,63.7,2.65,Aceptable
+2020-10-04,2020-10,2020,40,Descriptivo,3,57.99,2.42,Aceptable
+2020-10-04,2020-10,2020,40,Predictivo,8,58.7,2.45,Aceptable
+2020-10-04,2020-10,2020,40,Prescriptivo,7,59.92,2.5,Aceptable
+2020-10-04,2020-10,2020,40,Diagnóstico,2,57.44,2.39,Aceptable
+2020-10-04,2020-10,2020,40,Exploratorio,7,66.55,2.77,Aceptable
+2020-10-11,2020-10,2020,41,Descriptivo,8,64.15,2.67,Aceptable
+2020-10-11,2020-10,2020,41,Predictivo,9,65.38,2.72,Aceptable
+2020-10-11,2020-10,2020,41,Prescriptivo,2,62.25,2.59,Aceptable
+2020-10-11,2020-10,2020,41,Diagnóstico,5,63.97,2.67,Aceptable
+2020-10-11,2020-10,2020,41,Exploratorio,6,58.06,2.42,Aceptable
+2020-10-18,2020-10,2020,42,Descriptivo,5,60.75,2.53,Aceptable
+2020-10-18,2020-10,2020,42,Predictivo,9,60.35,2.51,Aceptable
+2020-10-18,2020-10,2020,42,Prescriptivo,2,61.91,2.58,Aceptable
+2020-10-18,2020-10,2020,42,Diagnóstico,3,58.48,2.44,Aceptable
+2020-10-18,2020-10,2020,42,Exploratorio,2,57.59,2.4,Aceptable
+2020-10-25,2020-10,2020,43,Descriptivo,7,61.42,2.56,Aceptable
+2020-10-25,2020-10,2020,43,Predictivo,4,65.04,2.71,Aceptable
+2020-10-25,2020-10,2020,43,Prescriptivo,9,64.72,2.7,Aceptable
+2020-10-25,2020-10,2020,43,Diagnóstico,5,57.18,2.38,Aceptable
+2020-10-25,2020-10,2020,43,Exploratorio,8,63.28,2.64,Aceptable
+2020-11-01,2020-11,2020,44,Descriptivo,8,58.79,2.45,Aceptable
+2020-11-01,2020-11,2020,44,Predictivo,5,58.28,2.43,Aceptable
+2020-11-01,2020-11,2020,44,Prescriptivo,3,63.7,2.65,Aceptable
+2020-11-01,2020-11,2020,44,Diagnóstico,5,56.97,2.37,Aceptable
+2020-11-01,2020-11,2020,44,Exploratorio,9,56.81,2.37,Aceptable
+2020-11-08,2020-11,2020,45,Descriptivo,5,65.76,2.74,Aceptable
+2020-11-08,2020-11,2020,45,Predictivo,7,61.67,2.57,Aceptable
+2020-11-08,2020-11,2020,45,Prescriptivo,6,61.63,2.57,Aceptable
+2020-11-08,2020-11,2020,45,Diagnóstico,3,62.57,2.61,Aceptable
+2020-11-08,2020-11,2020,45,Exploratorio,5,64.4,2.68,Aceptable
+2020-11-15,2020-11,2020,46,Descriptivo,5,58.03,2.42,Aceptable
+2020-11-15,2020-11,2020,46,Predictivo,5,60.6,2.53,Aceptable
+2020-11-15,2020-11,2020,46,Prescriptivo,9,61.51,2.56,Aceptable
+2020-11-15,2020-11,2020,46,Diagnóstico,7,58.17,2.42,Aceptable
+2020-11-15,2020-11,2020,46,Exploratorio,9,63.31,2.64,Aceptable
+2020-11-22,2020-11,2020,47,Descriptivo,3,63.51,2.65,Aceptable
+2020-11-22,2020-11,2020,47,Predictivo,3,64.51,2.69,Aceptable
+2020-11-22,2020-11,2020,47,Prescriptivo,5,62.81,2.62,Aceptable
+2020-11-22,2020-11,2020,47,Diagnóstico,4,62.53,2.61,Aceptable
+2020-11-22,2020-11,2020,47,Exploratorio,9,62.54,2.61,Aceptable
+2020-11-29,2020-11,2020,48,Descriptivo,9,57.29,2.39,Aceptable
+2020-11-29,2020-11,2020,48,Predictivo,4,57.11,2.38,Aceptable
+2020-11-29,2020-11,2020,48,Prescriptivo,4,61.24,2.55,Aceptable
+2020-11-29,2020-11,2020,48,Diagnóstico,5,60.9,2.54,Aceptable
+2020-11-29,2020-11,2020,48,Exploratorio,2,63.65,2.65,Aceptable
+2020-12-06,2020-12,2020,49,Descriptivo,8,63.0,2.62,Aceptable
+2020-12-06,2020-12,2020,49,Predictivo,7,56.66,2.36,Aceptable
+2020-12-06,2020-12,2020,49,Prescriptivo,9,63.76,2.66,Aceptable
+2020-12-06,2020-12,2020,49,Diagnóstico,9,60.55,2.52,Aceptable
+2020-12-06,2020-12,2020,49,Exploratorio,4,56.79,2.37,Aceptable
+2020-12-13,2020-12,2020,50,Descriptivo,6,61.26,2.55,Aceptable
+2020-12-13,2020-12,2020,50,Predictivo,3,64.4,2.68,Aceptable
+2020-12-13,2020-12,2020,50,Prescriptivo,8,61.89,2.58,Aceptable
+2020-12-13,2020-12,2020,50,Diagnóstico,5,64.17,2.67,Aceptable
+2020-12-13,2020-12,2020,50,Exploratorio,2,64.47,2.69,Aceptable
+2020-12-20,2020-12,2020,51,Descriptivo,4,57.46,2.39,Aceptable
+2020-12-20,2020-12,2020,51,Predictivo,3,62.04,2.58,Aceptable
+2020-12-20,2020-12,2020,51,Prescriptivo,7,62.42,2.6,Aceptable
+2020-12-20,2020-12,2020,51,Diagnóstico,9,61.12,2.55,Aceptable
+2020-12-20,2020-12,2020,51,Exploratorio,3,58.37,2.43,Aceptable
+2020-12-27,2020-12,2020,52,Descriptivo,9,54.5,2.27,Aceptable
+2020-12-27,2020-12,2020,52,Predictivo,2,63.94,2.66,Aceptable
+2020-12-27,2020-12,2020,52,Prescriptivo,7,64.13,2.67,Aceptable
+2020-12-27,2020-12,2020,52,Diagnóstico,9,60.62,2.53,Aceptable
+2020-12-27,2020-12,2020,52,Exploratorio,7,57.25,2.39,Aceptable
+2021-01-03,2021-01,2021,53,Descriptivo,2,59.65,2.49,Aceptable
+2021-01-03,2021-01,2021,53,Predictivo,2,58.57,2.44,Aceptable
+2021-01-03,2021-01,2021,53,Prescriptivo,3,55.04,2.29,Aceptable
+2021-01-03,2021-01,2021,53,Diagnóstico,5,55.08,2.29,Aceptable
+2021-01-03,2021-01,2021,53,Exploratorio,7,56.9,2.37,Aceptable
+2021-01-10,2021-01,2021,1,Descriptivo,7,54.86,2.29,Aceptable
+2021-01-10,2021-01,2021,1,Predictivo,5,61.95,2.58,Aceptable
+2021-01-10,2021-01,2021,1,Prescriptivo,3,57.48,2.39,Aceptable
+2021-01-10,2021-01,2021,1,Diagnóstico,8,58.19,2.42,Aceptable
+2021-01-10,2021-01,2021,1,Exploratorio,5,60.35,2.51,Aceptable
+2021-01-17,2021-01,2021,2,Descriptivo,9,61.21,2.55,Aceptable
+2021-01-17,2021-01,2021,2,Predictivo,7,56.98,2.37,Aceptable
+2021-01-17,2021-01,2021,2,Prescriptivo,2,59.54,2.48,Aceptable
+2021-01-17,2021-01,2021,2,Diagnóstico,5,60.55,2.52,Aceptable
+2021-01-17,2021-01,2021,2,Exploratorio,6,60.62,2.53,Aceptable
+2021-01-24,2021-01,2021,3,Descriptivo,2,58.86,2.45,Aceptable
+2021-01-24,2021-01,2021,3,Predictivo,5,60.68,2.53,Aceptable
+2021-01-24,2021-01,2021,3,Prescriptivo,4,61.6,2.57,Aceptable
+2021-01-24,2021-01,2021,3,Diagnóstico,5,54.98,2.29,Aceptable
+2021-01-24,2021-01,2021,3,Exploratorio,7,59.09,2.46,Aceptable
+2021-01-31,2021-01,2021,4,Descriptivo,6,56.0,2.33,Aceptable
+2021-01-31,2021-01,2021,4,Predictivo,6,62.2,2.59,Aceptable
+2021-01-31,2021-01,2021,4,Prescriptivo,3,59.65,2.49,Aceptable
+2021-01-31,2021-01,2021,4,Diagnóstico,3,57.97,2.42,Aceptable
+2021-01-31,2021-01,2021,4,Exploratorio,5,62.9,2.62,Aceptable
+2021-02-07,2021-02,2021,5,Descriptivo,6,61.82,2.58,Aceptable
+2021-02-07,2021-02,2021,5,Predictivo,2,53.57,2.23,Aceptable
+2021-02-07,2021-02,2021,5,Prescriptivo,8,60.19,2.51,Aceptable
+2021-02-07,2021-02,2021,5,Diagnóstico,6,55.97,2.33,Aceptable
+2021-02-07,2021-02,2021,5,Exploratorio,7,60.87,2.54,Aceptable
+2021-02-14,2021-02,2021,6,Descriptivo,7,62.04,2.58,Aceptable
+2021-02-14,2021-02,2021,6,Predictivo,5,60.99,2.54,Aceptable
+2021-02-14,2021-02,2021,6,Prescriptivo,3,53.69,2.24,Aceptable
+2021-02-14,2021-02,2021,6,Diagnóstico,7,61.0,2.54,Aceptable
+2021-02-14,2021-02,2021,6,Exploratorio,7,62.33,2.6,Aceptable
+2021-02-21,2021-02,2021,7,Descriptivo,8,61.45,2.56,Aceptable
+2021-02-21,2021-02,2021,7,Predictivo,4,60.55,2.52,Aceptable
+2021-02-21,2021-02,2021,7,Prescriptivo,4,59.47,2.48,Aceptable
+2021-02-21,2021-02,2021,7,Diagnóstico,5,62.12,2.59,Aceptable
+2021-02-21,2021-02,2021,7,Exploratorio,5,59.44,2.48,Aceptable
+2021-02-28,2021-02,2021,8,Descriptivo,8,57.63,2.4,Aceptable
+2021-02-28,2021-02,2021,8,Predictivo,6,54.36,2.26,Aceptable
+2021-02-28,2021-02,2021,8,Prescriptivo,7,57.6,2.4,Aceptable
+2021-02-28,2021-02,2021,8,Diagnóstico,8,54.58,2.27,Aceptable
+2021-02-28,2021-02,2021,8,Exploratorio,2,55.29,2.3,Aceptable
+2021-03-07,2021-03,2021,9,Descriptivo,9,57.67,2.4,Aceptable
+2021-03-07,2021-03,2021,9,Predictivo,3,59.92,2.5,Aceptable
+2021-03-07,2021-03,2021,9,Prescriptivo,6,60.7,2.53,Aceptable
+2021-03-07,2021-03,2021,9,Diagnóstico,9,58.13,2.42,Aceptable
+2021-03-07,2021-03,2021,9,Exploratorio,9,58.3,2.43,Aceptable
+2021-03-14,2021-03,2021,10,Descriptivo,6,57.85,2.41,Aceptable
+2021-03-14,2021-03,2021,10,Predictivo,6,60.95,2.54,Aceptable
+2021-03-14,2021-03,2021,10,Prescriptivo,4,51.91,2.16,Aceptable
+2021-03-14,2021-03,2021,10,Diagnóstico,7,55.34,2.31,Aceptable
+2021-03-14,2021-03,2021,10,Exploratorio,9,56.2,2.34,Aceptable
+2021-03-21,2021-03,2021,11,Descriptivo,2,59.93,2.5,Aceptable
+2021-03-21,2021-03,2021,11,Predictivo,2,56.63,2.36,Aceptable
+2021-03-21,2021-03,2021,11,Prescriptivo,6,60.01,2.5,Aceptable
+2021-03-21,2021-03,2021,11,Diagnóstico,3,52.1,2.17,Aceptable
+2021-03-21,2021-03,2021,11,Exploratorio,4,57.5,2.4,Aceptable
+2021-03-28,2021-03,2021,12,Descriptivo,5,52.04,2.17,Aceptable
+2021-03-28,2021-03,2021,12,Predictivo,3,56.61,2.36,Aceptable
+2021-03-28,2021-03,2021,12,Prescriptivo,8,59.44,2.48,Aceptable
+2021-03-28,2021-03,2021,12,Diagnóstico,3,60.97,2.54,Aceptable
+2021-03-28,2021-03,2021,12,Exploratorio,9,56.92,2.37,Aceptable
+2021-04-04,2021-04,2021,13,Descriptivo,6,53.49,2.23,Aceptable
+2021-04-04,2021-04,2021,13,Predictivo,8,59.39,2.47,Aceptable
+2021-04-04,2021-04,2021,13,Prescriptivo,4,59.39,2.47,Aceptable
+2021-04-04,2021-04,2021,13,Diagnóstico,9,56.82,2.37,Aceptable
+2021-04-04,2021-04,2021,13,Exploratorio,5,52.94,2.21,Aceptable
+2021-04-11,2021-04,2021,14,Descriptivo,7,51.64,2.15,Aceptable
+2021-04-11,2021-04,2021,14,Predictivo,2,56.29,2.35,Aceptable
+2021-04-11,2021-04,2021,14,Prescriptivo,5,56.91,2.37,Aceptable
+2021-04-11,2021-04,2021,14,Diagnóstico,2,53.69,2.24,Aceptable
+2021-04-11,2021-04,2021,14,Exploratorio,3,53.87,2.24,Aceptable
+2021-04-18,2021-04,2021,15,Descriptivo,7,50.88,2.12,Aceptable
+2021-04-18,2021-04,2021,15,Predictivo,2,50.86,2.12,Aceptable
+2021-04-18,2021-04,2021,15,Prescriptivo,3,60.22,2.51,Aceptable
+2021-04-18,2021-04,2021,15,Diagnóstico,4,51.47,2.14,Aceptable
+2021-04-18,2021-04,2021,15,Exploratorio,5,58.33,2.43,Aceptable
+2021-04-25,2021-04,2021,16,Descriptivo,5,55.45,2.31,Aceptable
+2021-04-25,2021-04,2021,16,Predictivo,3,55.67,2.32,Aceptable
+2021-04-25,2021-04,2021,16,Prescriptivo,6,52.49,2.19,Aceptable
+2021-04-25,2021-04,2021,16,Diagnóstico,4,54.0,2.25,Aceptable
+2021-04-25,2021-04,2021,16,Exploratorio,6,58.75,2.45,Aceptable
+2021-05-02,2021-05,2021,17,Descriptivo,9,53.33,2.22,Aceptable
+2021-05-02,2021-05,2021,17,Predictivo,5,53.87,2.24,Aceptable
+2021-05-02,2021-05,2021,17,Prescriptivo,9,58.45,2.44,Aceptable
+2021-05-02,2021-05,2021,17,Diagnóstico,8,57.2,2.38,Aceptable
+2021-05-02,2021-05,2021,17,Exploratorio,5,57.39,2.39,Aceptable
+2021-05-09,2021-05,2021,18,Descriptivo,8,58.79,2.45,Aceptable
+2021-05-09,2021-05,2021,18,Predictivo,5,57.79,2.41,Aceptable
+2021-05-09,2021-05,2021,18,Prescriptivo,5,56.36,2.35,Aceptable
+2021-05-09,2021-05,2021,18,Diagnóstico,6,53.61,2.23,Aceptable
+2021-05-09,2021-05,2021,18,Exploratorio,7,59.27,2.47,Aceptable
+2021-05-16,2021-05,2021,19,Descriptivo,8,49.72,2.07,Aceptable
+2021-05-16,2021-05,2021,19,Predictivo,2,53.41,2.23,Aceptable
+2021-05-16,2021-05,2021,19,Prescriptivo,6,51.69,2.15,Aceptable
+2021-05-16,2021-05,2021,19,Diagnóstico,9,56.45,2.35,Aceptable
+2021-05-16,2021-05,2021,19,Exploratorio,2,55.28,2.3,Aceptable
+2021-05-23,2021-05,2021,20,Descriptivo,6,57.59,2.4,Aceptable
+2021-05-23,2021-05,2021,20,Predictivo,6,56.75,2.36,Aceptable
+2021-05-23,2021-05,2021,20,Prescriptivo,7,56.16,2.34,Aceptable
+2021-05-23,2021-05,2021,20,Diagnóstico,9,51.68,2.15,Aceptable
+2021-05-23,2021-05,2021,20,Exploratorio,9,56.52,2.36,Aceptable
+2021-05-30,2021-05,2021,21,Descriptivo,8,57.02,2.38,Aceptable
+2021-05-30,2021-05,2021,21,Predictivo,8,53.76,2.24,Aceptable
+2021-05-30,2021-05,2021,21,Prescriptivo,5,49.72,2.07,Aceptable
+2021-05-30,2021-05,2021,21,Diagnóstico,9,55.43,2.31,Aceptable
+2021-05-30,2021-05,2021,21,Exploratorio,3,52.65,2.19,Aceptable
+2021-06-06,2021-06,2021,22,Descriptivo,3,55.75,2.32,Aceptable
+2021-06-06,2021-06,2021,22,Predictivo,6,53.7,2.24,Aceptable
+2021-06-06,2021-06,2021,22,Prescriptivo,8,49.02,2.04,Aceptable
+2021-06-06,2021-06,2021,22,Diagnóstico,5,55.02,2.29,Aceptable
+2021-06-06,2021-06,2021,22,Exploratorio,3,56.41,2.35,Aceptable
+2021-06-13,2021-06,2021,23,Descriptivo,7,57.1,2.38,Aceptable
+2021-06-13,2021-06,2021,23,Predictivo,6,54.62,2.28,Aceptable
+2021-06-13,2021-06,2021,23,Prescriptivo,8,54.74,2.28,Aceptable
+2021-06-13,2021-06,2021,23,Diagnóstico,6,50.88,2.12,Aceptable
+2021-06-13,2021-06,2021,23,Exploratorio,8,49.61,2.07,Aceptable
+2021-06-20,2021-06,2021,24,Descriptivo,4,55.84,2.33,Aceptable
+2021-06-20,2021-06,2021,24,Predictivo,2,50.54,2.11,Aceptable
+2021-06-20,2021-06,2021,24,Prescriptivo,4,53.61,2.23,Aceptable
+2021-06-20,2021-06,2021,24,Diagnóstico,2,48.36,2.01,Aceptable
+2021-06-20,2021-06,2021,24,Exploratorio,5,50.84,2.12,Aceptable
+2021-06-27,2021-06,2021,25,Descriptivo,2,56.91,2.37,Aceptable
+2021-06-27,2021-06,2021,25,Predictivo,5,49.8,2.08,Aceptable
+2021-06-27,2021-06,2021,25,Prescriptivo,5,57.47,2.39,Aceptable
+2021-06-27,2021-06,2021,25,Diagnóstico,7,56.77,2.37,Aceptable
+2021-06-27,2021-06,2021,25,Exploratorio,2,54.8,2.28,Aceptable
+2021-07-04,2021-07,2021,26,Descriptivo,2,57.2,2.38,Aceptable
+2021-07-04,2021-07,2021,26,Predictivo,4,57.12,2.38,Aceptable
+2021-07-04,2021-07,2021,26,Prescriptivo,5,57.54,2.4,Aceptable
+2021-07-04,2021-07,2021,26,Diagnóstico,6,49.32,2.06,Aceptable
+2021-07-04,2021-07,2021,26,Exploratorio,4,56.6,2.36,Aceptable
+2021-07-11,2021-07,2021,27,Descriptivo,6,49.13,2.05,Aceptable
+2021-07-11,2021-07,2021,27,Predictivo,9,55.38,2.31,Aceptable
+2021-07-11,2021-07,2021,27,Prescriptivo,3,47.8,1.99,Aceptable
+2021-07-11,2021-07,2021,27,Diagnóstico,8,55.74,2.32,Aceptable
+2021-07-11,2021-07,2021,27,Exploratorio,3,48.54,2.02,Aceptable
+2021-07-18,2021-07,2021,28,Descriptivo,4,54.56,2.27,Aceptable
+2021-07-18,2021-07,2021,28,Predictivo,6,48.21,2.01,Aceptable
+2021-07-18,2021-07,2021,28,Prescriptivo,8,49.04,2.04,Aceptable
+2021-07-18,2021-07,2021,28,Diagnóstico,7,54.78,2.28,Aceptable
+2021-07-18,2021-07,2021,28,Exploratorio,9,48.08,2.0,Aceptable
+2021-07-25,2021-07,2021,29,Descriptivo,9,55.51,2.31,Aceptable
+2021-07-25,2021-07,2021,29,Predictivo,8,48.31,2.01,Aceptable
+2021-07-25,2021-07,2021,29,Prescriptivo,3,47.4,1.98,Aceptable
+2021-07-25,2021-07,2021,29,Diagnóstico,9,53.95,2.25,Aceptable
+2021-07-25,2021-07,2021,29,Exploratorio,5,47.26,1.97,Aceptable
+2021-08-01,2021-08,2021,30,Descriptivo,9,49.23,2.05,Aceptable
+2021-08-01,2021-08,2021,30,Predictivo,9,56.56,2.36,Aceptable
+2021-08-01,2021-08,2021,30,Prescriptivo,7,54.25,2.26,Aceptable
+2021-08-01,2021-08,2021,30,Diagnóstico,9,53.41,2.23,Aceptable
+2021-08-01,2021-08,2021,30,Exploratorio,8,52.81,2.2,Aceptable
+2021-08-08,2021-08,2021,31,Descriptivo,3,53.22,2.22,Aceptable
+2021-08-08,2021-08,2021,31,Predictivo,2,53.65,2.24,Aceptable
+2021-08-08,2021-08,2021,31,Prescriptivo,2,49.12,2.05,Aceptable
+2021-08-08,2021-08,2021,31,Diagnóstico,8,52.34,2.18,Aceptable
+2021-08-08,2021-08,2021,31,Exploratorio,7,47.26,1.97,Aceptable
+2021-08-15,2021-08,2021,32,Descriptivo,8,54.61,2.28,Aceptable
+2021-08-15,2021-08,2021,32,Predictivo,9,53.31,2.22,Aceptable
+2021-08-15,2021-08,2021,32,Prescriptivo,8,53.0,2.21,Aceptable
+2021-08-15,2021-08,2021,32,Diagnóstico,3,46.59,1.94,Aceptable
+2021-08-15,2021-08,2021,32,Exploratorio,4,55.36,2.31,Aceptable
+2021-08-22,2021-08,2021,33,Descriptivo,4,48.68,2.03,Aceptable
+2021-08-22,2021-08,2021,33,Predictivo,5,48.37,2.02,Aceptable
+2021-08-22,2021-08,2021,33,Prescriptivo,6,46.73,1.95,Aceptable
+2021-08-22,2021-08,2021,33,Diagnóstico,6,46.0,1.92,Aceptable
+2021-08-22,2021-08,2021,33,Exploratorio,6,49.55,2.06,Aceptable
+2021-08-29,2021-08,2021,34,Descriptivo,6,54.19,2.26,Aceptable
+2021-08-29,2021-08,2021,34,Predictivo,5,52.7,2.2,Aceptable
+2021-08-29,2021-08,2021,34,Prescriptivo,6,46.52,1.94,Aceptable
+2021-08-29,2021-08,2021,34,Diagnóstico,2,47.56,1.98,Aceptable
+2021-08-29,2021-08,2021,34,Exploratorio,8,49.15,2.05,Aceptable
+2021-09-05,2021-09,2021,35,Descriptivo,3,53.42,2.23,Aceptable
+2021-09-05,2021-09,2021,35,Predictivo,6,46.55,1.94,Aceptable
+2021-09-05,2021-09,2021,35,Prescriptivo,2,46.31,1.93,Aceptable
+2021-09-05,2021-09,2021,35,Diagnóstico,6,47.63,1.98,Aceptable
+2021-09-05,2021-09,2021,35,Exploratorio,3,54.08,2.25,Aceptable
+2021-09-12,2021-09,2021,36,Descriptivo,7,50.2,2.09,Aceptable
+2021-09-12,2021-09,2021,36,Predictivo,9,49.88,2.08,Aceptable
+2021-09-12,2021-09,2021,36,Prescriptivo,6,51.12,2.13,Aceptable
+2021-09-12,2021-09,2021,36,Diagnóstico,3,49.47,2.06,Aceptable
+2021-09-12,2021-09,2021,36,Exploratorio,7,53.19,2.22,Aceptable
+2021-09-19,2021-09,2021,37,Descriptivo,2,52.88,2.2,Aceptable
+2021-09-19,2021-09,2021,37,Predictivo,5,52.55,2.19,Aceptable
+2021-09-19,2021-09,2021,37,Prescriptivo,8,46.59,1.94,Aceptable
+2021-09-19,2021-09,2021,37,Diagnóstico,8,52.52,2.19,Aceptable
+2021-09-19,2021-09,2021,37,Exploratorio,7,52.03,2.17,Aceptable
+2021-09-26,2021-09,2021,38,Descriptivo,6,52.9,2.2,Aceptable
+2021-09-26,2021-09,2021,38,Predictivo,2,48.55,2.02,Aceptable
+2021-09-26,2021-09,2021,38,Prescriptivo,5,53.98,2.25,Aceptable
+2021-09-26,2021-09,2021,38,Diagnóstico,2,52.97,2.21,Aceptable
+2021-09-26,2021-09,2021,38,Exploratorio,5,44.96,1.87,Aceptable
+2021-10-03,2021-10,2021,39,Descriptivo,2,51.0,2.13,Aceptable
+2021-10-03,2021-10,2021,39,Predictivo,5,48.3,2.01,Aceptable
+2021-10-03,2021-10,2021,39,Prescriptivo,8,45.27,1.89,Aceptable
+2021-10-03,2021-10,2021,39,Diagnóstico,4,50.43,2.1,Aceptable
+2021-10-03,2021-10,2021,39,Exploratorio,3,47.55,1.98,Aceptable
+2021-10-10,2021-10,2021,40,Descriptivo,2,51.71,2.15,Aceptable
+2021-10-10,2021-10,2021,40,Predictivo,4,50.08,2.09,Aceptable
+2021-10-10,2021-10,2021,40,Prescriptivo,5,47.53,1.98,Aceptable
+2021-10-10,2021-10,2021,40,Diagnóstico,8,44.58,1.86,Aceptable
+2021-10-10,2021-10,2021,40,Exploratorio,3,48.02,2.0,Aceptable
+2021-10-17,2021-10,2021,41,Descriptivo,8,48.88,2.04,Aceptable
+2021-10-17,2021-10,2021,41,Predictivo,7,49.11,2.05,Aceptable
+2021-10-17,2021-10,2021,41,Prescriptivo,3,53.12,2.21,Aceptable
+2021-10-17,2021-10,2021,41,Diagnóstico,5,46.22,1.93,Aceptable
+2021-10-17,2021-10,2021,41,Exploratorio,6,50.14,2.09,Aceptable
+2021-10-24,2021-10,2021,42,Descriptivo,3,44.0,1.83,Aceptable
+2021-10-24,2021-10,2021,42,Predictivo,7,48.15,2.01,Aceptable
+2021-10-24,2021-10,2021,42,Prescriptivo,3,52.44,2.19,Aceptable
+2021-10-24,2021-10,2021,42,Diagnóstico,2,49.96,2.08,Aceptable
+2021-10-24,2021-10,2021,42,Exploratorio,5,48.28,2.01,Aceptable
+2021-10-31,2021-10,2021,43,Descriptivo,3,51.82,2.16,Aceptable
+2021-10-31,2021-10,2021,43,Predictivo,3,49.62,2.07,Aceptable
+2021-10-31,2021-10,2021,43,Prescriptivo,4,44.61,1.86,Aceptable
+2021-10-31,2021-10,2021,43,Diagnóstico,8,49.99,2.08,Aceptable
+2021-10-31,2021-10,2021,43,Exploratorio,5,50.04,2.08,Aceptable
+2021-11-07,2021-11,2021,44,Descriptivo,2,52.71,2.2,Aceptable
+2021-11-07,2021-11,2021,44,Predictivo,9,44.15,1.84,Aceptable
+2021-11-07,2021-11,2021,44,Prescriptivo,7,50.88,2.12,Aceptable
+2021-11-07,2021-11,2021,44,Diagnóstico,8,49.29,2.05,Aceptable
+2021-11-07,2021-11,2021,44,Exploratorio,3,52.16,2.17,Aceptable
+2021-11-14,2021-11,2021,45,Descriptivo,9,48.83,2.03,Aceptable
+2021-11-14,2021-11,2021,45,Predictivo,3,47.37,1.97,Aceptable
+2021-11-14,2021-11,2021,45,Prescriptivo,3,47.41,1.98,Aceptable
+2021-11-14,2021-11,2021,45,Diagnóstico,4,50.55,2.11,Aceptable
+2021-11-14,2021-11,2021,45,Exploratorio,8,47.99,2.0,Aceptable
+2021-11-21,2021-11,2021,46,Descriptivo,4,48.71,2.03,Aceptable
+2021-11-21,2021-11,2021,46,Predictivo,4,49.58,2.07,Aceptable
+2021-11-21,2021-11,2021,46,Prescriptivo,9,48.07,2.0,Aceptable
+2021-11-21,2021-11,2021,46,Diagnóstico,7,44.76,1.87,Aceptable
+2021-11-21,2021-11,2021,46,Exploratorio,8,49.56,2.06,Aceptable
+2021-11-28,2021-11,2021,47,Descriptivo,2,43.18,1.8,Aceptable
+2021-11-28,2021-11,2021,47,Predictivo,6,48.66,2.03,Aceptable
+2021-11-28,2021-11,2021,47,Prescriptivo,6,46.61,1.94,Aceptable
+2021-11-28,2021-11,2021,47,Diagnóstico,8,44.77,1.87,Aceptable
+2021-11-28,2021-11,2021,47,Exploratorio,8,49.09,2.05,Aceptable
+2021-12-05,2021-12,2021,48,Descriptivo,7,48.07,2.0,Aceptable
+2021-12-05,2021-12,2021,48,Predictivo,2,43.07,1.79,Aceptable
+2021-12-05,2021-12,2021,48,Prescriptivo,5,43.01,1.79,Aceptable
+2021-12-05,2021-12,2021,48,Diagnóstico,8,47.26,1.97,Aceptable
+2021-12-05,2021-12,2021,48,Exploratorio,3,47.11,1.96,Aceptable
+2021-12-12,2021-12,2021,49,Descriptivo,8,45.23,1.88,Aceptable
+2021-12-12,2021-12,2021,49,Predictivo,7,49.89,2.08,Aceptable
+2021-12-12,2021-12,2021,49,Prescriptivo,2,48.79,2.03,Aceptable
+2021-12-12,2021-12,2021,49,Diagnóstico,3,46.26,1.93,Aceptable
+2021-12-12,2021-12,2021,49,Exploratorio,3,46.81,1.95,Aceptable
+2021-12-19,2021-12,2021,50,Descriptivo,6,46.95,1.96,Aceptable
+2021-12-19,2021-12,2021,50,Predictivo,2,41.95,1.75,Aceptable
+2021-12-19,2021-12,2021,50,Prescriptivo,3,43.49,1.81,Aceptable
+2021-12-19,2021-12,2021,50,Diagnóstico,2,47.75,1.99,Aceptable
+2021-12-19,2021-12,2021,50,Exploratorio,4,43.51,1.81,Aceptable
+2021-12-26,2021-12,2021,51,Descriptivo,2,51.38,2.14,Aceptable
+2021-12-26,2021-12,2021,51,Predictivo,7,44.48,1.85,Aceptable
+2021-12-26,2021-12,2021,51,Prescriptivo,7,43.71,1.82,Aceptable
+2021-12-26,2021-12,2021,51,Diagnóstico,6,42.02,1.75,Aceptable
+2021-12-26,2021-12,2021,51,Exploratorio,9,41.79,1.74,Aceptable
+2022-01-02,2022-01,2022,52,Descriptivo,3,48.93,2.04,Aceptable
+2022-01-02,2022-01,2022,52,Predictivo,4,44.21,1.84,Aceptable
+2022-01-02,2022-01,2022,52,Prescriptivo,3,48.57,2.02,Aceptable
+2022-01-02,2022-01,2022,52,Diagnóstico,7,44.08,1.84,Aceptable
+2022-01-02,2022-01,2022,52,Exploratorio,6,41.95,1.75,Aceptable
+2022-01-09,2022-01,2022,1,Descriptivo,3,43.08,1.79,Aceptable
+2022-01-09,2022-01,2022,1,Predictivo,4,45.28,1.89,Aceptable
+2022-01-09,2022-01,2022,1,Prescriptivo,8,48.16,2.01,Aceptable
+2022-01-09,2022-01,2022,1,Diagnóstico,8,50.41,2.1,Aceptable
+2022-01-09,2022-01,2022,1,Exploratorio,4,45.58,1.9,Aceptable
+2022-01-16,2022-01,2022,2,Descriptivo,2,48.02,2.0,Aceptable
+2022-01-16,2022-01,2022,2,Predictivo,9,42.91,1.79,Aceptable
+2022-01-16,2022-01,2022,2,Prescriptivo,3,44.55,1.86,Aceptable
+2022-01-16,2022-01,2022,2,Diagnóstico,9,49.11,2.05,Aceptable
+2022-01-16,2022-01,2022,2,Exploratorio,9,48.44,2.02,Aceptable
+2022-01-23,2022-01,2022,3,Descriptivo,4,43.58,1.82,Aceptable
+2022-01-23,2022-01,2022,3,Predictivo,6,45.68,1.9,Aceptable
+2022-01-23,2022-01,2022,3,Prescriptivo,7,50.32,2.1,Aceptable
+2022-01-23,2022-01,2022,3,Diagnóstico,5,40.9,1.7,Aceptable
+2022-01-23,2022-01,2022,3,Exploratorio,9,46.48,1.94,Aceptable
+2022-01-30,2022-01,2022,4,Descriptivo,7,41.02,1.71,Aceptable
+2022-01-30,2022-01,2022,4,Predictivo,7,40.6,1.69,Aceptable
+2022-01-30,2022-01,2022,4,Prescriptivo,5,49.88,2.08,Aceptable
+2022-01-30,2022-01,2022,4,Diagnóstico,4,42.54,1.77,Aceptable
+2022-01-30,2022-01,2022,4,Exploratorio,7,44.1,1.84,Aceptable
+2022-02-06,2022-02,2022,5,Descriptivo,4,47.81,1.99,Aceptable
+2022-02-06,2022-02,2022,5,Predictivo,6,47.83,1.99,Aceptable
+2022-02-06,2022-02,2022,5,Prescriptivo,4,48.48,2.02,Aceptable
+2022-02-06,2022-02,2022,5,Diagnóstico,3,41.09,1.71,Aceptable
+2022-02-06,2022-02,2022,5,Exploratorio,3,46.96,1.96,Aceptable
+2022-02-13,2022-02,2022,6,Descriptivo,9,48.29,2.01,Aceptable
+2022-02-13,2022-02,2022,6,Predictivo,2,43.19,1.8,Aceptable
+2022-02-13,2022-02,2022,6,Prescriptivo,7,45.38,1.89,Aceptable
+2022-02-13,2022-02,2022,6,Diagnóstico,2,42.0,1.75,Aceptable
+2022-02-13,2022-02,2022,6,Exploratorio,3,43.89,1.83,Aceptable
+2022-02-20,2022-02,2022,7,Descriptivo,7,46.65,1.94,Aceptable
+2022-02-20,2022-02,2022,7,Predictivo,6,49.6,2.07,Aceptable
+2022-02-20,2022-02,2022,7,Prescriptivo,4,44.09,1.84,Aceptable
+2022-02-20,2022-02,2022,7,Diagnóstico,3,45.15,1.88,Aceptable
+2022-02-20,2022-02,2022,7,Exploratorio,8,45.41,1.89,Aceptable
+2022-02-27,2022-02,2022,8,Descriptivo,7,45.02,1.88,Aceptable
+2022-02-27,2022-02,2022,8,Predictivo,8,39.8,1.66,Aceptable
+2022-02-27,2022-02,2022,8,Prescriptivo,8,41.61,1.73,Aceptable
+2022-02-27,2022-02,2022,8,Diagnóstico,6,46.27,1.93,Aceptable
+2022-02-27,2022-02,2022,8,Exploratorio,5,46.37,1.93,Aceptable
+2022-03-06,2022-03,2022,9,Descriptivo,9,39.21,1.63,Aceptable
+2022-03-06,2022-03,2022,9,Predictivo,3,41.28,1.72,Aceptable
+2022-03-06,2022-03,2022,9,Prescriptivo,8,48.66,2.03,Aceptable
+2022-03-06,2022-03,2022,9,Diagnóstico,7,46.4,1.93,Aceptable
+2022-03-06,2022-03,2022,9,Exploratorio,9,44.51,1.85,Aceptable
+2022-03-13,2022-03,2022,10,Descriptivo,3,39.13,1.63,Aceptable
+2022-03-13,2022-03,2022,10,Predictivo,7,41.34,1.72,Aceptable
+2022-03-13,2022-03,2022,10,Prescriptivo,8,47.1,1.96,Aceptable
+2022-03-13,2022-03,2022,10,Diagnóstico,2,41.32,1.72,Aceptable
+2022-03-13,2022-03,2022,10,Exploratorio,2,46.21,1.93,Aceptable
+2022-03-20,2022-03,2022,11,Descriptivo,6,44.59,1.86,Aceptable
+2022-03-20,2022-03,2022,11,Predictivo,2,39.95,1.66,Aceptable
+2022-03-20,2022-03,2022,11,Prescriptivo,8,41.02,1.71,Aceptable
+2022-03-20,2022-03,2022,11,Diagnóstico,4,40.53,1.69,Aceptable
+2022-03-20,2022-03,2022,11,Exploratorio,7,45.61,1.9,Aceptable
+2022-03-27,2022-03,2022,12,Descriptivo,9,40.44,1.69,Aceptable
+2022-03-27,2022-03,2022,12,Predictivo,5,44.61,1.86,Aceptable
+2022-03-27,2022-03,2022,12,Prescriptivo,9,42.57,1.77,Aceptable
+2022-03-27,2022-03,2022,12,Diagnóstico,5,43.87,1.83,Aceptable
+2022-03-27,2022-03,2022,12,Exploratorio,8,39.32,1.64,Aceptable
+2022-04-03,2022-04,2022,13,Descriptivo,8,42.98,1.79,Aceptable
+2022-04-03,2022-04,2022,13,Predictivo,8,40.71,1.7,Aceptable
+2022-04-03,2022-04,2022,13,Prescriptivo,4,41.93,1.75,Aceptable
+2022-04-03,2022-04,2022,13,Diagnóstico,9,45.85,1.91,Aceptable
+2022-04-03,2022-04,2022,13,Exploratorio,8,38.88,1.62,Aceptable
+2022-04-10,2022-04,2022,14,Descriptivo,9,41.44,1.73,Aceptable
+2022-04-10,2022-04,2022,14,Predictivo,2,42.37,1.77,Aceptable
+2022-04-10,2022-04,2022,14,Prescriptivo,7,45.33,1.89,Aceptable
+2022-04-10,2022-04,2022,14,Diagnóstico,3,42.77,1.78,Aceptable
+2022-04-10,2022-04,2022,14,Exploratorio,5,47.74,1.99,Aceptable
+2022-04-17,2022-04,2022,15,Descriptivo,5,43.12,1.8,Aceptable
+2022-04-17,2022-04,2022,15,Predictivo,3,46.59,1.94,Aceptable
+2022-04-17,2022-04,2022,15,Prescriptivo,5,46.26,1.93,Aceptable
+2022-04-17,2022-04,2022,15,Diagnóstico,7,42.98,1.79,Aceptable
+2022-04-17,2022-04,2022,15,Exploratorio,2,43.5,1.81,Aceptable
+2022-04-24,2022-04,2022,16,Descriptivo,4,40.45,1.69,Aceptable
+2022-04-24,2022-04,2022,16,Predictivo,4,42.65,1.78,Aceptable
+2022-04-24,2022-04,2022,16,Prescriptivo,9,42.11,1.75,Aceptable
+2022-04-24,2022-04,2022,16,Diagnóstico,8,45.23,1.88,Aceptable
+2022-04-24,2022-04,2022,16,Exploratorio,5,39.9,1.66,Aceptable
+2022-05-01,2022-05,2022,17,Descriptivo,4,43.78,1.82,Aceptable
+2022-05-01,2022-05,2022,17,Predictivo,5,37.39,1.56,Aceptable
+2022-05-01,2022-05,2022,17,Prescriptivo,8,40.2,1.67,Aceptable
+2022-05-01,2022-05,2022,17,Diagnóstico,5,46.7,1.95,Aceptable
+2022-05-01,2022-05,2022,17,Exploratorio,7,43.36,1.81,Aceptable
+2022-05-08,2022-05,2022,18,Descriptivo,9,39.1,1.63,Aceptable
+2022-05-08,2022-05,2022,18,Predictivo,7,43.16,1.8,Aceptable
+2022-05-08,2022-05,2022,18,Prescriptivo,6,43.37,1.81,Aceptable
+2022-05-08,2022-05,2022,18,Diagnóstico,3,42.7,1.78,Aceptable
+2022-05-08,2022-05,2022,18,Exploratorio,9,44.68,1.86,Aceptable
+2022-05-15,2022-05,2022,19,Descriptivo,3,45.73,1.91,Aceptable
+2022-05-15,2022-05,2022,19,Predictivo,3,42.08,1.75,Aceptable
+2022-05-15,2022-05,2022,19,Prescriptivo,7,39.13,1.63,Aceptable
+2022-05-15,2022-05,2022,19,Diagnóstico,7,38.67,1.61,Aceptable
+2022-05-15,2022-05,2022,19,Exploratorio,5,41.44,1.73,Aceptable
+2022-05-22,2022-05,2022,20,Descriptivo,8,41.01,1.71,Aceptable
+2022-05-22,2022-05,2022,20,Predictivo,3,40.06,1.67,Aceptable
+2022-05-22,2022-05,2022,20,Prescriptivo,8,37.5,1.56,Aceptable
+2022-05-22,2022-05,2022,20,Diagnóstico,2,40.76,1.7,Aceptable
+2022-05-22,2022-05,2022,20,Exploratorio,8,42.64,1.78,Aceptable
+2022-05-29,2022-05,2022,21,Descriptivo,6,41.74,1.74,Aceptable
+2022-05-29,2022-05,2022,21,Predictivo,8,37.53,1.56,Aceptable
+2022-05-29,2022-05,2022,21,Prescriptivo,2,39.43,1.64,Aceptable
+2022-05-29,2022-05,2022,21,Diagnóstico,7,36.42,1.52,Aceptable
+2022-05-29,2022-05,2022,21,Exploratorio,9,42.0,1.75,Aceptable
+2022-06-05,2022-06,2022,22,Descriptivo,6,44.54,1.86,Aceptable
+2022-06-05,2022-06,2022,22,Predictivo,8,38.45,1.6,Aceptable
+2022-06-05,2022-06,2022,22,Prescriptivo,5,40.84,1.7,Aceptable
+2022-06-05,2022-06,2022,22,Diagnóstico,3,44.74,1.86,Aceptable
+2022-06-05,2022-06,2022,22,Exploratorio,7,40.88,1.7,Aceptable
+2022-06-12,2022-06,2022,23,Descriptivo,2,38.03,1.58,Aceptable
+2022-06-12,2022-06,2022,23,Predictivo,3,44.7,1.86,Aceptable
+2022-06-12,2022-06,2022,23,Prescriptivo,9,41.63,1.73,Aceptable
+2022-06-12,2022-06,2022,23,Diagnóstico,7,39.71,1.65,Aceptable
+2022-06-12,2022-06,2022,23,Exploratorio,8,43.21,1.8,Aceptable
+2022-06-19,2022-06,2022,24,Descriptivo,3,42.8,1.78,Aceptable
+2022-06-19,2022-06,2022,24,Predictivo,9,44.82,1.87,Aceptable
+2022-06-19,2022-06,2022,24,Prescriptivo,2,37.27,1.55,Aceptable
+2022-06-19,2022-06,2022,24,Diagnóstico,3,41.61,1.73,Aceptable
+2022-06-19,2022-06,2022,24,Exploratorio,7,41.81,1.74,Aceptable
+2022-06-26,2022-06,2022,25,Descriptivo,2,44.15,1.84,Aceptable
+2022-06-26,2022-06,2022,25,Predictivo,6,40.25,1.68,Aceptable
+2022-06-26,2022-06,2022,25,Prescriptivo,5,42.15,1.76,Aceptable
+2022-06-26,2022-06,2022,25,Diagnóstico,8,36.86,1.54,Aceptable
+2022-06-26,2022-06,2022,25,Exploratorio,7,45.12,1.88,Aceptable
+2022-07-03,2022-07,2022,26,Descriptivo,5,43.04,1.79,Aceptable
+2022-07-03,2022-07,2022,26,Predictivo,6,36.86,1.54,Aceptable
+2022-07-03,2022-07,2022,26,Prescriptivo,5,37.76,1.57,Aceptable
+2022-07-03,2022-07,2022,26,Diagnóstico,9,41.27,1.72,Aceptable
+2022-07-03,2022-07,2022,26,Exploratorio,9,40.93,1.71,Aceptable
+2022-07-10,2022-07,2022,27,Descriptivo,8,39.24,1.63,Aceptable
+2022-07-10,2022-07,2022,27,Predictivo,4,40.96,1.71,Aceptable
+2022-07-10,2022-07,2022,27,Prescriptivo,7,39.44,1.64,Aceptable
+2022-07-10,2022-07,2022,27,Diagnóstico,8,41.09,1.71,Aceptable
+2022-07-10,2022-07,2022,27,Exploratorio,7,38.24,1.59,Aceptable
+2022-07-17,2022-07,2022,28,Descriptivo,5,34.49,1.44,Aceptable
+2022-07-17,2022-07,2022,28,Predictivo,9,36.68,1.53,Aceptable
+2022-07-17,2022-07,2022,28,Prescriptivo,6,43.33,1.81,Aceptable
+2022-07-17,2022-07,2022,28,Diagnóstico,2,39.0,1.63,Aceptable
+2022-07-17,2022-07,2022,28,Exploratorio,3,35.55,1.48,Aceptable
+2022-07-24,2022-07,2022,29,Descriptivo,2,42.28,1.76,Aceptable
+2022-07-24,2022-07,2022,29,Predictivo,3,40.29,1.68,Aceptable
+2022-07-24,2022-07,2022,29,Prescriptivo,4,41.52,1.73,Aceptable
+2022-07-24,2022-07,2022,29,Diagnóstico,8,43.44,1.81,Aceptable
+2022-07-24,2022-07,2022,29,Exploratorio,6,40.12,1.67,Aceptable
+2022-07-31,2022-07,2022,30,Descriptivo,2,34.12,1.42,Aceptable
+2022-07-31,2022-07,2022,30,Predictivo,9,43.87,1.83,Aceptable
+2022-07-31,2022-07,2022,30,Prescriptivo,3,43.08,1.8,Aceptable
+2022-07-31,2022-07,2022,30,Diagnóstico,7,42.56,1.77,Aceptable
+2022-07-31,2022-07,2022,30,Exploratorio,5,38.13,1.59,Aceptable
+2022-08-07,2022-08,2022,31,Descriptivo,7,43.19,1.8,Aceptable
+2022-08-07,2022-08,2022,31,Predictivo,8,34.64,1.44,Aceptable
+2022-08-07,2022-08,2022,31,Prescriptivo,2,38.35,1.6,Aceptable
+2022-08-07,2022-08,2022,31,Diagnóstico,5,37.69,1.57,Aceptable
+2022-08-07,2022-08,2022,31,Exploratorio,2,41.59,1.73,Aceptable
+2022-08-14,2022-08,2022,32,Descriptivo,2,38.51,1.6,Aceptable
+2022-08-14,2022-08,2022,32,Predictivo,2,37.64,1.57,Aceptable
+2022-08-14,2022-08,2022,32,Prescriptivo,7,38.49,1.6,Aceptable
+2022-08-14,2022-08,2022,32,Diagnóstico,7,34.56,1.44,Aceptable
+2022-08-14,2022-08,2022,32,Exploratorio,9,37.4,1.56,Aceptable
+2022-08-21,2022-08,2022,33,Descriptivo,9,33.66,1.4,Aceptable
+2022-08-21,2022-08,2022,33,Predictivo,6,38.52,1.6,Aceptable
+2022-08-21,2022-08,2022,33,Prescriptivo,7,34.1,1.42,Aceptable
+2022-08-21,2022-08,2022,33,Diagnóstico,6,35.53,1.48,Aceptable
+2022-08-21,2022-08,2022,33,Exploratorio,3,40.59,1.69,Aceptable
+2022-08-28,2022-08,2022,34,Descriptivo,9,39.92,1.66,Aceptable
+2022-08-28,2022-08,2022,34,Predictivo,7,42.91,1.79,Aceptable
+2022-08-28,2022-08,2022,34,Prescriptivo,2,36.41,1.52,Aceptable
+2022-08-28,2022-08,2022,34,Diagnóstico,9,34.22,1.43,Aceptable
+2022-08-28,2022-08,2022,34,Exploratorio,6,42.98,1.79,Aceptable
+2022-09-04,2022-09,2022,35,Descriptivo,6,41.47,1.73,Aceptable
+2022-09-04,2022-09,2022,35,Predictivo,7,40.14,1.67,Aceptable
+2022-09-04,2022-09,2022,35,Prescriptivo,8,37.65,1.57,Aceptable
+2022-09-04,2022-09,2022,35,Diagnóstico,3,37.46,1.56,Aceptable
+2022-09-04,2022-09,2022,35,Exploratorio,8,42.36,1.77,Aceptable
+2022-09-11,2022-09,2022,36,Descriptivo,7,38.92,1.62,Aceptable
+2022-09-11,2022-09,2022,36,Predictivo,2,36.65,1.53,Aceptable
+2022-09-11,2022-09,2022,36,Prescriptivo,4,35.02,1.46,Aceptable
+2022-09-11,2022-09,2022,36,Diagnóstico,9,35.38,1.47,Aceptable
+2022-09-11,2022-09,2022,36,Exploratorio,6,41.02,1.71,Aceptable
+2022-09-18,2022-09,2022,37,Descriptivo,7,40.35,1.68,Aceptable
+2022-09-18,2022-09,2022,37,Predictivo,3,41.52,1.73,Aceptable
+2022-09-18,2022-09,2022,37,Prescriptivo,8,40.64,1.69,Aceptable
+2022-09-18,2022-09,2022,37,Diagnóstico,5,38.12,1.59,Aceptable
+2022-09-18,2022-09,2022,37,Exploratorio,8,36.45,1.52,Aceptable
+2022-09-25,2022-09,2022,38,Descriptivo,6,37.04,1.54,Aceptable
+2022-09-25,2022-09,2022,38,Predictivo,7,36.37,1.52,Aceptable
+2022-09-25,2022-09,2022,38,Prescriptivo,8,34.09,1.42,Aceptable
+2022-09-25,2022-09,2022,38,Diagnóstico,2,37.13,1.55,Aceptable
+2022-09-25,2022-09,2022,38,Exploratorio,6,40.3,1.68,Aceptable
+2022-10-02,2022-10,2022,39,Descriptivo,5,40.69,1.7,Aceptable
+2022-10-02,2022-10,2022,39,Predictivo,3,40.44,1.69,Aceptable
+2022-10-02,2022-10,2022,39,Prescriptivo,9,38.43,1.6,Aceptable
+2022-10-02,2022-10,2022,39,Diagnóstico,4,41.61,1.73,Aceptable
+2022-10-02,2022-10,2022,39,Exploratorio,8,38.94,1.62,Aceptable
+2022-10-09,2022-10,2022,40,Descriptivo,6,33.17,1.38,Aceptable
+2022-10-09,2022-10,2022,40,Predictivo,3,36.31,1.51,Aceptable
+2022-10-09,2022-10,2022,40,Prescriptivo,5,32.66,1.36,Aceptable
+2022-10-09,2022-10,2022,40,Diagnóstico,5,37.42,1.56,Aceptable
+2022-10-09,2022-10,2022,40,Exploratorio,3,41.4,1.73,Aceptable
+2022-10-16,2022-10,2022,41,Descriptivo,4,31.49,1.31,Aceptable
+2022-10-16,2022-10,2022,41,Predictivo,4,33.0,1.37,Aceptable
+2022-10-16,2022-10,2022,41,Prescriptivo,5,35.74,1.49,Aceptable
+2022-10-16,2022-10,2022,41,Diagnóstico,7,34.34,1.43,Aceptable
+2022-10-16,2022-10,2022,41,Exploratorio,5,33.22,1.38,Aceptable
+2022-10-23,2022-10,2022,42,Descriptivo,6,40.72,1.7,Aceptable
+2022-10-23,2022-10,2022,42,Predictivo,2,40.74,1.7,Aceptable
+2022-10-23,2022-10,2022,42,Prescriptivo,7,37.31,1.55,Aceptable
+2022-10-23,2022-10,2022,42,Diagnóstico,7,35.3,1.47,Aceptable
+2022-10-23,2022-10,2022,42,Exploratorio,5,38.63,1.61,Aceptable
+2022-10-30,2022-10,2022,43,Descriptivo,3,34.77,1.45,Aceptable
+2022-10-30,2022-10,2022,43,Predictivo,2,39.01,1.63,Aceptable
+2022-10-30,2022-10,2022,43,Prescriptivo,8,36.92,1.54,Aceptable
+2022-10-30,2022-10,2022,43,Diagnóstico,2,35.56,1.48,Aceptable
+2022-10-30,2022-10,2022,43,Exploratorio,7,30.8,1.28,Aceptable
+2022-11-06,2022-11,2022,44,Descriptivo,3,34.13,1.42,Aceptable
+2022-11-06,2022-11,2022,44,Predictivo,5,32.64,1.36,Aceptable
+2022-11-06,2022-11,2022,44,Prescriptivo,4,33.01,1.38,Aceptable
+2022-11-06,2022-11,2022,44,Diagnóstico,3,37.2,1.55,Aceptable
+2022-11-06,2022-11,2022,44,Exploratorio,4,34.59,1.44,Aceptable
+2022-11-13,2022-11,2022,45,Descriptivo,2,39.48,1.65,Aceptable
+2022-11-13,2022-11,2022,45,Predictivo,3,39.05,1.63,Aceptable
+2022-11-13,2022-11,2022,45,Prescriptivo,8,37.72,1.57,Aceptable
+2022-11-13,2022-11,2022,45,Diagnóstico,8,33.16,1.38,Aceptable
+2022-11-13,2022-11,2022,45,Exploratorio,9,36.88,1.54,Aceptable
+2022-11-20,2022-11,2022,46,Descriptivo,3,33.28,1.39,Aceptable
+2022-11-20,2022-11,2022,46,Predictivo,7,34.96,1.46,Aceptable
+2022-11-20,2022-11,2022,46,Prescriptivo,9,39.68,1.65,Aceptable
+2022-11-20,2022-11,2022,46,Diagnóstico,6,30.99,1.29,Aceptable
+2022-11-20,2022-11,2022,46,Exploratorio,4,31.08,1.29,Aceptable
+2022-11-27,2022-11,2022,47,Descriptivo,5,34.04,1.42,Aceptable
+2022-11-27,2022-11,2022,47,Predictivo,7,31.77,1.32,Aceptable
+2022-11-27,2022-11,2022,47,Prescriptivo,3,30.28,1.26,Aceptable
+2022-11-27,2022-11,2022,47,Diagnóstico,4,36.46,1.52,Aceptable
+2022-11-27,2022-11,2022,47,Exploratorio,7,39.19,1.63,Aceptable
+2022-12-04,2022-12,2022,48,Descriptivo,8,31.46,1.31,Aceptable
+2022-12-04,2022-12,2022,48,Predictivo,3,32.49,1.35,Aceptable
+2022-12-04,2022-12,2022,48,Prescriptivo,3,37.52,1.56,Aceptable
+2022-12-04,2022-12,2022,48,Diagnóstico,8,33.62,1.4,Aceptable
+2022-12-04,2022-12,2022,48,Exploratorio,5,31.63,1.32,Aceptable
+2022-12-11,2022-12,2022,49,Descriptivo,9,37.35,1.56,Aceptable
+2022-12-11,2022-12,2022,49,Predictivo,2,37.43,1.56,Aceptable
+2022-12-11,2022-12,2022,49,Prescriptivo,9,30.02,1.25,Aceptable
+2022-12-11,2022-12,2022,49,Diagnóstico,5,33.52,1.4,Aceptable
+2022-12-11,2022-12,2022,49,Exploratorio,2,29.57,1.23,Aceptable
+2022-12-18,2022-12,2022,50,Descriptivo,5,33.84,1.41,Aceptable
+2022-12-18,2022-12,2022,50,Predictivo,5,31.37,1.31,Aceptable
+2022-12-18,2022-12,2022,50,Prescriptivo,4,35.23,1.47,Aceptable
+2022-12-18,2022-12,2022,50,Diagnóstico,2,31.35,1.31,Aceptable
+2022-12-18,2022-12,2022,50,Exploratorio,9,31.92,1.33,Aceptable
+2022-12-25,2022-12,2022,51,Descriptivo,3,37.39,1.56,Aceptable
+2022-12-25,2022-12,2022,51,Predictivo,5,32.26,1.34,Aceptable
+2022-12-25,2022-12,2022,51,Prescriptivo,3,38.05,1.59,Aceptable
+2022-12-25,2022-12,2022,51,Diagnóstico,4,36.14,1.51,Aceptable
+2022-12-25,2022-12,2022,51,Exploratorio,5,36.5,1.52,Aceptable
+2023-01-01,2023-01,2023,52,Descriptivo,6,36.02,1.5,Aceptable
+2023-01-01,2023-01,2023,52,Predictivo,5,34.56,1.44,Aceptable
+2023-01-01,2023-01,2023,52,Prescriptivo,3,33.45,1.39,Aceptable
+2023-01-01,2023-01,2023,52,Diagnóstico,6,35.29,1.47,Aceptable
+2023-01-01,2023-01,2023,52,Exploratorio,5,37.09,1.55,Aceptable
+2023-01-08,2023-01,2023,1,Descriptivo,5,34.36,1.43,Aceptable
+2023-01-08,2023-01,2023,1,Predictivo,3,29.53,1.23,Aceptable
+2023-01-08,2023-01,2023,1,Prescriptivo,5,37.24,1.55,Aceptable
+2023-01-08,2023-01,2023,1,Diagnóstico,5,37.55,1.56,Aceptable
+2023-01-08,2023-01,2023,1,Exploratorio,9,33.67,1.4,Aceptable
+2023-01-15,2023-01,2023,2,Descriptivo,5,34.01,1.42,Aceptable
+2023-01-15,2023-01,2023,2,Predictivo,9,34.29,1.43,Aceptable
+2023-01-15,2023-01,2023,2,Prescriptivo,9,35.64,1.49,Aceptable
+2023-01-15,2023-01,2023,2,Diagnóstico,6,35.54,1.48,Aceptable
+2023-01-15,2023-01,2023,2,Exploratorio,7,29.32,1.22,Aceptable
+2023-01-22,2023-01,2023,3,Descriptivo,2,31.07,1.29,Aceptable
+2023-01-22,2023-01,2023,3,Predictivo,9,30.69,1.28,Aceptable
+2023-01-22,2023-01,2023,3,Prescriptivo,2,36.82,1.53,Aceptable
+2023-01-22,2023-01,2023,3,Diagnóstico,9,35.37,1.47,Aceptable
+2023-01-22,2023-01,2023,3,Exploratorio,7,35.86,1.49,Aceptable
+2023-01-29,2023-01,2023,4,Descriptivo,4,28.93,1.21,Aceptable
+2023-01-29,2023-01,2023,4,Predictivo,2,29.13,1.21,Aceptable
+2023-01-29,2023-01,2023,4,Prescriptivo,5,36.45,1.52,Aceptable
+2023-01-29,2023-01,2023,4,Diagnóstico,6,31.56,1.31,Aceptable
+2023-01-29,2023-01,2023,4,Exploratorio,7,29.16,1.21,Aceptable
+2023-02-05,2023-02,2023,5,Descriptivo,2,32.53,1.36,Aceptable
+2023-02-05,2023-02,2023,5,Predictivo,6,37.21,1.55,Aceptable
+2023-02-05,2023-02,2023,5,Prescriptivo,3,33.47,1.39,Aceptable
+2023-02-05,2023-02,2023,5,Diagnóstico,6,34.62,1.44,Aceptable
+2023-02-05,2023-02,2023,5,Exploratorio,2,32.63,1.36,Aceptable
+2023-02-12,2023-02,2023,6,Descriptivo,7,27.28,1.14,Aceptable
+2023-02-12,2023-02,2023,6,Predictivo,4,34.09,1.42,Aceptable
+2023-02-12,2023-02,2023,6,Prescriptivo,7,27.88,1.16,Aceptable
+2023-02-12,2023-02,2023,6,Diagnóstico,4,36.24,1.51,Aceptable
+2023-02-12,2023-02,2023,6,Exploratorio,8,31.56,1.32,Aceptable
+2023-02-19,2023-02,2023,7,Descriptivo,8,31.44,1.31,Aceptable
+2023-02-19,2023-02,2023,7,Predictivo,3,31.9,1.33,Aceptable
+2023-02-19,2023-02,2023,7,Prescriptivo,8,29.44,1.23,Aceptable
+2023-02-19,2023-02,2023,7,Diagnóstico,7,29.65,1.24,Aceptable
+2023-02-19,2023-02,2023,7,Exploratorio,8,34.27,1.43,Aceptable
+2023-02-26,2023-02,2023,8,Descriptivo,8,30.07,1.25,Aceptable
+2023-02-26,2023-02,2023,8,Predictivo,9,32.61,1.36,Aceptable
+2023-02-26,2023-02,2023,8,Prescriptivo,9,29.95,1.25,Aceptable
+2023-02-26,2023-02,2023,8,Diagnóstico,8,27.99,1.17,Aceptable
+2023-02-26,2023-02,2023,8,Exploratorio,3,32.24,1.34,Aceptable
+2023-03-05,2023-03,2023,9,Descriptivo,8,32.92,1.37,Aceptable
+2023-03-05,2023-03,2023,9,Predictivo,5,26.98,1.12,Aceptable
+2023-03-05,2023-03,2023,9,Prescriptivo,2,31.35,1.31,Aceptable
+2023-03-05,2023-03,2023,9,Diagnóstico,8,31.52,1.31,Aceptable
+2023-03-05,2023-03,2023,9,Exploratorio,7,33.81,1.41,Aceptable
+2023-03-12,2023-03,2023,10,Descriptivo,8,31.05,1.29,Aceptable
+2023-03-12,2023-03,2023,10,Predictivo,7,32.37,1.35,Aceptable
+2023-03-12,2023-03,2023,10,Prescriptivo,7,35.23,1.47,Aceptable
+2023-03-12,2023-03,2023,10,Diagnóstico,6,29.67,1.24,Aceptable
+2023-03-12,2023-03,2023,10,Exploratorio,2,35.05,1.46,Aceptable
+2023-03-19,2023-03,2023,11,Descriptivo,5,30.87,1.29,Aceptable
+2023-03-19,2023-03,2023,11,Predictivo,5,30.42,1.27,Aceptable
+2023-03-19,2023-03,2023,11,Prescriptivo,5,32.13,1.34,Aceptable
+2023-03-19,2023-03,2023,11,Diagnóstico,7,28.9,1.2,Aceptable
+2023-03-19,2023-03,2023,11,Exploratorio,2,30.2,1.26,Aceptable
+2023-03-26,2023-03,2023,12,Descriptivo,8,29.41,1.23,Aceptable
+2023-03-26,2023-03,2023,12,Predictivo,6,28.93,1.21,Aceptable
+2023-03-26,2023-03,2023,12,Prescriptivo,5,30.36,1.27,Aceptable
+2023-03-26,2023-03,2023,12,Diagnóstico,4,30.61,1.28,Aceptable
+2023-03-26,2023-03,2023,12,Exploratorio,4,34.72,1.45,Aceptable
+2023-04-02,2023-04,2023,13,Descriptivo,6,32.96,1.37,Aceptable
+2023-04-02,2023-04,2023,13,Predictivo,9,34.82,1.45,Aceptable
+2023-04-02,2023-04,2023,13,Prescriptivo,4,28.71,1.2,Aceptable
+2023-04-02,2023-04,2023,13,Diagnóstico,6,29.83,1.24,Aceptable
+2023-04-02,2023-04,2023,13,Exploratorio,3,31.5,1.31,Aceptable
+2023-04-09,2023-04,2023,14,Descriptivo,3,32.4,1.35,Aceptable
+2023-04-09,2023-04,2023,14,Predictivo,3,28.79,1.2,Aceptable
+2023-04-09,2023-04,2023,14,Prescriptivo,5,32.11,1.34,Aceptable
+2023-04-09,2023-04,2023,14,Diagnóstico,6,32.87,1.37,Aceptable
+2023-04-09,2023-04,2023,14,Exploratorio,8,26.55,1.11,Aceptable
+2023-04-16,2023-04,2023,15,Descriptivo,3,29.76,1.24,Aceptable
+2023-04-16,2023-04,2023,15,Predictivo,6,28.25,1.18,Aceptable
+2023-04-16,2023-04,2023,15,Prescriptivo,7,26.48,1.1,Aceptable
+2023-04-16,2023-04,2023,15,Diagnóstico,2,31.73,1.32,Aceptable
+2023-04-16,2023-04,2023,15,Exploratorio,6,25.57,1.07,Aceptable
+2023-04-23,2023-04,2023,16,Descriptivo,9,28.5,1.19,Aceptable
+2023-04-23,2023-04,2023,16,Predictivo,9,31.89,1.33,Aceptable
+2023-04-23,2023-04,2023,16,Prescriptivo,5,28.33,1.18,Aceptable
+2023-04-23,2023-04,2023,16,Diagnóstico,3,32.13,1.34,Aceptable
+2023-04-23,2023-04,2023,16,Exploratorio,6,32.52,1.35,Aceptable
+2023-04-30,2023-04,2023,17,Descriptivo,7,24.54,1.02,Aceptable
+2023-04-30,2023-04,2023,17,Predictivo,5,28.3,1.18,Aceptable
+2023-04-30,2023-04,2023,17,Prescriptivo,9,25.44,1.06,Aceptable
+2023-04-30,2023-04,2023,17,Diagnóstico,3,31.95,1.33,Aceptable
+2023-04-30,2023-04,2023,17,Exploratorio,7,29.72,1.24,Aceptable
+2023-05-07,2023-05,2023,18,Descriptivo,4,28.81,1.2,Aceptable
+2023-05-07,2023-05,2023,18,Predictivo,2,30.54,1.27,Aceptable
+2023-05-07,2023-05,2023,18,Prescriptivo,9,28.65,1.19,Aceptable
+2023-05-07,2023-05,2023,18,Diagnóstico,7,32.3,1.35,Aceptable
+2023-05-07,2023-05,2023,18,Exploratorio,9,34.0,1.42,Aceptable
+2023-05-14,2023-05,2023,19,Descriptivo,2,32.01,1.33,Aceptable
+2023-05-14,2023-05,2023,19,Predictivo,2,24.25,1.01,Aceptable
+2023-05-14,2023-05,2023,19,Prescriptivo,2,29.7,1.24,Aceptable
+2023-05-14,2023-05,2023,19,Diagnóstico,5,33.21,1.38,Aceptable
+2023-05-14,2023-05,2023,19,Exploratorio,4,32.1,1.34,Aceptable
+2023-05-21,2023-05,2023,20,Descriptivo,7,29.89,1.25,Aceptable
+2023-05-21,2023-05,2023,20,Predictivo,7,27.42,1.14,Aceptable
+2023-05-21,2023-05,2023,20,Prescriptivo,9,30.43,1.27,Aceptable
+2023-05-21,2023-05,2023,20,Diagnóstico,7,27.72,1.15,Aceptable
+2023-05-21,2023-05,2023,20,Exploratorio,3,23.99,1.0,Excelente agilidad
+2023-05-28,2023-05,2023,21,Descriptivo,4,31.24,1.3,Aceptable
+2023-05-28,2023-05,2023,21,Predictivo,7,28.64,1.19,Aceptable
+2023-05-28,2023-05,2023,21,Prescriptivo,2,25.46,1.06,Aceptable
+2023-05-28,2023-05,2023,21,Diagnóstico,9,25.13,1.05,Aceptable
+2023-05-28,2023-05,2023,21,Exploratorio,4,25.97,1.08,Aceptable
+2023-06-04,2023-06,2023,22,Descriptivo,4,32.2,1.34,Aceptable
+2023-06-04,2023-06,2023,22,Predictivo,7,27.46,1.14,Aceptable
+2023-06-04,2023-06,2023,22,Prescriptivo,5,25.19,1.05,Aceptable
+2023-06-04,2023-06,2023,22,Diagnóstico,7,23.18,0.97,Excelente agilidad
+2023-06-04,2023-06,2023,22,Exploratorio,6,27.29,1.14,Aceptable
+2023-06-11,2023-06,2023,23,Descriptivo,5,29.79,1.24,Aceptable
+2023-06-11,2023-06,2023,23,Predictivo,8,30.72,1.28,Aceptable
+2023-06-11,2023-06,2023,23,Prescriptivo,4,25.57,1.07,Aceptable
+2023-06-11,2023-06,2023,23,Diagnóstico,3,30.35,1.26,Aceptable
+2023-06-11,2023-06,2023,23,Exploratorio,9,27.36,1.14,Aceptable
+2023-06-18,2023-06,2023,24,Descriptivo,5,28.53,1.19,Aceptable
+2023-06-18,2023-06,2023,24,Predictivo,2,26.93,1.12,Aceptable
+2023-06-18,2023-06,2023,24,Prescriptivo,7,22.9,0.95,Excelente agilidad
+2023-06-18,2023-06,2023,24,Diagnóstico,8,25.15,1.05,Aceptable
+2023-06-18,2023-06,2023,24,Exploratorio,8,24.64,1.03,Aceptable
+2023-06-25,2023-06,2023,25,Descriptivo,5,24.02,1.0,Aceptable
+2023-06-25,2023-06,2023,25,Predictivo,2,26.41,1.1,Aceptable
+2023-06-25,2023-06,2023,25,Prescriptivo,8,30.28,1.26,Aceptable
+2023-06-25,2023-06,2023,25,Diagnóstico,8,32.43,1.35,Aceptable
+2023-06-25,2023-06,2023,25,Exploratorio,8,26.76,1.11,Aceptable
+2023-07-02,2023-07,2023,26,Descriptivo,9,23.88,1.0,Excelente agilidad
+2023-07-02,2023-07,2023,26,Predictivo,7,25.64,1.07,Aceptable
+2023-07-02,2023-07,2023,26,Prescriptivo,7,31.83,1.33,Aceptable
+2023-07-02,2023-07,2023,26,Diagnóstico,8,29.79,1.24,Aceptable
+2023-07-02,2023-07,2023,26,Exploratorio,9,26.08,1.09,Aceptable
+2023-07-09,2023-07,2023,27,Descriptivo,7,23.85,0.99,Excelente agilidad
+2023-07-09,2023-07,2023,27,Predictivo,4,29.91,1.25,Aceptable
+2023-07-09,2023-07,2023,27,Prescriptivo,7,26.71,1.11,Aceptable
+2023-07-09,2023-07,2023,27,Diagnóstico,5,24.8,1.03,Aceptable
+2023-07-09,2023-07,2023,27,Exploratorio,5,22.66,0.94,Excelente agilidad
+2023-07-16,2023-07,2023,28,Descriptivo,6,26.04,1.08,Aceptable
+2023-07-16,2023-07,2023,28,Predictivo,3,23.44,0.98,Excelente agilidad
+2023-07-16,2023-07,2023,28,Prescriptivo,5,22.02,0.92,Excelente agilidad
+2023-07-16,2023-07,2023,28,Diagnóstico,4,31.69,1.32,Aceptable
+2023-07-16,2023-07,2023,28,Exploratorio,5,24.45,1.02,Aceptable
+2023-07-23,2023-07,2023,29,Descriptivo,3,29.37,1.22,Aceptable
+2023-07-23,2023-07,2023,29,Predictivo,2,25.46,1.06,Aceptable
+2023-07-23,2023-07,2023,29,Prescriptivo,5,21.85,0.91,Excelente agilidad
+2023-07-23,2023-07,2023,29,Diagnóstico,2,24.47,1.02,Aceptable
+2023-07-23,2023-07,2023,29,Exploratorio,3,24.87,1.04,Aceptable
+2023-07-30,2023-07,2023,30,Descriptivo,3,25.24,1.05,Aceptable
+2023-07-30,2023-07,2023,30,Predictivo,4,24.26,1.01,Aceptable
+2023-07-30,2023-07,2023,30,Prescriptivo,2,30.85,1.29,Aceptable
+2023-07-30,2023-07,2023,30,Diagnóstico,9,25.96,1.08,Aceptable
+2023-07-30,2023-07,2023,30,Exploratorio,2,28.21,1.18,Aceptable
+2023-08-06,2023-08,2023,31,Descriptivo,2,28.31,1.18,Aceptable
+2023-08-06,2023-08,2023,31,Predictivo,7,24.47,1.02,Aceptable
+2023-08-06,2023-08,2023,31,Prescriptivo,2,26.89,1.12,Aceptable
+2023-08-06,2023-08,2023,31,Diagnóstico,8,30.37,1.27,Aceptable
+2023-08-06,2023-08,2023,31,Exploratorio,9,25.16,1.05,Aceptable
+2023-08-13,2023-08,2023,32,Descriptivo,4,28.52,1.19,Aceptable
+2023-08-13,2023-08,2023,32,Predictivo,2,26.26,1.09,Aceptable
+2023-08-13,2023-08,2023,32,Prescriptivo,2,30.05,1.25,Aceptable
+2023-08-13,2023-08,2023,32,Diagnóstico,9,25.34,1.06,Aceptable
+2023-08-13,2023-08,2023,32,Exploratorio,5,20.9,0.87,Excelente agilidad
+2023-08-20,2023-08,2023,33,Descriptivo,2,23.61,0.98,Excelente agilidad
+2023-08-20,2023-08,2023,33,Predictivo,6,25.07,1.04,Aceptable
+2023-08-20,2023-08,2023,33,Prescriptivo,3,21.29,0.89,Excelente agilidad
+2023-08-20,2023-08,2023,33,Diagnóstico,8,30.33,1.26,Aceptable
+2023-08-20,2023-08,2023,33,Exploratorio,4,24.0,1.0,Excelente agilidad
+2023-08-27,2023-08,2023,34,Descriptivo,5,26.11,1.09,Aceptable
+2023-08-27,2023-08,2023,34,Predictivo,8,20.65,0.86,Excelente agilidad
+2023-08-27,2023-08,2023,34,Prescriptivo,3,20.4,0.85,Excelente agilidad
+2023-08-27,2023-08,2023,34,Diagnóstico,6,24.29,1.01,Aceptable
+2023-08-27,2023-08,2023,34,Exploratorio,2,23.45,0.98,Excelente agilidad
+2023-09-03,2023-09,2023,35,Descriptivo,3,29.31,1.22,Aceptable
+2023-09-03,2023-09,2023,35,Predictivo,9,25.69,1.07,Aceptable
+2023-09-03,2023-09,2023,35,Prescriptivo,7,26.66,1.11,Aceptable
+2023-09-03,2023-09,2023,35,Diagnóstico,7,28.84,1.2,Aceptable
+2023-09-03,2023-09,2023,35,Exploratorio,8,23.15,0.96,Excelente agilidad
+2023-09-10,2023-09,2023,36,Descriptivo,3,28.37,1.18,Aceptable
+2023-09-10,2023-09,2023,36,Predictivo,2,27.87,1.16,Aceptable
+2023-09-10,2023-09,2023,36,Prescriptivo,2,25.32,1.05,Aceptable
+2023-09-10,2023-09,2023,36,Diagnóstico,9,27.25,1.14,Aceptable
+2023-09-10,2023-09,2023,36,Exploratorio,3,25.21,1.05,Aceptable
+2023-09-17,2023-09,2023,37,Descriptivo,3,28.54,1.19,Aceptable
+2023-09-17,2023-09,2023,37,Predictivo,8,27.15,1.13,Aceptable
+2023-09-17,2023-09,2023,37,Prescriptivo,3,26.49,1.1,Aceptable
+2023-09-17,2023-09,2023,37,Diagnóstico,7,20.41,0.85,Excelente agilidad
+2023-09-17,2023-09,2023,37,Exploratorio,5,25.69,1.07,Aceptable
+2023-09-24,2023-09,2023,38,Descriptivo,2,22.59,0.94,Excelente agilidad
+2023-09-24,2023-09,2023,38,Predictivo,8,27.45,1.14,Aceptable
+2023-09-24,2023-09,2023,38,Prescriptivo,5,28.71,1.2,Aceptable
+2023-09-24,2023-09,2023,38,Diagnóstico,9,20.55,0.86,Excelente agilidad
+2023-09-24,2023-09,2023,38,Exploratorio,3,25.64,1.07,Aceptable
+2023-10-01,2023-10,2023,39,Descriptivo,9,21.09,0.88,Excelente agilidad
+2023-10-01,2023-10,2023,39,Predictivo,2,24.45,1.02,Aceptable
+2023-10-01,2023-10,2023,39,Prescriptivo,5,23.48,0.98,Excelente agilidad
+2023-10-01,2023-10,2023,39,Diagnóstico,9,20.7,0.86,Excelente agilidad
+2023-10-01,2023-10,2023,39,Exploratorio,7,26.53,1.11,Aceptable
+2023-10-08,2023-10,2023,40,Descriptivo,3,22.95,0.96,Excelente agilidad
+2023-10-08,2023-10,2023,40,Predictivo,8,22.74,0.95,Excelente agilidad
+2023-10-08,2023-10,2023,40,Prescriptivo,2,28.29,1.18,Aceptable
+2023-10-08,2023-10,2023,40,Diagnóstico,5,24.37,1.02,Aceptable
+2023-10-08,2023-10,2023,40,Exploratorio,2,24.33,1.01,Aceptable
+2023-10-15,2023-10,2023,41,Descriptivo,9,23.38,0.97,Excelente agilidad
+2023-10-15,2023-10,2023,41,Predictivo,8,28.35,1.18,Aceptable
+2023-10-15,2023-10,2023,41,Prescriptivo,9,23.93,1.0,Excelente agilidad
+2023-10-15,2023-10,2023,41,Diagnóstico,4,20.01,0.83,Excelente agilidad
+2023-10-15,2023-10,2023,41,Exploratorio,3,23.56,0.98,Excelente agilidad
+2023-10-22,2023-10,2023,42,Descriptivo,6,27.1,1.13,Aceptable
+2023-10-22,2023-10,2023,42,Predictivo,9,19.93,0.83,Excelente agilidad
+2023-10-22,2023-10,2023,42,Prescriptivo,6,28.12,1.17,Aceptable
+2023-10-22,2023-10,2023,42,Diagnóstico,9,18.93,0.79,Excelente agilidad
+2023-10-22,2023-10,2023,42,Exploratorio,3,19.75,0.82,Excelente agilidad
+2023-10-29,2023-10,2023,43,Descriptivo,6,22.01,0.92,Excelente agilidad
+2023-10-29,2023-10,2023,43,Predictivo,5,20.89,0.87,Excelente agilidad
+2023-10-29,2023-10,2023,43,Prescriptivo,5,19.95,0.83,Excelente agilidad
+2023-10-29,2023-10,2023,43,Diagnóstico,3,24.6,1.02,Aceptable
+2023-10-29,2023-10,2023,43,Exploratorio,5,20.33,0.85,Excelente agilidad
+2023-11-05,2023-11,2023,44,Descriptivo,3,24.48,1.02,Aceptable
+2023-11-05,2023-11,2023,44,Predictivo,5,25.6,1.07,Aceptable
+2023-11-05,2023-11,2023,44,Prescriptivo,2,25.55,1.06,Aceptable
+2023-11-05,2023-11,2023,44,Diagnóstico,7,23.76,0.99,Excelente agilidad
+2023-11-05,2023-11,2023,44,Exploratorio,8,26.32,1.1,Aceptable
+2023-11-12,2023-11,2023,45,Descriptivo,8,22.93,0.96,Excelente agilidad
+2023-11-12,2023-11,2023,45,Predictivo,2,22.49,0.94,Excelente agilidad
+2023-11-12,2023-11,2023,45,Prescriptivo,2,27.38,1.14,Aceptable
+2023-11-12,2023-11,2023,45,Diagnóstico,6,22.97,0.96,Excelente agilidad
+2023-11-12,2023-11,2023,45,Exploratorio,7,26.46,1.1,Aceptable
+2023-11-19,2023-11,2023,46,Descriptivo,2,17.39,0.72,Excelente agilidad
+2023-11-19,2023-11,2023,46,Predictivo,6,24.52,1.02,Aceptable
+2023-11-19,2023-11,2023,46,Prescriptivo,9,20.6,0.86,Excelente agilidad
+2023-11-19,2023-11,2023,46,Diagnóstico,7,25.08,1.04,Aceptable
+2023-11-19,2023-11,2023,46,Exploratorio,5,23.75,0.99,Excelente agilidad
+2023-11-26,2023-11,2023,47,Descriptivo,4,18.63,0.78,Excelente agilidad
+2023-11-26,2023-11,2023,47,Predictivo,6,22.33,0.93,Excelente agilidad
+2023-11-26,2023-11,2023,47,Prescriptivo,4,20.6,0.86,Excelente agilidad
+2023-11-26,2023-11,2023,47,Diagnóstico,6,24.98,1.04,Aceptable
+2023-11-26,2023-11,2023,47,Exploratorio,5,24.04,1.0,Aceptable
+2023-12-03,2023-12,2023,48,Descriptivo,7,18.8,0.78,Excelente agilidad
+2023-12-03,2023-12,2023,48,Predictivo,7,21.29,0.89,Excelente agilidad
+2023-12-03,2023-12,2023,48,Prescriptivo,2,20.94,0.87,Excelente agilidad
+2023-12-03,2023-12,2023,48,Diagnóstico,6,18.91,0.79,Excelente agilidad
+2023-12-03,2023-12,2023,48,Exploratorio,2,22.23,0.93,Excelente agilidad
+2023-12-10,2023-12,2023,49,Descriptivo,7,19.7,0.82,Excelente agilidad
+2023-12-10,2023-12,2023,49,Predictivo,4,23.68,0.99,Excelente agilidad
+2023-12-10,2023-12,2023,49,Prescriptivo,8,20.13,0.84,Excelente agilidad
+2023-12-10,2023-12,2023,49,Diagnóstico,6,24.98,1.04,Aceptable
+2023-12-10,2023-12,2023,49,Exploratorio,5,18.12,0.76,Excelente agilidad
+2023-12-17,2023-12,2023,50,Descriptivo,5,22.13,0.92,Excelente agilidad
+2023-12-17,2023-12,2023,50,Predictivo,5,21.37,0.89,Excelente agilidad
+2023-12-17,2023-12,2023,50,Prescriptivo,6,16.82,0.7,Excelente agilidad
+2023-12-17,2023-12,2023,50,Diagnóstico,3,20.05,0.84,Excelente agilidad
+2023-12-17,2023-12,2023,50,Exploratorio,8,25.9,1.08,Aceptable
+2023-12-24,2023-12,2023,51,Descriptivo,8,25.65,1.07,Aceptable
+2023-12-24,2023-12,2023,51,Predictivo,9,18.53,0.77,Excelente agilidad
+2023-12-24,2023-12,2023,51,Prescriptivo,5,23.35,0.97,Excelente agilidad
+2023-12-24,2023-12,2023,51,Diagnóstico,5,22.05,0.92,Excelente agilidad
+2023-12-24,2023-12,2023,51,Exploratorio,5,16.14,0.67,Excelente agilidad
+2023-12-31,2023-12,2023,52,Descriptivo,2,19.98,0.83,Excelente agilidad
+2023-12-31,2023-12,2023,52,Predictivo,2,25.13,1.05,Aceptable
+2023-12-31,2023-12,2023,52,Prescriptivo,6,19.8,0.83,Excelente agilidad
+2023-12-31,2023-12,2023,52,Diagnóstico,5,21.9,0.91,Excelente agilidad
+2023-12-31,2023-12,2023,52,Exploratorio,6,24.19,1.01,Aceptable
+2024-01-07,2024-01,2024,1,Descriptivo,7,22.42,0.93,Excelente agilidad
+2024-01-07,2024-01,2024,1,Predictivo,2,19.25,0.8,Excelente agilidad
+2024-01-07,2024-01,2024,1,Prescriptivo,5,24.06,1.0,Aceptable
+2024-01-07,2024-01,2024,1,Diagnóstico,8,17.02,0.71,Excelente agilidad
+2024-01-07,2024-01,2024,1,Exploratorio,9,19.6,0.82,Excelente agilidad
+2024-01-14,2024-01,2024,2,Descriptivo,4,23.06,0.96,Excelente agilidad
+2024-01-14,2024-01,2024,2,Predictivo,7,24.18,1.01,Aceptable
+2024-01-14,2024-01,2024,2,Prescriptivo,7,24.66,1.03,Aceptable
+2024-01-14,2024-01,2024,2,Diagnóstico,7,22.58,0.94,Excelente agilidad
+2024-01-14,2024-01,2024,2,Exploratorio,2,18.96,0.79,Excelente agilidad
+2024-01-21,2024-01,2024,3,Descriptivo,4,23.03,0.96,Excelente agilidad
+2024-01-21,2024-01,2024,3,Predictivo,8,16.94,0.71,Excelente agilidad
+2024-01-21,2024-01,2024,3,Prescriptivo,4,20.2,0.84,Excelente agilidad
+2024-01-21,2024-01,2024,3,Diagnóstico,6,17.33,0.72,Excelente agilidad
+2024-01-21,2024-01,2024,3,Exploratorio,6,16.51,0.69,Excelente agilidad
+2024-01-28,2024-01,2024,4,Descriptivo,4,16.19,0.67,Excelente agilidad
+2024-01-28,2024-01,2024,4,Predictivo,3,20.74,0.86,Excelente agilidad
+2024-01-28,2024-01,2024,4,Prescriptivo,8,20.66,0.86,Excelente agilidad
+2024-01-28,2024-01,2024,4,Diagnóstico,7,23.5,0.98,Excelente agilidad
+2024-01-28,2024-01,2024,4,Exploratorio,6,24.22,1.01,Aceptable
+2024-02-04,2024-02,2024,5,Descriptivo,9,19.64,0.82,Excelente agilidad
+2024-02-04,2024-02,2024,5,Predictivo,3,21.52,0.9,Excelente agilidad
+2024-02-04,2024-02,2024,5,Prescriptivo,5,19.14,0.8,Excelente agilidad
+2024-02-04,2024-02,2024,5,Diagnóstico,7,20.59,0.86,Excelente agilidad
+2024-02-04,2024-02,2024,5,Exploratorio,3,24.41,1.02,Aceptable
+2024-02-11,2024-02,2024,6,Descriptivo,9,22.23,0.93,Excelente agilidad
+2024-02-11,2024-02,2024,6,Predictivo,6,20.62,0.86,Excelente agilidad
+2024-02-11,2024-02,2024,6,Prescriptivo,6,17.82,0.74,Excelente agilidad
+2024-02-11,2024-02,2024,6,Diagnóstico,7,23.25,0.97,Excelente agilidad
+2024-02-11,2024-02,2024,6,Exploratorio,4,17.99,0.75,Excelente agilidad
+2024-02-18,2024-02,2024,7,Descriptivo,5,14.95,0.62,Excelente agilidad
+2024-02-18,2024-02,2024,7,Predictivo,6,20.61,0.86,Excelente agilidad
+2024-02-18,2024-02,2024,7,Prescriptivo,7,21.65,0.9,Excelente agilidad
+2024-02-18,2024-02,2024,7,Diagnóstico,4,15.12,0.63,Excelente agilidad
+2024-02-18,2024-02,2024,7,Exploratorio,8,15.72,0.66,Excelente agilidad
+2024-02-25,2024-02,2024,8,Descriptivo,2,14.29,0.6,Excelente agilidad
+2024-02-25,2024-02,2024,8,Predictivo,3,22.82,0.95,Excelente agilidad
+2024-02-25,2024-02,2024,8,Prescriptivo,6,17.7,0.74,Excelente agilidad
+2024-02-25,2024-02,2024,8,Diagnóstico,5,22.79,0.95,Excelente agilidad
+2024-02-25,2024-02,2024,8,Exploratorio,7,21.05,0.88,Excelente agilidad
+2024-03-03,2024-03,2024,9,Descriptivo,6,16.39,0.68,Excelente agilidad
+2024-03-03,2024-03,2024,9,Predictivo,4,22.25,0.93,Excelente agilidad
+2024-03-03,2024-03,2024,9,Prescriptivo,7,17.64,0.74,Excelente agilidad
+2024-03-03,2024-03,2024,9,Diagnóstico,2,16.67,0.69,Excelente agilidad
+2024-03-03,2024-03,2024,9,Exploratorio,8,20.95,0.87,Excelente agilidad
+2024-03-10,2024-03,2024,10,Descriptivo,6,19.62,0.82,Excelente agilidad
+2024-03-10,2024-03,2024,10,Predictivo,3,13.72,0.57,Excelente agilidad
+2024-03-10,2024-03,2024,10,Prescriptivo,6,15.93,0.66,Excelente agilidad
+2024-03-10,2024-03,2024,10,Diagnóstico,8,14.24,0.59,Excelente agilidad
+2024-03-10,2024-03,2024,10,Exploratorio,6,19.52,0.81,Excelente agilidad
+2024-03-17,2024-03,2024,11,Descriptivo,7,21.31,0.89,Excelente agilidad
+2024-03-17,2024-03,2024,11,Predictivo,2,17.13,0.71,Excelente agilidad
+2024-03-17,2024-03,2024,11,Prescriptivo,6,21.75,0.91,Excelente agilidad
+2024-03-17,2024-03,2024,11,Diagnóstico,6,19.99,0.83,Excelente agilidad
+2024-03-17,2024-03,2024,11,Exploratorio,5,16.46,0.69,Excelente agilidad
+2024-03-24,2024-03,2024,12,Descriptivo,4,19.29,0.8,Excelente agilidad
+2024-03-24,2024-03,2024,12,Predictivo,9,13.02,0.54,Excelente agilidad
+2024-03-24,2024-03,2024,12,Prescriptivo,3,19.1,0.8,Excelente agilidad
+2024-03-24,2024-03,2024,12,Diagnóstico,6,19.12,0.8,Excelente agilidad
+2024-03-24,2024-03,2024,12,Exploratorio,2,22.62,0.94,Excelente agilidad
+2024-03-31,2024-03,2024,13,Descriptivo,5,19.57,0.82,Excelente agilidad
+2024-03-31,2024-03,2024,13,Predictivo,9,16.41,0.68,Excelente agilidad
+2024-03-31,2024-03,2024,13,Prescriptivo,7,17.08,0.71,Excelente agilidad
+2024-03-31,2024-03,2024,13,Diagnóstico,6,18.18,0.76,Excelente agilidad
+2024-03-31,2024-03,2024,13,Exploratorio,6,14.54,0.61,Excelente agilidad
+2024-04-07,2024-04,2024,14,Descriptivo,2,17.99,0.75,Excelente agilidad
+2024-04-07,2024-04,2024,14,Predictivo,2,12.74,0.53,Excelente agilidad
+2024-04-07,2024-04,2024,14,Prescriptivo,6,16.55,0.69,Excelente agilidad
+2024-04-07,2024-04,2024,14,Diagnóstico,7,20.38,0.85,Excelente agilidad
+2024-04-07,2024-04,2024,14,Exploratorio,7,12.54,0.52,Excelente agilidad
+2024-04-14,2024-04,2024,15,Descriptivo,4,12.66,0.53,Excelente agilidad
+2024-04-14,2024-04,2024,15,Predictivo,4,15.31,0.64,Excelente agilidad
+2024-04-14,2024-04,2024,15,Prescriptivo,3,20.68,0.86,Excelente agilidad
+2024-04-14,2024-04,2024,15,Diagnóstico,6,16.97,0.71,Excelente agilidad
+2024-04-14,2024-04,2024,15,Exploratorio,5,19.24,0.8,Excelente agilidad
+2024-04-21,2024-04,2024,16,Descriptivo,7,19.69,0.82,Excelente agilidad
+2024-04-21,2024-04,2024,16,Predictivo,2,18.55,0.77,Excelente agilidad
+2024-04-21,2024-04,2024,16,Prescriptivo,6,13.34,0.56,Excelente agilidad
+2024-04-21,2024-04,2024,16,Diagnóstico,5,16.5,0.69,Excelente agilidad
+2024-04-21,2024-04,2024,16,Exploratorio,9,20.61,0.86,Excelente agilidad
+2024-04-28,2024-04,2024,17,Descriptivo,4,15.09,0.63,Excelente agilidad
+2024-04-28,2024-04,2024,17,Predictivo,6,21.37,0.89,Excelente agilidad
+2024-04-28,2024-04,2024,17,Prescriptivo,4,19.03,0.79,Excelente agilidad
+2024-04-28,2024-04,2024,17,Diagnóstico,3,15.85,0.66,Excelente agilidad
+2024-04-28,2024-04,2024,17,Exploratorio,4,17.11,0.71,Excelente agilidad
+2024-05-05,2024-05,2024,18,Descriptivo,9,15.86,0.66,Excelente agilidad
+2024-05-05,2024-05,2024,18,Predictivo,5,21.0,0.88,Excelente agilidad
+2024-05-05,2024-05,2024,18,Prescriptivo,3,17.07,0.71,Excelente agilidad
+2024-05-05,2024-05,2024,18,Diagnóstico,3,15.94,0.66,Excelente agilidad
+2024-05-05,2024-05,2024,18,Exploratorio,2,20.85,0.87,Excelente agilidad
+2024-05-12,2024-05,2024,19,Descriptivo,3,13.19,0.55,Excelente agilidad
+2024-05-12,2024-05,2024,19,Predictivo,6,20.22,0.84,Excelente agilidad
+2024-05-12,2024-05,2024,19,Prescriptivo,4,16.5,0.69,Excelente agilidad
+2024-05-12,2024-05,2024,19,Diagnóstico,7,15.4,0.64,Excelente agilidad
+2024-05-12,2024-05,2024,19,Exploratorio,4,19.17,0.8,Excelente agilidad
+2024-05-19,2024-05,2024,20,Descriptivo,9,14.27,0.59,Excelente agilidad
+2024-05-19,2024-05,2024,20,Predictivo,5,15.06,0.63,Excelente agilidad
+2024-05-19,2024-05,2024,20,Prescriptivo,4,19.84,0.83,Excelente agilidad
+2024-05-19,2024-05,2024,20,Diagnóstico,4,18.12,0.76,Excelente agilidad
+2024-05-19,2024-05,2024,20,Exploratorio,8,12.58,0.52,Excelente agilidad
+2024-05-26,2024-05,2024,21,Descriptivo,6,14.39,0.6,Excelente agilidad
+2024-05-26,2024-05,2024,21,Predictivo,7,18.71,0.78,Excelente agilidad
+2024-05-26,2024-05,2024,21,Prescriptivo,6,17.69,0.74,Excelente agilidad
+2024-05-26,2024-05,2024,21,Diagnóstico,8,16.02,0.67,Excelente agilidad
+2024-05-26,2024-05,2024,21,Exploratorio,7,10.77,0.45,Excelente agilidad
+2024-06-02,2024-06,2024,22,Descriptivo,9,13.23,0.55,Excelente agilidad
+2024-06-02,2024-06,2024,22,Predictivo,7,13.63,0.57,Excelente agilidad
+2024-06-02,2024-06,2024,22,Prescriptivo,2,13.12,0.55,Excelente agilidad
+2024-06-02,2024-06,2024,22,Diagnóstico,8,11.35,0.47,Excelente agilidad
+2024-06-02,2024-06,2024,22,Exploratorio,6,13.14,0.55,Excelente agilidad
+2024-06-09,2024-06,2024,23,Descriptivo,8,19.72,0.82,Excelente agilidad
+2024-06-09,2024-06,2024,23,Predictivo,3,12.06,0.5,Excelente agilidad
+2024-06-09,2024-06,2024,23,Prescriptivo,9,18.5,0.77,Excelente agilidad
+2024-06-09,2024-06,2024,23,Diagnóstico,8,15.81,0.66,Excelente agilidad
+2024-06-09,2024-06,2024,23,Exploratorio,9,12.55,0.52,Excelente agilidad
+2024-06-16,2024-06,2024,24,Descriptivo,4,15.57,0.65,Excelente agilidad
+2024-06-16,2024-06,2024,24,Predictivo,4,19.02,0.79,Excelente agilidad
+2024-06-16,2024-06,2024,24,Prescriptivo,3,10.75,0.45,Excelente agilidad
+2024-06-16,2024-06,2024,24,Diagnóstico,3,19.2,0.8,Excelente agilidad
+2024-06-16,2024-06,2024,24,Exploratorio,6,15.0,0.63,Excelente agilidad
+2024-06-23,2024-06,2024,25,Descriptivo,5,13.14,0.55,Excelente agilidad
+2024-06-23,2024-06,2024,25,Predictivo,2,13.21,0.55,Excelente agilidad
+2024-06-23,2024-06,2024,25,Prescriptivo,6,19.5,0.81,Excelente agilidad
+2024-06-23,2024-06,2024,25,Diagnóstico,9,18.73,0.78,Excelente agilidad
+2024-06-23,2024-06,2024,25,Exploratorio,6,13.86,0.58,Excelente agilidad
+2024-06-30,2024-06,2024,26,Descriptivo,2,16.55,0.69,Excelente agilidad
+2024-06-30,2024-06,2024,26,Predictivo,5,18.48,0.77,Excelente agilidad
+2024-06-30,2024-06,2024,26,Prescriptivo,2,19.32,0.8,Excelente agilidad
+2024-06-30,2024-06,2024,26,Diagnóstico,6,16.08,0.67,Excelente agilidad
+2024-06-30,2024-06,2024,26,Exploratorio,3,18.55,0.77,Excelente agilidad
+2024-07-07,2024-07,2024,27,Descriptivo,8,12.46,0.52,Excelente agilidad
+2024-07-07,2024-07,2024,27,Predictivo,6,13.52,0.56,Excelente agilidad
+2024-07-07,2024-07,2024,27,Prescriptivo,9,12.57,0.52,Excelente agilidad
+2024-07-07,2024-07,2024,27,Diagnóstico,9,17.05,0.71,Excelente agilidad
+2024-07-07,2024-07,2024,27,Exploratorio,8,14.71,0.61,Excelente agilidad
+2024-07-14,2024-07,2024,28,Descriptivo,3,16.11,0.67,Excelente agilidad
+2024-07-14,2024-07,2024,28,Predictivo,2,17.6,0.73,Excelente agilidad
+2024-07-14,2024-07,2024,28,Prescriptivo,6,15.14,0.63,Excelente agilidad
+2024-07-14,2024-07,2024,28,Diagnóstico,8,11.11,0.46,Excelente agilidad
+2024-07-14,2024-07,2024,28,Exploratorio,2,11.06,0.46,Excelente agilidad
+2024-07-21,2024-07,2024,29,Descriptivo,9,13.24,0.55,Excelente agilidad
+2024-07-21,2024-07,2024,29,Predictivo,5,18.31,0.76,Excelente agilidad
+2024-07-21,2024-07,2024,29,Prescriptivo,5,16.42,0.68,Excelente agilidad
+2024-07-21,2024-07,2024,29,Diagnóstico,2,17.55,0.73,Excelente agilidad
+2024-07-21,2024-07,2024,29,Exploratorio,4,10.6,0.44,Excelente agilidad
+2024-07-28,2024-07,2024,30,Descriptivo,4,13.2,0.55,Excelente agilidad
+2024-07-28,2024-07,2024,30,Predictivo,6,11.05,0.46,Excelente agilidad
+2024-07-28,2024-07,2024,30,Prescriptivo,4,17.12,0.71,Excelente agilidad
+2024-07-28,2024-07,2024,30,Diagnóstico,2,9.66,0.4,Excelente agilidad
+2024-07-28,2024-07,2024,30,Exploratorio,4,11.91,0.5,Excelente agilidad
+2024-08-04,2024-08,2024,31,Descriptivo,4,10.94,0.46,Excelente agilidad
+2024-08-04,2024-08,2024,31,Predictivo,3,11.49,0.48,Excelente agilidad
+2024-08-04,2024-08,2024,31,Prescriptivo,5,8.52,0.35,Excelente agilidad
+2024-08-04,2024-08,2024,31,Diagnóstico,4,18.01,0.75,Excelente agilidad
+2024-08-04,2024-08,2024,31,Exploratorio,5,10.46,0.44,Excelente agilidad
+2024-08-11,2024-08,2024,32,Descriptivo,7,11.9,0.5,Excelente agilidad
+2024-08-11,2024-08,2024,32,Predictivo,8,15.84,0.66,Excelente agilidad
+2024-08-11,2024-08,2024,32,Prescriptivo,2,12.96,0.54,Excelente agilidad
+2024-08-11,2024-08,2024,32,Diagnóstico,8,12.07,0.5,Excelente agilidad
+2024-08-11,2024-08,2024,32,Exploratorio,7,15.44,0.64,Excelente agilidad
+2024-08-18,2024-08,2024,33,Descriptivo,4,15.9,0.66,Excelente agilidad
+2024-08-18,2024-08,2024,33,Predictivo,9,17.32,0.72,Excelente agilidad
+2024-08-18,2024-08,2024,33,Prescriptivo,2,10.1,0.42,Excelente agilidad
+2024-08-18,2024-08,2024,33,Diagnóstico,7,17.3,0.72,Excelente agilidad
+2024-08-18,2024-08,2024,33,Exploratorio,9,12.54,0.52,Excelente agilidad
+2024-08-25,2024-08,2024,34,Descriptivo,3,11.09,0.46,Excelente agilidad
+2024-08-25,2024-08,2024,34,Predictivo,8,9.08,0.38,Excelente agilidad
+2024-08-25,2024-08,2024,34,Prescriptivo,5,15.87,0.66,Excelente agilidad
+2024-08-25,2024-08,2024,34,Diagnóstico,8,15.91,0.66,Excelente agilidad
+2024-08-25,2024-08,2024,34,Exploratorio,3,12.22,0.51,Excelente agilidad
+2024-09-01,2024-09,2024,35,Descriptivo,5,7.33,0.31,Excelente agilidad
+2024-09-01,2024-09,2024,35,Predictivo,3,11.72,0.49,Excelente agilidad
+2024-09-01,2024-09,2024,35,Prescriptivo,7,12.99,0.54,Excelente agilidad
+2024-09-01,2024-09,2024,35,Diagnóstico,6,9.1,0.38,Excelente agilidad
+2024-09-01,2024-09,2024,35,Exploratorio,8,11.52,0.48,Excelente agilidad
+2024-09-08,2024-09,2024,36,Descriptivo,8,7.21,0.3,Excelente agilidad
+2024-09-08,2024-09,2024,36,Predictivo,6,15.31,0.64,Excelente agilidad
+2024-09-08,2024-09,2024,36,Prescriptivo,3,11.34,0.47,Excelente agilidad
+2024-09-08,2024-09,2024,36,Diagnóstico,9,14.44,0.6,Excelente agilidad
+2024-09-08,2024-09,2024,36,Exploratorio,5,10.63,0.44,Excelente agilidad
+2024-09-15,2024-09,2024,37,Descriptivo,6,15.46,0.64,Excelente agilidad
+2024-09-15,2024-09,2024,37,Predictivo,3,12.32,0.51,Excelente agilidad
+2024-09-15,2024-09,2024,37,Prescriptivo,8,9.97,0.42,Excelente agilidad
+2024-09-15,2024-09,2024,37,Diagnóstico,9,15.67,0.65,Excelente agilidad
+2024-09-15,2024-09,2024,37,Exploratorio,3,7.07,0.29,Excelente agilidad
+2024-09-22,2024-09,2024,38,Descriptivo,5,8.17,0.34,Excelente agilidad
+2024-09-22,2024-09,2024,38,Predictivo,7,10.84,0.45,Excelente agilidad
+2024-09-22,2024-09,2024,38,Prescriptivo,5,9.74,0.41,Excelente agilidad
+2024-09-22,2024-09,2024,38,Diagnóstico,9,14.04,0.58,Excelente agilidad
+2024-09-22,2024-09,2024,38,Exploratorio,7,11.58,0.48,Excelente agilidad
+2024-09-29,2024-09,2024,39,Descriptivo,2,7.8,0.33,Excelente agilidad
+2024-09-29,2024-09,2024,39,Predictivo,5,16.22,0.68,Excelente agilidad
+2024-09-29,2024-09,2024,39,Prescriptivo,9,9.28,0.39,Excelente agilidad
+2024-09-29,2024-09,2024,39,Diagnóstico,3,11.13,0.46,Excelente agilidad
+2024-09-29,2024-09,2024,39,Exploratorio,5,6.99,0.29,Excelente agilidad
+2024-10-06,2024-10,2024,40,Descriptivo,6,14.82,0.62,Excelente agilidad
+2024-10-06,2024-10,2024,40,Predictivo,3,8.65,0.36,Excelente agilidad
+2024-10-06,2024-10,2024,40,Prescriptivo,9,10.64,0.44,Excelente agilidad
+2024-10-06,2024-10,2024,40,Diagnóstico,6,12.39,0.52,Excelente agilidad
+2024-10-06,2024-10,2024,40,Exploratorio,5,8.41,0.35,Excelente agilidad
+2024-10-13,2024-10,2024,41,Descriptivo,7,15.17,0.63,Excelente agilidad
+2024-10-13,2024-10,2024,41,Predictivo,9,7.15,0.3,Excelente agilidad
+2024-10-13,2024-10,2024,41,Prescriptivo,3,10.05,0.42,Excelente agilidad
+2024-10-13,2024-10,2024,41,Diagnóstico,2,9.69,0.4,Excelente agilidad
+2024-10-13,2024-10,2024,41,Exploratorio,5,10.49,0.44,Excelente agilidad
+2024-10-20,2024-10,2024,42,Descriptivo,5,8.38,0.35,Excelente agilidad
+2024-10-20,2024-10,2024,42,Predictivo,6,7.11,0.3,Excelente agilidad
+2024-10-20,2024-10,2024,42,Prescriptivo,2,7.37,0.31,Excelente agilidad
+2024-10-20,2024-10,2024,42,Diagnóstico,2,7.16,0.3,Excelente agilidad
+2024-10-20,2024-10,2024,42,Exploratorio,6,14.1,0.59,Excelente agilidad
+2024-10-27,2024-10,2024,43,Descriptivo,7,12.31,0.51,Excelente agilidad
+2024-10-27,2024-10,2024,43,Predictivo,9,11.45,0.48,Excelente agilidad
+2024-10-27,2024-10,2024,43,Prescriptivo,5,13.17,0.55,Excelente agilidad
+2024-10-27,2024-10,2024,43,Diagnóstico,3,9.5,0.4,Excelente agilidad
+2024-10-27,2024-10,2024,43,Exploratorio,7,10.42,0.43,Excelente agilidad
+2024-11-03,2024-11,2024,44,Descriptivo,2,7.86,0.33,Excelente agilidad
+2024-11-03,2024-11,2024,44,Predictivo,7,14.81,0.62,Excelente agilidad
+2024-11-03,2024-11,2024,44,Prescriptivo,6,7.96,0.33,Excelente agilidad
+2024-11-03,2024-11,2024,44,Diagnóstico,2,9.15,0.38,Excelente agilidad
+2024-11-03,2024-11,2024,44,Exploratorio,5,7.62,0.32,Excelente agilidad
+2024-11-10,2024-11,2024,45,Descriptivo,5,9.84,0.41,Excelente agilidad
+2024-11-10,2024-11,2024,45,Predictivo,2,12.67,0.53,Excelente agilidad
+2024-11-10,2024-11,2024,45,Prescriptivo,8,9.29,0.39,Excelente agilidad
+2024-11-10,2024-11,2024,45,Diagnóstico,3,10.62,0.44,Excelente agilidad
+2024-11-10,2024-11,2024,45,Exploratorio,6,9.34,0.39,Excelente agilidad
+2024-11-17,2024-11,2024,46,Descriptivo,5,12.45,0.52,Excelente agilidad
+2024-11-17,2024-11,2024,46,Predictivo,7,8.88,0.37,Excelente agilidad
+2024-11-17,2024-11,2024,46,Prescriptivo,7,11.68,0.49,Excelente agilidad
+2024-11-17,2024-11,2024,46,Diagnóstico,9,4.67,0.19,Excelente agilidad
+2024-11-17,2024-11,2024,46,Exploratorio,4,12.99,0.54,Excelente agilidad
+2024-11-24,2024-11,2024,47,Descriptivo,9,11.15,0.46,Excelente agilidad
+2024-11-24,2024-11,2024,47,Predictivo,4,8.66,0.36,Excelente agilidad
+2024-11-24,2024-11,2024,47,Prescriptivo,3,4.85,0.2,Excelente agilidad
+2024-11-24,2024-11,2024,47,Diagnóstico,9,13.94,0.58,Excelente agilidad
+2024-11-24,2024-11,2024,47,Exploratorio,9,11.84,0.49,Excelente agilidad
+2024-12-01,2024-12,2024,48,Descriptivo,8,13.7,0.57,Excelente agilidad
+2024-12-01,2024-12,2024,48,Predictivo,9,4.26,0.18,Excelente agilidad
+2024-12-01,2024-12,2024,48,Prescriptivo,8,4.83,0.2,Excelente agilidad
+2024-12-01,2024-12,2024,48,Diagnóstico,8,11.47,0.48,Excelente agilidad
+2024-12-01,2024-12,2024,48,Exploratorio,7,5.39,0.22,Excelente agilidad
+2024-12-08,2024-12,2024,49,Descriptivo,6,13.29,0.55,Excelente agilidad
+2024-12-08,2024-12,2024,49,Predictivo,2,12.47,0.52,Excelente agilidad
+2024-12-08,2024-12,2024,49,Prescriptivo,9,12.07,0.5,Excelente agilidad
+2024-12-08,2024-12,2024,49,Diagnóstico,3,9.47,0.39,Excelente agilidad
+2024-12-08,2024-12,2024,49,Exploratorio,5,8.38,0.35,Excelente agilidad
+2024-12-15,2024-12,2024,50,Descriptivo,8,8.36,0.35,Excelente agilidad
+2024-12-15,2024-12,2024,50,Predictivo,6,4.42,0.18,Excelente agilidad
+2024-12-15,2024-12,2024,50,Prescriptivo,6,4.86,0.2,Excelente agilidad
+2024-12-15,2024-12,2024,50,Diagnóstico,3,4.59,0.19,Excelente agilidad
+2024-12-15,2024-12,2024,50,Exploratorio,7,10.49,0.44,Excelente agilidad
+2024-12-22,2024-12,2024,51,Descriptivo,5,7.93,0.33,Excelente agilidad
+2024-12-22,2024-12,2024,51,Predictivo,5,5.7,0.24,Excelente agilidad
+2024-12-22,2024-12,2024,51,Prescriptivo,3,12.52,0.52,Excelente agilidad
+2024-12-22,2024-12,2024,51,Diagnóstico,6,7.8,0.33,Excelente agilidad
+2024-12-22,2024-12,2024,51,Exploratorio,2,10.88,0.45,Excelente agilidad
+2024-12-29,2024-12,2024,52,Descriptivo,6,8.76,0.37,Excelente agilidad
+2024-12-29,2024-12,2024,52,Predictivo,4,11.3,0.47,Excelente agilidad
+2024-12-29,2024-12,2024,52,Prescriptivo,7,7.0,0.29,Excelente agilidad
+2024-12-29,2024-12,2024,52,Diagnóstico,9,7.81,0.33,Excelente agilidad
+2024-12-29,2024-12,2024,52,Exploratorio,5,4.0,0.17,Excelente agilidad

@@ -1,0 +1,11 @@
+modelo,kpi,tipo_modelo,mae,rmse,r2,accuracy,precision,recall,f1_score
+COBIT1,Cumplimiento Plan Gobierno TI,Forecasting,3.25788484276729,3.7960596848707104,-1.9436910185505925,,,,
+ITIL2,Disponibilidad Servicios,Forecasting,0.4763562251645592,0.8343307656860023,-0.010276083811221248,,,,
+CMMI1,Procesos Documentados,Forecasting,2.785163584905594,3.17645935248274,-2.9331671575810776,,,,
+CMMI2,Mejoras Implementadas,Forecasting,3.027136964779874,3.7069056197420247,-0.08810054070446527,,,,
+CRISP_DM2,Tiempo Respuesta Análisis,Forecasting,7.963892452830176,8.730382766120906,-3.5060991521100426,,,,
+COBIT2,Índice Riesgo TI,Clasificacion,,,,1.0,,,
+CRISP_DM1,Cobertura Datos,Clasificacion,,,,0.9958333333333333,,,
+SCRUM1,Rendimiento Equipo,Clasificacion,,,,0.3563218390804598,,,
+SCRUM2,Cumplimiento Retrospectivas,Clasificacion,,,,1.0,,,
+ITIL1,Tiempo Resolución Incidentes,Deteccion_Anomalias,,,,0.9019138755980861,0.5,0.024390243902439025,0.046511627906976744

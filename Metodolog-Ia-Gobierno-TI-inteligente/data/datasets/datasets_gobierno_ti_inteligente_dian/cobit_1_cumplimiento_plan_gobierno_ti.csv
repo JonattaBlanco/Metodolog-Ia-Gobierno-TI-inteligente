@@ -1,0 +1,1032 @@
+fecha,año,mes,semana,trimestre,objetivo_estrategico,objetivos_planificados,objetivos_alcanzados,cumplimiento_porcentaje,estado
+2020-01-05,2020,2020-01,1,Q1,Analítica Avanzada,12,8,67.17,Riesgo
+2020-01-05,2020,2020-01,1,Q1,Experiencia Usuario,10,6,60.65,Riesgo
+2020-01-05,2020,2020-01,1,Q1,Modernización TI,12,8,68.41,Riesgo
+2020-01-05,2020,2020-01,1,Q1,Cumplimiento Normativo,10,6,60.09,Riesgo
+2020-01-05,2020,2020-01,1,Q1,Gobierno de Datos,9,5,66.26,Riesgo
+2020-01-12,2020,2020-01,2,Q1,Seguridad Cibernética,11,6,61.91,Riesgo
+2020-01-12,2020,2020-01,2,Q1,Analítica Avanzada,11,6,60.34,Riesgo
+2020-01-12,2020,2020-01,2,Q1,Mejora Procesos,13,9,69.86,Riesgo
+2020-01-12,2020,2020-01,2,Q1,Resiliencia Operacional,6,3,64.06,Riesgo
+2020-01-19,2020,2020-01,3,Q1,Cumplimiento Normativo,8,5,63.44,Riesgo
+2020-01-19,2020,2020-01,3,Q1,Gobierno de Datos,10,6,62.4,Riesgo
+2020-01-19,2020,2020-01,3,Q1,Resiliencia Operacional,8,4,62.17,Riesgo
+2020-01-19,2020,2020-01,3,Q1,Innovación Tecnológica,6,4,68.07,Riesgo
+2020-01-26,2020,2020-01,4,Q1,Transformación Digital,9,5,66.31,Riesgo
+2020-01-26,2020,2020-01,4,Q1,Seguridad Cibernética,13,8,63.25,Riesgo
+2020-01-26,2020,2020-01,4,Q1,Cumplimiento Normativo,13,8,63.4,Riesgo
+2020-01-26,2020,2020-01,4,Q1,Analítica Avanzada,5,3,60.6,Riesgo
+2020-02-02,2020,2020-02,5,Q1,Seguridad Cibernética,5,3,66.62,Riesgo
+2020-02-02,2020,2020-02,5,Q1,Mejora Procesos,14,8,64.15,Riesgo
+2020-02-02,2020,2020-02,5,Q1,Gobierno de Datos,13,9,69.71,Riesgo
+2020-02-09,2020,2020-02,6,Q1,Analítica Avanzada,7,4,65.4,Riesgo
+2020-02-09,2020,2020-02,6,Q1,Experiencia Usuario,9,6,70.4,Aceptable
+2020-02-09,2020,2020-02,6,Q1,Resiliencia Operacional,7,4,68.29,Riesgo
+2020-02-16,2020,2020-02,7,Q1,Experiencia Usuario,11,7,66.84,Riesgo
+2020-02-16,2020,2020-02,7,Q1,Mejora Procesos,8,5,70.23,Aceptable
+2020-02-16,2020,2020-02,7,Q1,Seguridad Cibernética,11,7,63.7,Riesgo
+2020-02-16,2020,2020-02,7,Q1,Gobierno de Datos,10,6,69.6,Riesgo
+2020-02-23,2020,2020-02,8,Q1,Resiliencia Operacional,5,3,63.64,Riesgo
+2020-02-23,2020,2020-02,8,Q1,Analítica Avanzada,13,8,69.1,Riesgo
+2020-02-23,2020,2020-02,8,Q1,Modernización TI,13,8,63.97,Riesgo
+2020-02-23,2020,2020-02,8,Q1,Automatización,10,6,66.02,Riesgo
+2020-03-01,2020,2020-03,9,Q1,Cumplimiento Normativo,5,3,63.58,Riesgo
+2020-03-01,2020,2020-03,9,Q1,Seguridad Cibernética,11,7,66.01,Riesgo
+2020-03-01,2020,2020-03,9,Q1,Analítica Avanzada,5,3,62.52,Riesgo
+2020-03-08,2020,2020-03,10,Q1,Innovación Tecnológica,6,3,66.46,Riesgo
+2020-03-08,2020,2020-03,10,Q1,Cumplimiento Normativo,14,9,71.01,Aceptable
+2020-03-08,2020,2020-03,10,Q1,Transformación Digital,11,7,67.88,Riesgo
+2020-03-15,2020,2020-03,11,Q1,Transformación Digital,5,3,62.78,Riesgo
+2020-03-15,2020,2020-03,11,Q1,Experiencia Usuario,10,6,68.23,Riesgo
+2020-03-15,2020,2020-03,11,Q1,Cumplimiento Normativo,7,4,67.18,Riesgo
+2020-03-15,2020,2020-03,11,Q1,Automatización,8,4,61.44,Riesgo
+2020-03-15,2020,2020-03,11,Q1,Seguridad Cibernética,7,4,69.37,Riesgo
+2020-03-22,2020,2020-03,12,Q1,Gobierno de Datos,6,4,70.64,Aceptable
+2020-03-22,2020,2020-03,12,Q1,Analítica Avanzada,14,8,63.97,Riesgo
+2020-03-22,2020,2020-03,12,Q1,Mejora Procesos,14,9,71.21,Aceptable
+2020-03-22,2020,2020-03,12,Q1,Transformación Digital,8,5,66.69,Riesgo
+2020-03-22,2020,2020-03,12,Q1,Experiencia Usuario,6,4,71.36,Aceptable
+2020-03-29,2020,2020-03,13,Q1,Cumplimiento Normativo,12,7,65.56,Riesgo
+2020-03-29,2020,2020-03,13,Q1,Seguridad Cibernética,5,3,67.93,Riesgo
+2020-03-29,2020,2020-03,13,Q1,Experiencia Usuario,5,3,63.13,Riesgo
+2020-03-29,2020,2020-03,13,Q1,Optimización Infraestructura,10,6,68.2,Riesgo
+2020-04-05,2020,2020-04,14,Q2,Experiencia Usuario,13,8,63.39,Riesgo
+2020-04-05,2020,2020-04,14,Q2,Modernización TI,8,5,64.0,Riesgo
+2020-04-05,2020,2020-04,14,Q2,Optimización Infraestructura,9,5,63.42,Riesgo
+2020-04-05,2020,2020-04,14,Q2,Innovación Tecnológica,12,8,68.13,Riesgo
+2020-04-12,2020,2020-04,15,Q2,Experiencia Usuario,6,3,65.25,Riesgo
+2020-04-12,2020,2020-04,15,Q2,Optimización Infraestructura,5,3,67.52,Riesgo
+2020-04-12,2020,2020-04,15,Q2,Seguridad Cibernética,5,3,63.7,Riesgo
+2020-04-12,2020,2020-04,15,Q2,Cumplimiento Normativo,7,4,67.47,Riesgo
+2020-04-12,2020,2020-04,15,Q2,Mejora Procesos,5,3,62.19,Riesgo
+2020-04-19,2020,2020-04,16,Q2,Resiliencia Operacional,5,3,62.62,Riesgo
+2020-04-19,2020,2020-04,16,Q2,Seguridad Cibernética,9,5,63.78,Riesgo
+2020-04-19,2020,2020-04,16,Q2,Optimización Infraestructura,5,3,65.04,Riesgo
+2020-04-19,2020,2020-04,16,Q2,Experiencia Usuario,6,4,67.44,Riesgo
+2020-04-26,2020,2020-04,17,Q2,Modernización TI,6,3,65.21,Riesgo
+2020-04-26,2020,2020-04,17,Q2,Mejora Procesos,12,8,68.96,Riesgo
+2020-04-26,2020,2020-04,17,Q2,Optimización Infraestructura,10,6,65.58,Riesgo
+2020-04-26,2020,2020-04,17,Q2,Resiliencia Operacional,14,9,70.08,Aceptable
+2020-04-26,2020,2020-04,17,Q2,Automatización,7,4,64.55,Riesgo
+2020-05-03,2020,2020-05,18,Q2,Resiliencia Operacional,7,4,65.49,Riesgo
+2020-05-03,2020,2020-05,18,Q2,Transformación Digital,6,3,63.05,Riesgo
+2020-05-03,2020,2020-05,18,Q2,Seguridad Cibernética,11,7,68.83,Riesgo
+2020-05-10,2020,2020-05,19,Q2,Analítica Avanzada,12,8,69.93,Riesgo
+2020-05-10,2020,2020-05,19,Q2,Mejora Procesos,9,6,66.8,Riesgo
+2020-05-10,2020,2020-05,19,Q2,Innovación Tecnológica,10,6,62.74,Riesgo
+2020-05-10,2020,2020-05,19,Q2,Automatización,8,5,66.34,Riesgo
+2020-05-10,2020,2020-05,19,Q2,Transformación Digital,7,4,68.6,Riesgo
+2020-05-17,2020,2020-05,20,Q2,Cumplimiento Normativo,9,5,64.19,Riesgo
+2020-05-17,2020,2020-05,20,Q2,Mejora Procesos,11,7,66.63,Riesgo
+2020-05-17,2020,2020-05,20,Q2,Gobierno de Datos,9,5,62.93,Riesgo
+2020-05-24,2020,2020-05,21,Q2,Resiliencia Operacional,9,6,68.58,Riesgo
+2020-05-24,2020,2020-05,21,Q2,Transformación Digital,11,6,62.94,Riesgo
+2020-05-24,2020,2020-05,21,Q2,Experiencia Usuario,14,9,66.02,Riesgo
+2020-05-24,2020,2020-05,21,Q2,Optimización Infraestructura,9,5,63.66,Riesgo
+2020-05-31,2020,2020-05,22,Q2,Innovación Tecnológica,8,5,64.31,Riesgo
+2020-05-31,2020,2020-05,22,Q2,Transformación Digital,9,5,66.57,Riesgo
+2020-05-31,2020,2020-05,22,Q2,Experiencia Usuario,14,10,72.07,Aceptable
+2020-06-07,2020,2020-06,23,Q2,Automatización,5,3,71.37,Aceptable
+2020-06-07,2020,2020-06,23,Q2,Innovación Tecnológica,8,5,68.46,Riesgo
+2020-06-07,2020,2020-06,23,Q2,Cumplimiento Normativo,6,4,68.43,Riesgo
+2020-06-07,2020,2020-06,23,Q2,Analítica Avanzada,5,3,67.28,Riesgo
+2020-06-14,2020,2020-06,24,Q2,Gobierno de Datos,6,3,63.21,Riesgo
+2020-06-14,2020,2020-06,24,Q2,Automatización,6,4,69.65,Riesgo
+2020-06-14,2020,2020-06,24,Q2,Analítica Avanzada,5,3,69.38,Riesgo
+2020-06-14,2020,2020-06,24,Q2,Innovación Tecnológica,14,9,69.64,Riesgo
+2020-06-14,2020,2020-06,24,Q2,Optimización Infraestructura,6,3,65.43,Riesgo
+2020-06-21,2020,2020-06,25,Q2,Cumplimiento Normativo,13,8,68.42,Riesgo
+2020-06-21,2020,2020-06,25,Q2,Automatización,9,6,70.44,Aceptable
+2020-06-21,2020,2020-06,25,Q2,Gobierno de Datos,7,5,72.84,Aceptable
+2020-06-21,2020,2020-06,25,Q2,Modernización TI,8,5,66.66,Riesgo
+2020-06-21,2020,2020-06,25,Q2,Analítica Avanzada,11,7,68.74,Riesgo
+2020-06-28,2020,2020-06,26,Q2,Optimización Infraestructura,13,8,66.26,Riesgo
+2020-06-28,2020,2020-06,26,Q2,Cumplimiento Normativo,7,4,66.95,Riesgo
+2020-06-28,2020,2020-06,26,Q2,Seguridad Cibernética,13,9,71.53,Aceptable
+2020-06-28,2020,2020-06,26,Q2,Analítica Avanzada,13,8,66.25,Riesgo
+2020-06-28,2020,2020-06,26,Q2,Gobierno de Datos,8,5,68.79,Riesgo
+2020-07-05,2020,2020-07,27,Q3,Gobierno de Datos,13,8,64.31,Riesgo
+2020-07-05,2020,2020-07,27,Q3,Seguridad Cibernética,9,6,68.12,Riesgo
+2020-07-05,2020,2020-07,27,Q3,Automatización,11,8,73.14,Aceptable
+2020-07-05,2020,2020-07,27,Q3,Modernización TI,14,9,67.59,Riesgo
+2020-07-05,2020,2020-07,27,Q3,Innovación Tecnológica,11,7,68.64,Riesgo
+2020-07-12,2020,2020-07,28,Q3,Transformación Digital,6,4,72.21,Aceptable
+2020-07-12,2020,2020-07,28,Q3,Resiliencia Operacional,6,3,64.11,Riesgo
+2020-07-12,2020,2020-07,28,Q3,Analítica Avanzada,9,5,65.63,Riesgo
+2020-07-12,2020,2020-07,28,Q3,Optimización Infraestructura,12,8,67.04,Riesgo
+2020-07-12,2020,2020-07,28,Q3,Innovación Tecnológica,5,3,72.1,Aceptable
+2020-07-19,2020,2020-07,29,Q3,Innovación Tecnológica,14,10,72.48,Aceptable
+2020-07-19,2020,2020-07,29,Q3,Modernización TI,11,7,67.76,Riesgo
+2020-07-19,2020,2020-07,29,Q3,Seguridad Cibernética,6,4,68.1,Riesgo
+2020-07-26,2020,2020-07,30,Q3,Gobierno de Datos,5,3,64.36,Riesgo
+2020-07-26,2020,2020-07,30,Q3,Experiencia Usuario,5,3,65.77,Riesgo
+2020-07-26,2020,2020-07,30,Q3,Resiliencia Operacional,10,7,71.55,Aceptable
+2020-07-26,2020,2020-07,30,Q3,Seguridad Cibernética,9,5,63.97,Riesgo
+2020-08-02,2020,2020-08,31,Q3,Analítica Avanzada,5,3,69.93,Riesgo
+2020-08-02,2020,2020-08,31,Q3,Automatización,10,6,67.49,Riesgo
+2020-08-02,2020,2020-08,31,Q3,Gobierno de Datos,11,7,64.11,Riesgo
+2020-08-09,2020,2020-08,32,Q3,Modernización TI,6,3,66.43,Riesgo
+2020-08-09,2020,2020-08,32,Q3,Transformación Digital,9,6,73.51,Aceptable
+2020-08-09,2020,2020-08,32,Q3,Cumplimiento Normativo,10,6,64.09,Riesgo
+2020-08-09,2020,2020-08,32,Q3,Automatización,13,8,66.87,Riesgo
+2020-08-16,2020,2020-08,33,Q3,Experiencia Usuario,9,5,64.15,Riesgo
+2020-08-16,2020,2020-08,33,Q3,Innovación Tecnológica,5,3,71.67,Aceptable
+2020-08-16,2020,2020-08,33,Q3,Optimización Infraestructura,6,4,73.76,Aceptable
+2020-08-23,2020,2020-08,34,Q3,Innovación Tecnológica,13,8,68.16,Riesgo
+2020-08-23,2020,2020-08,34,Q3,Seguridad Cibernética,5,3,64.15,Riesgo
+2020-08-23,2020,2020-08,34,Q3,Optimización Infraestructura,11,7,72.66,Aceptable
+2020-08-30,2020,2020-08,35,Q3,Optimización Infraestructura,7,4,66.6,Riesgo
+2020-08-30,2020,2020-08,35,Q3,Cumplimiento Normativo,13,8,65.42,Riesgo
+2020-08-30,2020,2020-08,35,Q3,Seguridad Cibernética,7,4,66.87,Riesgo
+2020-09-06,2020,2020-09,36,Q3,Resiliencia Operacional,7,4,69.45,Riesgo
+2020-09-06,2020,2020-09,36,Q3,Transformación Digital,5,3,69.77,Riesgo
+2020-09-06,2020,2020-09,36,Q3,Experiencia Usuario,9,5,65.13,Riesgo
+2020-09-06,2020,2020-09,36,Q3,Mejora Procesos,13,9,70.15,Aceptable
+2020-09-13,2020,2020-09,37,Q3,Modernización TI,6,4,70.73,Aceptable
+2020-09-13,2020,2020-09,37,Q3,Analítica Avanzada,7,5,73.41,Aceptable
+2020-09-13,2020,2020-09,37,Q3,Experiencia Usuario,8,5,69.84,Riesgo
+2020-09-13,2020,2020-09,37,Q3,Cumplimiento Normativo,5,3,72.2,Aceptable
+2020-09-13,2020,2020-09,37,Q3,Optimización Infraestructura,11,7,69.6,Riesgo
+2020-09-20,2020,2020-09,38,Q3,Transformación Digital,10,6,69.41,Riesgo
+2020-09-20,2020,2020-09,38,Q3,Automatización,7,4,69.86,Riesgo
+2020-09-20,2020,2020-09,38,Q3,Gobierno de Datos,11,7,65.76,Riesgo
+2020-09-27,2020,2020-09,39,Q3,Seguridad Cibernética,6,4,70.62,Aceptable
+2020-09-27,2020,2020-09,39,Q3,Analítica Avanzada,7,4,65.01,Riesgo
+2020-09-27,2020,2020-09,39,Q3,Mejora Procesos,9,6,68.05,Riesgo
+2020-09-27,2020,2020-09,39,Q3,Automatización,14,9,66.37,Riesgo
+2020-09-27,2020,2020-09,39,Q3,Transformación Digital,9,6,70.09,Aceptable
+2020-10-04,2020,2020-10,40,Q4,Innovación Tecnológica,13,9,71.6,Aceptable
+2020-10-04,2020,2020-10,40,Q4,Optimización Infraestructura,12,8,73.46,Aceptable
+2020-10-04,2020,2020-10,40,Q4,Automatización,5,3,67.49,Riesgo
+2020-10-11,2020,2020-10,41,Q4,Resiliencia Operacional,12,8,72.05,Aceptable
+2020-10-11,2020,2020-10,41,Q4,Mejora Procesos,14,9,65.21,Riesgo
+2020-10-11,2020,2020-10,41,Q4,Experiencia Usuario,12,7,66.17,Riesgo
+2020-10-18,2020,2020-10,42,Q4,Analítica Avanzada,13,9,73.37,Aceptable
+2020-10-18,2020,2020-10,42,Q4,Cumplimiento Normativo,10,6,68.23,Riesgo
+2020-10-18,2020,2020-10,42,Q4,Experiencia Usuario,13,9,73.87,Aceptable
+2020-10-18,2020,2020-10,42,Q4,Optimización Infraestructura,8,5,69.7,Riesgo
+2020-10-18,2020,2020-10,42,Q4,Mejora Procesos,14,10,72.85,Aceptable
+2020-10-25,2020,2020-10,43,Q4,Experiencia Usuario,10,7,74.08,Aceptable
+2020-10-25,2020,2020-10,43,Q4,Mejora Procesos,6,4,67.52,Riesgo
+2020-10-25,2020,2020-10,43,Q4,Innovación Tecnológica,10,7,71.14,Aceptable
+2020-11-01,2020,2020-11,44,Q4,Modernización TI,12,8,74.17,Aceptable
+2020-11-01,2020,2020-11,44,Q4,Experiencia Usuario,11,7,65.71,Riesgo
+2020-11-01,2020,2020-11,44,Q4,Innovación Tecnológica,12,8,72.17,Aceptable
+2020-11-08,2020,2020-11,45,Q4,Transformación Digital,13,9,72.5,Aceptable
+2020-11-08,2020,2020-11,45,Q4,Mejora Procesos,12,8,70.08,Aceptable
+2020-11-08,2020,2020-11,45,Q4,Cumplimiento Normativo,9,6,67.19,Riesgo
+2020-11-08,2020,2020-11,45,Q4,Resiliencia Operacional,10,7,72.43,Aceptable
+2020-11-08,2020,2020-11,45,Q4,Modernización TI,8,5,70.39,Aceptable
+2020-11-15,2020,2020-11,46,Q4,Seguridad Cibernética,5,3,69.13,Riesgo
+2020-11-15,2020,2020-11,46,Q4,Innovación Tecnológica,12,8,66.78,Riesgo
+2020-11-15,2020,2020-11,46,Q4,Automatización,11,7,70.92,Aceptable
+2020-11-22,2020,2020-11,47,Q4,Resiliencia Operacional,12,8,71.62,Aceptable
+2020-11-22,2020,2020-11,47,Q4,Experiencia Usuario,7,4,69.04,Riesgo
+2020-11-22,2020,2020-11,47,Q4,Transformación Digital,5,3,74.06,Aceptable
+2020-11-22,2020,2020-11,47,Q4,Analítica Avanzada,6,4,66.8,Riesgo
+2020-11-29,2020,2020-11,48,Q4,Resiliencia Operacional,9,6,67.69,Riesgo
+2020-11-29,2020,2020-11,48,Q4,Innovación Tecnológica,7,4,67.32,Riesgo
+2020-11-29,2020,2020-11,48,Q4,Analítica Avanzada,9,6,68.03,Riesgo
+2020-11-29,2020,2020-11,48,Q4,Automatización,14,10,74.75,Aceptable
+2020-11-29,2020,2020-11,48,Q4,Mejora Procesos,13,9,74.45,Aceptable
+2020-12-06,2020,2020-12,49,Q4,Optimización Infraestructura,5,3,68.11,Riesgo
+2020-12-06,2020,2020-12,49,Q4,Cumplimiento Normativo,5,3,69.71,Riesgo
+2020-12-06,2020,2020-12,49,Q4,Modernización TI,6,4,71.23,Aceptable
+2020-12-13,2020,2020-12,50,Q4,Mejora Procesos,5,3,71.25,Aceptable
+2020-12-13,2020,2020-12,50,Q4,Modernización TI,11,7,71.64,Aceptable
+2020-12-13,2020,2020-12,50,Q4,Cumplimiento Normativo,10,7,73.44,Aceptable
+2020-12-13,2020,2020-12,50,Q4,Optimización Infraestructura,9,6,73.7,Aceptable
+2020-12-13,2020,2020-12,50,Q4,Seguridad Cibernética,5,3,66.25,Riesgo
+2020-12-20,2020,2020-12,51,Q4,Analítica Avanzada,12,8,67.53,Riesgo
+2020-12-20,2020,2020-12,51,Q4,Automatización,8,5,73.25,Aceptable
+2020-12-20,2020,2020-12,51,Q4,Transformación Digital,6,3,66.15,Riesgo
+2020-12-20,2020,2020-12,51,Q4,Cumplimiento Normativo,7,5,72.97,Aceptable
+2020-12-27,2020,2020-12,52,Q4,Modernización TI,14,10,72.01,Aceptable
+2020-12-27,2020,2020-12,52,Q4,Cumplimiento Normativo,6,4,72.26,Aceptable
+2020-12-27,2020,2020-12,52,Q4,Innovación Tecnológica,12,8,74.87,Aceptable
+2020-12-27,2020,2020-12,52,Q4,Experiencia Usuario,8,6,75.34,Aceptable
+2021-01-03,2021,2021-01,53,Q1,Experiencia Usuario,12,8,74.66,Aceptable
+2021-01-03,2021,2021-01,53,Q1,Resiliencia Operacional,11,7,67.48,Riesgo
+2021-01-03,2021,2021-01,53,Q1,Transformación Digital,9,6,76.1,Aceptable
+2021-01-10,2021,2021-01,1,Q1,Seguridad Cibernética,13,9,73.81,Aceptable
+2021-01-10,2021,2021-01,1,Q1,Innovación Tecnológica,14,10,74.4,Aceptable
+2021-01-10,2021,2021-01,1,Q1,Mejora Procesos,9,6,72.41,Aceptable
+2021-01-10,2021,2021-01,1,Q1,Analítica Avanzada,7,4,70.35,Aceptable
+2021-01-17,2021,2021-01,2,Q1,Optimización Infraestructura,7,4,68.97,Riesgo
+2021-01-17,2021,2021-01,2,Q1,Mejora Procesos,13,9,71.47,Aceptable
+2021-01-17,2021,2021-01,2,Q1,Modernización TI,10,6,66.83,Riesgo
+2021-01-24,2021,2021-01,3,Q1,Transformación Digital,10,7,75.21,Aceptable
+2021-01-24,2021,2021-01,3,Q1,Cumplimiento Normativo,12,8,71.63,Aceptable
+2021-01-24,2021,2021-01,3,Q1,Innovación Tecnológica,5,3,69.71,Riesgo
+2021-01-31,2021,2021-01,4,Q1,Cumplimiento Normativo,12,8,72.6,Aceptable
+2021-01-31,2021,2021-01,4,Q1,Seguridad Cibernética,5,3,74.48,Aceptable
+2021-01-31,2021,2021-01,4,Q1,Optimización Infraestructura,6,4,71.97,Aceptable
+2021-01-31,2021,2021-01,4,Q1,Analítica Avanzada,5,3,70.73,Aceptable
+2021-02-07,2021,2021-02,5,Q1,Experiencia Usuario,6,4,70.93,Aceptable
+2021-02-07,2021,2021-02,5,Q1,Resiliencia Operacional,11,8,76.63,Aceptable
+2021-02-07,2021,2021-02,5,Q1,Gobierno de Datos,6,4,75.52,Aceptable
+2021-02-07,2021,2021-02,5,Q1,Cumplimiento Normativo,12,8,67.12,Riesgo
+2021-02-14,2021,2021-02,6,Q1,Optimización Infraestructura,12,8,67.96,Riesgo
+2021-02-14,2021,2021-02,6,Q1,Seguridad Cibernética,12,8,74.19,Aceptable
+2021-02-14,2021,2021-02,6,Q1,Experiencia Usuario,12,9,75.03,Aceptable
+2021-02-14,2021,2021-02,6,Q1,Cumplimiento Normativo,8,6,76.41,Aceptable
+2021-02-14,2021,2021-02,6,Q1,Analítica Avanzada,10,6,69.01,Riesgo
+2021-02-21,2021,2021-02,7,Q1,Resiliencia Operacional,8,5,73.51,Aceptable
+2021-02-21,2021,2021-02,7,Q1,Gobierno de Datos,6,4,76.01,Aceptable
+2021-02-21,2021,2021-02,7,Q1,Innovación Tecnológica,9,6,70.5,Aceptable
+2021-02-21,2021,2021-02,7,Q1,Optimización Infraestructura,14,10,75.33,Aceptable
+2021-02-21,2021,2021-02,7,Q1,Transformación Digital,7,5,72.99,Aceptable
+2021-02-28,2021,2021-02,8,Q1,Modernización TI,12,8,68.34,Riesgo
+2021-02-28,2021,2021-02,8,Q1,Resiliencia Operacional,12,9,77.06,Aceptable
+2021-02-28,2021,2021-02,8,Q1,Innovación Tecnológica,11,8,75.2,Aceptable
+2021-03-07,2021,2021-03,9,Q1,Optimización Infraestructura,10,7,75.67,Aceptable
+2021-03-07,2021,2021-03,9,Q1,Automatización,8,5,68.64,Riesgo
+2021-03-07,2021,2021-03,9,Q1,Gobierno de Datos,6,4,70.04,Aceptable
+2021-03-14,2021,2021-03,10,Q1,Transformación Digital,14,10,74.64,Aceptable
+2021-03-14,2021,2021-03,10,Q1,Automatización,9,6,67.55,Riesgo
+2021-03-14,2021,2021-03,10,Q1,Cumplimiento Normativo,9,6,70.08,Aceptable
+2021-03-14,2021,2021-03,10,Q1,Experiencia Usuario,10,7,74.76,Aceptable
+2021-03-14,2021,2021-03,10,Q1,Innovación Tecnológica,6,4,73.45,Aceptable
+2021-03-21,2021,2021-03,11,Q1,Cumplimiento Normativo,10,7,74.94,Aceptable
+2021-03-21,2021,2021-03,11,Q1,Transformación Digital,7,4,68.46,Riesgo
+2021-03-21,2021,2021-03,11,Q1,Gobierno de Datos,7,4,70.01,Aceptable
+2021-03-28,2021,2021-03,12,Q1,Cumplimiento Normativo,10,6,69.03,Riesgo
+2021-03-28,2021,2021-03,12,Q1,Mejora Procesos,12,8,69.83,Riesgo
+2021-03-28,2021,2021-03,12,Q1,Experiencia Usuario,8,5,73.08,Aceptable
+2021-04-04,2021,2021-04,13,Q2,Analítica Avanzada,5,3,71.92,Aceptable
+2021-04-04,2021,2021-04,13,Q2,Gobierno de Datos,12,8,72.14,Aceptable
+2021-04-04,2021,2021-04,13,Q2,Resiliencia Operacional,11,7,68.56,Riesgo
+2021-04-04,2021,2021-04,13,Q2,Innovación Tecnológica,6,4,75.79,Aceptable
+2021-04-04,2021,2021-04,13,Q2,Mejora Procesos,7,4,70.52,Aceptable
+2021-04-11,2021,2021-04,14,Q2,Gobierno de Datos,12,9,75.5,Aceptable
+2021-04-11,2021,2021-04,14,Q2,Optimización Infraestructura,9,6,75.51,Aceptable
+2021-04-11,2021,2021-04,14,Q2,Innovación Tecnológica,9,6,74.84,Aceptable
+2021-04-11,2021,2021-04,14,Q2,Resiliencia Operacional,10,7,77.72,Aceptable
+2021-04-18,2021,2021-04,15,Q2,Optimización Infraestructura,10,7,77.19,Aceptable
+2021-04-18,2021,2021-04,15,Q2,Innovación Tecnológica,9,6,75.34,Aceptable
+2021-04-18,2021,2021-04,15,Q2,Gobierno de Datos,7,5,77.28,Aceptable
+2021-04-18,2021,2021-04,15,Q2,Transformación Digital,6,4,72.25,Aceptable
+2021-04-25,2021,2021-04,16,Q2,Mejora Procesos,7,5,73.76,Aceptable
+2021-04-25,2021,2021-04,16,Q2,Resiliencia Operacional,6,4,77.0,Aceptable
+2021-04-25,2021,2021-04,16,Q2,Experiencia Usuario,12,8,72.56,Aceptable
+2021-05-02,2021,2021-05,17,Q2,Transformación Digital,14,10,77.04,Aceptable
+2021-05-02,2021,2021-05,17,Q2,Experiencia Usuario,6,4,68.52,Riesgo
+2021-05-02,2021,2021-05,17,Q2,Seguridad Cibernética,14,10,78.18,Aceptable
+2021-05-02,2021,2021-05,17,Q2,Resiliencia Operacional,11,7,70.13,Aceptable
+2021-05-02,2021,2021-05,17,Q2,Cumplimiento Normativo,6,4,77.66,Aceptable
+2021-05-09,2021,2021-05,18,Q2,Seguridad Cibernética,14,9,69.31,Riesgo
+2021-05-09,2021,2021-05,18,Q2,Analítica Avanzada,11,8,73.62,Aceptable
+2021-05-09,2021,2021-05,18,Q2,Transformación Digital,5,3,70.78,Aceptable
+2021-05-09,2021,2021-05,18,Q2,Cumplimiento Normativo,7,5,73.06,Aceptable
+2021-05-09,2021,2021-05,18,Q2,Experiencia Usuario,12,8,71.26,Aceptable
+2021-05-16,2021,2021-05,19,Q2,Optimización Infraestructura,9,6,76.37,Aceptable
+2021-05-16,2021,2021-05,19,Q2,Seguridad Cibernética,10,7,78.33,Aceptable
+2021-05-16,2021,2021-05,19,Q2,Transformación Digital,12,8,73.18,Aceptable
+2021-05-16,2021,2021-05,19,Q2,Resiliencia Operacional,6,4,70.18,Aceptable
+2021-05-23,2021,2021-05,20,Q2,Resiliencia Operacional,14,9,69.0,Riesgo
+2021-05-23,2021,2021-05,20,Q2,Modernización TI,14,10,76.42,Aceptable
+2021-05-23,2021,2021-05,20,Q2,Automatización,10,7,76.64,Aceptable
+2021-05-23,2021,2021-05,20,Q2,Analítica Avanzada,10,7,78.32,Aceptable
+2021-05-23,2021,2021-05,20,Q2,Seguridad Cibernética,5,3,73.81,Aceptable
+2021-05-30,2021,2021-05,21,Q2,Mejora Procesos,7,4,70.99,Aceptable
+2021-05-30,2021,2021-05,21,Q2,Automatización,12,9,76.23,Aceptable
+2021-05-30,2021,2021-05,21,Q2,Cumplimiento Normativo,13,9,74.68,Aceptable
+2021-05-30,2021,2021-05,21,Q2,Optimización Infraestructura,9,6,69.66,Riesgo
+2021-06-06,2021,2021-06,22,Q2,Gobierno de Datos,13,9,74.38,Aceptable
+2021-06-06,2021,2021-06,22,Q2,Mejora Procesos,6,4,72.95,Aceptable
+2021-06-06,2021,2021-06,22,Q2,Experiencia Usuario,10,7,71.46,Aceptable
+2021-06-13,2021,2021-06,23,Q2,Transformación Digital,12,9,77.81,Aceptable
+2021-06-13,2021,2021-06,23,Q2,Resiliencia Operacional,7,5,77.23,Aceptable
+2021-06-13,2021,2021-06,23,Q2,Analítica Avanzada,12,9,75.61,Aceptable
+2021-06-20,2021,2021-06,24,Q2,Seguridad Cibernética,13,10,78.41,Aceptable
+2021-06-20,2021,2021-06,24,Q2,Automatización,8,6,75.29,Aceptable
+2021-06-20,2021,2021-06,24,Q2,Resiliencia Operacional,10,7,71.0,Aceptable
+2021-06-20,2021,2021-06,24,Q2,Mejora Procesos,9,7,77.91,Aceptable
+2021-06-20,2021,2021-06,24,Q2,Cumplimiento Normativo,14,10,73.76,Aceptable
+2021-06-27,2021,2021-06,25,Q2,Transformación Digital,11,7,71.15,Aceptable
+2021-06-27,2021,2021-06,25,Q2,Modernización TI,5,3,74.82,Aceptable
+2021-06-27,2021,2021-06,25,Q2,Cumplimiento Normativo,12,8,71.82,Aceptable
+2021-06-27,2021,2021-06,25,Q2,Innovación Tecnológica,12,9,77.41,Aceptable
+2021-06-27,2021,2021-06,25,Q2,Optimización Infraestructura,10,7,72.06,Aceptable
+2021-07-04,2021,2021-07,26,Q3,Modernización TI,5,3,77.05,Aceptable
+2021-07-04,2021,2021-07,26,Q3,Transformación Digital,5,3,75.16,Aceptable
+2021-07-04,2021,2021-07,26,Q3,Analítica Avanzada,5,3,69.92,Riesgo
+2021-07-04,2021,2021-07,26,Q3,Innovación Tecnológica,12,8,69.8,Riesgo
+2021-07-04,2021,2021-07,26,Q3,Automatización,6,4,79.24,Aceptable
+2021-07-11,2021,2021-07,27,Q3,Gobierno de Datos,7,5,71.99,Aceptable
+2021-07-11,2021,2021-07,27,Q3,Automatización,11,8,73.92,Aceptable
+2021-07-11,2021,2021-07,27,Q3,Seguridad Cibernética,6,4,79.43,Aceptable
+2021-07-11,2021,2021-07,27,Q3,Modernización TI,5,3,70.48,Aceptable
+2021-07-11,2021,2021-07,27,Q3,Experiencia Usuario,13,9,71.1,Aceptable
+2021-07-18,2021,2021-07,28,Q3,Cumplimiento Normativo,12,8,73.9,Aceptable
+2021-07-18,2021,2021-07,28,Q3,Mejora Procesos,9,7,78.68,Aceptable
+2021-07-18,2021,2021-07,28,Q3,Experiencia Usuario,9,6,75.97,Aceptable
+2021-07-18,2021,2021-07,28,Q3,Modernización TI,10,7,77.18,Aceptable
+2021-07-18,2021,2021-07,28,Q3,Innovación Tecnológica,9,7,79.42,Aceptable
+2021-07-25,2021,2021-07,29,Q3,Resiliencia Operacional,12,8,71.29,Aceptable
+2021-07-25,2021,2021-07,29,Q3,Mejora Procesos,13,10,78.39,Aceptable
+2021-07-25,2021,2021-07,29,Q3,Cumplimiento Normativo,9,6,71.24,Aceptable
+2021-08-01,2021,2021-08,30,Q3,Modernización TI,13,9,69.83,Riesgo
+2021-08-01,2021,2021-08,30,Q3,Gobierno de Datos,11,7,71.07,Aceptable
+2021-08-01,2021,2021-08,30,Q3,Cumplimiento Normativo,8,5,74.12,Aceptable
+2021-08-01,2021,2021-08,30,Q3,Analítica Avanzada,10,7,72.07,Aceptable
+2021-08-01,2021,2021-08,30,Q3,Experiencia Usuario,10,7,75.64,Aceptable
+2021-08-08,2021,2021-08,31,Q3,Optimización Infraestructura,10,7,72.85,Aceptable
+2021-08-08,2021,2021-08,31,Q3,Cumplimiento Normativo,13,10,78.54,Aceptable
+2021-08-08,2021,2021-08,31,Q3,Transformación Digital,10,7,79.02,Aceptable
+2021-08-15,2021,2021-08,32,Q3,Resiliencia Operacional,12,8,70.15,Aceptable
+2021-08-15,2021,2021-08,32,Q3,Seguridad Cibernética,5,3,75.23,Aceptable
+2021-08-15,2021,2021-08,32,Q3,Analítica Avanzada,5,3,78.88,Aceptable
+2021-08-15,2021,2021-08,32,Q3,Mejora Procesos,5,3,78.3,Aceptable
+2021-08-15,2021,2021-08,32,Q3,Automatización,14,10,74.03,Aceptable
+2021-08-22,2021,2021-08,33,Q3,Analítica Avanzada,7,5,79.14,Aceptable
+2021-08-22,2021,2021-08,33,Q3,Mejora Procesos,13,10,79.54,Aceptable
+2021-08-22,2021,2021-08,33,Q3,Transformación Digital,11,8,76.3,Aceptable
+2021-08-22,2021,2021-08,33,Q3,Modernización TI,13,10,77.27,Aceptable
+2021-08-29,2021,2021-08,34,Q3,Transformación Digital,7,4,70.7,Aceptable
+2021-08-29,2021,2021-08,34,Q3,Modernización TI,14,10,74.68,Aceptable
+2021-08-29,2021,2021-08,34,Q3,Experiencia Usuario,6,4,70.9,Aceptable
+2021-08-29,2021,2021-08,34,Q3,Mejora Procesos,11,8,76.8,Aceptable
+2021-09-05,2021,2021-09,35,Q3,Seguridad Cibernética,7,5,72.03,Aceptable
+2021-09-05,2021,2021-09,35,Q3,Cumplimiento Normativo,10,7,77.6,Aceptable
+2021-09-05,2021,2021-09,35,Q3,Modernización TI,10,7,73.74,Aceptable
+2021-09-12,2021,2021-09,36,Q3,Optimización Infraestructura,9,7,77.8,Aceptable
+2021-09-12,2021,2021-09,36,Q3,Seguridad Cibernética,12,8,74.79,Aceptable
+2021-09-12,2021,2021-09,36,Q3,Gobierno de Datos,8,6,77.89,Aceptable
+2021-09-19,2021,2021-09,37,Q3,Gobierno de Datos,8,6,79.38,Aceptable
+2021-09-19,2021,2021-09,37,Q3,Resiliencia Operacional,6,4,78.58,Aceptable
+2021-09-19,2021,2021-09,37,Q3,Mejora Procesos,11,8,73.42,Aceptable
+2021-09-19,2021,2021-09,37,Q3,Automatización,7,5,73.49,Aceptable
+2021-09-26,2021,2021-09,38,Q3,Cumplimiento Normativo,14,10,73.14,Aceptable
+2021-09-26,2021,2021-09,38,Q3,Gobierno de Datos,6,4,72.58,Aceptable
+2021-09-26,2021,2021-09,38,Q3,Optimización Infraestructura,9,6,71.46,Aceptable
+2021-10-03,2021,2021-10,39,Q4,Experiencia Usuario,6,4,79.47,Aceptable
+2021-10-03,2021,2021-10,39,Q4,Resiliencia Operacional,9,6,74.14,Aceptable
+2021-10-03,2021,2021-10,39,Q4,Mejora Procesos,12,9,76.88,Aceptable
+2021-10-10,2021,2021-10,40,Q4,Cumplimiento Normativo,5,3,75.5,Aceptable
+2021-10-10,2021,2021-10,40,Q4,Modernización TI,12,9,77.18,Aceptable
+2021-10-10,2021,2021-10,40,Q4,Optimización Infraestructura,5,3,73.53,Aceptable
+2021-10-17,2021,2021-10,41,Q4,Seguridad Cibernética,10,7,73.18,Aceptable
+2021-10-17,2021,2021-10,41,Q4,Automatización,8,5,73.82,Aceptable
+2021-10-17,2021,2021-10,41,Q4,Transformación Digital,6,4,72.36,Aceptable
+2021-10-17,2021,2021-10,41,Q4,Innovación Tecnológica,9,7,80.49,Aceptable
+2021-10-24,2021,2021-10,42,Q4,Seguridad Cibernética,14,10,75.22,Aceptable
+2021-10-24,2021,2021-10,42,Q4,Cumplimiento Normativo,6,4,80.9,Aceptable
+2021-10-24,2021,2021-10,42,Q4,Optimización Infraestructura,6,4,74.48,Aceptable
+2021-10-31,2021,2021-10,43,Q4,Mejora Procesos,8,6,78.41,Aceptable
+2021-10-31,2021,2021-10,43,Q4,Modernización TI,14,11,78.69,Aceptable
+2021-10-31,2021,2021-10,43,Q4,Analítica Avanzada,12,9,81.06,Aceptable
+2021-11-07,2021,2021-11,44,Q4,Cumplimiento Normativo,14,10,71.66,Aceptable
+2021-11-07,2021,2021-11,44,Q4,Resiliencia Operacional,6,4,77.66,Aceptable
+2021-11-07,2021,2021-11,44,Q4,Optimización Infraestructura,12,9,80.13,Aceptable
+2021-11-14,2021,2021-11,45,Q4,Mejora Procesos,9,7,78.27,Aceptable
+2021-11-14,2021,2021-11,45,Q4,Seguridad Cibernética,13,9,72.67,Aceptable
+2021-11-14,2021,2021-11,45,Q4,Automatización,6,4,81.6,Aceptable
+2021-11-21,2021,2021-11,46,Q4,Seguridad Cibernética,8,6,78.23,Aceptable
+2021-11-21,2021,2021-11,46,Q4,Optimización Infraestructura,10,7,74.99,Aceptable
+2021-11-21,2021,2021-11,46,Q4,Transformación Digital,10,7,76.1,Aceptable
+2021-11-21,2021,2021-11,46,Q4,Gobierno de Datos,6,4,79.34,Aceptable
+2021-11-28,2021,2021-11,47,Q4,Optimización Infraestructura,14,10,75.8,Aceptable
+2021-11-28,2021,2021-11,47,Q4,Seguridad Cibernética,9,6,75.64,Aceptable
+2021-11-28,2021,2021-11,47,Q4,Analítica Avanzada,13,10,77.8,Aceptable
+2021-12-05,2021,2021-12,48,Q4,Cumplimiento Normativo,7,5,77.38,Aceptable
+2021-12-05,2021,2021-12,48,Q4,Modernización TI,12,9,77.15,Aceptable
+2021-12-05,2021,2021-12,48,Q4,Optimización Infraestructura,10,8,81.1,Aceptable
+2021-12-12,2021,2021-12,49,Q4,Modernización TI,11,8,80.21,Aceptable
+2021-12-12,2021,2021-12,49,Q4,Resiliencia Operacional,6,4,79.23,Aceptable
+2021-12-12,2021,2021-12,49,Q4,Automatización,9,6,74.04,Aceptable
+2021-12-19,2021,2021-12,50,Q4,Modernización TI,8,5,74.76,Aceptable
+2021-12-19,2021,2021-12,50,Q4,Innovación Tecnológica,8,6,78.9,Aceptable
+2021-12-19,2021,2021-12,50,Q4,Resiliencia Operacional,7,5,78.01,Aceptable
+2021-12-19,2021,2021-12,50,Q4,Seguridad Cibernética,14,10,78.3,Aceptable
+2021-12-19,2021,2021-12,50,Q4,Gobierno de Datos,6,4,76.2,Aceptable
+2021-12-26,2021,2021-12,51,Q4,Gobierno de Datos,12,9,80.25,Aceptable
+2021-12-26,2021,2021-12,51,Q4,Modernización TI,14,11,81.49,Aceptable
+2021-12-26,2021,2021-12,51,Q4,Innovación Tecnológica,8,6,77.15,Aceptable
+2022-01-02,2022,2022-01,52,Q1,Transformación Digital,14,10,74.18,Aceptable
+2022-01-02,2022,2022-01,52,Q1,Cumplimiento Normativo,13,10,80.83,Aceptable
+2022-01-02,2022,2022-01,52,Q1,Seguridad Cibernética,12,9,80.13,Aceptable
+2022-01-02,2022,2022-01,52,Q1,Resiliencia Operacional,5,3,74.8,Aceptable
+2022-01-02,2022,2022-01,52,Q1,Optimización Infraestructura,9,6,75.45,Aceptable
+2022-01-09,2022,2022-01,1,Q1,Gobierno de Datos,9,6,74.23,Aceptable
+2022-01-09,2022,2022-01,1,Q1,Mejora Procesos,7,5,81.25,Aceptable
+2022-01-09,2022,2022-01,1,Q1,Resiliencia Operacional,5,3,74.72,Aceptable
+2022-01-09,2022,2022-01,1,Q1,Modernización TI,5,3,74.34,Aceptable
+2022-01-09,2022,2022-01,1,Q1,Innovación Tecnológica,9,7,78.97,Aceptable
+2022-01-16,2022,2022-01,2,Q1,Optimización Infraestructura,7,5,77.1,Aceptable
+2022-01-16,2022,2022-01,2,Q1,Innovación Tecnológica,11,8,79.92,Aceptable
+2022-01-16,2022,2022-01,2,Q1,Automatización,11,8,76.08,Aceptable
+2022-01-16,2022,2022-01,2,Q1,Mejora Procesos,7,5,78.7,Aceptable
+2022-01-16,2022,2022-01,2,Q1,Transformación Digital,10,7,78.46,Aceptable
+2022-01-23,2022,2022-01,3,Q1,Resiliencia Operacional,11,8,73.48,Aceptable
+2022-01-23,2022,2022-01,3,Q1,Experiencia Usuario,5,4,81.11,Aceptable
+2022-01-23,2022,2022-01,3,Q1,Seguridad Cibernética,9,6,73.49,Aceptable
+2022-01-23,2022,2022-01,3,Q1,Automatización,9,6,75.5,Aceptable
+2022-01-23,2022,2022-01,3,Q1,Gobierno de Datos,12,9,79.3,Aceptable
+2022-01-30,2022,2022-01,4,Q1,Innovación Tecnológica,6,4,77.37,Aceptable
+2022-01-30,2022,2022-01,4,Q1,Resiliencia Operacional,8,5,73.51,Aceptable
+2022-01-30,2022,2022-01,4,Q1,Modernización TI,14,11,82.49,Aceptable
+2022-01-30,2022,2022-01,4,Q1,Mejora Procesos,13,9,74.61,Aceptable
+2022-02-06,2022,2022-02,5,Q1,Experiencia Usuario,10,8,82.95,Aceptable
+2022-02-06,2022,2022-02,5,Q1,Seguridad Cibernética,12,9,80.71,Aceptable
+2022-02-06,2022,2022-02,5,Q1,Analítica Avanzada,5,4,81.45,Aceptable
+2022-02-06,2022,2022-02,5,Q1,Resiliencia Operacional,9,6,73.96,Aceptable
+2022-02-13,2022,2022-02,6,Q1,Transformación Digital,8,6,76.18,Aceptable
+2022-02-13,2022,2022-02,6,Q1,Resiliencia Operacional,6,4,76.56,Aceptable
+2022-02-13,2022,2022-02,6,Q1,Cumplimiento Normativo,13,9,74.02,Aceptable
+2022-02-13,2022,2022-02,6,Q1,Analítica Avanzada,13,10,78.69,Aceptable
+2022-02-20,2022,2022-02,7,Q1,Cumplimiento Normativo,10,7,78.93,Aceptable
+2022-02-20,2022,2022-02,7,Q1,Modernización TI,8,6,75.35,Aceptable
+2022-02-20,2022,2022-02,7,Q1,Mejora Procesos,5,3,74.43,Aceptable
+2022-02-20,2022,2022-02,7,Q1,Innovación Tecnológica,6,4,79.55,Aceptable
+2022-02-20,2022,2022-02,7,Q1,Analítica Avanzada,12,9,78.59,Aceptable
+2022-02-27,2022,2022-02,8,Q1,Experiencia Usuario,7,5,76.85,Aceptable
+2022-02-27,2022,2022-02,8,Q1,Cumplimiento Normativo,8,6,79.12,Aceptable
+2022-02-27,2022,2022-02,8,Q1,Innovación Tecnológica,14,11,81.61,Aceptable
+2022-02-27,2022,2022-02,8,Q1,Seguridad Cibernética,13,10,78.18,Aceptable
+2022-03-06,2022,2022-03,9,Q1,Automatización,12,9,78.29,Aceptable
+2022-03-06,2022,2022-03,9,Q1,Seguridad Cibernética,8,5,74.86,Aceptable
+2022-03-06,2022,2022-03,9,Q1,Cumplimiento Normativo,8,5,74.3,Aceptable
+2022-03-13,2022,2022-03,10,Q1,Innovación Tecnológica,14,10,75.74,Aceptable
+2022-03-13,2022,2022-03,10,Q1,Cumplimiento Normativo,6,4,74.2,Aceptable
+2022-03-13,2022,2022-03,10,Q1,Mejora Procesos,12,9,76.6,Aceptable
+2022-03-20,2022,2022-03,11,Q1,Automatización,8,6,83.71,Aceptable
+2022-03-20,2022,2022-03,11,Q1,Seguridad Cibernética,5,3,76.07,Aceptable
+2022-03-20,2022,2022-03,11,Q1,Innovación Tecnológica,8,6,75.48,Aceptable
+2022-03-20,2022,2022-03,11,Q1,Resiliencia Operacional,8,6,79.01,Aceptable
+2022-03-20,2022,2022-03,11,Q1,Experiencia Usuario,11,8,80.99,Aceptable
+2022-03-27,2022,2022-03,12,Q1,Resiliencia Operacional,11,8,78.02,Aceptable
+2022-03-27,2022,2022-03,12,Q1,Analítica Avanzada,9,6,74.05,Aceptable
+2022-03-27,2022,2022-03,12,Q1,Modernización TI,9,7,81.46,Aceptable
+2022-04-03,2022,2022-04,13,Q2,Resiliencia Operacional,6,4,74.63,Aceptable
+2022-04-03,2022,2022-04,13,Q2,Transformación Digital,8,6,77.69,Aceptable
+2022-04-03,2022,2022-04,13,Q2,Optimización Infraestructura,5,3,79.46,Aceptable
+2022-04-03,2022,2022-04,13,Q2,Cumplimiento Normativo,9,7,82.42,Aceptable
+2022-04-10,2022,2022-04,14,Q2,Analítica Avanzada,10,7,78.02,Aceptable
+2022-04-10,2022,2022-04,14,Q2,Gobierno de Datos,14,11,83.02,Aceptable
+2022-04-10,2022,2022-04,14,Q2,Automatización,13,9,75.12,Aceptable
+2022-04-10,2022,2022-04,14,Q2,Modernización TI,12,9,77.25,Aceptable
+2022-04-10,2022,2022-04,14,Q2,Transformación Digital,5,4,82.19,Aceptable
+2022-04-17,2022,2022-04,15,Q2,Analítica Avanzada,12,9,76.49,Aceptable
+2022-04-17,2022,2022-04,15,Q2,Cumplimiento Normativo,5,3,74.88,Aceptable
+2022-04-17,2022,2022-04,15,Q2,Gobierno de Datos,12,9,83.04,Aceptable
+2022-04-24,2022,2022-04,16,Q2,Seguridad Cibernética,12,9,75.39,Aceptable
+2022-04-24,2022,2022-04,16,Q2,Experiencia Usuario,5,4,83.9,Aceptable
+2022-04-24,2022,2022-04,16,Q2,Optimización Infraestructura,9,7,78.21,Aceptable
+2022-05-01,2022,2022-05,17,Q2,Gobierno de Datos,9,7,81.06,Aceptable
+2022-05-01,2022,2022-05,17,Q2,Modernización TI,12,9,77.11,Aceptable
+2022-05-01,2022,2022-05,17,Q2,Seguridad Cibernética,10,7,75.28,Aceptable
+2022-05-01,2022,2022-05,17,Q2,Mejora Procesos,5,3,77.41,Aceptable
+2022-05-01,2022,2022-05,17,Q2,Innovación Tecnológica,12,9,80.7,Aceptable
+2022-05-08,2022,2022-05,18,Q2,Resiliencia Operacional,11,8,74.99,Aceptable
+2022-05-08,2022,2022-05,18,Q2,Analítica Avanzada,6,4,77.8,Aceptable
+2022-05-08,2022,2022-05,18,Q2,Automatización,8,6,77.5,Aceptable
+2022-05-08,2022,2022-05,18,Q2,Mejora Procesos,12,9,75.71,Aceptable
+2022-05-15,2022,2022-05,19,Q2,Analítica Avanzada,14,11,80.82,Aceptable
+2022-05-15,2022,2022-05,19,Q2,Automatización,10,7,77.43,Aceptable
+2022-05-15,2022,2022-05,19,Q2,Transformación Digital,8,6,75.91,Aceptable
+2022-05-22,2022,2022-05,20,Q2,Experiencia Usuario,9,7,82.36,Aceptable
+2022-05-22,2022,2022-05,20,Q2,Resiliencia Operacional,9,7,84.6,Aceptable
+2022-05-22,2022,2022-05,20,Q2,Cumplimiento Normativo,12,9,80.39,Aceptable
+2022-05-22,2022,2022-05,20,Q2,Automatización,11,8,81.37,Aceptable
+2022-05-22,2022,2022-05,20,Q2,Optimización Infraestructura,10,8,82.34,Aceptable
+2022-05-29,2022,2022-05,21,Q2,Cumplimiento Normativo,11,9,83.34,Aceptable
+2022-05-29,2022,2022-05,21,Q2,Modernización TI,10,8,80.35,Aceptable
+2022-05-29,2022,2022-05,21,Q2,Innovación Tecnológica,5,4,80.01,Aceptable
+2022-06-05,2022,2022-06,22,Q2,Analítica Avanzada,12,9,77.52,Aceptable
+2022-06-05,2022,2022-06,22,Q2,Innovación Tecnológica,9,7,83.86,Aceptable
+2022-06-05,2022,2022-06,22,Q2,Seguridad Cibernética,8,6,76.04,Aceptable
+2022-06-05,2022,2022-06,22,Q2,Resiliencia Operacional,14,11,81.63,Aceptable
+2022-06-05,2022,2022-06,22,Q2,Mejora Procesos,13,10,80.6,Aceptable
+2022-06-12,2022,2022-06,23,Q2,Gobierno de Datos,14,11,83.57,Aceptable
+2022-06-12,2022,2022-06,23,Q2,Transformación Digital,5,3,75.28,Aceptable
+2022-06-12,2022,2022-06,23,Q2,Experiencia Usuario,13,11,84.75,Aceptable
+2022-06-12,2022,2022-06,23,Q2,Analítica Avanzada,13,10,81.95,Aceptable
+2022-06-19,2022,2022-06,24,Q2,Modernización TI,10,8,81.22,Aceptable
+2022-06-19,2022,2022-06,24,Q2,Cumplimiento Normativo,9,7,81.92,Aceptable
+2022-06-19,2022,2022-06,24,Q2,Analítica Avanzada,10,8,82.24,Aceptable
+2022-06-19,2022,2022-06,24,Q2,Resiliencia Operacional,9,6,75.58,Aceptable
+2022-06-19,2022,2022-06,24,Q2,Experiencia Usuario,8,6,77.1,Aceptable
+2022-06-26,2022,2022-06,25,Q2,Cumplimiento Normativo,14,11,81.02,Aceptable
+2022-06-26,2022,2022-06,25,Q2,Seguridad Cibernética,8,6,75.93,Aceptable
+2022-06-26,2022,2022-06,25,Q2,Resiliencia Operacional,12,9,82.17,Aceptable
+2022-07-03,2022,2022-07,26,Q3,Innovación Tecnológica,8,6,80.7,Aceptable
+2022-07-03,2022,2022-07,26,Q3,Cumplimiento Normativo,8,6,76.75,Aceptable
+2022-07-03,2022,2022-07,26,Q3,Experiencia Usuario,5,3,79.87,Aceptable
+2022-07-03,2022,2022-07,26,Q3,Automatización,6,4,79.24,Aceptable
+2022-07-10,2022,2022-07,27,Q3,Seguridad Cibernética,10,8,85.56,Aceptable
+2022-07-10,2022,2022-07,27,Q3,Experiencia Usuario,11,8,81.36,Aceptable
+2022-07-10,2022,2022-07,27,Q3,Transformación Digital,9,6,77.49,Aceptable
+2022-07-17,2022,2022-07,28,Q3,Optimización Infraestructura,7,5,85.17,Aceptable
+2022-07-17,2022,2022-07,28,Q3,Analítica Avanzada,14,11,84.29,Aceptable
+2022-07-17,2022,2022-07,28,Q3,Cumplimiento Normativo,14,11,84.49,Aceptable
+2022-07-24,2022,2022-07,29,Q3,Transformación Digital,11,8,80.85,Aceptable
+2022-07-24,2022,2022-07,29,Q3,Experiencia Usuario,5,4,83.68,Aceptable
+2022-07-24,2022,2022-07,29,Q3,Automatización,8,6,83.54,Aceptable
+2022-07-31,2022,2022-07,30,Q3,Resiliencia Operacional,11,8,78.47,Aceptable
+2022-07-31,2022,2022-07,30,Q3,Transformación Digital,12,10,85.75,Aceptable
+2022-07-31,2022,2022-07,30,Q3,Gobierno de Datos,10,8,80.29,Aceptable
+2022-07-31,2022,2022-07,30,Q3,Seguridad Cibernética,13,10,83.77,Aceptable
+2022-08-07,2022,2022-08,31,Q3,Automatización,11,8,76.98,Aceptable
+2022-08-07,2022,2022-08,31,Q3,Gobierno de Datos,6,5,83.44,Aceptable
+2022-08-07,2022,2022-08,31,Q3,Resiliencia Operacional,8,6,77.4,Aceptable
+2022-08-14,2022,2022-08,32,Q3,Transformación Digital,9,7,82.78,Aceptable
+2022-08-14,2022,2022-08,32,Q3,Optimización Infraestructura,14,10,78.15,Aceptable
+2022-08-14,2022,2022-08,32,Q3,Automatización,5,4,80.88,Aceptable
+2022-08-14,2022,2022-08,32,Q3,Seguridad Cibernética,13,11,85.71,Aceptable
+2022-08-14,2022,2022-08,32,Q3,Analítica Avanzada,13,10,78.07,Aceptable
+2022-08-21,2022,2022-08,33,Q3,Analítica Avanzada,6,4,80.4,Aceptable
+2022-08-21,2022,2022-08,33,Q3,Transformación Digital,13,10,84.27,Aceptable
+2022-08-21,2022,2022-08,33,Q3,Resiliencia Operacional,5,4,81.79,Aceptable
+2022-08-28,2022,2022-08,34,Q3,Innovación Tecnológica,7,5,82.99,Aceptable
+2022-08-28,2022,2022-08,34,Q3,Transformación Digital,10,7,79.38,Aceptable
+2022-08-28,2022,2022-08,34,Q3,Optimización Infraestructura,12,9,77.6,Aceptable
+2022-08-28,2022,2022-08,34,Q3,Automatización,14,12,86.26,Aceptable
+2022-09-04,2022,2022-09,35,Q3,Analítica Avanzada,12,10,85.37,Aceptable
+2022-09-04,2022,2022-09,35,Q3,Experiencia Usuario,10,7,78.21,Aceptable
+2022-09-04,2022,2022-09,35,Q3,Transformación Digital,13,10,82.2,Aceptable
+2022-09-04,2022,2022-09,35,Q3,Innovación Tecnológica,14,11,82.18,Aceptable
+2022-09-04,2022,2022-09,35,Q3,Gobierno de Datos,6,4,77.25,Aceptable
+2022-09-11,2022,2022-09,36,Q3,Automatización,7,5,81.13,Aceptable
+2022-09-11,2022,2022-09,36,Q3,Mejora Procesos,12,9,78.58,Aceptable
+2022-09-11,2022,2022-09,36,Q3,Seguridad Cibernética,12,9,79.59,Aceptable
+2022-09-11,2022,2022-09,36,Q3,Resiliencia Operacional,13,10,82.49,Aceptable
+2022-09-18,2022,2022-09,37,Q3,Transformación Digital,7,5,80.46,Aceptable
+2022-09-18,2022,2022-09,37,Q3,Modernización TI,6,4,78.52,Aceptable
+2022-09-18,2022,2022-09,37,Q3,Mejora Procesos,10,7,78.24,Aceptable
+2022-09-25,2022,2022-09,38,Q3,Cumplimiento Normativo,11,9,86.62,Aceptable
+2022-09-25,2022,2022-09,38,Q3,Seguridad Cibernética,11,8,78.18,Aceptable
+2022-09-25,2022,2022-09,38,Q3,Modernización TI,6,4,78.61,Aceptable
+2022-10-02,2022,2022-10,39,Q4,Cumplimiento Normativo,9,7,86.81,Aceptable
+2022-10-02,2022,2022-10,39,Q4,Analítica Avanzada,13,11,85.26,Aceptable
+2022-10-02,2022,2022-10,39,Q4,Seguridad Cibernética,6,4,78.18,Aceptable
+2022-10-02,2022,2022-10,39,Q4,Gobierno de Datos,13,10,81.78,Aceptable
+2022-10-09,2022,2022-10,40,Q4,Modernización TI,9,7,78.32,Aceptable
+2022-10-09,2022,2022-10,40,Q4,Automatización,14,10,78.2,Aceptable
+2022-10-09,2022,2022-10,40,Q4,Resiliencia Operacional,9,7,81.39,Aceptable
+2022-10-09,2022,2022-10,40,Q4,Experiencia Usuario,6,4,80.67,Aceptable
+2022-10-09,2022,2022-10,40,Q4,Optimización Infraestructura,6,5,84.68,Aceptable
+2022-10-16,2022,2022-10,41,Q4,Innovación Tecnológica,6,4,80.56,Aceptable
+2022-10-16,2022,2022-10,41,Q4,Seguridad Cibernética,12,9,77.35,Aceptable
+2022-10-16,2022,2022-10,41,Q4,Experiencia Usuario,11,8,78.98,Aceptable
+2022-10-23,2022,2022-10,42,Q4,Experiencia Usuario,9,7,83.96,Aceptable
+2022-10-23,2022,2022-10,42,Q4,Analítica Avanzada,8,6,86.14,Aceptable
+2022-10-23,2022,2022-10,42,Q4,Gobierno de Datos,11,9,85.5,Aceptable
+2022-10-30,2022,2022-10,43,Q4,Experiencia Usuario,8,6,81.36,Aceptable
+2022-10-30,2022,2022-10,43,Q4,Mejora Procesos,7,5,81.67,Aceptable
+2022-10-30,2022,2022-10,43,Q4,Optimización Infraestructura,8,6,77.73,Aceptable
+2022-11-06,2022,2022-11,44,Q4,Optimización Infraestructura,13,11,86.06,Aceptable
+2022-11-06,2022,2022-11,44,Q4,Analítica Avanzada,11,9,83.88,Aceptable
+2022-11-06,2022,2022-11,44,Q4,Seguridad Cibernética,13,10,80.71,Aceptable
+2022-11-06,2022,2022-11,44,Q4,Mejora Procesos,11,9,82.99,Aceptable
+2022-11-13,2022,2022-11,45,Q4,Transformación Digital,8,6,80.8,Aceptable
+2022-11-13,2022,2022-11,45,Q4,Seguridad Cibernética,9,7,80.76,Aceptable
+2022-11-13,2022,2022-11,45,Q4,Resiliencia Operacional,13,10,78.27,Aceptable
+2022-11-13,2022,2022-11,45,Q4,Automatización,8,6,86.56,Aceptable
+2022-11-13,2022,2022-11,45,Q4,Experiencia Usuario,6,5,84.46,Aceptable
+2022-11-20,2022,2022-11,46,Q4,Resiliencia Operacional,7,5,80.58,Aceptable
+2022-11-20,2022,2022-11,46,Q4,Transformación Digital,6,5,83.64,Aceptable
+2022-11-20,2022,2022-11,46,Q4,Seguridad Cibernética,9,7,78.54,Aceptable
+2022-11-20,2022,2022-11,46,Q4,Optimización Infraestructura,8,6,80.11,Aceptable
+2022-11-27,2022,2022-11,47,Q4,Gobierno de Datos,12,9,81.19,Aceptable
+2022-11-27,2022,2022-11,47,Q4,Innovación Tecnológica,13,10,81.43,Aceptable
+2022-11-27,2022,2022-11,47,Q4,Analítica Avanzada,8,6,82.46,Aceptable
+2022-12-04,2022,2022-12,48,Q4,Modernización TI,7,5,84.66,Aceptable
+2022-12-04,2022,2022-12,48,Q4,Automatización,6,4,80.86,Aceptable
+2022-12-04,2022,2022-12,48,Q4,Seguridad Cibernética,11,9,87.98,Aceptable
+2022-12-11,2022,2022-12,49,Q4,Transformación Digital,12,9,80.65,Aceptable
+2022-12-11,2022,2022-12,49,Q4,Automatización,14,12,87.98,Aceptable
+2022-12-11,2022,2022-12,49,Q4,Experiencia Usuario,5,4,84.49,Aceptable
+2022-12-11,2022,2022-12,49,Q4,Innovación Tecnológica,7,5,82.73,Aceptable
+2022-12-11,2022,2022-12,49,Q4,Optimización Infraestructura,8,6,80.33,Aceptable
+2022-12-18,2022,2022-12,50,Q4,Analítica Avanzada,9,7,84.1,Aceptable
+2022-12-18,2022,2022-12,50,Q4,Mejora Procesos,14,11,81.31,Aceptable
+2022-12-18,2022,2022-12,50,Q4,Cumplimiento Normativo,13,10,82.35,Aceptable
+2022-12-25,2022,2022-12,51,Q4,Optimización Infraestructura,7,5,83.0,Aceptable
+2022-12-25,2022,2022-12,51,Q4,Seguridad Cibernética,5,4,82.4,Aceptable
+2022-12-25,2022,2022-12,51,Q4,Resiliencia Operacional,7,5,82.61,Aceptable
+2023-01-01,2023,2023-01,52,Q1,Innovación Tecnológica,11,8,79.02,Aceptable
+2023-01-01,2023,2023-01,52,Q1,Gobierno de Datos,8,6,85.48,Aceptable
+2023-01-01,2023,2023-01,52,Q1,Cumplimiento Normativo,6,5,85.27,Aceptable
+2023-01-08,2023,2023-01,1,Q1,Cumplimiento Normativo,13,11,88.15,Aceptable
+2023-01-08,2023,2023-01,1,Q1,Gobierno de Datos,13,11,85.2,Aceptable
+2023-01-08,2023,2023-01,1,Q1,Resiliencia Operacional,7,5,84.67,Aceptable
+2023-01-15,2023,2023-01,2,Q1,Mejora Procesos,9,7,87.88,Aceptable
+2023-01-15,2023,2023-01,2,Q1,Innovación Tecnológica,10,8,87.14,Aceptable
+2023-01-15,2023,2023-01,2,Q1,Analítica Avanzada,12,10,87.05,Aceptable
+2023-01-15,2023,2023-01,2,Q1,Experiencia Usuario,13,10,83.08,Aceptable
+2023-01-22,2023,2023-01,3,Q1,Optimización Infraestructura,9,7,85.9,Aceptable
+2023-01-22,2023,2023-01,3,Q1,Seguridad Cibernética,6,4,83.01,Aceptable
+2023-01-22,2023,2023-01,3,Q1,Innovación Tecnológica,11,9,84.4,Aceptable
+2023-01-22,2023,2023-01,3,Q1,Transformación Digital,10,8,86.86,Aceptable
+2023-01-22,2023,2023-01,3,Q1,Experiencia Usuario,6,4,82.82,Aceptable
+2023-01-29,2023,2023-01,4,Q1,Gobierno de Datos,11,9,84.21,Aceptable
+2023-01-29,2023,2023-01,4,Q1,Optimización Infraestructura,9,7,85.55,Aceptable
+2023-01-29,2023,2023-01,4,Q1,Mejora Procesos,9,7,87.99,Aceptable
+2023-01-29,2023,2023-01,4,Q1,Experiencia Usuario,5,4,88.56,Aceptable
+2023-01-29,2023,2023-01,4,Q1,Modernización TI,7,5,79.35,Aceptable
+2023-02-05,2023,2023-02,5,Q1,Resiliencia Operacional,8,6,80.89,Aceptable
+2023-02-05,2023,2023-02,5,Q1,Cumplimiento Normativo,6,5,84.07,Aceptable
+2023-02-05,2023,2023-02,5,Q1,Innovación Tecnológica,12,10,88.99,Aceptable
+2023-02-05,2023,2023-02,5,Q1,Automatización,7,6,88.85,Aceptable
+2023-02-12,2023,2023-02,6,Q1,Optimización Infraestructura,14,12,88.33,Aceptable
+2023-02-12,2023,2023-02,6,Q1,Innovación Tecnológica,9,8,88.89,Aceptable
+2023-02-12,2023,2023-02,6,Q1,Modernización TI,9,7,84.07,Aceptable
+2023-02-12,2023,2023-02,6,Q1,Automatización,10,8,85.36,Aceptable
+2023-02-19,2023,2023-02,7,Q1,Seguridad Cibernética,6,4,81.13,Aceptable
+2023-02-19,2023,2023-02,7,Q1,Transformación Digital,9,7,87.79,Aceptable
+2023-02-19,2023,2023-02,7,Q1,Automatización,7,5,83.01,Aceptable
+2023-02-26,2023,2023-02,8,Q1,Seguridad Cibernética,8,6,83.04,Aceptable
+2023-02-26,2023,2023-02,8,Q1,Resiliencia Operacional,12,10,89.57,Aceptable
+2023-02-26,2023,2023-02,8,Q1,Analítica Avanzada,6,5,84.46,Aceptable
+2023-02-26,2023,2023-02,8,Q1,Innovación Tecnológica,7,6,87.39,Aceptable
+2023-03-05,2023,2023-03,9,Q1,Optimización Infraestructura,9,7,84.44,Aceptable
+2023-03-05,2023,2023-03,9,Q1,Automatización,8,7,88.76,Aceptable
+2023-03-05,2023,2023-03,9,Q1,Experiencia Usuario,9,7,85.68,Aceptable
+2023-03-05,2023,2023-03,9,Q1,Cumplimiento Normativo,10,8,85.02,Aceptable
+2023-03-05,2023,2023-03,9,Q1,Mejora Procesos,10,8,80.99,Aceptable
+2023-03-12,2023,2023-03,10,Q1,Transformación Digital,7,5,84.43,Aceptable
+2023-03-12,2023,2023-03,10,Q1,Analítica Avanzada,8,7,88.44,Aceptable
+2023-03-12,2023,2023-03,10,Q1,Resiliencia Operacional,11,9,83.56,Aceptable
+2023-03-12,2023,2023-03,10,Q1,Cumplimiento Normativo,10,8,85.03,Aceptable
+2023-03-12,2023,2023-03,10,Q1,Seguridad Cibernética,12,10,84.22,Aceptable
+2023-03-19,2023,2023-03,11,Q1,Optimización Infraestructura,8,7,87.99,Aceptable
+2023-03-19,2023,2023-03,11,Q1,Innovación Tecnológica,7,5,81.93,Aceptable
+2023-03-19,2023,2023-03,11,Q1,Gobierno de Datos,13,10,80.52,Aceptable
+2023-03-19,2023,2023-03,11,Q1,Analítica Avanzada,5,4,86.33,Aceptable
+2023-03-19,2023,2023-03,11,Q1,Automatización,5,4,88.86,Aceptable
+2023-03-26,2023,2023-03,12,Q1,Optimización Infraestructura,10,8,85.32,Aceptable
+2023-03-26,2023,2023-03,12,Q1,Modernización TI,9,7,83.63,Aceptable
+2023-03-26,2023,2023-03,12,Q1,Resiliencia Operacional,6,5,83.38,Aceptable
+2023-03-26,2023,2023-03,12,Q1,Cumplimiento Normativo,7,5,82.15,Aceptable
+2023-03-26,2023,2023-03,12,Q1,Experiencia Usuario,13,11,87.98,Aceptable
+2023-04-02,2023,2023-04,13,Q2,Resiliencia Operacional,5,4,80.85,Aceptable
+2023-04-02,2023,2023-04,13,Q2,Mejora Procesos,12,10,89.53,Aceptable
+2023-04-02,2023,2023-04,13,Q2,Optimización Infraestructura,13,11,87.82,Aceptable
+2023-04-02,2023,2023-04,13,Q2,Cumplimiento Normativo,8,6,87.16,Aceptable
+2023-04-02,2023,2023-04,13,Q2,Analítica Avanzada,12,10,84.15,Aceptable
+2023-04-09,2023,2023-04,14,Q2,Cumplimiento Normativo,7,5,85.51,Aceptable
+2023-04-09,2023,2023-04,14,Q2,Automatización,6,4,81.05,Aceptable
+2023-04-09,2023,2023-04,14,Q2,Seguridad Cibernética,11,9,88.7,Aceptable
+2023-04-09,2023,2023-04,14,Q2,Modernización TI,10,8,80.78,Aceptable
+2023-04-16,2023,2023-04,15,Q2,Optimización Infraestructura,9,7,88.82,Aceptable
+2023-04-16,2023,2023-04,15,Q2,Mejora Procesos,5,4,86.81,Aceptable
+2023-04-16,2023,2023-04,15,Q2,Modernización TI,9,7,80.74,Aceptable
+2023-04-16,2023,2023-04,15,Q2,Analítica Avanzada,7,5,83.98,Aceptable
+2023-04-23,2023,2023-04,16,Q2,Experiencia Usuario,8,6,87.35,Aceptable
+2023-04-23,2023,2023-04,16,Q2,Transformación Digital,6,5,87.66,Aceptable
+2023-04-23,2023,2023-04,16,Q2,Mejora Procesos,8,6,83.55,Aceptable
+2023-04-30,2023,2023-04,17,Q2,Transformación Digital,13,11,88.12,Aceptable
+2023-04-30,2023,2023-04,17,Q2,Modernización TI,13,10,80.64,Aceptable
+2023-04-30,2023,2023-04,17,Q2,Experiencia Usuario,14,12,88.47,Aceptable
+2023-04-30,2023,2023-04,17,Q2,Mejora Procesos,6,5,83.4,Aceptable
+2023-04-30,2023,2023-04,17,Q2,Cumplimiento Normativo,10,8,89.6,Aceptable
+2023-05-07,2023,2023-05,18,Q2,Seguridad Cibernética,7,6,86.41,Aceptable
+2023-05-07,2023,2023-05,18,Q2,Experiencia Usuario,6,5,83.89,Aceptable
+2023-05-07,2023,2023-05,18,Q2,Automatización,8,7,89.83,Aceptable
+2023-05-07,2023,2023-05,18,Q2,Transformación Digital,7,5,85.1,Aceptable
+2023-05-14,2023,2023-05,19,Q2,Analítica Avanzada,12,10,87.63,Aceptable
+2023-05-14,2023,2023-05,19,Q2,Optimización Infraestructura,11,9,83.42,Aceptable
+2023-05-14,2023,2023-05,19,Q2,Experiencia Usuario,9,8,90.54,Excelente
+2023-05-21,2023,2023-05,20,Q2,Innovación Tecnológica,5,4,84.6,Aceptable
+2023-05-21,2023,2023-05,20,Q2,Seguridad Cibernética,11,9,86.0,Aceptable
+2023-05-21,2023,2023-05,20,Q2,Analítica Avanzada,13,11,85.75,Aceptable
+2023-05-21,2023,2023-05,20,Q2,Automatización,6,5,87.34,Aceptable
+2023-05-21,2023,2023-05,20,Q2,Gobierno de Datos,7,5,84.69,Aceptable
+2023-05-28,2023,2023-05,21,Q2,Experiencia Usuario,12,10,87.59,Aceptable
+2023-05-28,2023,2023-05,21,Q2,Analítica Avanzada,8,7,87.89,Aceptable
+2023-05-28,2023,2023-05,21,Q2,Transformación Digital,6,5,85.06,Aceptable
+2023-05-28,2023,2023-05,21,Q2,Innovación Tecnológica,12,10,87.63,Aceptable
+2023-05-28,2023,2023-05,21,Q2,Gobierno de Datos,6,5,88.48,Aceptable
+2023-06-04,2023,2023-06,22,Q2,Seguridad Cibernética,13,11,89.47,Aceptable
+2023-06-04,2023,2023-06,22,Q2,Automatización,10,8,86.39,Aceptable
+2023-06-04,2023,2023-06,22,Q2,Transformación Digital,9,7,88.11,Aceptable
+2023-06-04,2023,2023-06,22,Q2,Experiencia Usuario,9,8,90.34,Excelente
+2023-06-11,2023,2023-06,23,Q2,Mejora Procesos,12,10,88.6,Aceptable
+2023-06-11,2023,2023-06,23,Q2,Automatización,13,11,90.99,Excelente
+2023-06-11,2023,2023-06,23,Q2,Seguridad Cibernética,14,12,88.13,Aceptable
+2023-06-11,2023,2023-06,23,Q2,Experiencia Usuario,8,6,85.9,Aceptable
+2023-06-18,2023,2023-06,24,Q2,Cumplimiento Normativo,11,8,81.65,Aceptable
+2023-06-18,2023,2023-06,24,Q2,Optimización Infraestructura,9,7,84.89,Aceptable
+2023-06-18,2023,2023-06,24,Q2,Resiliencia Operacional,11,9,86.65,Aceptable
+2023-06-18,2023,2023-06,24,Q2,Automatización,8,7,87.89,Aceptable
+2023-06-18,2023,2023-06,24,Q2,Analítica Avanzada,9,7,87.94,Aceptable
+2023-06-25,2023,2023-06,25,Q2,Gobierno de Datos,12,9,82.25,Aceptable
+2023-06-25,2023,2023-06,25,Q2,Analítica Avanzada,13,11,90.96,Excelente
+2023-06-25,2023,2023-06,25,Q2,Resiliencia Operacional,6,5,86.43,Aceptable
+2023-06-25,2023,2023-06,25,Q2,Seguridad Cibernética,11,9,88.31,Aceptable
+2023-06-25,2023,2023-06,25,Q2,Mejora Procesos,8,7,91.17,Excelente
+2023-07-02,2023,2023-07,26,Q3,Gobierno de Datos,11,9,83.12,Aceptable
+2023-07-02,2023,2023-07,26,Q3,Experiencia Usuario,14,12,90.18,Excelente
+2023-07-02,2023,2023-07,26,Q3,Analítica Avanzada,7,5,83.18,Aceptable
+2023-07-09,2023,2023-07,27,Q3,Seguridad Cibernética,13,11,88.73,Aceptable
+2023-07-09,2023,2023-07,27,Q3,Mejora Procesos,14,11,83.3,Aceptable
+2023-07-09,2023,2023-07,27,Q3,Transformación Digital,9,7,86.8,Aceptable
+2023-07-16,2023,2023-07,28,Q3,Optimización Infraestructura,9,8,91.57,Excelente
+2023-07-16,2023,2023-07,28,Q3,Mejora Procesos,10,8,84.69,Aceptable
+2023-07-16,2023,2023-07,28,Q3,Cumplimiento Normativo,10,8,89.55,Aceptable
+2023-07-23,2023,2023-07,29,Q3,Analítica Avanzada,6,5,90.6,Excelente
+2023-07-23,2023,2023-07,29,Q3,Seguridad Cibernética,10,8,83.15,Aceptable
+2023-07-23,2023,2023-07,29,Q3,Automatización,8,7,91.58,Excelente
+2023-07-23,2023,2023-07,29,Q3,Modernización TI,12,10,89.18,Aceptable
+2023-07-30,2023,2023-07,30,Q3,Modernización TI,7,6,89.51,Aceptable
+2023-07-30,2023,2023-07,30,Q3,Automatización,6,5,89.17,Aceptable
+2023-07-30,2023,2023-07,30,Q3,Optimización Infraestructura,9,8,91.71,Excelente
+2023-07-30,2023,2023-07,30,Q3,Experiencia Usuario,6,5,89.76,Aceptable
+2023-08-06,2023,2023-08,31,Q3,Gobierno de Datos,10,8,88.33,Aceptable
+2023-08-06,2023,2023-08,31,Q3,Mejora Procesos,9,7,82.39,Aceptable
+2023-08-06,2023,2023-08,31,Q3,Seguridad Cibernética,9,7,86.07,Aceptable
+2023-08-13,2023,2023-08,32,Q3,Cumplimiento Normativo,7,6,91.37,Excelente
+2023-08-13,2023,2023-08,32,Q3,Optimización Infraestructura,14,12,91.44,Excelente
+2023-08-13,2023,2023-08,32,Q3,Modernización TI,10,8,86.4,Aceptable
+2023-08-13,2023,2023-08,32,Q3,Gobierno de Datos,6,5,92.35,Excelente
+2023-08-20,2023,2023-08,33,Q3,Seguridad Cibernética,14,12,86.11,Aceptable
+2023-08-20,2023,2023-08,33,Q3,Innovación Tecnológica,6,5,92.47,Excelente
+2023-08-20,2023,2023-08,33,Q3,Resiliencia Operacional,8,7,88.28,Aceptable
+2023-08-27,2023,2023-08,34,Q3,Cumplimiento Normativo,13,10,83.05,Aceptable
+2023-08-27,2023,2023-08,34,Q3,Automatización,14,12,92.22,Excelente
+2023-08-27,2023,2023-08,34,Q3,Transformación Digital,10,9,91.33,Excelente
+2023-08-27,2023,2023-08,34,Q3,Gobierno de Datos,13,11,92.16,Excelente
+2023-09-03,2023,2023-09,35,Q3,Automatización,11,10,91.72,Excelente
+2023-09-03,2023,2023-09,35,Q3,Gobierno de Datos,11,10,91.24,Excelente
+2023-09-03,2023,2023-09,35,Q3,Modernización TI,9,7,86.97,Aceptable
+2023-09-10,2023,2023-09,36,Q3,Gobierno de Datos,13,11,86.54,Aceptable
+2023-09-10,2023,2023-09,36,Q3,Analítica Avanzada,14,12,92.31,Excelente
+2023-09-10,2023,2023-09,36,Q3,Automatización,9,7,87.5,Aceptable
+2023-09-10,2023,2023-09,36,Q3,Cumplimiento Normativo,12,10,91.17,Excelente
+2023-09-10,2023,2023-09,36,Q3,Transformación Digital,8,7,89.83,Aceptable
+2023-09-17,2023,2023-09,37,Q3,Experiencia Usuario,9,8,90.67,Excelente
+2023-09-17,2023,2023-09,37,Q3,Gobierno de Datos,13,11,88.92,Aceptable
+2023-09-17,2023,2023-09,37,Q3,Innovación Tecnológica,10,8,86.64,Aceptable
+2023-09-17,2023,2023-09,37,Q3,Resiliencia Operacional,13,12,92.75,Excelente
+2023-09-24,2023,2023-09,38,Q3,Analítica Avanzada,8,7,90.55,Excelente
+2023-09-24,2023,2023-09,38,Q3,Modernización TI,9,8,90.73,Excelente
+2023-09-24,2023,2023-09,38,Q3,Seguridad Cibernética,14,12,86.16,Aceptable
+2023-09-24,2023,2023-09,38,Q3,Experiencia Usuario,9,8,90.26,Excelente
+2023-09-24,2023,2023-09,38,Q3,Cumplimiento Normativo,7,5,84.95,Aceptable
+2023-10-01,2023,2023-10,39,Q4,Transformación Digital,11,9,88.7,Aceptable
+2023-10-01,2023,2023-10,39,Q4,Seguridad Cibernética,14,11,83.46,Aceptable
+2023-10-01,2023,2023-10,39,Q4,Modernización TI,6,5,91.06,Excelente
+2023-10-01,2023,2023-10,39,Q4,Experiencia Usuario,13,11,85.94,Aceptable
+2023-10-08,2023,2023-10,40,Q4,Mejora Procesos,5,4,88.51,Aceptable
+2023-10-08,2023,2023-10,40,Q4,Seguridad Cibernética,13,11,85.09,Aceptable
+2023-10-08,2023,2023-10,40,Q4,Automatización,5,4,92.7,Excelente
+2023-10-08,2023,2023-10,40,Q4,Analítica Avanzada,12,10,84.96,Aceptable
+2023-10-15,2023,2023-10,41,Q4,Optimización Infraestructura,6,5,91.56,Excelente
+2023-10-15,2023,2023-10,41,Q4,Transformación Digital,13,11,86.95,Aceptable
+2023-10-15,2023,2023-10,41,Q4,Cumplimiento Normativo,10,9,90.14,Excelente
+2023-10-15,2023,2023-10,41,Q4,Experiencia Usuario,9,8,92.06,Excelente
+2023-10-15,2023,2023-10,41,Q4,Mejora Procesos,5,4,90.76,Excelente
+2023-10-22,2023,2023-10,42,Q4,Mejora Procesos,8,6,84.85,Aceptable
+2023-10-22,2023,2023-10,42,Q4,Cumplimiento Normativo,14,12,89.77,Aceptable
+2023-10-22,2023,2023-10,42,Q4,Experiencia Usuario,6,5,87.99,Aceptable
+2023-10-22,2023,2023-10,42,Q4,Innovación Tecnológica,8,7,89.2,Aceptable
+2023-10-22,2023,2023-10,42,Q4,Gobierno de Datos,7,6,90.67,Excelente
+2023-10-29,2023,2023-10,43,Q4,Gobierno de Datos,7,6,87.7,Aceptable
+2023-10-29,2023,2023-10,43,Q4,Resiliencia Operacional,14,12,91.82,Excelente
+2023-10-29,2023,2023-10,43,Q4,Seguridad Cibernética,8,7,89.98,Aceptable
+2023-11-05,2023,2023-11,44,Q4,Optimización Infraestructura,7,5,83.97,Aceptable
+2023-11-05,2023,2023-11,44,Q4,Modernización TI,12,10,84.37,Aceptable
+2023-11-05,2023,2023-11,44,Q4,Analítica Avanzada,5,4,84.05,Aceptable
+2023-11-05,2023,2023-11,44,Q4,Seguridad Cibernética,9,7,86.92,Aceptable
+2023-11-12,2023,2023-11,45,Q4,Experiencia Usuario,6,5,88.3,Aceptable
+2023-11-12,2023,2023-11,45,Q4,Automatización,7,6,90.74,Excelente
+2023-11-12,2023,2023-11,45,Q4,Transformación Digital,6,5,86.02,Aceptable
+2023-11-12,2023,2023-11,45,Q4,Seguridad Cibernética,11,10,93.41,Excelente
+2023-11-12,2023,2023-11,45,Q4,Innovación Tecnológica,8,7,90.68,Excelente
+2023-11-19,2023,2023-11,46,Q4,Resiliencia Operacional,13,10,84.2,Aceptable
+2023-11-19,2023,2023-11,46,Q4,Modernización TI,14,12,85.88,Aceptable
+2023-11-19,2023,2023-11,46,Q4,Cumplimiento Normativo,10,8,89.56,Aceptable
+2023-11-19,2023,2023-11,46,Q4,Experiencia Usuario,13,11,91.47,Excelente
+2023-11-19,2023,2023-11,46,Q4,Seguridad Cibernética,14,12,89.91,Aceptable
+2023-11-26,2023,2023-11,47,Q4,Gobierno de Datos,12,10,90.77,Excelente
+2023-11-26,2023,2023-11,47,Q4,Mejora Procesos,10,8,85.64,Aceptable
+2023-11-26,2023,2023-11,47,Q4,Experiencia Usuario,11,9,84.98,Aceptable
+2023-12-03,2023,2023-12,48,Q4,Modernización TI,9,7,84.48,Aceptable
+2023-12-03,2023,2023-12,48,Q4,Seguridad Cibernética,7,6,88.06,Aceptable
+2023-12-03,2023,2023-12,48,Q4,Mejora Procesos,14,12,88.83,Aceptable
+2023-12-10,2023,2023-12,49,Q4,Innovación Tecnológica,9,8,93.89,Excelente
+2023-12-10,2023,2023-12,49,Q4,Automatización,10,9,93.83,Excelente
+2023-12-10,2023,2023-12,49,Q4,Gobierno de Datos,9,7,86.47,Aceptable
+2023-12-10,2023,2023-12,49,Q4,Analítica Avanzada,10,9,90.7,Excelente
+2023-12-17,2023,2023-12,50,Q4,Mejora Procesos,8,7,91.82,Excelente
+2023-12-17,2023,2023-12,50,Q4,Seguridad Cibernética,14,12,91.96,Excelente
+2023-12-17,2023,2023-12,50,Q4,Gobierno de Datos,10,9,94.33,Excelente
+2023-12-17,2023,2023-12,50,Q4,Transformación Digital,5,4,89.54,Aceptable
+2023-12-24,2023,2023-12,51,Q4,Analítica Avanzada,13,11,89.06,Aceptable
+2023-12-24,2023,2023-12,51,Q4,Resiliencia Operacional,7,6,90.58,Excelente
+2023-12-24,2023,2023-12,51,Q4,Automatización,5,4,90.15,Excelente
+2023-12-24,2023,2023-12,51,Q4,Innovación Tecnológica,13,11,87.1,Aceptable
+2023-12-24,2023,2023-12,51,Q4,Cumplimiento Normativo,8,6,86.72,Aceptable
+2023-12-31,2023,2023-12,52,Q4,Cumplimiento Normativo,6,5,85.43,Aceptable
+2023-12-31,2023,2023-12,52,Q4,Transformación Digital,6,5,92.13,Excelente
+2023-12-31,2023,2023-12,52,Q4,Resiliencia Operacional,14,12,90.77,Excelente
+2023-12-31,2023,2023-12,52,Q4,Seguridad Cibernética,6,5,88.52,Aceptable
+2023-12-31,2023,2023-12,52,Q4,Gobierno de Datos,11,10,93.18,Excelente
+2024-01-07,2024,2024-01,1,Q1,Automatización,14,12,89.19,Aceptable
+2024-01-07,2024,2024-01,1,Q1,Resiliencia Operacional,10,9,92.92,Excelente
+2024-01-07,2024,2024-01,1,Q1,Mejora Procesos,11,9,87.61,Aceptable
+2024-01-07,2024,2024-01,1,Q1,Experiencia Usuario,5,4,93.87,Excelente
+2024-01-14,2024,2024-01,2,Q1,Modernización TI,12,10,89.46,Aceptable
+2024-01-14,2024,2024-01,2,Q1,Resiliencia Operacional,9,8,92.88,Excelente
+2024-01-14,2024,2024-01,2,Q1,Automatización,6,5,93.29,Excelente
+2024-01-21,2024,2024-01,3,Q1,Analítica Avanzada,11,10,92.29,Excelente
+2024-01-21,2024,2024-01,3,Q1,Modernización TI,10,9,91.71,Excelente
+2024-01-21,2024,2024-01,3,Q1,Innovación Tecnológica,5,4,94.4,Excelente
+2024-01-21,2024,2024-01,3,Q1,Seguridad Cibernética,9,7,86.76,Aceptable
+2024-01-28,2024,2024-01,4,Q1,Analítica Avanzada,9,7,85.36,Aceptable
+2024-01-28,2024,2024-01,4,Q1,Cumplimiento Normativo,12,10,90.81,Excelente
+2024-01-28,2024,2024-01,4,Q1,Gobierno de Datos,13,11,88.84,Aceptable
+2024-02-04,2024,2024-02,5,Q1,Modernización TI,5,4,90.45,Excelente
+2024-02-04,2024,2024-02,5,Q1,Transformación Digital,11,9,87.71,Aceptable
+2024-02-04,2024,2024-02,5,Q1,Seguridad Cibernética,5,4,86.42,Aceptable
+2024-02-04,2024,2024-02,5,Q1,Resiliencia Operacional,13,11,86.17,Aceptable
+2024-02-04,2024,2024-02,5,Q1,Analítica Avanzada,7,6,88.88,Aceptable
+2024-02-11,2024,2024-02,6,Q1,Cumplimiento Normativo,9,8,89.62,Aceptable
+2024-02-11,2024,2024-02,6,Q1,Resiliencia Operacional,8,7,87.81,Aceptable
+2024-02-11,2024,2024-02,6,Q1,Seguridad Cibernética,11,9,89.81,Aceptable
+2024-02-18,2024,2024-02,7,Q1,Transformación Digital,14,13,94.45,Excelente
+2024-02-18,2024,2024-02,7,Q1,Automatización,14,12,89.18,Aceptable
+2024-02-18,2024,2024-02,7,Q1,Cumplimiento Normativo,7,6,87.86,Aceptable
+2024-02-18,2024,2024-02,7,Q1,Analítica Avanzada,13,11,87.75,Aceptable
+2024-02-18,2024,2024-02,7,Q1,Modernización TI,11,9,86.21,Aceptable
+2024-02-25,2024,2024-02,8,Q1,Optimización Infraestructura,7,6,92.72,Excelente
+2024-02-25,2024,2024-02,8,Q1,Cumplimiento Normativo,14,12,87.47,Aceptable
+2024-02-25,2024,2024-02,8,Q1,Automatización,6,5,89.03,Aceptable
+2024-02-25,2024,2024-02,8,Q1,Seguridad Cibernética,10,9,91.51,Excelente
+2024-03-03,2024,2024-03,9,Q1,Optimización Infraestructura,11,10,93.6,Excelente
+2024-03-03,2024,2024-03,9,Q1,Transformación Digital,11,9,90.06,Excelente
+2024-03-03,2024,2024-03,9,Q1,Experiencia Usuario,5,4,91.98,Excelente
+2024-03-10,2024,2024-03,10,Q1,Innovación Tecnológica,12,11,94.35,Excelente
+2024-03-10,2024,2024-03,10,Q1,Gobierno de Datos,13,12,94.73,Excelente
+2024-03-10,2024,2024-03,10,Q1,Analítica Avanzada,13,11,90.84,Excelente
+2024-03-10,2024,2024-03,10,Q1,Automatización,7,6,88.84,Aceptable
+2024-03-10,2024,2024-03,10,Q1,Modernización TI,11,9,90.5,Excelente
+2024-03-17,2024,2024-03,11,Q1,Innovación Tecnológica,6,5,86.78,Aceptable
+2024-03-17,2024,2024-03,11,Q1,Automatización,10,9,90.9,Excelente
+2024-03-17,2024,2024-03,11,Q1,Resiliencia Operacional,13,12,93.54,Excelente
+2024-03-17,2024,2024-03,11,Q1,Optimización Infraestructura,8,7,92.59,Excelente
+2024-03-17,2024,2024-03,11,Q1,Modernización TI,6,5,89.86,Aceptable
+2024-03-24,2024,2024-03,12,Q1,Modernización TI,8,6,86.68,Aceptable
+2024-03-24,2024,2024-03,12,Q1,Resiliencia Operacional,6,5,92.84,Excelente
+2024-03-24,2024,2024-03,12,Q1,Seguridad Cibernética,5,4,89.96,Aceptable
+2024-03-31,2024,2024-03,13,Q1,Transformación Digital,11,10,93.12,Excelente
+2024-03-31,2024,2024-03,13,Q1,Mejora Procesos,8,7,87.75,Aceptable
+2024-03-31,2024,2024-03,13,Q1,Experiencia Usuario,9,7,88.42,Aceptable
+2024-03-31,2024,2024-03,13,Q1,Automatización,11,10,92.97,Excelente
+2024-03-31,2024,2024-03,13,Q1,Gobierno de Datos,10,9,93.85,Excelente
+2024-04-07,2024,2024-04,14,Q2,Resiliencia Operacional,10,9,90.33,Excelente
+2024-04-07,2024,2024-04,14,Q2,Modernización TI,12,10,89.6,Aceptable
+2024-04-07,2024,2024-04,14,Q2,Gobierno de Datos,12,11,92.46,Excelente
+2024-04-14,2024,2024-04,15,Q2,Resiliencia Operacional,5,4,89.3,Aceptable
+2024-04-14,2024,2024-04,15,Q2,Automatización,10,9,91.92,Excelente
+2024-04-14,2024,2024-04,15,Q2,Mejora Procesos,7,6,95.97,Excelente
+2024-04-14,2024,2024-04,15,Q2,Gobierno de Datos,5,4,91.87,Excelente
+2024-04-21,2024,2024-04,16,Q2,Cumplimiento Normativo,10,9,94.57,Excelente
+2024-04-21,2024,2024-04,16,Q2,Modernización TI,14,13,93.69,Excelente
+2024-04-21,2024,2024-04,16,Q2,Transformación Digital,5,4,91.03,Excelente
+2024-04-28,2024,2024-04,17,Q2,Modernización TI,10,9,91.11,Excelente
+2024-04-28,2024,2024-04,17,Q2,Automatización,12,10,90.07,Excelente
+2024-04-28,2024,2024-04,17,Q2,Seguridad Cibernética,11,10,96.78,Excelente
+2024-05-05,2024,2024-05,18,Q2,Resiliencia Operacional,14,12,87.0,Aceptable
+2024-05-05,2024,2024-05,18,Q2,Cumplimiento Normativo,7,6,92.65,Excelente
+2024-05-05,2024,2024-05,18,Q2,Automatización,5,4,96.55,Excelente
+2024-05-05,2024,2024-05,18,Q2,Optimización Infraestructura,9,8,94.78,Excelente
+2024-05-12,2024,2024-05,19,Q2,Resiliencia Operacional,14,12,92.69,Excelente
+2024-05-12,2024,2024-05,19,Q2,Optimización Infraestructura,9,8,95.7,Excelente
+2024-05-12,2024,2024-05,19,Q2,Experiencia Usuario,14,12,90.97,Excelente
+2024-05-12,2024,2024-05,19,Q2,Modernización TI,8,7,96.97,Excelente
+2024-05-12,2024,2024-05,19,Q2,Seguridad Cibernética,7,6,91.48,Excelente
+2024-05-19,2024,2024-05,20,Q2,Mejora Procesos,9,8,97.13,Excelente
+2024-05-19,2024,2024-05,20,Q2,Experiencia Usuario,6,5,93.67,Excelente
+2024-05-19,2024,2024-05,20,Q2,Modernización TI,5,4,91.79,Excelente
+2024-05-19,2024,2024-05,20,Q2,Innovación Tecnológica,10,9,93.11,Excelente
+2024-05-26,2024,2024-05,21,Q2,Innovación Tecnológica,13,12,93.74,Excelente
+2024-05-26,2024,2024-05,21,Q2,Cumplimiento Normativo,13,12,93.78,Excelente
+2024-05-26,2024,2024-05,21,Q2,Modernización TI,14,12,92.84,Excelente
+2024-05-26,2024,2024-05,21,Q2,Optimización Infraestructura,5,4,93.66,Excelente
+2024-05-26,2024,2024-05,21,Q2,Mejora Procesos,8,7,91.44,Excelente
+2024-06-02,2024,2024-06,22,Q2,Analítica Avanzada,12,11,95.44,Excelente
+2024-06-02,2024,2024-06,22,Q2,Automatización,10,9,92.78,Excelente
+2024-06-02,2024,2024-06,22,Q2,Innovación Tecnológica,12,11,96.95,Excelente
+2024-06-02,2024,2024-06,22,Q2,Mejora Procesos,6,5,93.14,Excelente
+2024-06-09,2024,2024-06,23,Q2,Automatización,14,12,88.38,Aceptable
+2024-06-09,2024,2024-06,23,Q2,Analítica Avanzada,8,7,96.34,Excelente
+2024-06-09,2024,2024-06,23,Q2,Modernización TI,11,10,92.55,Excelente
+2024-06-09,2024,2024-06,23,Q2,Mejora Procesos,12,10,89.5,Aceptable
+2024-06-16,2024,2024-06,24,Q2,Gobierno de Datos,11,10,93.84,Excelente
+2024-06-16,2024,2024-06,24,Q2,Analítica Avanzada,9,7,88.28,Aceptable
+2024-06-16,2024,2024-06,24,Q2,Resiliencia Operacional,8,7,91.13,Excelente
+2024-06-23,2024,2024-06,25,Q2,Experiencia Usuario,8,7,88.32,Aceptable
+2024-06-23,2024,2024-06,25,Q2,Optimización Infraestructura,12,10,88.78,Aceptable
+2024-06-23,2024,2024-06,25,Q2,Mejora Procesos,8,7,92.16,Excelente
+2024-06-30,2024,2024-06,26,Q2,Gobierno de Datos,5,4,91.43,Excelente
+2024-06-30,2024,2024-06,26,Q2,Modernización TI,8,7,90.0,Aceptable
+2024-06-30,2024,2024-06,26,Q2,Automatización,10,9,96.87,Excelente
+2024-06-30,2024,2024-06,26,Q2,Seguridad Cibernética,6,5,91.32,Excelente
+2024-06-30,2024,2024-06,26,Q2,Analítica Avanzada,12,10,89.44,Aceptable
+2024-07-07,2024,2024-07,27,Q3,Cumplimiento Normativo,5,4,92.43,Excelente
+2024-07-07,2024,2024-07,27,Q3,Modernización TI,14,13,96.23,Excelente
+2024-07-07,2024,2024-07,27,Q3,Experiencia Usuario,14,12,90.83,Excelente
+2024-07-07,2024,2024-07,27,Q3,Optimización Infraestructura,6,5,92.59,Excelente
+2024-07-07,2024,2024-07,27,Q3,Transformación Digital,13,12,93.75,Excelente
+2024-07-14,2024,2024-07,28,Q3,Transformación Digital,9,8,93.02,Excelente
+2024-07-14,2024,2024-07,28,Q3,Resiliencia Operacional,13,12,93.06,Excelente
+2024-07-14,2024,2024-07,28,Q3,Seguridad Cibernética,10,9,96.51,Excelente
+2024-07-14,2024,2024-07,28,Q3,Optimización Infraestructura,11,9,89.3,Aceptable
+2024-07-14,2024,2024-07,28,Q3,Gobierno de Datos,6,5,89.36,Aceptable
+2024-07-21,2024,2024-07,29,Q3,Transformación Digital,13,12,93.38,Excelente
+2024-07-21,2024,2024-07,29,Q3,Analítica Avanzada,10,9,90.55,Excelente
+2024-07-21,2024,2024-07,29,Q3,Seguridad Cibernética,11,10,97.57,Excelente
+2024-07-21,2024,2024-07,29,Q3,Automatización,10,8,89.56,Aceptable
+2024-07-21,2024,2024-07,29,Q3,Gobierno de Datos,12,10,90.1,Excelente
+2024-07-28,2024,2024-07,30,Q3,Automatización,7,6,97.76,Excelente
+2024-07-28,2024,2024-07,30,Q3,Resiliencia Operacional,5,4,95.66,Excelente
+2024-07-28,2024,2024-07,30,Q3,Optimización Infraestructura,9,8,90.12,Excelente
+2024-07-28,2024,2024-07,30,Q3,Cumplimiento Normativo,13,11,88.62,Aceptable
+2024-08-04,2024,2024-08,31,Q3,Innovación Tecnológica,6,5,89.02,Aceptable
+2024-08-04,2024,2024-08,31,Q3,Seguridad Cibernética,8,7,95.99,Excelente
+2024-08-04,2024,2024-08,31,Q3,Transformación Digital,10,9,91.14,Excelente
+2024-08-04,2024,2024-08,31,Q3,Modernización TI,5,4,92.0,Excelente
+2024-08-04,2024,2024-08,31,Q3,Analítica Avanzada,5,4,91.43,Excelente
+2024-08-11,2024,2024-08,32,Q3,Analítica Avanzada,13,12,95.63,Excelente
+2024-08-11,2024,2024-08,32,Q3,Optimización Infraestructura,11,10,93.48,Excelente
+2024-08-11,2024,2024-08,32,Q3,Modernización TI,6,5,93.73,Excelente
+2024-08-11,2024,2024-08,32,Q3,Gobierno de Datos,11,10,97.96,Excelente
+2024-08-18,2024,2024-08,33,Q3,Analítica Avanzada,8,7,93.82,Excelente
+2024-08-18,2024,2024-08,33,Q3,Gobierno de Datos,9,8,89.23,Aceptable
+2024-08-18,2024,2024-08,33,Q3,Cumplimiento Normativo,8,7,91.51,Excelente
+2024-08-18,2024,2024-08,33,Q3,Optimización Infraestructura,13,12,93.11,Excelente
+2024-08-25,2024,2024-08,34,Q3,Resiliencia Operacional,13,11,90.73,Excelente
+2024-08-25,2024,2024-08,34,Q3,Gobierno de Datos,5,4,94.95,Excelente
+2024-08-25,2024,2024-08,34,Q3,Experiencia Usuario,14,12,92.76,Excelente
+2024-08-25,2024,2024-08,34,Q3,Mejora Procesos,11,9,90.1,Excelente
+2024-09-01,2024,2024-09,35,Q3,Optimización Infraestructura,7,6,94.21,Excelente
+2024-09-01,2024,2024-09,35,Q3,Transformación Digital,13,11,91.79,Excelente
+2024-09-01,2024,2024-09,35,Q3,Analítica Avanzada,7,6,92.41,Excelente
+2024-09-08,2024,2024-09,36,Q3,Analítica Avanzada,12,11,92.26,Excelente
+2024-09-08,2024,2024-09,36,Q3,Gobierno de Datos,6,5,95.28,Excelente
+2024-09-08,2024,2024-09,36,Q3,Experiencia Usuario,9,8,97.93,Excelente
+2024-09-15,2024,2024-09,37,Q3,Mejora Procesos,14,12,91.98,Excelente
+2024-09-15,2024,2024-09,37,Q3,Gobierno de Datos,12,11,92.33,Excelente
+2024-09-15,2024,2024-09,37,Q3,Innovación Tecnológica,5,4,90.09,Excelente
+2024-09-15,2024,2024-09,37,Q3,Transformación Digital,12,11,94.61,Excelente
+2024-09-22,2024,2024-09,38,Q3,Experiencia Usuario,7,6,91.78,Excelente
+2024-09-22,2024,2024-09,38,Q3,Seguridad Cibernética,10,9,95.94,Excelente
+2024-09-22,2024,2024-09,38,Q3,Transformación Digital,14,13,95.79,Excelente
+2024-09-22,2024,2024-09,38,Q3,Modernización TI,12,11,95.1,Excelente
+2024-09-29,2024,2024-09,39,Q3,Analítica Avanzada,6,5,98.0,Excelente
+2024-09-29,2024,2024-09,39,Q3,Gobierno de Datos,6,5,98.0,Excelente
+2024-09-29,2024,2024-09,39,Q3,Seguridad Cibernética,11,10,92.39,Excelente
+2024-09-29,2024,2024-09,39,Q3,Resiliencia Operacional,11,9,90.51,Excelente
+2024-09-29,2024,2024-09,39,Q3,Cumplimiento Normativo,10,9,91.34,Excelente
+2024-10-06,2024,2024-10,40,Q4,Gobierno de Datos,8,7,92.44,Excelente
+2024-10-06,2024,2024-10,40,Q4,Analítica Avanzada,14,12,92.56,Excelente
+2024-10-06,2024,2024-10,40,Q4,Automatización,8,7,96.89,Excelente
+2024-10-06,2024,2024-10,40,Q4,Seguridad Cibernética,13,11,91.2,Excelente
+2024-10-13,2024,2024-10,41,Q4,Resiliencia Operacional,7,6,95.34,Excelente
+2024-10-13,2024,2024-10,41,Q4,Analítica Avanzada,11,10,96.67,Excelente
+2024-10-13,2024,2024-10,41,Q4,Cumplimiento Normativo,12,11,93.67,Excelente
+2024-10-20,2024,2024-10,42,Q4,Gobierno de Datos,9,8,90.98,Excelente
+2024-10-20,2024,2024-10,42,Q4,Experiencia Usuario,10,9,91.94,Excelente
+2024-10-20,2024,2024-10,42,Q4,Analítica Avanzada,13,12,98.0,Excelente
+2024-10-27,2024,2024-10,43,Q4,Optimización Infraestructura,14,13,97.85,Excelente
+2024-10-27,2024,2024-10,43,Q4,Gobierno de Datos,11,10,98.0,Excelente
+2024-10-27,2024,2024-10,43,Q4,Resiliencia Operacional,9,8,92.31,Excelente
+2024-10-27,2024,2024-10,43,Q4,Analítica Avanzada,6,5,90.42,Excelente
+2024-11-03,2024,2024-11,44,Q4,Optimización Infraestructura,10,9,98.0,Excelente
+2024-11-03,2024,2024-11,44,Q4,Seguridad Cibernética,5,4,90.8,Excelente
+2024-11-03,2024,2024-11,44,Q4,Transformación Digital,7,6,93.54,Excelente
+2024-11-10,2024,2024-11,45,Q4,Automatización,12,11,98.0,Excelente
+2024-11-10,2024,2024-11,45,Q4,Optimización Infraestructura,10,9,97.77,Excelente
+2024-11-10,2024,2024-11,45,Q4,Transformación Digital,5,4,92.91,Excelente
+2024-11-10,2024,2024-11,45,Q4,Seguridad Cibernética,12,11,98.0,Excelente
+2024-11-17,2024,2024-11,46,Q4,Optimización Infraestructura,8,7,92.77,Excelente
+2024-11-17,2024,2024-11,46,Q4,Analítica Avanzada,6,5,98.0,Excelente
+2024-11-17,2024,2024-11,46,Q4,Innovación Tecnológica,5,4,98.0,Excelente
+2024-11-17,2024,2024-11,46,Q4,Transformación Digital,11,10,94.45,Excelente
+2024-11-24,2024,2024-11,47,Q4,Cumplimiento Normativo,12,11,93.59,Excelente
+2024-11-24,2024,2024-11,47,Q4,Mejora Procesos,5,4,98.0,Excelente
+2024-11-24,2024,2024-11,47,Q4,Seguridad Cibernética,6,5,91.45,Excelente
+2024-11-24,2024,2024-11,47,Q4,Automatización,8,7,94.52,Excelente
+2024-11-24,2024,2024-11,47,Q4,Gobierno de Datos,14,13,95.77,Excelente
+2024-12-01,2024,2024-12,48,Q4,Cumplimiento Normativo,6,5,98.0,Excelente
+2024-12-01,2024,2024-12,48,Q4,Experiencia Usuario,12,11,95.15,Excelente
+2024-12-01,2024,2024-12,48,Q4,Modernización TI,11,10,96.86,Excelente
+2024-12-08,2024,2024-12,49,Q4,Optimización Infraestructura,11,10,98.0,Excelente
+2024-12-08,2024,2024-12,49,Q4,Modernización TI,10,9,98.0,Excelente
+2024-12-08,2024,2024-12,49,Q4,Innovación Tecnológica,8,7,98.0,Excelente
+2024-12-15,2024,2024-12,50,Q4,Modernización TI,5,4,97.71,Excelente
+2024-12-15,2024,2024-12,50,Q4,Automatización,8,7,93.08,Excelente
+2024-12-15,2024,2024-12,50,Q4,Gobierno de Datos,7,6,94.2,Excelente
+2024-12-15,2024,2024-12,50,Q4,Analítica Avanzada,10,9,98.0,Excelente
+2024-12-22,2024,2024-12,51,Q4,Experiencia Usuario,13,12,96.9,Excelente
+2024-12-22,2024,2024-12,51,Q4,Resiliencia Operacional,11,10,95.46,Excelente
+2024-12-22,2024,2024-12,51,Q4,Seguridad Cibernética,6,5,92.07,Excelente
+2024-12-22,2024,2024-12,51,Q4,Cumplimiento Normativo,13,12,92.85,Excelente
+2024-12-22,2024,2024-12,51,Q4,Mejora Procesos,14,13,97.09,Excelente
+2024-12-29,2024,2024-12,52,Q4,Gobierno de Datos,13,12,97.89,Excelente
+2024-12-29,2024,2024-12,52,Q4,Transformación Digital,11,10,98.0,Excelente
+2024-12-29,2024,2024-12,52,Q4,Innovación Tecnológica,13,12,97.6,Excelente
+2024-12-29,2024,2024-12,52,Q4,Experiencia Usuario,8,7,94.34,Excelente
+2024-12-29,2024,2024-12,52,Q4,Modernización TI,14,13,93.32,Excelente

@@ -1,0 +1,1306 @@
+fecha,año,mes,semana,categoria_riesgo,riesgos_criticos_identificados,riesgos_mitigados,indice_mitigacion_porcentaje,estado
+2020-01-05,2020,2020-01,1,Seguridad,4,2,70.37,Aceptable
+2020-01-05,2020,2020-01,1,Disponibilidad,7,5,72.68,Aceptable
+2020-01-05,2020,2020-01,1,Cumplimiento,2,1,60.79,Riesgo Alto
+2020-01-05,2020,2020-01,1,Operacional,3,2,71.91,Aceptable
+2020-01-05,2020,2020-01,1,Tecnológico,3,2,71.92,Aceptable
+2020-01-12,2020,2020-01,2,Seguridad,4,2,60.0,Riesgo Alto
+2020-01-12,2020,2020-01,2,Disponibilidad,2,1,60.0,Riesgo Alto
+2020-01-12,2020,2020-01,2,Cumplimiento,4,2,60.0,Riesgo Alto
+2020-01-12,2020,2020-01,2,Operacional,3,2,72.35,Aceptable
+2020-01-12,2020,2020-01,2,Tecnológico,2,1,69.8,Riesgo Alto
+2020-01-19,2020,2020-01,3,Seguridad,3,2,66.74,Riesgo Alto
+2020-01-19,2020,2020-01,3,Disponibilidad,6,3,66.38,Riesgo Alto
+2020-01-19,2020,2020-01,3,Cumplimiento,7,4,66.03,Riesgo Alto
+2020-01-19,2020,2020-01,3,Operacional,4,2,65.89,Riesgo Alto
+2020-01-19,2020,2020-01,3,Tecnológico,7,4,60.43,Riesgo Alto
+2020-01-26,2020,2020-01,4,Seguridad,5,3,64.26,Riesgo Alto
+2020-01-26,2020,2020-01,4,Disponibilidad,7,4,60.06,Riesgo Alto
+2020-01-26,2020,2020-01,4,Cumplimiento,6,3,62.52,Riesgo Alto
+2020-01-26,2020,2020-01,4,Operacional,5,3,70.52,Aceptable
+2020-01-26,2020,2020-01,4,Tecnológico,6,3,60.0,Riesgo Alto
+2020-02-02,2020,2020-02,5,Seguridad,5,3,64.76,Riesgo Alto
+2020-02-02,2020,2020-02,5,Disponibilidad,6,4,67.58,Riesgo Alto
+2020-02-02,2020,2020-02,5,Cumplimiento,6,3,60.0,Riesgo Alto
+2020-02-02,2020,2020-02,5,Operacional,7,4,69.6,Riesgo Alto
+2020-02-02,2020,2020-02,5,Tecnológico,6,4,71.49,Aceptable
+2020-02-09,2020,2020-02,6,Seguridad,6,3,64.75,Riesgo Alto
+2020-02-09,2020,2020-02,6,Disponibilidad,4,2,65.43,Riesgo Alto
+2020-02-09,2020,2020-02,6,Cumplimiento,7,4,66.52,Riesgo Alto
+2020-02-09,2020,2020-02,6,Operacional,6,4,66.83,Riesgo Alto
+2020-02-09,2020,2020-02,6,Tecnológico,6,4,69.84,Riesgo Alto
+2020-02-16,2020,2020-02,7,Seguridad,5,3,66.56,Riesgo Alto
+2020-02-16,2020,2020-02,7,Disponibilidad,2,1,62.09,Riesgo Alto
+2020-02-16,2020,2020-02,7,Cumplimiento,5,3,64.32,Riesgo Alto
+2020-02-16,2020,2020-02,7,Operacional,3,1,60.0,Riesgo Alto
+2020-02-16,2020,2020-02,7,Tecnológico,5,3,67.16,Riesgo Alto
+2020-02-23,2020,2020-02,8,Seguridad,4,2,69.07,Riesgo Alto
+2020-02-23,2020,2020-02,8,Disponibilidad,6,3,61.86,Riesgo Alto
+2020-02-23,2020,2020-02,8,Cumplimiento,7,4,62.07,Riesgo Alto
+2020-02-23,2020,2020-02,8,Operacional,7,4,63.31,Riesgo Alto
+2020-02-23,2020,2020-02,8,Tecnológico,5,3,60.0,Riesgo Alto
+2020-03-01,2020,2020-03,9,Seguridad,4,2,64.62,Riesgo Alto
+2020-03-01,2020,2020-03,9,Disponibilidad,7,5,72.04,Aceptable
+2020-03-01,2020,2020-03,9,Cumplimiento,2,1,60.29,Riesgo Alto
+2020-03-01,2020,2020-03,9,Operacional,5,3,60.0,Riesgo Alto
+2020-03-01,2020,2020-03,9,Tecnológico,6,3,60.54,Riesgo Alto
+2020-03-08,2020,2020-03,10,Seguridad,7,4,66.72,Riesgo Alto
+2020-03-08,2020,2020-03,10,Disponibilidad,7,4,68.9,Riesgo Alto
+2020-03-08,2020,2020-03,10,Cumplimiento,6,4,73.99,Aceptable
+2020-03-08,2020,2020-03,10,Operacional,6,4,74.04,Aceptable
+2020-03-08,2020,2020-03,10,Tecnológico,3,1,66.23,Riesgo Alto
+2020-03-15,2020,2020-03,11,Seguridad,5,3,73.91,Aceptable
+2020-03-15,2020,2020-03,11,Disponibilidad,7,4,63.9,Riesgo Alto
+2020-03-15,2020,2020-03,11,Cumplimiento,4,2,67.52,Riesgo Alto
+2020-03-15,2020,2020-03,11,Operacional,6,4,68.48,Riesgo Alto
+2020-03-15,2020,2020-03,11,Tecnológico,6,4,70.56,Aceptable
+2020-03-22,2020,2020-03,12,Seguridad,4,2,64.97,Riesgo Alto
+2020-03-22,2020,2020-03,12,Disponibilidad,3,2,68.29,Riesgo Alto
+2020-03-22,2020,2020-03,12,Cumplimiento,2,1,66.4,Riesgo Alto
+2020-03-22,2020,2020-03,12,Operacional,7,4,60.0,Riesgo Alto
+2020-03-22,2020,2020-03,12,Tecnológico,4,2,62.86,Riesgo Alto
+2020-03-29,2020,2020-03,13,Seguridad,4,2,67.41,Riesgo Alto
+2020-03-29,2020,2020-03,13,Disponibilidad,5,3,68.16,Riesgo Alto
+2020-03-29,2020,2020-03,13,Cumplimiento,3,1,62.57,Riesgo Alto
+2020-03-29,2020,2020-03,13,Operacional,2,1,72.75,Aceptable
+2020-03-29,2020,2020-03,13,Tecnológico,5,3,61.63,Riesgo Alto
+2020-04-05,2020,2020-04,14,Seguridad,5,3,71.13,Aceptable
+2020-04-05,2020,2020-04,14,Disponibilidad,3,2,68.27,Riesgo Alto
+2020-04-05,2020,2020-04,14,Cumplimiento,5,3,60.28,Riesgo Alto
+2020-04-05,2020,2020-04,14,Operacional,3,1,63.24,Riesgo Alto
+2020-04-05,2020,2020-04,14,Tecnológico,3,2,69.41,Riesgo Alto
+2020-04-12,2020,2020-04,15,Seguridad,6,3,60.91,Riesgo Alto
+2020-04-12,2020,2020-04,15,Disponibilidad,4,2,69.57,Riesgo Alto
+2020-04-12,2020,2020-04,15,Cumplimiento,2,1,73.85,Aceptable
+2020-04-12,2020,2020-04,15,Operacional,2,1,69.67,Riesgo Alto
+2020-04-12,2020,2020-04,15,Tecnológico,5,3,60.0,Riesgo Alto
+2020-04-19,2020,2020-04,16,Seguridad,5,3,63.28,Riesgo Alto
+2020-04-19,2020,2020-04,16,Disponibilidad,2,1,60.0,Riesgo Alto
+2020-04-19,2020,2020-04,16,Cumplimiento,3,2,69.95,Riesgo Alto
+2020-04-19,2020,2020-04,16,Operacional,2,1,68.87,Riesgo Alto
+2020-04-19,2020,2020-04,16,Tecnológico,2,1,69.3,Riesgo Alto
+2020-04-26,2020,2020-04,17,Seguridad,6,4,69.39,Riesgo Alto
+2020-04-26,2020,2020-04,17,Disponibilidad,6,4,68.68,Riesgo Alto
+2020-04-26,2020,2020-04,17,Cumplimiento,5,3,70.21,Aceptable
+2020-04-26,2020,2020-04,17,Operacional,4,2,70.73,Aceptable
+2020-04-26,2020,2020-04,17,Tecnológico,3,1,61.92,Riesgo Alto
+2020-05-03,2020,2020-05,18,Seguridad,2,1,73.97,Aceptable
+2020-05-03,2020,2020-05,18,Disponibilidad,2,1,66.55,Riesgo Alto
+2020-05-03,2020,2020-05,18,Cumplimiento,2,1,69.07,Riesgo Alto
+2020-05-03,2020,2020-05,18,Operacional,2,1,63.24,Riesgo Alto
+2020-05-03,2020,2020-05,18,Tecnológico,5,3,66.83,Riesgo Alto
+2020-05-10,2020,2020-05,19,Seguridad,3,1,66.05,Riesgo Alto
+2020-05-10,2020,2020-05,19,Disponibilidad,5,3,70.81,Aceptable
+2020-05-10,2020,2020-05,19,Cumplimiento,7,4,63.96,Riesgo Alto
+2020-05-10,2020,2020-05,19,Operacional,2,1,74.67,Aceptable
+2020-05-10,2020,2020-05,19,Tecnológico,6,4,72.12,Aceptable
+2020-05-17,2020,2020-05,20,Seguridad,6,4,68.57,Riesgo Alto
+2020-05-17,2020,2020-05,20,Disponibilidad,6,3,60.0,Riesgo Alto
+2020-05-17,2020,2020-05,20,Cumplimiento,6,3,60.45,Riesgo Alto
+2020-05-17,2020,2020-05,20,Operacional,7,5,72.78,Aceptable
+2020-05-17,2020,2020-05,20,Tecnológico,7,5,72.15,Aceptable
+2020-05-24,2020,2020-05,21,Seguridad,3,1,65.97,Riesgo Alto
+2020-05-24,2020,2020-05,21,Disponibilidad,7,4,70.9,Aceptable
+2020-05-24,2020,2020-05,21,Cumplimiento,5,3,71.09,Aceptable
+2020-05-24,2020,2020-05,21,Operacional,6,4,73.87,Aceptable
+2020-05-24,2020,2020-05,21,Tecnológico,2,1,64.39,Riesgo Alto
+2020-05-31,2020,2020-05,22,Seguridad,6,4,70.46,Aceptable
+2020-05-31,2020,2020-05,22,Disponibilidad,3,2,68.88,Riesgo Alto
+2020-05-31,2020,2020-05,22,Cumplimiento,6,3,63.93,Riesgo Alto
+2020-05-31,2020,2020-05,22,Operacional,4,2,74.37,Aceptable
+2020-05-31,2020,2020-05,22,Tecnológico,6,4,69.72,Riesgo Alto
+2020-06-07,2020,2020-06,23,Seguridad,7,4,66.78,Riesgo Alto
+2020-06-07,2020,2020-06,23,Disponibilidad,7,4,71.36,Aceptable
+2020-06-07,2020,2020-06,23,Cumplimiento,2,1,70.34,Aceptable
+2020-06-07,2020,2020-06,23,Operacional,7,4,61.74,Riesgo Alto
+2020-06-07,2020,2020-06,23,Tecnológico,7,4,61.85,Riesgo Alto
+2020-06-14,2020,2020-06,24,Seguridad,5,3,74.61,Aceptable
+2020-06-14,2020,2020-06,24,Disponibilidad,7,5,74.51,Aceptable
+2020-06-14,2020,2020-06,24,Cumplimiento,3,1,64.91,Riesgo Alto
+2020-06-14,2020,2020-06,24,Operacional,4,2,66.25,Riesgo Alto
+2020-06-14,2020,2020-06,24,Tecnológico,4,2,64.6,Riesgo Alto
+2020-06-21,2020,2020-06,25,Seguridad,4,2,60.0,Riesgo Alto
+2020-06-21,2020,2020-06,25,Disponibilidad,4,2,65.64,Riesgo Alto
+2020-06-21,2020,2020-06,25,Cumplimiento,4,2,62.31,Riesgo Alto
+2020-06-21,2020,2020-06,25,Operacional,7,4,68.58,Riesgo Alto
+2020-06-21,2020,2020-06,25,Tecnológico,6,4,75.26,Aceptable
+2020-06-28,2020,2020-06,26,Seguridad,4,2,74.44,Aceptable
+2020-06-28,2020,2020-06,26,Disponibilidad,6,3,61.42,Riesgo Alto
+2020-06-28,2020,2020-06,26,Cumplimiento,2,1,66.2,Riesgo Alto
+2020-06-28,2020,2020-06,26,Operacional,3,2,69.77,Riesgo Alto
+2020-06-28,2020,2020-06,26,Tecnológico,5,3,63.67,Riesgo Alto
+2020-07-05,2020,2020-07,27,Seguridad,2,1,65.22,Riesgo Alto
+2020-07-05,2020,2020-07,27,Disponibilidad,4,2,73.45,Aceptable
+2020-07-05,2020,2020-07,27,Cumplimiento,7,4,67.28,Riesgo Alto
+2020-07-05,2020,2020-07,27,Operacional,6,3,61.58,Riesgo Alto
+2020-07-05,2020,2020-07,27,Tecnológico,4,2,74.44,Aceptable
+2020-07-12,2020,2020-07,28,Seguridad,4,2,73.29,Aceptable
+2020-07-12,2020,2020-07,28,Disponibilidad,3,2,67.92,Riesgo Alto
+2020-07-12,2020,2020-07,28,Cumplimiento,2,1,66.74,Riesgo Alto
+2020-07-12,2020,2020-07,28,Operacional,6,4,74.05,Aceptable
+2020-07-12,2020,2020-07,28,Tecnológico,6,4,71.41,Aceptable
+2020-07-19,2020,2020-07,29,Seguridad,2,1,70.53,Aceptable
+2020-07-19,2020,2020-07,29,Disponibilidad,4,2,71.08,Aceptable
+2020-07-19,2020,2020-07,29,Cumplimiento,5,3,71.51,Aceptable
+2020-07-19,2020,2020-07,29,Operacional,6,3,64.52,Riesgo Alto
+2020-07-19,2020,2020-07,29,Tecnológico,5,3,67.23,Riesgo Alto
+2020-07-26,2020,2020-07,30,Seguridad,4,2,72.22,Aceptable
+2020-07-26,2020,2020-07,30,Disponibilidad,6,4,73.02,Aceptable
+2020-07-26,2020,2020-07,30,Cumplimiento,6,3,60.94,Riesgo Alto
+2020-07-26,2020,2020-07,30,Operacional,7,4,65.45,Riesgo Alto
+2020-07-26,2020,2020-07,30,Tecnológico,6,4,73.28,Aceptable
+2020-08-02,2020,2020-08,31,Seguridad,4,2,63.79,Riesgo Alto
+2020-08-02,2020,2020-08,31,Disponibilidad,5,3,69.47,Riesgo Alto
+2020-08-02,2020,2020-08,31,Cumplimiento,3,1,62.38,Riesgo Alto
+2020-08-02,2020,2020-08,31,Operacional,3,1,65.42,Riesgo Alto
+2020-08-02,2020,2020-08,31,Tecnológico,6,4,69.31,Riesgo Alto
+2020-08-09,2020,2020-08,32,Seguridad,5,3,71.2,Aceptable
+2020-08-09,2020,2020-08,32,Disponibilidad,4,2,70.14,Aceptable
+2020-08-09,2020,2020-08,32,Cumplimiento,7,4,61.54,Riesgo Alto
+2020-08-09,2020,2020-08,32,Operacional,3,2,73.89,Aceptable
+2020-08-09,2020,2020-08,32,Tecnológico,7,4,69.14,Riesgo Alto
+2020-08-16,2020,2020-08,33,Seguridad,4,2,71.92,Aceptable
+2020-08-16,2020,2020-08,33,Disponibilidad,7,4,70.47,Aceptable
+2020-08-16,2020,2020-08,33,Cumplimiento,2,1,70.71,Aceptable
+2020-08-16,2020,2020-08,33,Operacional,2,1,76.52,Aceptable
+2020-08-16,2020,2020-08,33,Tecnológico,4,2,63.06,Riesgo Alto
+2020-08-23,2020,2020-08,34,Seguridad,4,3,75.53,Aceptable
+2020-08-23,2020,2020-08,34,Disponibilidad,5,3,64.05,Riesgo Alto
+2020-08-23,2020,2020-08,34,Cumplimiento,3,2,73.34,Aceptable
+2020-08-23,2020,2020-08,34,Operacional,5,3,66.75,Riesgo Alto
+2020-08-23,2020,2020-08,34,Tecnológico,6,4,69.48,Riesgo Alto
+2020-08-30,2020,2020-08,35,Seguridad,6,3,66.18,Riesgo Alto
+2020-08-30,2020,2020-08,35,Disponibilidad,2,1,76.73,Aceptable
+2020-08-30,2020,2020-08,35,Cumplimiento,6,4,72.36,Aceptable
+2020-08-30,2020,2020-08,35,Operacional,2,1,76.59,Aceptable
+2020-08-30,2020,2020-08,35,Tecnológico,5,3,67.46,Riesgo Alto
+2020-09-06,2020,2020-09,36,Seguridad,2,1,72.06,Aceptable
+2020-09-06,2020,2020-09,36,Disponibilidad,3,2,67.84,Riesgo Alto
+2020-09-06,2020,2020-09,36,Cumplimiento,7,4,70.05,Aceptable
+2020-09-06,2020,2020-09,36,Operacional,6,3,63.17,Riesgo Alto
+2020-09-06,2020,2020-09,36,Tecnológico,5,3,70.52,Aceptable
+2020-09-13,2020,2020-09,37,Seguridad,2,1,67.41,Riesgo Alto
+2020-09-13,2020,2020-09,37,Disponibilidad,7,4,68.83,Riesgo Alto
+2020-09-13,2020,2020-09,37,Cumplimiento,2,1,69.46,Riesgo Alto
+2020-09-13,2020,2020-09,37,Operacional,7,4,62.34,Riesgo Alto
+2020-09-13,2020,2020-09,37,Tecnológico,5,3,77.33,Aceptable
+2020-09-20,2020,2020-09,38,Seguridad,7,4,67.16,Riesgo Alto
+2020-09-20,2020,2020-09,38,Disponibilidad,6,4,75.45,Aceptable
+2020-09-20,2020,2020-09,38,Cumplimiento,7,5,75.62,Aceptable
+2020-09-20,2020,2020-09,38,Operacional,4,2,61.49,Riesgo Alto
+2020-09-20,2020,2020-09,38,Tecnológico,4,2,72.04,Aceptable
+2020-09-27,2020,2020-09,39,Seguridad,7,5,71.98,Aceptable
+2020-09-27,2020,2020-09,39,Disponibilidad,7,4,68.89,Riesgo Alto
+2020-09-27,2020,2020-09,39,Cumplimiento,2,1,76.65,Aceptable
+2020-09-27,2020,2020-09,39,Operacional,7,4,63.77,Riesgo Alto
+2020-09-27,2020,2020-09,39,Tecnológico,2,1,64.03,Riesgo Alto
+2020-10-04,2020,2020-10,40,Seguridad,3,1,65.92,Riesgo Alto
+2020-10-04,2020,2020-10,40,Disponibilidad,6,3,63.5,Riesgo Alto
+2020-10-04,2020,2020-10,40,Cumplimiento,4,2,67.13,Riesgo Alto
+2020-10-04,2020,2020-10,40,Operacional,2,1,64.32,Riesgo Alto
+2020-10-04,2020,2020-10,40,Tecnológico,5,3,64.32,Riesgo Alto
+2020-10-11,2020,2020-10,41,Seguridad,2,1,71.76,Aceptable
+2020-10-11,2020,2020-10,41,Disponibilidad,7,4,62.78,Riesgo Alto
+2020-10-11,2020,2020-10,41,Cumplimiento,2,1,62.51,Riesgo Alto
+2020-10-11,2020,2020-10,41,Operacional,3,2,75.79,Aceptable
+2020-10-11,2020,2020-10,41,Tecnológico,4,2,63.7,Riesgo Alto
+2020-10-18,2020,2020-10,42,Seguridad,4,2,66.69,Riesgo Alto
+2020-10-18,2020,2020-10,42,Disponibilidad,5,3,63.23,Riesgo Alto
+2020-10-18,2020,2020-10,42,Cumplimiento,4,2,71.44,Aceptable
+2020-10-18,2020,2020-10,42,Operacional,2,1,68.3,Riesgo Alto
+2020-10-18,2020,2020-10,42,Tecnológico,5,3,76.02,Aceptable
+2020-10-25,2020,2020-10,43,Seguridad,4,2,64.5,Riesgo Alto
+2020-10-25,2020,2020-10,43,Disponibilidad,4,2,68.02,Riesgo Alto
+2020-10-25,2020,2020-10,43,Cumplimiento,6,3,63.37,Riesgo Alto
+2020-10-25,2020,2020-10,43,Operacional,7,5,74.16,Aceptable
+2020-10-25,2020,2020-10,43,Tecnológico,2,1,75.33,Aceptable
+2020-11-01,2020,2020-11,44,Seguridad,7,4,67.24,Riesgo Alto
+2020-11-01,2020,2020-11,44,Disponibilidad,3,2,72.28,Aceptable
+2020-11-01,2020,2020-11,44,Cumplimiento,7,4,67.95,Riesgo Alto
+2020-11-01,2020,2020-11,44,Operacional,3,1,66.63,Riesgo Alto
+2020-11-01,2020,2020-11,44,Tecnológico,6,3,64.19,Riesgo Alto
+2020-11-08,2020,2020-11,45,Seguridad,3,2,78.12,Aceptable
+2020-11-08,2020,2020-11,45,Disponibilidad,3,1,65.15,Riesgo Alto
+2020-11-08,2020,2020-11,45,Cumplimiento,7,5,71.97,Aceptable
+2020-11-08,2020,2020-11,45,Operacional,7,4,69.83,Riesgo Alto
+2020-11-08,2020,2020-11,45,Tecnológico,3,2,71.61,Aceptable
+2020-11-15,2020,2020-11,46,Seguridad,6,3,62.6,Riesgo Alto
+2020-11-15,2020,2020-11,46,Disponibilidad,3,2,70.14,Aceptable
+2020-11-15,2020,2020-11,46,Cumplimiento,6,4,75.01,Aceptable
+2020-11-15,2020,2020-11,46,Operacional,7,4,62.79,Riesgo Alto
+2020-11-15,2020,2020-11,46,Tecnológico,2,1,76.42,Aceptable
+2020-11-22,2020,2020-11,47,Seguridad,5,3,75.58,Aceptable
+2020-11-22,2020,2020-11,47,Disponibilidad,2,1,71.62,Aceptable
+2020-11-22,2020,2020-11,47,Cumplimiento,6,4,69.59,Riesgo Alto
+2020-11-22,2020,2020-11,47,Operacional,5,3,62.94,Riesgo Alto
+2020-11-22,2020,2020-11,47,Tecnológico,5,3,63.43,Riesgo Alto
+2020-11-29,2020,2020-11,48,Seguridad,4,2,65.7,Riesgo Alto
+2020-11-29,2020,2020-11,48,Disponibilidad,3,2,68.8,Riesgo Alto
+2020-11-29,2020,2020-11,48,Cumplimiento,6,4,77.16,Aceptable
+2020-11-29,2020,2020-11,48,Operacional,5,3,63.45,Riesgo Alto
+2020-11-29,2020,2020-11,48,Tecnológico,3,2,69.73,Riesgo Alto
+2020-12-06,2020,2020-12,49,Seguridad,4,2,72.2,Aceptable
+2020-12-06,2020,2020-12,49,Disponibilidad,2,1,70.85,Aceptable
+2020-12-06,2020,2020-12,49,Cumplimiento,7,4,66.28,Riesgo Alto
+2020-12-06,2020,2020-12,49,Operacional,7,4,70.25,Aceptable
+2020-12-06,2020,2020-12,49,Tecnológico,2,1,63.03,Riesgo Alto
+2020-12-13,2020,2020-12,50,Seguridad,4,3,78.24,Aceptable
+2020-12-13,2020,2020-12,50,Disponibilidad,7,4,65.55,Riesgo Alto
+2020-12-13,2020,2020-12,50,Cumplimiento,5,3,63.14,Riesgo Alto
+2020-12-13,2020,2020-12,50,Operacional,2,1,72.06,Aceptable
+2020-12-13,2020,2020-12,50,Tecnológico,6,4,76.02,Aceptable
+2020-12-20,2020,2020-12,51,Seguridad,6,4,72.7,Aceptable
+2020-12-20,2020,2020-12,51,Disponibilidad,3,2,67.56,Riesgo Alto
+2020-12-20,2020,2020-12,51,Cumplimiento,4,2,66.66,Riesgo Alto
+2020-12-20,2020,2020-12,51,Operacional,3,1,64.31,Riesgo Alto
+2020-12-20,2020,2020-12,51,Tecnológico,6,3,63.23,Riesgo Alto
+2020-12-27,2020,2020-12,52,Seguridad,4,2,66.1,Riesgo Alto
+2020-12-27,2020,2020-12,52,Disponibilidad,5,3,67.06,Riesgo Alto
+2020-12-27,2020,2020-12,52,Cumplimiento,4,2,63.97,Riesgo Alto
+2020-12-27,2020,2020-12,52,Operacional,7,4,71.34,Aceptable
+2020-12-27,2020,2020-12,52,Tecnológico,4,3,77.29,Aceptable
+2021-01-03,2021,2021-01,53,Seguridad,3,1,65.58,Riesgo Alto
+2021-01-03,2021,2021-01,53,Disponibilidad,5,3,63.37,Riesgo Alto
+2021-01-03,2021,2021-01,53,Cumplimiento,4,2,64.39,Riesgo Alto
+2021-01-03,2021,2021-01,53,Operacional,6,4,79.16,Aceptable
+2021-01-03,2021,2021-01,53,Tecnológico,2,1,72.18,Aceptable
+2021-01-10,2021,2021-01,1,Seguridad,6,3,65.19,Riesgo Alto
+2021-01-10,2021,2021-01,1,Disponibilidad,7,5,76.53,Aceptable
+2021-01-10,2021,2021-01,1,Cumplimiento,7,5,72.03,Aceptable
+2021-01-10,2021,2021-01,1,Operacional,6,4,70.59,Aceptable
+2021-01-10,2021,2021-01,1,Tecnológico,3,2,78.51,Aceptable
+2021-01-17,2021,2021-01,2,Seguridad,7,4,70.76,Aceptable
+2021-01-17,2021,2021-01,2,Disponibilidad,2,1,64.72,Riesgo Alto
+2021-01-17,2021,2021-01,2,Cumplimiento,5,3,79.23,Aceptable
+2021-01-17,2021,2021-01,2,Operacional,5,3,65.46,Riesgo Alto
+2021-01-17,2021,2021-01,2,Tecnológico,7,4,67.42,Riesgo Alto
+2021-01-24,2021,2021-01,3,Seguridad,2,1,64.55,Riesgo Alto
+2021-01-24,2021,2021-01,3,Disponibilidad,7,5,74.56,Aceptable
+2021-01-24,2021,2021-01,3,Cumplimiento,4,2,64.36,Riesgo Alto
+2021-01-24,2021,2021-01,3,Operacional,7,4,69.72,Riesgo Alto
+2021-01-24,2021,2021-01,3,Tecnológico,7,4,68.18,Riesgo Alto
+2021-01-31,2021,2021-01,4,Seguridad,4,2,63.79,Riesgo Alto
+2021-01-31,2021,2021-01,4,Disponibilidad,2,1,64.61,Riesgo Alto
+2021-01-31,2021,2021-01,4,Cumplimiento,4,3,75.98,Aceptable
+2021-01-31,2021,2021-01,4,Operacional,2,1,70.37,Aceptable
+2021-01-31,2021,2021-01,4,Tecnológico,5,3,73.0,Aceptable
+2021-02-07,2021,2021-02,5,Seguridad,5,3,66.68,Riesgo Alto
+2021-02-07,2021,2021-02,5,Disponibilidad,3,1,64.51,Riesgo Alto
+2021-02-07,2021,2021-02,5,Cumplimiento,3,2,73.44,Aceptable
+2021-02-07,2021,2021-02,5,Operacional,7,5,71.69,Aceptable
+2021-02-07,2021,2021-02,5,Tecnológico,6,3,65.4,Riesgo Alto
+2021-02-14,2021,2021-02,6,Seguridad,7,5,73.84,Aceptable
+2021-02-14,2021,2021-02,6,Disponibilidad,3,2,74.81,Aceptable
+2021-02-14,2021,2021-02,6,Cumplimiento,6,4,71.57,Aceptable
+2021-02-14,2021,2021-02,6,Operacional,5,3,65.13,Riesgo Alto
+2021-02-14,2021,2021-02,6,Tecnológico,3,2,74.01,Aceptable
+2021-02-21,2021,2021-02,7,Seguridad,4,3,77.58,Aceptable
+2021-02-21,2021,2021-02,7,Disponibilidad,6,4,75.08,Aceptable
+2021-02-21,2021,2021-02,7,Cumplimiento,7,5,77.37,Aceptable
+2021-02-21,2021,2021-02,7,Operacional,5,3,71.92,Aceptable
+2021-02-21,2021,2021-02,7,Tecnológico,2,1,70.64,Aceptable
+2021-02-28,2021,2021-02,8,Seguridad,7,4,67.1,Riesgo Alto
+2021-02-28,2021,2021-02,8,Disponibilidad,7,4,67.32,Riesgo Alto
+2021-02-28,2021,2021-02,8,Cumplimiento,5,3,75.9,Aceptable
+2021-02-28,2021,2021-02,8,Operacional,5,3,75.91,Aceptable
+2021-02-28,2021,2021-02,8,Tecnológico,2,1,77.52,Aceptable
+2021-03-07,2021,2021-03,9,Seguridad,4,2,65.41,Riesgo Alto
+2021-03-07,2021,2021-03,9,Disponibilidad,7,4,65.27,Riesgo Alto
+2021-03-07,2021,2021-03,9,Cumplimiento,3,2,78.56,Aceptable
+2021-03-07,2021,2021-03,9,Operacional,4,2,71.68,Aceptable
+2021-03-07,2021,2021-03,9,Tecnológico,7,4,70.76,Aceptable
+2021-03-14,2021,2021-03,10,Seguridad,5,4,80.38,Aceptable
+2021-03-14,2021,2021-03,10,Disponibilidad,5,3,75.25,Aceptable
+2021-03-14,2021,2021-03,10,Cumplimiento,5,4,80.35,Aceptable
+2021-03-14,2021,2021-03,10,Operacional,5,3,76.12,Aceptable
+2021-03-14,2021,2021-03,10,Tecnológico,7,5,78.51,Aceptable
+2021-03-21,2021,2021-03,11,Seguridad,6,4,80.42,Aceptable
+2021-03-21,2021,2021-03,11,Disponibilidad,2,1,70.23,Aceptable
+2021-03-21,2021,2021-03,11,Cumplimiento,4,3,75.27,Aceptable
+2021-03-21,2021,2021-03,11,Operacional,4,3,75.77,Aceptable
+2021-03-21,2021,2021-03,11,Tecnológico,7,5,79.58,Aceptable
+2021-03-28,2021,2021-03,12,Seguridad,3,2,73.89,Aceptable
+2021-03-28,2021,2021-03,12,Disponibilidad,2,1,75.17,Aceptable
+2021-03-28,2021,2021-03,12,Cumplimiento,4,2,73.8,Aceptable
+2021-03-28,2021,2021-03,12,Operacional,3,1,65.78,Riesgo Alto
+2021-03-28,2021,2021-03,12,Tecnológico,4,2,70.36,Aceptable
+2021-04-04,2021,2021-04,13,Seguridad,3,1,65.49,Riesgo Alto
+2021-04-04,2021,2021-04,13,Disponibilidad,4,2,68.98,Riesgo Alto
+2021-04-04,2021,2021-04,13,Cumplimiento,2,1,76.71,Aceptable
+2021-04-04,2021,2021-04,13,Operacional,2,1,77.54,Aceptable
+2021-04-04,2021,2021-04,13,Tecnológico,3,2,73.01,Aceptable
+2021-04-11,2021,2021-04,14,Seguridad,6,4,72.73,Aceptable
+2021-04-11,2021,2021-04,14,Disponibilidad,5,3,69.1,Riesgo Alto
+2021-04-11,2021,2021-04,14,Cumplimiento,6,3,65.89,Riesgo Alto
+2021-04-11,2021,2021-04,14,Operacional,5,3,73.13,Aceptable
+2021-04-11,2021,2021-04,14,Tecnológico,2,1,70.02,Aceptable
+2021-04-18,2021,2021-04,15,Seguridad,2,1,72.97,Aceptable
+2021-04-18,2021,2021-04,15,Disponibilidad,2,1,68.92,Riesgo Alto
+2021-04-18,2021,2021-04,15,Cumplimiento,7,4,65.42,Riesgo Alto
+2021-04-18,2021,2021-04,15,Operacional,7,4,66.71,Riesgo Alto
+2021-04-18,2021,2021-04,15,Tecnológico,4,2,67.83,Riesgo Alto
+2021-04-25,2021,2021-04,16,Seguridad,4,2,66.13,Riesgo Alto
+2021-04-25,2021,2021-04,16,Disponibilidad,4,3,75.16,Aceptable
+2021-04-25,2021,2021-04,16,Cumplimiento,2,1,70.94,Aceptable
+2021-04-25,2021,2021-04,16,Operacional,6,4,69.21,Riesgo Alto
+2021-04-25,2021,2021-04,16,Tecnológico,2,1,68.29,Riesgo Alto
+2021-05-02,2021,2021-05,17,Seguridad,6,4,73.18,Aceptable
+2021-05-02,2021,2021-05,17,Disponibilidad,7,5,74.51,Aceptable
+2021-05-02,2021,2021-05,17,Cumplimiento,2,1,70.33,Aceptable
+2021-05-02,2021,2021-05,17,Operacional,6,4,78.23,Aceptable
+2021-05-02,2021,2021-05,17,Tecnológico,4,3,75.06,Aceptable
+2021-05-09,2021,2021-05,18,Seguridad,7,5,80.0,Aceptable
+2021-05-09,2021,2021-05,18,Disponibilidad,2,1,70.63,Aceptable
+2021-05-09,2021,2021-05,18,Cumplimiento,2,1,69.69,Riesgo Alto
+2021-05-09,2021,2021-05,18,Operacional,5,3,78.04,Aceptable
+2021-05-09,2021,2021-05,18,Tecnológico,3,2,70.29,Aceptable
+2021-05-16,2021,2021-05,19,Seguridad,6,4,75.01,Aceptable
+2021-05-16,2021,2021-05,19,Disponibilidad,6,4,72.33,Aceptable
+2021-05-16,2021,2021-05,19,Cumplimiento,2,1,66.82,Riesgo Alto
+2021-05-16,2021,2021-05,19,Operacional,3,2,77.87,Aceptable
+2021-05-16,2021,2021-05,19,Tecnológico,2,1,68.93,Riesgo Alto
+2021-05-23,2021,2021-05,20,Seguridad,5,3,65.86,Riesgo Alto
+2021-05-23,2021,2021-05,20,Disponibilidad,6,4,78.62,Aceptable
+2021-05-23,2021,2021-05,20,Cumplimiento,5,3,76.02,Aceptable
+2021-05-23,2021,2021-05,20,Operacional,2,1,70.57,Aceptable
+2021-05-23,2021,2021-05,20,Tecnológico,3,2,80.55,Aceptable
+2021-05-30,2021,2021-05,21,Seguridad,4,2,74.67,Aceptable
+2021-05-30,2021,2021-05,21,Disponibilidad,6,4,73.08,Aceptable
+2021-05-30,2021,2021-05,21,Cumplimiento,5,3,78.67,Aceptable
+2021-05-30,2021,2021-05,21,Operacional,3,2,78.81,Aceptable
+2021-05-30,2021,2021-05,21,Tecnológico,5,4,81.7,Aceptable
+2021-06-06,2021,2021-06,22,Seguridad,3,2,69.2,Riesgo Alto
+2021-06-06,2021,2021-06,22,Disponibilidad,2,1,79.94,Aceptable
+2021-06-06,2021,2021-06,22,Cumplimiento,7,4,66.78,Riesgo Alto
+2021-06-06,2021,2021-06,22,Operacional,7,4,69.97,Riesgo Alto
+2021-06-06,2021,2021-06,22,Tecnológico,4,3,80.32,Aceptable
+2021-06-13,2021,2021-06,23,Seguridad,3,2,79.73,Aceptable
+2021-06-13,2021,2021-06,23,Disponibilidad,6,4,76.78,Aceptable
+2021-06-13,2021,2021-06,23,Cumplimiento,3,2,80.57,Aceptable
+2021-06-13,2021,2021-06,23,Operacional,2,1,78.15,Aceptable
+2021-06-13,2021,2021-06,23,Tecnológico,3,2,76.87,Aceptable
+2021-06-20,2021,2021-06,24,Seguridad,5,3,69.46,Riesgo Alto
+2021-06-20,2021,2021-06,24,Disponibilidad,6,4,81.06,Aceptable
+2021-06-20,2021,2021-06,24,Cumplimiento,7,5,72.09,Aceptable
+2021-06-20,2021,2021-06,24,Operacional,6,4,78.36,Aceptable
+2021-06-20,2021,2021-06,24,Tecnológico,2,1,68.53,Riesgo Alto
+2021-06-27,2021,2021-06,25,Seguridad,5,3,72.52,Aceptable
+2021-06-27,2021,2021-06,25,Disponibilidad,2,1,69.14,Riesgo Alto
+2021-06-27,2021,2021-06,25,Cumplimiento,2,1,77.89,Aceptable
+2021-06-27,2021,2021-06,25,Operacional,5,3,69.53,Riesgo Alto
+2021-06-27,2021,2021-06,25,Tecnológico,7,5,72.09,Aceptable
+2021-07-04,2021,2021-07,26,Seguridad,4,2,73.18,Aceptable
+2021-07-04,2021,2021-07,26,Disponibilidad,7,4,71.35,Aceptable
+2021-07-04,2021,2021-07,26,Cumplimiento,6,4,70.06,Aceptable
+2021-07-04,2021,2021-07,26,Operacional,4,2,66.45,Riesgo Alto
+2021-07-04,2021,2021-07,26,Tecnológico,7,4,69.52,Riesgo Alto
+2021-07-11,2021,2021-07,27,Seguridad,2,1,72.39,Aceptable
+2021-07-11,2021,2021-07,27,Disponibilidad,2,1,71.64,Aceptable
+2021-07-11,2021,2021-07,27,Cumplimiento,4,3,80.0,Aceptable
+2021-07-11,2021,2021-07,27,Operacional,2,1,76.98,Aceptable
+2021-07-11,2021,2021-07,27,Tecnológico,5,3,72.49,Aceptable
+2021-07-18,2021,2021-07,28,Seguridad,4,3,79.19,Aceptable
+2021-07-18,2021,2021-07,28,Disponibilidad,7,4,68.32,Riesgo Alto
+2021-07-18,2021,2021-07,28,Cumplimiento,3,2,71.65,Aceptable
+2021-07-18,2021,2021-07,28,Operacional,5,3,74.35,Aceptable
+2021-07-18,2021,2021-07,28,Tecnológico,2,1,71.42,Aceptable
+2021-07-25,2021,2021-07,29,Seguridad,6,4,80.64,Aceptable
+2021-07-25,2021,2021-07,29,Disponibilidad,3,2,78.93,Aceptable
+2021-07-25,2021,2021-07,29,Cumplimiento,2,1,81.29,Aceptable
+2021-07-25,2021,2021-07,29,Operacional,3,2,81.82,Aceptable
+2021-07-25,2021,2021-07,29,Tecnológico,6,4,71.95,Aceptable
+2021-08-01,2021,2021-08,30,Seguridad,2,1,77.53,Aceptable
+2021-08-01,2021,2021-08,30,Disponibilidad,4,2,74.99,Aceptable
+2021-08-01,2021,2021-08,30,Cumplimiento,4,2,71.71,Aceptable
+2021-08-01,2021,2021-08,30,Operacional,5,3,79.66,Aceptable
+2021-08-01,2021,2021-08,30,Tecnológico,7,4,66.9,Riesgo Alto
+2021-08-08,2021,2021-08,31,Seguridad,4,3,82.18,Aceptable
+2021-08-08,2021,2021-08,31,Disponibilidad,6,4,77.86,Aceptable
+2021-08-08,2021,2021-08,31,Cumplimiento,7,5,82.03,Aceptable
+2021-08-08,2021,2021-08,31,Operacional,4,3,82.07,Aceptable
+2021-08-08,2021,2021-08,31,Tecnológico,7,5,80.67,Aceptable
+2021-08-15,2021,2021-08,32,Seguridad,2,1,82.84,Aceptable
+2021-08-15,2021,2021-08,32,Disponibilidad,6,4,78.93,Aceptable
+2021-08-15,2021,2021-08,32,Cumplimiento,7,4,71.09,Aceptable
+2021-08-15,2021,2021-08,32,Operacional,4,3,77.27,Aceptable
+2021-08-15,2021,2021-08,32,Tecnológico,6,4,67.91,Riesgo Alto
+2021-08-22,2021,2021-08,33,Seguridad,4,3,82.53,Aceptable
+2021-08-22,2021,2021-08,33,Disponibilidad,7,4,68.59,Riesgo Alto
+2021-08-22,2021,2021-08,33,Cumplimiento,2,1,80.3,Aceptable
+2021-08-22,2021,2021-08,33,Operacional,3,2,75.96,Aceptable
+2021-08-22,2021,2021-08,33,Tecnológico,3,2,73.6,Aceptable
+2021-08-29,2021,2021-08,34,Seguridad,6,4,75.47,Aceptable
+2021-08-29,2021,2021-08,34,Disponibilidad,2,1,74.67,Aceptable
+2021-08-29,2021,2021-08,34,Cumplimiento,6,4,82.99,Aceptable
+2021-08-29,2021,2021-08,34,Operacional,4,3,78.64,Aceptable
+2021-08-29,2021,2021-08,34,Tecnológico,7,5,73.73,Aceptable
+2021-09-05,2021,2021-09,35,Seguridad,7,5,78.15,Aceptable
+2021-09-05,2021,2021-09,35,Disponibilidad,6,4,82.17,Aceptable
+2021-09-05,2021,2021-09,35,Cumplimiento,2,1,72.28,Aceptable
+2021-09-05,2021,2021-09,35,Operacional,5,3,69.21,Riesgo Alto
+2021-09-05,2021,2021-09,35,Tecnológico,3,2,72.31,Aceptable
+2021-09-12,2021,2021-09,36,Seguridad,3,2,68.29,Riesgo Alto
+2021-09-12,2021,2021-09,36,Disponibilidad,7,5,73.13,Aceptable
+2021-09-12,2021,2021-09,36,Cumplimiento,3,2,77.63,Aceptable
+2021-09-12,2021,2021-09,36,Operacional,4,3,77.61,Aceptable
+2021-09-12,2021,2021-09,36,Tecnológico,6,4,72.3,Aceptable
+2021-09-19,2021,2021-09,37,Seguridad,6,4,69.88,Riesgo Alto
+2021-09-19,2021,2021-09,37,Disponibilidad,7,5,82.23,Aceptable
+2021-09-19,2021,2021-09,37,Cumplimiento,6,4,83.26,Aceptable
+2021-09-19,2021,2021-09,37,Operacional,7,5,71.74,Aceptable
+2021-09-19,2021,2021-09,37,Tecnológico,7,5,73.16,Aceptable
+2021-09-26,2021,2021-09,38,Seguridad,3,2,70.45,Aceptable
+2021-09-26,2021,2021-09,38,Disponibilidad,6,4,68.3,Riesgo Alto
+2021-09-26,2021,2021-09,38,Cumplimiento,6,4,74.42,Aceptable
+2021-09-26,2021,2021-09,38,Operacional,7,5,83.49,Aceptable
+2021-09-26,2021,2021-09,38,Tecnológico,7,5,75.35,Aceptable
+2021-10-03,2021,2021-10,39,Seguridad,6,4,78.5,Aceptable
+2021-10-03,2021,2021-10,39,Disponibilidad,7,5,74.53,Aceptable
+2021-10-03,2021,2021-10,39,Cumplimiento,6,4,74.46,Aceptable
+2021-10-03,2021,2021-10,39,Operacional,7,4,71.02,Aceptable
+2021-10-03,2021,2021-10,39,Tecnológico,3,2,78.27,Aceptable
+2021-10-10,2021,2021-10,40,Seguridad,2,1,70.2,Aceptable
+2021-10-10,2021,2021-10,40,Disponibilidad,3,2,68.74,Riesgo Alto
+2021-10-10,2021,2021-10,40,Cumplimiento,5,3,76.21,Aceptable
+2021-10-10,2021,2021-10,40,Operacional,3,2,79.95,Aceptable
+2021-10-10,2021,2021-10,40,Tecnológico,2,1,83.94,Aceptable
+2021-10-17,2021,2021-10,41,Seguridad,6,4,72.28,Aceptable
+2021-10-17,2021,2021-10,41,Disponibilidad,4,2,69.0,Riesgo Alto
+2021-10-17,2021,2021-10,41,Cumplimiento,2,1,74.83,Aceptable
+2021-10-17,2021,2021-10,41,Operacional,2,1,69.81,Riesgo Alto
+2021-10-17,2021,2021-10,41,Tecnológico,4,3,82.77,Aceptable
+2021-10-24,2021,2021-10,42,Seguridad,7,5,80.12,Aceptable
+2021-10-24,2021,2021-10,42,Disponibilidad,6,4,70.17,Aceptable
+2021-10-24,2021,2021-10,42,Cumplimiento,7,5,82.26,Aceptable
+2021-10-24,2021,2021-10,42,Operacional,2,1,71.95,Aceptable
+2021-10-24,2021,2021-10,42,Tecnológico,2,1,70.15,Aceptable
+2021-10-31,2021,2021-10,43,Seguridad,5,3,72.24,Aceptable
+2021-10-31,2021,2021-10,43,Disponibilidad,4,2,74.36,Aceptable
+2021-10-31,2021,2021-10,43,Cumplimiento,2,1,79.86,Aceptable
+2021-10-31,2021,2021-10,43,Operacional,2,1,80.35,Aceptable
+2021-10-31,2021,2021-10,43,Tecnológico,5,4,84.27,Aceptable
+2021-11-07,2021,2021-11,44,Seguridad,3,2,69.34,Riesgo Alto
+2021-11-07,2021,2021-11,44,Disponibilidad,3,2,72.87,Aceptable
+2021-11-07,2021,2021-11,44,Cumplimiento,2,1,74.75,Aceptable
+2021-11-07,2021,2021-11,44,Operacional,3,2,75.72,Aceptable
+2021-11-07,2021,2021-11,44,Tecnológico,2,1,75.59,Aceptable
+2021-11-14,2021,2021-11,45,Seguridad,6,4,76.74,Aceptable
+2021-11-14,2021,2021-11,45,Disponibilidad,3,2,82.46,Aceptable
+2021-11-14,2021,2021-11,45,Cumplimiento,4,2,69.11,Riesgo Alto
+2021-11-14,2021,2021-11,45,Operacional,3,2,75.97,Aceptable
+2021-11-14,2021,2021-11,45,Tecnológico,4,3,81.53,Aceptable
+2021-11-21,2021,2021-11,46,Seguridad,3,2,84.51,Aceptable
+2021-11-21,2021,2021-11,46,Disponibilidad,7,5,72.7,Aceptable
+2021-11-21,2021,2021-11,46,Cumplimiento,2,1,82.9,Aceptable
+2021-11-21,2021,2021-11,46,Operacional,2,1,82.44,Aceptable
+2021-11-21,2021,2021-11,46,Tecnológico,4,2,72.99,Aceptable
+2021-11-28,2021,2021-11,47,Seguridad,3,2,74.37,Aceptable
+2021-11-28,2021,2021-11,47,Disponibilidad,4,2,74.05,Aceptable
+2021-11-28,2021,2021-11,47,Cumplimiento,3,2,72.6,Aceptable
+2021-11-28,2021,2021-11,47,Operacional,4,2,69.13,Riesgo Alto
+2021-11-28,2021,2021-11,47,Tecnológico,5,4,82.08,Aceptable
+2021-12-05,2021,2021-12,48,Seguridad,7,5,84.83,Aceptable
+2021-12-05,2021,2021-12,48,Disponibilidad,7,5,72.82,Aceptable
+2021-12-05,2021,2021-12,48,Cumplimiento,4,3,75.81,Aceptable
+2021-12-05,2021,2021-12,48,Operacional,2,1,73.62,Aceptable
+2021-12-05,2021,2021-12,48,Tecnológico,4,2,74.77,Aceptable
+2021-12-12,2021,2021-12,49,Seguridad,6,4,83.09,Aceptable
+2021-12-12,2021,2021-12,49,Disponibilidad,5,4,82.0,Aceptable
+2021-12-12,2021,2021-12,49,Cumplimiento,4,2,74.36,Aceptable
+2021-12-12,2021,2021-12,49,Operacional,3,2,82.52,Aceptable
+2021-12-12,2021,2021-12,49,Tecnológico,7,4,70.04,Aceptable
+2021-12-19,2021,2021-12,50,Seguridad,3,2,73.97,Aceptable
+2021-12-19,2021,2021-12,50,Disponibilidad,7,5,79.98,Aceptable
+2021-12-19,2021,2021-12,50,Cumplimiento,7,5,83.85,Aceptable
+2021-12-19,2021,2021-12,50,Operacional,4,3,79.35,Aceptable
+2021-12-19,2021,2021-12,50,Tecnológico,4,2,74.42,Aceptable
+2021-12-26,2021,2021-12,51,Seguridad,3,2,83.87,Aceptable
+2021-12-26,2021,2021-12,51,Disponibilidad,6,4,70.0,Riesgo Alto
+2021-12-26,2021,2021-12,51,Cumplimiento,6,4,78.03,Aceptable
+2021-12-26,2021,2021-12,51,Operacional,6,4,72.07,Aceptable
+2021-12-26,2021,2021-12,51,Tecnológico,2,1,73.27,Aceptable
+2022-01-02,2022,2022-01,52,Seguridad,6,4,71.66,Aceptable
+2022-01-02,2022,2022-01,52,Disponibilidad,4,3,83.1,Aceptable
+2022-01-02,2022,2022-01,52,Cumplimiento,3,2,77.62,Aceptable
+2022-01-02,2022,2022-01,52,Operacional,2,1,82.82,Aceptable
+2022-01-02,2022,2022-01,52,Tecnológico,4,2,69.66,Riesgo Alto
+2022-01-09,2022,2022-01,1,Seguridad,4,3,83.76,Aceptable
+2022-01-09,2022,2022-01,1,Disponibilidad,5,3,79.25,Aceptable
+2022-01-09,2022,2022-01,1,Cumplimiento,5,3,74.18,Aceptable
+2022-01-09,2022,2022-01,1,Operacional,7,5,84.79,Aceptable
+2022-01-09,2022,2022-01,1,Tecnológico,7,5,78.27,Aceptable
+2022-01-16,2022,2022-01,2,Seguridad,4,3,80.89,Aceptable
+2022-01-16,2022,2022-01,2,Disponibilidad,3,2,74.64,Aceptable
+2022-01-16,2022,2022-01,2,Cumplimiento,6,4,82.95,Aceptable
+2022-01-16,2022,2022-01,2,Operacional,7,5,81.5,Aceptable
+2022-01-16,2022,2022-01,2,Tecnológico,5,4,80.29,Aceptable
+2022-01-23,2022,2022-01,3,Seguridad,6,4,76.21,Aceptable
+2022-01-23,2022,2022-01,3,Disponibilidad,4,3,75.83,Aceptable
+2022-01-23,2022,2022-01,3,Cumplimiento,6,4,72.77,Aceptable
+2022-01-23,2022,2022-01,3,Operacional,3,2,73.15,Aceptable
+2022-01-23,2022,2022-01,3,Tecnológico,5,4,85.3,Aceptable
+2022-01-30,2022,2022-01,4,Seguridad,2,1,70.6,Aceptable
+2022-01-30,2022,2022-01,4,Disponibilidad,6,5,83.56,Aceptable
+2022-01-30,2022,2022-01,4,Cumplimiento,4,3,85.07,Aceptable
+2022-01-30,2022,2022-01,4,Operacional,6,4,77.97,Aceptable
+2022-01-30,2022,2022-01,4,Tecnológico,3,2,71.65,Aceptable
+2022-02-06,2022,2022-02,5,Seguridad,7,5,76.13,Aceptable
+2022-02-06,2022,2022-02,5,Disponibilidad,7,5,77.68,Aceptable
+2022-02-06,2022,2022-02,5,Cumplimiento,4,3,80.07,Aceptable
+2022-02-06,2022,2022-02,5,Operacional,6,4,72.36,Aceptable
+2022-02-06,2022,2022-02,5,Tecnológico,2,1,78.53,Aceptable
+2022-02-13,2022,2022-02,6,Seguridad,4,3,83.36,Aceptable
+2022-02-13,2022,2022-02,6,Disponibilidad,3,2,84.93,Aceptable
+2022-02-13,2022,2022-02,6,Cumplimiento,2,1,75.5,Aceptable
+2022-02-13,2022,2022-02,6,Operacional,7,5,80.89,Aceptable
+2022-02-13,2022,2022-02,6,Tecnológico,7,5,75.84,Aceptable
+2022-02-20,2022,2022-02,7,Seguridad,3,2,79.81,Aceptable
+2022-02-20,2022,2022-02,7,Disponibilidad,5,3,79.1,Aceptable
+2022-02-20,2022,2022-02,7,Cumplimiento,5,3,72.38,Aceptable
+2022-02-20,2022,2022-02,7,Operacional,3,2,85.75,Aceptable
+2022-02-20,2022,2022-02,7,Tecnológico,3,2,79.3,Aceptable
+2022-02-27,2022,2022-02,8,Seguridad,5,4,80.0,Aceptable
+2022-02-27,2022,2022-02,8,Disponibilidad,2,1,78.8,Aceptable
+2022-02-27,2022,2022-02,8,Cumplimiento,7,5,83.57,Aceptable
+2022-02-27,2022,2022-02,8,Operacional,2,1,73.48,Aceptable
+2022-02-27,2022,2022-02,8,Tecnológico,4,3,83.2,Aceptable
+2022-03-06,2022,2022-03,9,Seguridad,3,2,76.56,Aceptable
+2022-03-06,2022,2022-03,9,Disponibilidad,3,2,84.64,Aceptable
+2022-03-06,2022,2022-03,9,Cumplimiento,2,1,81.45,Aceptable
+2022-03-06,2022,2022-03,9,Operacional,7,5,71.66,Aceptable
+2022-03-06,2022,2022-03,9,Tecnológico,3,2,75.56,Aceptable
+2022-03-13,2022,2022-03,10,Seguridad,3,2,82.23,Aceptable
+2022-03-13,2022,2022-03,10,Disponibilidad,4,2,72.02,Aceptable
+2022-03-13,2022,2022-03,10,Cumplimiento,2,1,71.91,Aceptable
+2022-03-13,2022,2022-03,10,Operacional,7,5,75.39,Aceptable
+2022-03-13,2022,2022-03,10,Tecnológico,2,1,74.33,Aceptable
+2022-03-20,2022,2022-03,11,Seguridad,2,1,70.84,Aceptable
+2022-03-20,2022,2022-03,11,Disponibilidad,2,1,74.67,Aceptable
+2022-03-20,2022,2022-03,11,Cumplimiento,2,1,76.23,Aceptable
+2022-03-20,2022,2022-03,11,Operacional,2,1,73.33,Aceptable
+2022-03-20,2022,2022-03,11,Tecnológico,7,5,74.03,Aceptable
+2022-03-27,2022,2022-03,12,Seguridad,4,2,74.7,Aceptable
+2022-03-27,2022,2022-03,12,Disponibilidad,3,2,85.01,Aceptable
+2022-03-27,2022,2022-03,12,Cumplimiento,3,2,79.41,Aceptable
+2022-03-27,2022,2022-03,12,Operacional,3,2,82.52,Aceptable
+2022-03-27,2022,2022-03,12,Tecnológico,5,4,85.52,Aceptable
+2022-04-03,2022,2022-04,13,Seguridad,3,2,74.2,Aceptable
+2022-04-03,2022,2022-04,13,Disponibilidad,7,5,83.14,Aceptable
+2022-04-03,2022,2022-04,13,Cumplimiento,5,4,86.21,Aceptable
+2022-04-03,2022,2022-04,13,Operacional,5,4,80.31,Aceptable
+2022-04-03,2022,2022-04,13,Tecnológico,4,2,71.85,Aceptable
+2022-04-10,2022,2022-04,14,Seguridad,6,4,75.21,Aceptable
+2022-04-10,2022,2022-04,14,Disponibilidad,5,3,74.73,Aceptable
+2022-04-10,2022,2022-04,14,Cumplimiento,4,2,72.49,Aceptable
+2022-04-10,2022,2022-04,14,Operacional,3,2,77.88,Aceptable
+2022-04-10,2022,2022-04,14,Tecnológico,3,2,75.29,Aceptable
+2022-04-17,2022,2022-04,15,Seguridad,2,1,78.34,Aceptable
+2022-04-17,2022,2022-04,15,Disponibilidad,6,4,74.26,Aceptable
+2022-04-17,2022,2022-04,15,Cumplimiento,2,1,85.77,Aceptable
+2022-04-17,2022,2022-04,15,Operacional,2,1,76.01,Aceptable
+2022-04-17,2022,2022-04,15,Tecnológico,5,4,84.21,Aceptable
+2022-04-24,2022,2022-04,16,Seguridad,4,3,78.28,Aceptable
+2022-04-24,2022,2022-04,16,Disponibilidad,3,2,77.15,Aceptable
+2022-04-24,2022,2022-04,16,Cumplimiento,5,4,84.0,Aceptable
+2022-04-24,2022,2022-04,16,Operacional,7,5,81.31,Aceptable
+2022-04-24,2022,2022-04,16,Tecnológico,7,5,80.05,Aceptable
+2022-05-01,2022,2022-05,17,Seguridad,6,5,83.37,Aceptable
+2022-05-01,2022,2022-05,17,Disponibilidad,2,1,72.28,Aceptable
+2022-05-01,2022,2022-05,17,Cumplimiento,3,2,72.46,Aceptable
+2022-05-01,2022,2022-05,17,Operacional,3,2,80.79,Aceptable
+2022-05-01,2022,2022-05,17,Tecnológico,5,4,81.36,Aceptable
+2022-05-08,2022,2022-05,18,Seguridad,5,3,74.56,Aceptable
+2022-05-08,2022,2022-05,18,Disponibilidad,2,1,75.08,Aceptable
+2022-05-08,2022,2022-05,18,Cumplimiento,3,2,74.84,Aceptable
+2022-05-08,2022,2022-05,18,Operacional,2,1,83.55,Aceptable
+2022-05-08,2022,2022-05,18,Tecnológico,6,4,77.66,Aceptable
+2022-05-15,2022,2022-05,19,Seguridad,4,3,87.17,Aceptable
+2022-05-15,2022,2022-05,19,Disponibilidad,6,4,78.03,Aceptable
+2022-05-15,2022,2022-05,19,Cumplimiento,3,2,78.53,Aceptable
+2022-05-15,2022,2022-05,19,Operacional,7,5,76.49,Aceptable
+2022-05-15,2022,2022-05,19,Tecnológico,3,2,80.09,Aceptable
+2022-05-22,2022,2022-05,20,Seguridad,6,4,81.7,Aceptable
+2022-05-22,2022,2022-05,20,Disponibilidad,7,5,78.96,Aceptable
+2022-05-22,2022,2022-05,20,Cumplimiento,3,2,79.99,Aceptable
+2022-05-22,2022,2022-05,20,Operacional,5,3,72.67,Aceptable
+2022-05-22,2022,2022-05,20,Tecnológico,3,2,87.45,Aceptable
+2022-05-29,2022,2022-05,21,Seguridad,6,4,82.54,Aceptable
+2022-05-29,2022,2022-05,21,Disponibilidad,7,5,74.14,Aceptable
+2022-05-29,2022,2022-05,21,Cumplimiento,3,2,74.38,Aceptable
+2022-05-29,2022,2022-05,21,Operacional,4,3,86.95,Aceptable
+2022-05-29,2022,2022-05,21,Tecnológico,5,4,83.14,Aceptable
+2022-06-05,2022,2022-06,22,Seguridad,5,3,78.74,Aceptable
+2022-06-05,2022,2022-06,22,Disponibilidad,4,3,77.52,Aceptable
+2022-06-05,2022,2022-06,22,Cumplimiento,6,4,80.3,Aceptable
+2022-06-05,2022,2022-06,22,Operacional,6,5,86.41,Aceptable
+2022-06-05,2022,2022-06,22,Tecnológico,7,5,73.78,Aceptable
+2022-06-12,2022,2022-06,23,Seguridad,5,4,85.22,Aceptable
+2022-06-12,2022,2022-06,23,Disponibilidad,7,5,77.38,Aceptable
+2022-06-12,2022,2022-06,23,Cumplimiento,4,3,77.61,Aceptable
+2022-06-12,2022,2022-06,23,Operacional,4,3,85.79,Aceptable
+2022-06-12,2022,2022-06,23,Tecnológico,6,5,84.6,Aceptable
+2022-06-19,2022,2022-06,24,Seguridad,4,3,83.17,Aceptable
+2022-06-19,2022,2022-06,24,Disponibilidad,4,2,74.94,Aceptable
+2022-06-19,2022,2022-06,24,Cumplimiento,6,4,80.85,Aceptable
+2022-06-19,2022,2022-06,24,Operacional,4,3,75.43,Aceptable
+2022-06-19,2022,2022-06,24,Tecnológico,2,1,80.58,Aceptable
+2022-06-26,2022,2022-06,25,Seguridad,6,5,85.79,Aceptable
+2022-06-26,2022,2022-06,25,Disponibilidad,7,6,86.13,Aceptable
+2022-06-26,2022,2022-06,25,Cumplimiento,6,4,79.37,Aceptable
+2022-06-26,2022,2022-06,25,Operacional,7,5,76.65,Aceptable
+2022-06-26,2022,2022-06,25,Tecnológico,3,2,87.29,Aceptable
+2022-07-03,2022,2022-07,26,Seguridad,5,3,74.01,Aceptable
+2022-07-03,2022,2022-07,26,Disponibilidad,3,2,73.37,Aceptable
+2022-07-03,2022,2022-07,26,Cumplimiento,3,2,74.15,Aceptable
+2022-07-03,2022,2022-07,26,Operacional,4,3,77.37,Aceptable
+2022-07-03,2022,2022-07,26,Tecnológico,4,3,80.24,Aceptable
+2022-07-10,2022,2022-07,27,Seguridad,5,3,75.44,Aceptable
+2022-07-10,2022,2022-07,27,Disponibilidad,3,2,78.72,Aceptable
+2022-07-10,2022,2022-07,27,Cumplimiento,7,6,87.02,Aceptable
+2022-07-10,2022,2022-07,27,Operacional,3,2,84.29,Aceptable
+2022-07-10,2022,2022-07,27,Tecnológico,3,2,74.59,Aceptable
+2022-07-17,2022,2022-07,28,Seguridad,3,2,82.23,Aceptable
+2022-07-17,2022,2022-07,28,Disponibilidad,6,5,83.43,Aceptable
+2022-07-17,2022,2022-07,28,Cumplimiento,2,1,82.4,Aceptable
+2022-07-17,2022,2022-07,28,Operacional,2,1,79.29,Aceptable
+2022-07-17,2022,2022-07,28,Tecnológico,3,2,78.11,Aceptable
+2022-07-24,2022,2022-07,29,Seguridad,6,5,84.53,Aceptable
+2022-07-24,2022,2022-07,29,Disponibilidad,6,5,85.76,Aceptable
+2022-07-24,2022,2022-07,29,Cumplimiento,5,3,74.24,Aceptable
+2022-07-24,2022,2022-07,29,Operacional,5,4,80.99,Aceptable
+2022-07-24,2022,2022-07,29,Tecnológico,7,5,84.88,Aceptable
+2022-07-31,2022,2022-07,30,Seguridad,7,5,81.93,Aceptable
+2022-07-31,2022,2022-07,30,Disponibilidad,3,2,74.12,Aceptable
+2022-07-31,2022,2022-07,30,Cumplimiento,5,4,87.76,Aceptable
+2022-07-31,2022,2022-07,30,Operacional,2,1,78.25,Aceptable
+2022-07-31,2022,2022-07,30,Tecnológico,7,6,86.38,Aceptable
+2022-08-07,2022,2022-08,31,Seguridad,6,4,80.72,Aceptable
+2022-08-07,2022,2022-08,31,Disponibilidad,5,4,86.76,Aceptable
+2022-08-07,2022,2022-08,31,Cumplimiento,7,5,73.31,Aceptable
+2022-08-07,2022,2022-08,31,Operacional,2,1,83.1,Aceptable
+2022-08-07,2022,2022-08,31,Tecnológico,7,5,80.88,Aceptable
+2022-08-14,2022,2022-08,32,Seguridad,3,2,84.0,Aceptable
+2022-08-14,2022,2022-08,32,Disponibilidad,6,4,81.53,Aceptable
+2022-08-14,2022,2022-08,32,Cumplimiento,6,4,77.74,Aceptable
+2022-08-14,2022,2022-08,32,Operacional,2,1,80.11,Aceptable
+2022-08-14,2022,2022-08,32,Tecnológico,5,3,74.94,Aceptable
+2022-08-21,2022,2022-08,33,Seguridad,5,3,77.19,Aceptable
+2022-08-21,2022,2022-08,33,Disponibilidad,4,3,77.44,Aceptable
+2022-08-21,2022,2022-08,33,Cumplimiento,2,1,85.66,Aceptable
+2022-08-21,2022,2022-08,33,Operacional,3,2,82.59,Aceptable
+2022-08-21,2022,2022-08,33,Tecnológico,4,3,86.03,Aceptable
+2022-08-28,2022,2022-08,34,Seguridad,2,1,74.32,Aceptable
+2022-08-28,2022,2022-08,34,Disponibilidad,7,5,79.6,Aceptable
+2022-08-28,2022,2022-08,34,Cumplimiento,2,1,86.98,Aceptable
+2022-08-28,2022,2022-08,34,Operacional,3,2,75.09,Aceptable
+2022-08-28,2022,2022-08,34,Tecnológico,6,4,74.12,Aceptable
+2022-09-04,2022,2022-09,35,Seguridad,4,3,87.37,Aceptable
+2022-09-04,2022,2022-09,35,Disponibilidad,6,4,82.73,Aceptable
+2022-09-04,2022,2022-09,35,Cumplimiento,7,5,79.2,Aceptable
+2022-09-04,2022,2022-09,35,Operacional,6,5,87.75,Aceptable
+2022-09-04,2022,2022-09,35,Tecnológico,6,4,75.19,Aceptable
+2022-09-11,2022,2022-09,36,Seguridad,5,4,89.61,Aceptable
+2022-09-11,2022,2022-09,36,Disponibilidad,3,2,89.24,Aceptable
+2022-09-11,2022,2022-09,36,Cumplimiento,5,4,81.98,Aceptable
+2022-09-11,2022,2022-09,36,Operacional,6,5,84.93,Aceptable
+2022-09-11,2022,2022-09,36,Tecnológico,5,4,87.29,Aceptable
+2022-09-18,2022,2022-09,37,Seguridad,3,2,81.12,Aceptable
+2022-09-18,2022,2022-09,37,Disponibilidad,4,3,77.06,Aceptable
+2022-09-18,2022,2022-09,37,Cumplimiento,4,3,78.34,Aceptable
+2022-09-18,2022,2022-09,37,Operacional,2,1,75.36,Aceptable
+2022-09-18,2022,2022-09,37,Tecnológico,3,2,74.73,Aceptable
+2022-09-25,2022,2022-09,38,Seguridad,3,2,88.56,Aceptable
+2022-09-25,2022,2022-09,38,Disponibilidad,6,4,76.59,Aceptable
+2022-09-25,2022,2022-09,38,Cumplimiento,7,5,77.95,Aceptable
+2022-09-25,2022,2022-09,38,Operacional,6,4,77.48,Aceptable
+2022-09-25,2022,2022-09,38,Tecnológico,4,3,75.59,Aceptable
+2022-10-02,2022,2022-10,39,Seguridad,5,4,88.57,Aceptable
+2022-10-02,2022,2022-10,39,Disponibilidad,5,4,89.49,Aceptable
+2022-10-02,2022,2022-10,39,Cumplimiento,6,5,87.84,Aceptable
+2022-10-02,2022,2022-10,39,Operacional,5,3,75.35,Aceptable
+2022-10-02,2022,2022-10,39,Tecnológico,6,4,80.38,Aceptable
+2022-10-09,2022,2022-10,40,Seguridad,3,2,83.4,Aceptable
+2022-10-09,2022,2022-10,40,Disponibilidad,7,6,86.45,Aceptable
+2022-10-09,2022,2022-10,40,Cumplimiento,6,4,82.79,Aceptable
+2022-10-09,2022,2022-10,40,Operacional,4,3,88.58,Aceptable
+2022-10-09,2022,2022-10,40,Tecnológico,6,4,78.53,Aceptable
+2022-10-16,2022,2022-10,41,Seguridad,7,5,79.26,Aceptable
+2022-10-16,2022,2022-10,41,Disponibilidad,3,2,81.93,Aceptable
+2022-10-16,2022,2022-10,41,Cumplimiento,5,4,85.13,Aceptable
+2022-10-16,2022,2022-10,41,Operacional,5,4,86.41,Aceptable
+2022-10-16,2022,2022-10,41,Tecnológico,2,1,77.65,Aceptable
+2022-10-23,2022,2022-10,42,Seguridad,5,4,84.29,Aceptable
+2022-10-23,2022,2022-10,42,Disponibilidad,6,5,90.36,Excelente
+2022-10-23,2022,2022-10,42,Cumplimiento,6,4,81.92,Aceptable
+2022-10-23,2022,2022-10,42,Operacional,6,4,81.51,Aceptable
+2022-10-23,2022,2022-10,42,Tecnológico,6,4,76.51,Aceptable
+2022-10-30,2022,2022-10,43,Seguridad,7,6,86.85,Aceptable
+2022-10-30,2022,2022-10,43,Disponibilidad,5,4,87.96,Aceptable
+2022-10-30,2022,2022-10,43,Cumplimiento,6,4,79.63,Aceptable
+2022-10-30,2022,2022-10,43,Operacional,5,4,81.68,Aceptable
+2022-10-30,2022,2022-10,43,Tecnológico,6,4,79.38,Aceptable
+2022-11-06,2022,2022-11,44,Seguridad,2,1,76.05,Aceptable
+2022-11-06,2022,2022-11,44,Disponibilidad,5,4,81.11,Aceptable
+2022-11-06,2022,2022-11,44,Cumplimiento,5,4,80.87,Aceptable
+2022-11-06,2022,2022-11,44,Operacional,4,3,76.8,Aceptable
+2022-11-06,2022,2022-11,44,Tecnológico,7,5,77.66,Aceptable
+2022-11-13,2022,2022-11,45,Seguridad,3,2,82.59,Aceptable
+2022-11-13,2022,2022-11,45,Disponibilidad,3,2,80.6,Aceptable
+2022-11-13,2022,2022-11,45,Cumplimiento,3,2,81.64,Aceptable
+2022-11-13,2022,2022-11,45,Operacional,6,4,80.1,Aceptable
+2022-11-13,2022,2022-11,45,Tecnológico,2,1,87.03,Aceptable
+2022-11-20,2022,2022-11,46,Seguridad,4,3,78.18,Aceptable
+2022-11-20,2022,2022-11,46,Disponibilidad,2,1,78.67,Aceptable
+2022-11-20,2022,2022-11,46,Cumplimiento,6,4,81.29,Aceptable
+2022-11-20,2022,2022-11,46,Operacional,7,5,79.43,Aceptable
+2022-11-20,2022,2022-11,46,Tecnológico,5,4,90.18,Excelente
+2022-11-27,2022,2022-11,47,Seguridad,3,2,75.77,Aceptable
+2022-11-27,2022,2022-11,47,Disponibilidad,5,4,90.65,Excelente
+2022-11-27,2022,2022-11,47,Cumplimiento,5,3,78.85,Aceptable
+2022-11-27,2022,2022-11,47,Operacional,6,4,81.97,Aceptable
+2022-11-27,2022,2022-11,47,Tecnológico,6,5,88.63,Aceptable
+2022-12-04,2022,2022-12,48,Seguridad,4,3,90.3,Excelente
+2022-12-04,2022,2022-12,48,Disponibilidad,2,1,80.36,Aceptable
+2022-12-04,2022,2022-12,48,Cumplimiento,2,1,84.63,Aceptable
+2022-12-04,2022,2022-12,48,Operacional,6,5,84.87,Aceptable
+2022-12-04,2022,2022-12,48,Tecnológico,6,4,79.02,Aceptable
+2022-12-11,2022,2022-12,49,Seguridad,5,3,78.91,Aceptable
+2022-12-11,2022,2022-12,49,Disponibilidad,5,3,78.95,Aceptable
+2022-12-11,2022,2022-12,49,Cumplimiento,3,2,82.85,Aceptable
+2022-12-11,2022,2022-12,49,Operacional,3,2,77.15,Aceptable
+2022-12-11,2022,2022-12,49,Tecnológico,4,3,76.18,Aceptable
+2022-12-18,2022,2022-12,50,Seguridad,4,3,84.61,Aceptable
+2022-12-18,2022,2022-12,50,Disponibilidad,7,5,77.81,Aceptable
+2022-12-18,2022,2022-12,50,Cumplimiento,2,1,80.8,Aceptable
+2022-12-18,2022,2022-12,50,Operacional,7,5,76.62,Aceptable
+2022-12-18,2022,2022-12,50,Tecnológico,4,3,81.95,Aceptable
+2022-12-25,2022,2022-12,51,Seguridad,3,2,90.44,Excelente
+2022-12-25,2022,2022-12,51,Disponibilidad,7,5,76.11,Aceptable
+2022-12-25,2022,2022-12,51,Cumplimiento,4,3,83.73,Aceptable
+2022-12-25,2022,2022-12,51,Operacional,2,1,86.97,Aceptable
+2022-12-25,2022,2022-12,51,Tecnológico,2,1,88.26,Aceptable
+2023-01-01,2023,2023-01,52,Seguridad,4,3,82.93,Aceptable
+2023-01-01,2023,2023-01,52,Disponibilidad,7,5,81.79,Aceptable
+2023-01-01,2023,2023-01,52,Cumplimiento,5,4,87.73,Aceptable
+2023-01-01,2023,2023-01,52,Operacional,2,1,76.95,Aceptable
+2023-01-01,2023,2023-01,52,Tecnológico,2,1,91.57,Excelente
+2023-01-08,2023,2023-01,1,Seguridad,5,3,76.84,Aceptable
+2023-01-08,2023,2023-01,1,Disponibilidad,6,4,82.41,Aceptable
+2023-01-08,2023,2023-01,1,Cumplimiento,5,3,79.0,Aceptable
+2023-01-08,2023,2023-01,1,Operacional,7,5,84.66,Aceptable
+2023-01-08,2023,2023-01,1,Tecnológico,5,4,80.72,Aceptable
+2023-01-15,2023,2023-01,2,Seguridad,6,4,80.51,Aceptable
+2023-01-15,2023,2023-01,2,Disponibilidad,3,2,89.29,Aceptable
+2023-01-15,2023,2023-01,2,Cumplimiento,4,3,80.73,Aceptable
+2023-01-15,2023,2023-01,2,Operacional,3,2,78.67,Aceptable
+2023-01-15,2023,2023-01,2,Tecnológico,5,4,80.62,Aceptable
+2023-01-22,2023,2023-01,3,Seguridad,5,4,91.55,Excelente
+2023-01-22,2023,2023-01,3,Disponibilidad,5,3,79.61,Aceptable
+2023-01-22,2023,2023-01,3,Cumplimiento,5,3,77.18,Aceptable
+2023-01-22,2023,2023-01,3,Operacional,4,3,91.01,Excelente
+2023-01-22,2023,2023-01,3,Tecnológico,6,4,76.09,Aceptable
+2023-01-29,2023,2023-01,4,Seguridad,3,2,81.36,Aceptable
+2023-01-29,2023,2023-01,4,Disponibilidad,6,4,83.3,Aceptable
+2023-01-29,2023,2023-01,4,Cumplimiento,3,2,87.45,Aceptable
+2023-01-29,2023,2023-01,4,Operacional,5,4,87.38,Aceptable
+2023-01-29,2023,2023-01,4,Tecnológico,6,4,77.64,Aceptable
+2023-02-05,2023,2023-02,5,Seguridad,5,4,91.59,Excelente
+2023-02-05,2023,2023-02,5,Disponibilidad,7,5,79.16,Aceptable
+2023-02-05,2023,2023-02,5,Cumplimiento,6,4,77.48,Aceptable
+2023-02-05,2023,2023-02,5,Operacional,2,1,88.6,Aceptable
+2023-02-05,2023,2023-02,5,Tecnológico,2,1,79.23,Aceptable
+2023-02-12,2023,2023-02,6,Seguridad,5,4,86.02,Aceptable
+2023-02-12,2023,2023-02,6,Disponibilidad,7,5,83.64,Aceptable
+2023-02-12,2023,2023-02,6,Cumplimiento,4,3,88.87,Aceptable
+2023-02-12,2023,2023-02,6,Operacional,2,1,78.12,Aceptable
+2023-02-12,2023,2023-02,6,Tecnológico,2,1,85.43,Aceptable
+2023-02-19,2023,2023-02,7,Seguridad,4,3,85.02,Aceptable
+2023-02-19,2023,2023-02,7,Disponibilidad,3,2,80.46,Aceptable
+2023-02-19,2023,2023-02,7,Cumplimiento,7,6,90.99,Excelente
+2023-02-19,2023,2023-02,7,Operacional,3,2,84.25,Aceptable
+2023-02-19,2023,2023-02,7,Tecnológico,5,4,91.28,Excelente
+2023-02-26,2023,2023-02,8,Seguridad,7,5,84.71,Aceptable
+2023-02-26,2023,2023-02,8,Disponibilidad,5,4,85.33,Aceptable
+2023-02-26,2023,2023-02,8,Cumplimiento,2,1,91.91,Excelente
+2023-02-26,2023,2023-02,8,Operacional,6,5,85.85,Aceptable
+2023-02-26,2023,2023-02,8,Tecnológico,7,6,91.8,Excelente
+2023-03-05,2023,2023-03,9,Seguridad,4,3,83.17,Aceptable
+2023-03-05,2023,2023-03,9,Disponibilidad,2,1,86.09,Aceptable
+2023-03-05,2023,2023-03,9,Cumplimiento,3,2,85.94,Aceptable
+2023-03-05,2023,2023-03,9,Operacional,2,1,83.85,Aceptable
+2023-03-05,2023,2023-03,9,Tecnológico,2,1,83.72,Aceptable
+2023-03-12,2023,2023-03,10,Seguridad,7,5,77.83,Aceptable
+2023-03-12,2023,2023-03,10,Disponibilidad,5,4,81.87,Aceptable
+2023-03-12,2023,2023-03,10,Cumplimiento,6,5,90.72,Excelente
+2023-03-12,2023,2023-03,10,Operacional,7,5,82.16,Aceptable
+2023-03-12,2023,2023-03,10,Tecnológico,6,4,82.36,Aceptable
+2023-03-19,2023,2023-03,11,Seguridad,2,1,77.02,Aceptable
+2023-03-19,2023,2023-03,11,Disponibilidad,3,2,91.93,Excelente
+2023-03-19,2023,2023-03,11,Cumplimiento,7,5,79.51,Aceptable
+2023-03-19,2023,2023-03,11,Operacional,3,2,92.0,Excelente
+2023-03-19,2023,2023-03,11,Tecnológico,2,1,77.15,Aceptable
+2023-03-26,2023,2023-03,12,Seguridad,3,2,84.24,Aceptable
+2023-03-26,2023,2023-03,12,Disponibilidad,5,4,89.02,Aceptable
+2023-03-26,2023,2023-03,12,Cumplimiento,6,5,92.97,Excelente
+2023-03-26,2023,2023-03,12,Operacional,6,5,92.34,Excelente
+2023-03-26,2023,2023-03,12,Tecnológico,2,1,91.17,Excelente
+2023-04-02,2023,2023-04,13,Seguridad,6,4,78.05,Aceptable
+2023-04-02,2023,2023-04,13,Disponibilidad,2,1,90.82,Excelente
+2023-04-02,2023,2023-04,13,Cumplimiento,5,4,90.68,Excelente
+2023-04-02,2023,2023-04,13,Operacional,6,4,80.8,Aceptable
+2023-04-02,2023,2023-04,13,Tecnológico,4,3,78.82,Aceptable
+2023-04-09,2023,2023-04,14,Seguridad,6,5,85.52,Aceptable
+2023-04-09,2023,2023-04,14,Disponibilidad,2,1,87.97,Aceptable
+2023-04-09,2023,2023-04,14,Cumplimiento,3,2,83.22,Aceptable
+2023-04-09,2023,2023-04,14,Operacional,4,3,80.01,Aceptable
+2023-04-09,2023,2023-04,14,Tecnológico,2,1,91.61,Excelente
+2023-04-16,2023,2023-04,15,Seguridad,5,4,81.23,Aceptable
+2023-04-16,2023,2023-04,15,Disponibilidad,5,4,85.15,Aceptable
+2023-04-16,2023,2023-04,15,Cumplimiento,6,5,85.62,Aceptable
+2023-04-16,2023,2023-04,15,Operacional,4,3,82.87,Aceptable
+2023-04-16,2023,2023-04,15,Tecnológico,5,4,88.69,Aceptable
+2023-04-23,2023,2023-04,16,Seguridad,6,4,81.11,Aceptable
+2023-04-23,2023,2023-04,16,Disponibilidad,2,1,81.3,Aceptable
+2023-04-23,2023,2023-04,16,Cumplimiento,4,3,77.66,Aceptable
+2023-04-23,2023,2023-04,16,Operacional,7,5,80.43,Aceptable
+2023-04-23,2023,2023-04,16,Tecnológico,7,5,84.65,Aceptable
+2023-04-30,2023,2023-04,17,Seguridad,7,5,78.91,Aceptable
+2023-04-30,2023,2023-04,17,Disponibilidad,5,4,91.45,Excelente
+2023-04-30,2023,2023-04,17,Cumplimiento,2,1,86.75,Aceptable
+2023-04-30,2023,2023-04,17,Operacional,5,4,84.84,Aceptable
+2023-04-30,2023,2023-04,17,Tecnológico,7,6,88.2,Aceptable
+2023-05-07,2023,2023-05,18,Seguridad,5,3,79.24,Aceptable
+2023-05-07,2023,2023-05,18,Disponibilidad,7,5,81.96,Aceptable
+2023-05-07,2023,2023-05,18,Cumplimiento,2,1,91.63,Excelente
+2023-05-07,2023,2023-05,18,Operacional,7,5,79.75,Aceptable
+2023-05-07,2023,2023-05,18,Tecnológico,4,3,93.09,Excelente
+2023-05-14,2023,2023-05,19,Seguridad,6,5,86.1,Aceptable
+2023-05-14,2023,2023-05,19,Disponibilidad,7,6,92.21,Excelente
+2023-05-14,2023,2023-05,19,Cumplimiento,5,4,83.04,Aceptable
+2023-05-14,2023,2023-05,19,Operacional,5,4,83.01,Aceptable
+2023-05-14,2023,2023-05,19,Tecnológico,4,3,80.64,Aceptable
+2023-05-21,2023,2023-05,20,Seguridad,5,4,81.68,Aceptable
+2023-05-21,2023,2023-05,20,Disponibilidad,5,4,91.14,Excelente
+2023-05-21,2023,2023-05,20,Cumplimiento,2,1,83.65,Aceptable
+2023-05-21,2023,2023-05,20,Operacional,2,1,78.76,Aceptable
+2023-05-21,2023,2023-05,20,Tecnológico,3,2,83.13,Aceptable
+2023-05-28,2023,2023-05,21,Seguridad,3,2,78.22,Aceptable
+2023-05-28,2023,2023-05,21,Disponibilidad,5,4,93.71,Excelente
+2023-05-28,2023,2023-05,21,Cumplimiento,3,2,90.58,Excelente
+2023-05-28,2023,2023-05,21,Operacional,7,6,88.37,Aceptable
+2023-05-28,2023,2023-05,21,Tecnológico,2,1,81.98,Aceptable
+2023-06-04,2023,2023-06,22,Seguridad,7,5,78.28,Aceptable
+2023-06-04,2023,2023-06,22,Disponibilidad,4,3,87.95,Aceptable
+2023-06-04,2023,2023-06,22,Cumplimiento,3,2,79.26,Aceptable
+2023-06-04,2023,2023-06,22,Operacional,7,6,94.02,Excelente
+2023-06-04,2023,2023-06,22,Tecnológico,4,3,81.61,Aceptable
+2023-06-11,2023,2023-06,23,Seguridad,5,4,89.35,Aceptable
+2023-06-11,2023,2023-06,23,Disponibilidad,7,6,91.85,Excelente
+2023-06-11,2023,2023-06,23,Cumplimiento,3,2,83.31,Aceptable
+2023-06-11,2023,2023-06,23,Operacional,4,3,80.49,Aceptable
+2023-06-11,2023,2023-06,23,Tecnológico,3,2,80.26,Aceptable
+2023-06-18,2023,2023-06,24,Seguridad,6,4,81.66,Aceptable
+2023-06-18,2023,2023-06,24,Disponibilidad,2,1,88.39,Aceptable
+2023-06-18,2023,2023-06,24,Cumplimiento,3,2,80.48,Aceptable
+2023-06-18,2023,2023-06,24,Operacional,2,1,82.81,Aceptable
+2023-06-18,2023,2023-06,24,Tecnológico,4,3,85.05,Aceptable
+2023-06-25,2023,2023-06,25,Seguridad,3,2,78.71,Aceptable
+2023-06-25,2023,2023-06,25,Disponibilidad,6,5,84.46,Aceptable
+2023-06-25,2023,2023-06,25,Cumplimiento,7,6,94.21,Excelente
+2023-06-25,2023,2023-06,25,Operacional,4,3,85.28,Aceptable
+2023-06-25,2023,2023-06,25,Tecnológico,5,4,82.46,Aceptable
+2023-07-02,2023,2023-07,26,Seguridad,7,5,84.45,Aceptable
+2023-07-02,2023,2023-07,26,Disponibilidad,5,4,85.62,Aceptable
+2023-07-02,2023,2023-07,26,Cumplimiento,6,5,92.44,Excelente
+2023-07-02,2023,2023-07,26,Operacional,7,5,78.91,Aceptable
+2023-07-02,2023,2023-07,26,Tecnológico,7,6,89.7,Aceptable
+2023-07-09,2023,2023-07,27,Seguridad,2,1,79.8,Aceptable
+2023-07-09,2023,2023-07,27,Disponibilidad,2,1,94.71,Excelente
+2023-07-09,2023,2023-07,27,Cumplimiento,6,5,85.37,Aceptable
+2023-07-09,2023,2023-07,27,Operacional,5,4,81.64,Aceptable
+2023-07-09,2023,2023-07,27,Tecnológico,4,3,91.09,Excelente
+2023-07-16,2023,2023-07,28,Seguridad,4,3,91.93,Excelente
+2023-07-16,2023,2023-07,28,Disponibilidad,4,3,92.0,Excelente
+2023-07-16,2023,2023-07,28,Cumplimiento,5,4,90.58,Excelente
+2023-07-16,2023,2023-07,28,Operacional,5,4,92.57,Excelente
+2023-07-16,2023,2023-07,28,Tecnológico,6,4,82.55,Aceptable
+2023-07-23,2023,2023-07,29,Seguridad,6,5,88.17,Aceptable
+2023-07-23,2023,2023-07,29,Disponibilidad,6,5,93.71,Excelente
+2023-07-23,2023,2023-07,29,Cumplimiento,2,1,85.41,Aceptable
+2023-07-23,2023,2023-07,29,Operacional,7,6,88.16,Aceptable
+2023-07-23,2023,2023-07,29,Tecnológico,6,4,79.1,Aceptable
+2023-07-30,2023,2023-07,30,Seguridad,6,5,87.48,Aceptable
+2023-07-30,2023,2023-07,30,Disponibilidad,7,6,93.41,Excelente
+2023-07-30,2023,2023-07,30,Cumplimiento,3,2,89.29,Aceptable
+2023-07-30,2023,2023-07,30,Operacional,3,2,86.3,Aceptable
+2023-07-30,2023,2023-07,30,Tecnológico,4,3,86.37,Aceptable
+2023-08-06,2023,2023-08,31,Seguridad,6,5,84.27,Aceptable
+2023-08-06,2023,2023-08,31,Disponibilidad,2,1,81.3,Aceptable
+2023-08-06,2023,2023-08,31,Cumplimiento,5,4,84.47,Aceptable
+2023-08-06,2023,2023-08,31,Operacional,3,2,86.44,Aceptable
+2023-08-06,2023,2023-08,31,Tecnológico,5,4,81.44,Aceptable
+2023-08-13,2023,2023-08,32,Seguridad,2,1,86.7,Aceptable
+2023-08-13,2023,2023-08,32,Disponibilidad,7,6,90.74,Excelente
+2023-08-13,2023,2023-08,32,Cumplimiento,4,3,89.36,Aceptable
+2023-08-13,2023,2023-08,32,Operacional,7,6,92.35,Excelente
+2023-08-13,2023,2023-08,32,Tecnológico,7,6,89.48,Aceptable
+2023-08-20,2023,2023-08,33,Seguridad,5,4,80.16,Aceptable
+2023-08-20,2023,2023-08,33,Disponibilidad,6,5,91.78,Excelente
+2023-08-20,2023,2023-08,33,Cumplimiento,2,1,86.87,Aceptable
+2023-08-20,2023,2023-08,33,Operacional,6,4,80.09,Aceptable
+2023-08-20,2023,2023-08,33,Tecnológico,7,5,80.91,Aceptable
+2023-08-27,2023,2023-08,34,Seguridad,6,5,86.62,Aceptable
+2023-08-27,2023,2023-08,34,Disponibilidad,3,2,83.9,Aceptable
+2023-08-27,2023,2023-08,34,Cumplimiento,4,3,90.73,Excelente
+2023-08-27,2023,2023-08,34,Operacional,3,2,83.18,Aceptable
+2023-08-27,2023,2023-08,34,Tecnológico,7,6,89.02,Aceptable
+2023-09-03,2023,2023-09,35,Seguridad,3,2,93.81,Excelente
+2023-09-03,2023,2023-09,35,Disponibilidad,7,6,90.45,Excelente
+2023-09-03,2023,2023-09,35,Cumplimiento,4,3,94.35,Excelente
+2023-09-03,2023,2023-09,35,Operacional,5,4,93.67,Excelente
+2023-09-03,2023,2023-09,35,Tecnológico,6,5,91.66,Excelente
+2023-09-10,2023,2023-09,36,Seguridad,6,4,81.1,Aceptable
+2023-09-10,2023,2023-09,36,Disponibilidad,3,2,89.84,Aceptable
+2023-09-10,2023,2023-09,36,Cumplimiento,3,2,84.02,Aceptable
+2023-09-10,2023,2023-09,36,Operacional,3,2,94.29,Excelente
+2023-09-10,2023,2023-09,36,Tecnológico,4,3,86.06,Aceptable
+2023-09-17,2023,2023-09,37,Seguridad,5,4,89.78,Aceptable
+2023-09-17,2023,2023-09,37,Disponibilidad,3,2,88.13,Aceptable
+2023-09-17,2023,2023-09,37,Cumplimiento,4,3,91.79,Excelente
+2023-09-17,2023,2023-09,37,Operacional,6,5,93.75,Excelente
+2023-09-17,2023,2023-09,37,Tecnológico,3,2,85.47,Aceptable
+2023-09-24,2023,2023-09,38,Seguridad,5,4,87.56,Aceptable
+2023-09-24,2023,2023-09,38,Disponibilidad,6,5,95.03,Excelente
+2023-09-24,2023,2023-09,38,Cumplimiento,2,1,96.11,Excelente
+2023-09-24,2023,2023-09,38,Operacional,4,3,91.74,Excelente
+2023-09-24,2023,2023-09,38,Tecnológico,6,5,86.66,Aceptable
+2023-10-01,2023,2023-10,39,Seguridad,7,6,95.86,Excelente
+2023-10-01,2023,2023-10,39,Disponibilidad,4,3,81.72,Aceptable
+2023-10-01,2023,2023-10,39,Cumplimiento,3,2,94.32,Excelente
+2023-10-01,2023,2023-10,39,Operacional,4,3,88.88,Aceptable
+2023-10-01,2023,2023-10,39,Tecnológico,5,4,95.97,Excelente
+2023-10-08,2023,2023-10,40,Seguridad,2,1,92.4,Excelente
+2023-10-08,2023,2023-10,40,Disponibilidad,5,4,81.01,Aceptable
+2023-10-08,2023,2023-10,40,Cumplimiento,4,3,81.93,Aceptable
+2023-10-08,2023,2023-10,40,Operacional,7,6,91.6,Excelente
+2023-10-08,2023,2023-10,40,Tecnológico,3,2,81.25,Aceptable
+2023-10-15,2023,2023-10,41,Seguridad,3,2,87.91,Aceptable
+2023-10-15,2023,2023-10,41,Disponibilidad,7,6,95.35,Excelente
+2023-10-15,2023,2023-10,41,Cumplimiento,3,2,84.89,Aceptable
+2023-10-15,2023,2023-10,41,Operacional,5,4,88.9,Aceptable
+2023-10-15,2023,2023-10,41,Tecnológico,2,1,85.9,Aceptable
+2023-10-22,2023,2023-10,42,Seguridad,2,1,96.31,Excelente
+2023-10-22,2023,2023-10,42,Disponibilidad,6,5,86.3,Aceptable
+2023-10-22,2023,2023-10,42,Cumplimiento,6,5,92.6,Excelente
+2023-10-22,2023,2023-10,42,Operacional,3,2,92.06,Excelente
+2023-10-22,2023,2023-10,42,Tecnológico,5,4,81.52,Aceptable
+2023-10-29,2023,2023-10,43,Seguridad,6,4,82.73,Aceptable
+2023-10-29,2023,2023-10,43,Disponibilidad,4,3,82.37,Aceptable
+2023-10-29,2023,2023-10,43,Cumplimiento,6,4,82.96,Aceptable
+2023-10-29,2023,2023-10,43,Operacional,6,5,87.91,Aceptable
+2023-10-29,2023,2023-10,43,Tecnológico,4,3,81.96,Aceptable
+2023-11-05,2023,2023-11,44,Seguridad,7,6,92.64,Excelente
+2023-11-05,2023,2023-11,44,Disponibilidad,3,2,84.76,Aceptable
+2023-11-05,2023,2023-11,44,Cumplimiento,4,3,83.04,Aceptable
+2023-11-05,2023,2023-11,44,Operacional,2,1,94.88,Excelente
+2023-11-05,2023,2023-11,44,Tecnológico,2,1,89.66,Aceptable
+2023-11-12,2023,2023-11,45,Seguridad,7,5,82.6,Aceptable
+2023-11-12,2023,2023-11,45,Disponibilidad,4,3,91.06,Excelente
+2023-11-12,2023,2023-11,45,Cumplimiento,6,5,93.13,Excelente
+2023-11-12,2023,2023-11,45,Operacional,5,4,89.19,Aceptable
+2023-11-12,2023,2023-11,45,Tecnológico,7,6,87.98,Aceptable
+2023-11-19,2023,2023-11,46,Seguridad,2,1,89.52,Aceptable
+2023-11-19,2023,2023-11,46,Disponibilidad,2,1,82.55,Aceptable
+2023-11-19,2023,2023-11,46,Cumplimiento,3,2,93.14,Excelente
+2023-11-19,2023,2023-11,46,Operacional,7,5,84.07,Aceptable
+2023-11-19,2023,2023-11,46,Tecnológico,5,4,84.12,Aceptable
+2023-11-26,2023,2023-11,47,Seguridad,6,4,82.12,Aceptable
+2023-11-26,2023,2023-11,47,Disponibilidad,2,1,94.65,Excelente
+2023-11-26,2023,2023-11,47,Cumplimiento,7,5,81.99,Aceptable
+2023-11-26,2023,2023-11,47,Operacional,7,5,84.45,Aceptable
+2023-11-26,2023,2023-11,47,Tecnológico,6,5,86.43,Aceptable
+2023-12-03,2023,2023-12,48,Seguridad,2,1,85.87,Aceptable
+2023-12-03,2023,2023-12,48,Disponibilidad,4,3,85.71,Aceptable
+2023-12-03,2023,2023-12,48,Cumplimiento,3,2,88.38,Aceptable
+2023-12-03,2023,2023-12,48,Operacional,2,1,91.33,Excelente
+2023-12-03,2023,2023-12,48,Tecnológico,5,4,92.77,Excelente
+2023-12-10,2023,2023-12,49,Seguridad,6,5,92.25,Excelente
+2023-12-10,2023,2023-12,49,Disponibilidad,3,2,87.08,Aceptable
+2023-12-10,2023,2023-12,49,Cumplimiento,4,3,92.55,Excelente
+2023-12-10,2023,2023-12,49,Operacional,3,2,92.26,Excelente
+2023-12-10,2023,2023-12,49,Tecnológico,6,5,91.36,Excelente
+2023-12-17,2023,2023-12,50,Seguridad,3,2,89.77,Aceptable
+2023-12-17,2023,2023-12,50,Disponibilidad,2,1,83.25,Aceptable
+2023-12-17,2023,2023-12,50,Cumplimiento,4,3,91.2,Excelente
+2023-12-17,2023,2023-12,50,Operacional,3,2,91.45,Excelente
+2023-12-17,2023,2023-12,50,Tecnológico,3,2,82.69,Aceptable
+2023-12-24,2023,2023-12,51,Seguridad,3,2,95.03,Excelente
+2023-12-24,2023,2023-12,51,Disponibilidad,5,4,92.45,Excelente
+2023-12-24,2023,2023-12,51,Cumplimiento,5,4,95.29,Excelente
+2023-12-24,2023,2023-12,51,Operacional,5,4,91.93,Excelente
+2023-12-24,2023,2023-12,51,Tecnológico,2,1,88.59,Aceptable
+2023-12-31,2023,2023-12,52,Seguridad,6,4,82.33,Aceptable
+2023-12-31,2023,2023-12,52,Disponibilidad,7,5,85.16,Aceptable
+2023-12-31,2023,2023-12,52,Cumplimiento,4,3,93.2,Excelente
+2023-12-31,2023,2023-12,52,Operacional,4,3,85.28,Aceptable
+2023-12-31,2023,2023-12,52,Tecnológico,5,4,82.57,Aceptable
+2024-01-07,2024,2024-01,1,Seguridad,6,5,85.31,Aceptable
+2024-01-07,2024,2024-01,1,Disponibilidad,3,2,94.06,Excelente
+2024-01-07,2024,2024-01,1,Cumplimiento,5,4,85.48,Aceptable
+2024-01-07,2024,2024-01,1,Operacional,4,3,92.25,Excelente
+2024-01-07,2024,2024-01,1,Tecnológico,7,6,96.24,Excelente
+2024-01-14,2024,2024-01,2,Seguridad,2,1,87.65,Aceptable
+2024-01-14,2024,2024-01,2,Disponibilidad,2,1,94.12,Excelente
+2024-01-14,2024,2024-01,2,Cumplimiento,4,3,96.62,Excelente
+2024-01-14,2024,2024-01,2,Operacional,6,5,88.53,Aceptable
+2024-01-14,2024,2024-01,2,Tecnológico,3,2,82.07,Aceptable
+2024-01-21,2024,2024-01,3,Seguridad,3,2,86.87,Aceptable
+2024-01-21,2024,2024-01,3,Disponibilidad,3,2,83.04,Aceptable
+2024-01-21,2024,2024-01,3,Cumplimiento,4,3,89.48,Aceptable
+2024-01-21,2024,2024-01,3,Operacional,5,4,86.41,Aceptable
+2024-01-21,2024,2024-01,3,Tecnológico,3,2,85.3,Aceptable
+2024-01-28,2024,2024-01,4,Seguridad,3,2,96.79,Excelente
+2024-01-28,2024,2024-01,4,Disponibilidad,5,4,91.01,Excelente
+2024-01-28,2024,2024-01,4,Cumplimiento,6,5,97.41,Excelente
+2024-01-28,2024,2024-01,4,Operacional,5,4,90.61,Excelente
+2024-01-28,2024,2024-01,4,Tecnológico,5,4,85.29,Aceptable
+2024-02-04,2024,2024-02,5,Seguridad,7,5,83.88,Aceptable
+2024-02-04,2024,2024-02,5,Disponibilidad,2,1,91.59,Excelente
+2024-02-04,2024,2024-02,5,Cumplimiento,3,2,90.61,Excelente
+2024-02-04,2024,2024-02,5,Operacional,6,5,84.66,Aceptable
+2024-02-04,2024,2024-02,5,Tecnológico,7,6,89.63,Aceptable
+2024-02-11,2024,2024-02,6,Seguridad,6,5,85.67,Aceptable
+2024-02-11,2024,2024-02,6,Disponibilidad,6,5,91.23,Excelente
+2024-02-11,2024,2024-02,6,Cumplimiento,5,4,97.29,Excelente
+2024-02-11,2024,2024-02,6,Operacional,6,5,85.15,Aceptable
+2024-02-11,2024,2024-02,6,Tecnológico,2,1,88.37,Aceptable
+2024-02-18,2024,2024-02,7,Seguridad,3,2,93.47,Excelente
+2024-02-18,2024,2024-02,7,Disponibilidad,5,4,92.69,Excelente
+2024-02-18,2024,2024-02,7,Cumplimiento,6,4,83.26,Aceptable
+2024-02-18,2024,2024-02,7,Operacional,6,5,89.53,Aceptable
+2024-02-18,2024,2024-02,7,Tecnológico,5,4,91.74,Excelente
+2024-02-25,2024,2024-02,8,Seguridad,2,1,89.55,Aceptable
+2024-02-25,2024,2024-02,8,Disponibilidad,2,1,85.37,Aceptable
+2024-02-25,2024,2024-02,8,Cumplimiento,5,4,82.86,Aceptable
+2024-02-25,2024,2024-02,8,Operacional,7,6,98.0,Excelente
+2024-02-25,2024,2024-02,8,Tecnológico,4,3,86.37,Aceptable
+2024-03-03,2024,2024-03,9,Seguridad,3,2,86.77,Aceptable
+2024-03-03,2024,2024-03,9,Disponibilidad,5,4,87.27,Aceptable
+2024-03-03,2024,2024-03,9,Cumplimiento,2,1,95.36,Excelente
+2024-03-03,2024,2024-03,9,Operacional,6,5,95.94,Excelente
+2024-03-03,2024,2024-03,9,Tecnológico,5,4,92.96,Excelente
+2024-03-10,2024,2024-03,10,Seguridad,7,6,89.99,Aceptable
+2024-03-10,2024,2024-03,10,Disponibilidad,4,3,92.16,Excelente
+2024-03-10,2024,2024-03,10,Cumplimiento,3,2,97.97,Excelente
+2024-03-10,2024,2024-03,10,Operacional,3,2,98.0,Excelente
+2024-03-10,2024,2024-03,10,Tecnológico,6,5,96.98,Excelente
+2024-03-17,2024,2024-03,11,Seguridad,2,1,93.09,Excelente
+2024-03-17,2024,2024-03,11,Disponibilidad,5,4,84.18,Aceptable
+2024-03-17,2024,2024-03,11,Cumplimiento,2,1,87.45,Aceptable
+2024-03-17,2024,2024-03,11,Operacional,6,5,93.24,Excelente
+2024-03-17,2024,2024-03,11,Tecnológico,7,6,88.7,Aceptable
+2024-03-24,2024,2024-03,12,Seguridad,7,6,94.74,Excelente
+2024-03-24,2024,2024-03,12,Disponibilidad,6,5,94.12,Excelente
+2024-03-24,2024,2024-03,12,Cumplimiento,5,4,93.25,Excelente
+2024-03-24,2024,2024-03,12,Operacional,2,1,84.76,Aceptable
+2024-03-24,2024,2024-03,12,Tecnológico,4,3,93.66,Excelente
+2024-03-31,2024,2024-03,13,Seguridad,4,3,97.24,Excelente
+2024-03-31,2024,2024-03,13,Disponibilidad,3,2,85.06,Aceptable
+2024-03-31,2024,2024-03,13,Cumplimiento,6,5,92.62,Excelente
+2024-03-31,2024,2024-03,13,Operacional,3,2,87.66,Aceptable
+2024-03-31,2024,2024-03,13,Tecnológico,3,2,83.46,Aceptable
+2024-04-07,2024,2024-04,14,Seguridad,2,1,86.85,Aceptable
+2024-04-07,2024,2024-04,14,Disponibilidad,5,4,90.08,Excelente
+2024-04-07,2024,2024-04,14,Cumplimiento,2,1,98.0,Excelente
+2024-04-07,2024,2024-04,14,Operacional,6,5,84.81,Aceptable
+2024-04-07,2024,2024-04,14,Tecnológico,3,2,96.19,Excelente
+2024-04-14,2024,2024-04,15,Seguridad,7,6,98.0,Excelente
+2024-04-14,2024,2024-04,15,Disponibilidad,6,5,98.0,Excelente
+2024-04-14,2024,2024-04,15,Cumplimiento,2,1,88.37,Aceptable
+2024-04-14,2024,2024-04,15,Operacional,7,6,86.99,Aceptable
+2024-04-14,2024,2024-04,15,Tecnológico,6,5,96.64,Excelente
+2024-04-21,2024,2024-04,16,Seguridad,2,1,87.87,Aceptable
+2024-04-21,2024,2024-04,16,Disponibilidad,2,1,89.18,Aceptable
+2024-04-21,2024,2024-04,16,Cumplimiento,7,6,90.41,Excelente
+2024-04-21,2024,2024-04,16,Operacional,5,4,90.36,Excelente
+2024-04-21,2024,2024-04,16,Tecnológico,6,5,98.0,Excelente
+2024-04-28,2024,2024-04,17,Seguridad,4,3,96.95,Excelente
+2024-04-28,2024,2024-04,17,Disponibilidad,2,1,84.12,Aceptable
+2024-04-28,2024,2024-04,17,Cumplimiento,7,5,84.73,Aceptable
+2024-04-28,2024,2024-04,17,Operacional,5,4,96.41,Excelente
+2024-04-28,2024,2024-04,17,Tecnológico,3,2,88.72,Aceptable
+2024-05-05,2024,2024-05,18,Seguridad,6,5,91.07,Excelente
+2024-05-05,2024,2024-05,18,Disponibilidad,5,4,93.72,Excelente
+2024-05-05,2024,2024-05,18,Cumplimiento,4,3,89.71,Aceptable
+2024-05-05,2024,2024-05,18,Operacional,3,2,94.14,Excelente
+2024-05-05,2024,2024-05,18,Tecnológico,7,6,93.26,Excelente
+2024-05-12,2024,2024-05,19,Seguridad,4,3,98.0,Excelente
+2024-05-12,2024,2024-05,19,Disponibilidad,3,2,94.22,Excelente
+2024-05-12,2024,2024-05,19,Cumplimiento,6,5,89.58,Aceptable
+2024-05-12,2024,2024-05,19,Operacional,5,4,93.59,Excelente
+2024-05-12,2024,2024-05,19,Tecnológico,3,2,97.08,Excelente
+2024-05-19,2024,2024-05,20,Seguridad,5,4,93.85,Excelente
+2024-05-19,2024,2024-05,20,Disponibilidad,3,2,90.86,Excelente
+2024-05-19,2024,2024-05,20,Cumplimiento,6,5,94.21,Excelente
+2024-05-19,2024,2024-05,20,Operacional,5,4,84.44,Aceptable
+2024-05-19,2024,2024-05,20,Tecnológico,7,6,88.61,Aceptable
+2024-05-26,2024,2024-05,21,Seguridad,7,6,87.68,Aceptable
+2024-05-26,2024,2024-05,21,Disponibilidad,6,5,89.42,Aceptable
+2024-05-26,2024,2024-05,21,Cumplimiento,3,2,86.9,Aceptable
+2024-05-26,2024,2024-05,21,Operacional,2,1,87.37,Aceptable
+2024-05-26,2024,2024-05,21,Tecnológico,2,1,94.93,Excelente
+2024-06-02,2024,2024-06,22,Seguridad,4,3,96.61,Excelente
+2024-06-02,2024,2024-06,22,Disponibilidad,4,3,84.55,Aceptable
+2024-06-02,2024,2024-06,22,Cumplimiento,3,2,91.38,Excelente
+2024-06-02,2024,2024-06,22,Operacional,4,3,92.7,Excelente
+2024-06-02,2024,2024-06,22,Tecnológico,3,2,96.42,Excelente
+2024-06-09,2024,2024-06,23,Seguridad,5,4,96.02,Excelente
+2024-06-09,2024,2024-06,23,Disponibilidad,4,3,98.0,Excelente
+2024-06-09,2024,2024-06,23,Cumplimiento,2,1,88.26,Aceptable
+2024-06-09,2024,2024-06,23,Operacional,3,2,87.38,Aceptable
+2024-06-09,2024,2024-06,23,Tecnológico,6,5,91.58,Excelente
+2024-06-16,2024,2024-06,24,Seguridad,6,5,97.93,Excelente
+2024-06-16,2024,2024-06,24,Disponibilidad,3,2,94.22,Excelente
+2024-06-16,2024,2024-06,24,Cumplimiento,6,5,85.12,Aceptable
+2024-06-16,2024,2024-06,24,Operacional,4,3,91.82,Excelente
+2024-06-16,2024,2024-06,24,Tecnológico,4,3,95.87,Excelente
+2024-06-23,2024,2024-06,25,Seguridad,6,5,94.8,Excelente
+2024-06-23,2024,2024-06,25,Disponibilidad,6,5,98.0,Excelente
+2024-06-23,2024,2024-06,25,Cumplimiento,3,2,91.84,Excelente
+2024-06-23,2024,2024-06,25,Operacional,2,1,93.83,Excelente
+2024-06-23,2024,2024-06,25,Tecnológico,2,1,98.0,Excelente
+2024-06-30,2024,2024-06,26,Seguridad,3,2,92.11,Excelente
+2024-06-30,2024,2024-06,26,Disponibilidad,3,2,94.27,Excelente
+2024-06-30,2024,2024-06,26,Cumplimiento,5,4,87.97,Aceptable
+2024-06-30,2024,2024-06,26,Operacional,7,6,88.82,Aceptable
+2024-06-30,2024,2024-06,26,Tecnológico,7,6,98.0,Excelente
+2024-07-07,2024,2024-07,27,Seguridad,7,6,98.0,Excelente
+2024-07-07,2024,2024-07,27,Disponibilidad,5,4,95.12,Excelente
+2024-07-07,2024,2024-07,27,Cumplimiento,7,6,98.0,Excelente
+2024-07-07,2024,2024-07,27,Operacional,3,2,98.0,Excelente
+2024-07-07,2024,2024-07,27,Tecnológico,6,5,92.16,Excelente
+2024-07-14,2024,2024-07,28,Seguridad,6,5,89.97,Aceptable
+2024-07-14,2024,2024-07,28,Disponibilidad,2,1,87.76,Aceptable
+2024-07-14,2024,2024-07,28,Cumplimiento,3,2,98.0,Excelente
+2024-07-14,2024,2024-07,28,Operacional,3,2,96.5,Excelente
+2024-07-14,2024,2024-07,28,Tecnológico,3,2,87.13,Aceptable
+2024-07-21,2024,2024-07,29,Seguridad,4,3,86.6,Aceptable
+2024-07-21,2024,2024-07,29,Disponibilidad,4,3,95.91,Excelente
+2024-07-21,2024,2024-07,29,Cumplimiento,2,1,96.69,Excelente
+2024-07-21,2024,2024-07,29,Operacional,3,2,98.0,Excelente
+2024-07-21,2024,2024-07,29,Tecnológico,5,4,98.0,Excelente
+2024-07-28,2024,2024-07,30,Seguridad,4,3,89.29,Aceptable
+2024-07-28,2024,2024-07,30,Disponibilidad,7,6,93.04,Excelente
+2024-07-28,2024,2024-07,30,Cumplimiento,2,1,96.14,Excelente
+2024-07-28,2024,2024-07,30,Operacional,6,5,98.0,Excelente
+2024-07-28,2024,2024-07,30,Tecnológico,6,5,93.51,Excelente
+2024-08-04,2024,2024-08,31,Seguridad,6,5,89.46,Aceptable
+2024-08-04,2024,2024-08,31,Disponibilidad,4,3,94.02,Excelente
+2024-08-04,2024,2024-08,31,Cumplimiento,4,3,96.44,Excelente
+2024-08-04,2024,2024-08,31,Operacional,7,6,98.0,Excelente
+2024-08-04,2024,2024-08,31,Tecnológico,7,6,86.15,Aceptable
+2024-08-11,2024,2024-08,32,Seguridad,3,2,98.0,Excelente
+2024-08-11,2024,2024-08,32,Disponibilidad,3,2,87.26,Aceptable
+2024-08-11,2024,2024-08,32,Cumplimiento,4,3,91.02,Excelente
+2024-08-11,2024,2024-08,32,Operacional,3,2,96.49,Excelente
+2024-08-11,2024,2024-08,32,Tecnológico,4,3,92.13,Excelente
+2024-08-18,2024,2024-08,33,Seguridad,6,5,88.28,Aceptable
+2024-08-18,2024,2024-08,33,Disponibilidad,7,6,97.6,Excelente
+2024-08-18,2024,2024-08,33,Cumplimiento,2,1,87.67,Aceptable
+2024-08-18,2024,2024-08,33,Operacional,7,6,90.67,Excelente
+2024-08-18,2024,2024-08,33,Tecnológico,2,1,95.7,Excelente
+2024-08-25,2024,2024-08,34,Seguridad,6,5,98.0,Excelente
+2024-08-25,2024,2024-08,34,Disponibilidad,6,5,98.0,Excelente
+2024-08-25,2024,2024-08,34,Cumplimiento,4,3,92.35,Excelente
+2024-08-25,2024,2024-08,34,Operacional,5,4,93.58,Excelente
+2024-08-25,2024,2024-08,34,Tecnológico,6,5,96.6,Excelente
+2024-09-01,2024,2024-09,35,Seguridad,4,3,87.36,Aceptable
+2024-09-01,2024,2024-09,35,Disponibilidad,5,4,89.41,Aceptable
+2024-09-01,2024,2024-09,35,Cumplimiento,5,4,89.44,Aceptable
+2024-09-01,2024,2024-09,35,Operacional,7,6,98.0,Excelente
+2024-09-01,2024,2024-09,35,Tecnológico,7,6,88.33,Aceptable
+2024-09-08,2024,2024-09,36,Seguridad,6,5,98.0,Excelente
+2024-09-08,2024,2024-09,36,Disponibilidad,4,3,95.16,Excelente
+2024-09-08,2024,2024-09,36,Cumplimiento,3,2,94.68,Excelente
+2024-09-08,2024,2024-09,36,Operacional,2,1,90.46,Excelente
+2024-09-08,2024,2024-09,36,Tecnológico,7,6,86.35,Aceptable
+2024-09-15,2024,2024-09,37,Seguridad,5,4,94.78,Excelente
+2024-09-15,2024,2024-09,37,Disponibilidad,4,3,88.49,Aceptable
+2024-09-15,2024,2024-09,37,Cumplimiento,3,2,97.42,Excelente
+2024-09-15,2024,2024-09,37,Operacional,4,3,98.0,Excelente
+2024-09-15,2024,2024-09,37,Tecnológico,6,5,98.0,Excelente
+2024-09-22,2024,2024-09,38,Seguridad,6,5,98.0,Excelente
+2024-09-22,2024,2024-09,38,Disponibilidad,6,5,93.67,Excelente
+2024-09-22,2024,2024-09,38,Cumplimiento,6,5,87.47,Aceptable
+2024-09-22,2024,2024-09,38,Operacional,3,2,88.33,Aceptable
+2024-09-22,2024,2024-09,38,Tecnológico,2,1,98.0,Excelente
+2024-09-29,2024,2024-09,39,Seguridad,7,6,91.61,Excelente
+2024-09-29,2024,2024-09,39,Disponibilidad,4,3,96.81,Excelente
+2024-09-29,2024,2024-09,39,Cumplimiento,4,3,98.0,Excelente
+2024-09-29,2024,2024-09,39,Operacional,4,3,96.25,Excelente
+2024-09-29,2024,2024-09,39,Tecnológico,2,1,87.78,Aceptable
+2024-10-06,2024,2024-10,40,Seguridad,4,3,94.85,Excelente
+2024-10-06,2024,2024-10,40,Disponibilidad,6,5,95.92,Excelente
+2024-10-06,2024,2024-10,40,Cumplimiento,6,5,87.06,Aceptable
+2024-10-06,2024,2024-10,40,Operacional,7,6,98.0,Excelente
+2024-10-06,2024,2024-10,40,Tecnológico,6,5,98.0,Excelente
+2024-10-13,2024,2024-10,41,Seguridad,6,5,93.95,Excelente
+2024-10-13,2024,2024-10,41,Disponibilidad,7,6,98.0,Excelente
+2024-10-13,2024,2024-10,41,Cumplimiento,3,2,97.38,Excelente
+2024-10-13,2024,2024-10,41,Operacional,3,2,90.85,Excelente
+2024-10-13,2024,2024-10,41,Tecnológico,6,5,98.0,Excelente
+2024-10-20,2024,2024-10,42,Seguridad,2,1,88.38,Aceptable
+2024-10-20,2024,2024-10,42,Disponibilidad,7,6,91.0,Excelente
+2024-10-20,2024,2024-10,42,Cumplimiento,5,4,88.86,Aceptable
+2024-10-20,2024,2024-10,42,Operacional,3,2,87.05,Aceptable
+2024-10-20,2024,2024-10,42,Tecnológico,3,2,96.76,Excelente
+2024-10-27,2024,2024-10,43,Seguridad,4,3,98.0,Excelente
+2024-10-27,2024,2024-10,43,Disponibilidad,5,4,88.46,Aceptable
+2024-10-27,2024,2024-10,43,Cumplimiento,6,5,90.68,Excelente
+2024-10-27,2024,2024-10,43,Operacional,2,1,98.0,Excelente
+2024-10-27,2024,2024-10,43,Tecnológico,3,2,88.94,Aceptable
+2024-11-03,2024,2024-11,44,Seguridad,5,4,96.53,Excelente
+2024-11-03,2024,2024-11,44,Disponibilidad,5,4,91.66,Excelente
+2024-11-03,2024,2024-11,44,Cumplimiento,4,3,89.61,Aceptable
+2024-11-03,2024,2024-11,44,Operacional,3,2,94.28,Excelente
+2024-11-03,2024,2024-11,44,Tecnológico,6,5,88.72,Aceptable
+2024-11-10,2024,2024-11,45,Seguridad,2,1,88.41,Aceptable
+2024-11-10,2024,2024-11,45,Disponibilidad,6,5,98.0,Excelente
+2024-11-10,2024,2024-11,45,Cumplimiento,2,1,92.93,Excelente
+2024-11-10,2024,2024-11,45,Operacional,3,2,95.72,Excelente
+2024-11-10,2024,2024-11,45,Tecnológico,5,4,96.5,Excelente
+2024-11-17,2024,2024-11,46,Seguridad,6,5,95.16,Excelente
+2024-11-17,2024,2024-11,46,Disponibilidad,6,5,98.0,Excelente
+2024-11-17,2024,2024-11,46,Cumplimiento,7,6,98.0,Excelente
+2024-11-17,2024,2024-11,46,Operacional,3,2,96.68,Excelente
+2024-11-17,2024,2024-11,46,Tecnológico,6,5,98.0,Excelente
+2024-11-24,2024,2024-11,47,Seguridad,4,3,91.2,Excelente
+2024-11-24,2024,2024-11,47,Disponibilidad,4,3,97.06,Excelente
+2024-11-24,2024,2024-11,47,Cumplimiento,3,2,92.73,Excelente
+2024-11-24,2024,2024-11,47,Operacional,5,4,98.0,Excelente
+2024-11-24,2024,2024-11,47,Tecnológico,6,5,89.09,Aceptable
+2024-12-01,2024,2024-12,48,Seguridad,3,2,90.24,Excelente
+2024-12-01,2024,2024-12,48,Disponibilidad,7,6,92.42,Excelente
+2024-12-01,2024,2024-12,48,Cumplimiento,4,3,96.21,Excelente
+2024-12-01,2024,2024-12,48,Operacional,7,6,93.21,Excelente
+2024-12-01,2024,2024-12,48,Tecnológico,2,1,98.0,Excelente
+2024-12-08,2024,2024-12,49,Seguridad,4,3,93.66,Excelente
+2024-12-08,2024,2024-12,49,Disponibilidad,2,1,90.58,Excelente
+2024-12-08,2024,2024-12,49,Cumplimiento,7,6,94.95,Excelente
+2024-12-08,2024,2024-12,49,Operacional,5,4,98.0,Excelente
+2024-12-08,2024,2024-12,49,Tecnológico,2,1,98.0,Excelente
+2024-12-15,2024,2024-12,50,Seguridad,6,5,91.55,Excelente
+2024-12-15,2024,2024-12,50,Disponibilidad,5,4,98.0,Excelente
+2024-12-15,2024,2024-12,50,Cumplimiento,2,1,98.0,Excelente
+2024-12-15,2024,2024-12,50,Operacional,6,5,91.02,Excelente
+2024-12-15,2024,2024-12,50,Tecnológico,3,2,97.08,Excelente
+2024-12-22,2024,2024-12,51,Seguridad,6,5,98.0,Excelente
+2024-12-22,2024,2024-12,51,Disponibilidad,7,6,98.0,Excelente
+2024-12-22,2024,2024-12,51,Cumplimiento,7,6,98.0,Excelente
+2024-12-22,2024,2024-12,51,Operacional,4,3,98.0,Excelente
+2024-12-22,2024,2024-12,51,Tecnológico,3,2,92.14,Excelente
+2024-12-29,2024,2024-12,52,Seguridad,7,6,95.87,Excelente
+2024-12-29,2024,2024-12,52,Disponibilidad,3,2,91.12,Excelente
+2024-12-29,2024,2024-12,52,Cumplimiento,6,5,97.32,Excelente
+2024-12-29,2024,2024-12,52,Operacional,4,3,94.0,Excelente
+2024-12-29,2024,2024-12,52,Tecnológico,5,4,96.7,Excelente
