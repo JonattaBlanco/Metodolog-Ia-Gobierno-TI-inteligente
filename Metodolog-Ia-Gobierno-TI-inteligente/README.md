@@ -242,8 +242,6 @@ Todos los scripts utilizan semillas aleatorias fijas (`random_state=42`, `np.ran
 
 El proyecto incluye exportación automática de resultados para crear un dashboard ejecutivo en Power BI. Los archivos se generan automáticamente al ejecutar los modelos predictivos.
 
-**Guía completa:** Ver `documentacion_tfm/GUIA_POWER_BI.md` para instrucciones detalladas paso a paso.
-
 **Archivos exportados:** `results/dashboard_ext/` contiene 15 archivos CSV estructurados listos para importar en Power BI.
 
 ---
