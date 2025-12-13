@@ -256,7 +256,7 @@ Este código fue desarrollado como parte del Trabajo de Fin de Máster (TFM):
 
 **Institución:** [Nombre de la Universidad]
 
-**Año:** 2024
+**Año:** 2025
 
 ---
 
@@ -268,8 +268,8 @@ Este proyecto es de uso académico y está destinado exclusivamente para fines e
 
 ## 👥 Autores
 
-- [Nombre del Estudiante]
-- [Email de contacto]
+- [Geanina Juliana Mendoza Numa]
+- [Jonattan Andrez Blanco Barón]
 
 ---
 
@@ -289,5 +289,5 @@ Para preguntas o problemas relacionados con el código, por favor abrir un issue
 
 ---
 
-**Última actualización:** Diciembre 2024
+**Última actualización:** Diciembre 2025
 
